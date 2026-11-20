@@ -1,0 +1,101 @@
+4192212
+== pod hard,hard,hard
+  ✓ pod: three bots sat down and kept their hands
+  bots: hard:Elminster | hard:GAA | hard:Blue Farm
+  ✓ pod: ran 60 turns (done) in 453 s
+  ✗ pod: Davriel (hard) took part (783 actions)
+  ✗ pod: Jaya (hard) took part (859 actions)
+  ✓ pod: Ral (hard) took part (828 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)
+== pod veryhard,veryhard,master
+  ✓ pod: three bots sat down and kept their hands
+  bots: veryhard:Elminster | veryhard:GAA | master:Blue Farm
+  ✓ pod: ran 60 turns (done) in 284 s
+  ✗ pod: Davriel (veryhard) took part (486 actions)
+  ✓ pod: Jaya (veryhard) took part (769 actions)
+  ✓ pod: Ral (master) took part (447 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)
+== pod master,master,master
+  ✓ pod: three bots sat down and kept their hands
+  bots: master:Elminster | master:GAA | master:Blue Farm
+  ✓ pod: ran 60 turns (done) in 427 s
+  ✓ pod: Davriel (master) took part (585 actions)
+  ✓ pod: Jaya (master) took part (709 actions)
+  ✓ pod: Ral (master) took part (615 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)
+== rdeck
+18/18 passed
+== r2T
+42 passed, 0 failed
+== rlobby
+6/6 passed
+== rdecks
+== r28a
+18 passed, 0 failed
+== r26a
+9 passed, 0 failed
+== r2
+24 passed, 0 failed
+== r3
+17 passed, 0 failed
+== r4
+26 passed, 0 failed
+== r5
+  ✓ Noelle takes 3 once all four passed (1189 ms)
+8 passed, 0 failed
+== r6
+13 passed, 0 failed
+== r7
+  ✗ Bolt to hand, rest on the bottom: Mountain,Grizzly Bears,Divination
+22 passed, 1 failed
+== r8
+25 passed, 0 failed
+== r9
+41 passed, 0 failed
+== r10
+21 passed, 0 failed
+== r11
+3 passed, 0 failed
+== r12
+2 passed, 0 failed
+== r13
+1 passed, 0 failed
+== r2A
+21 passed, 0 failed
+== r2B
+45 passed, 0 failed
+== r2C
+38 passed, 0 failed
+== r2C2
+69 passed, 0 failed
+== r2D
+27 passed, 0 failed
+== r2E
+47 passed, 0 failed
+== r2F
+49 passed, 0 failed
+== r2G
+41 passed, 0 failed
+== r2H
+54 passed, 0 failed
+== r2S
+62 passed, 0 failed
+== rfinal
+33/33 passed in 80s
+== rtrainer
+  ✓ pass with 4 mana and a castable creature: flagged as unused_mana — "You passed with 4 untapped mana and could have cast Test Squire."
+91 passed, 0 failed
+== rcoach
+82 passed, 0 failed

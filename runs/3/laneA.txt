@@ -1,0 +1,36 @@
+== pod hard,hard,hard
+  ✓ pod: three bots sat down and kept their hands
+  bots: hard:Elminster | hard:GAA | hard:Blue Farm
+  ✓ pod: ran 60 turns (done) in 453 s
+  ✗ pod: Davriel (hard) took part (783 actions)
+  ✗ pod: Jaya (hard) took part (859 actions)
+  ✓ pod: Ral (hard) took part (828 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)
+== pod veryhard,veryhard,master
+  ✓ pod: three bots sat down and kept their hands
+  bots: veryhard:Elminster | veryhard:GAA | master:Blue Farm
+  ✓ pod: ran 60 turns (done) in 284 s
+  ✗ pod: Davriel (veryhard) took part (486 actions)
+  ✓ pod: Jaya (veryhard) took part (769 actions)
+  ✓ pod: Ral (master) took part (447 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)
+== pod master,master,master
+  ✓ pod: three bots sat down and kept their hands
+  bots: master:Elminster | master:GAA | master:Blue Farm
+  ✓ pod: ran 60 turns (done) in 427 s
+  ✓ pod: Davriel (master) took part (585 actions)
+  ✓ pod: Jaya (master) took part (709 actions)
+  ✓ pod: Ral (master) took part (615 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)

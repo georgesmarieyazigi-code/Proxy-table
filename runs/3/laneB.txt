@@ -1,0 +1,64 @@
+== rdeck
+18/18 passed
+== r2T
+42 passed, 0 failed
+== rlobby
+6/6 passed
+== rdecks
+== r28a
+18 passed, 0 failed
+== r26a
+9 passed, 0 failed
+== r2
+24 passed, 0 failed
+== r3
+17 passed, 0 failed
+== r4
+26 passed, 0 failed
+== r5
+  ✓ Noelle takes 3 once all four passed (1189 ms)
+8 passed, 0 failed
+== r6
+13 passed, 0 failed
+== r7
+  ✗ Bolt to hand, rest on the bottom: Mountain,Grizzly Bears,Divination
+22 passed, 1 failed
+== r8
+25 passed, 0 failed
+== r9
+41 passed, 0 failed
+== r10
+21 passed, 0 failed
+== r11
+3 passed, 0 failed
+== r12
+2 passed, 0 failed
+== r13
+1 passed, 0 failed
+== r2A
+21 passed, 0 failed
+== r2B
+45 passed, 0 failed
+== r2C
+38 passed, 0 failed
+== r2C2
+69 passed, 0 failed
+== r2D
+27 passed, 0 failed
+== r2E
+47 passed, 0 failed
+== r2F
+49 passed, 0 failed
+== r2G
+41 passed, 0 failed
+== r2H
+54 passed, 0 failed
+== r2S
+62 passed, 0 failed
+== rfinal
+33/33 passed in 80s
+== rtrainer
+  ✓ pass with 4 mana and a castable creature: flagged as unused_mana — "You passed with 4 untapped mana and could have cast Test Squire."
+91 passed, 0 failed
+== rcoach
+82 passed, 0 failed

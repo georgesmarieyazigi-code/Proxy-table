@@ -1,0 +1,61 @@
++ OUT=out/game.html
++ python3 build.py
+4191386
++ cd test
++ REAL=1
++ PTFILE=out/game.html
++ PTPORT=9700
++ SHOTDIR=../out/workshop
++ timeout 900 node playtest.js
+edgar: Deck ready: 99 cards, 1 not found. (2.4s)
+  ✓ edgar loads from real Scryfall
+  video: {"on":true,"t":5.080419,"ready":4,"err":null} banner loaded: true
+  ✓ header video loads
+  ✓ header banner loads
+  deck images: 94/94
+  ✓ edgar: deck area shows real card images (94/94)
+  build search "vampire": {"n":60,"total":71}
+  ✓ Build search returns real results
+  ✓ adding from Build search works
+gaa: Deck ready: 100 cards. (2.4s)
+  ✓ gaa loads from real Scryfall
+  video: {"on":true,"t":1.342775,"ready":4,"err":null} banner loaded: true
+  deck images: 84/84
+  ✓ gaa: deck area shows real card images (84/84)
+elminster: Deck ready: 99 cards. (3.1s)
+  ✓ elminster loads from real Scryfall
+  video: {"on":true,"t":1.304198,"ready":4,"err":null} banner loaded: true
+  deck images: 92/94
+  ✓ elminster: deck area shows real card images (94/94)
+bluefarm: Deck ready: 100 cards. (3.2s)
+  ✓ bluefarm loads from real Scryfall
+  video: {"on":true,"t":1.172806,"ready":4,"err":null} banner loaded: true
+  deck images: 100/100
+  ✓ bluefarm: deck area shows real card images (100/100)
+  ✓ no page errors ()
+all passed
++ REAL=1
++ PTFILE=out/game.html
++ PTPORT=9710
++ SHOTDIR=../out/pod
++ ONLY=pod
++ timeout 1800 node rbots.js
+
+== 4-player pod, offline: scripted human + Easy + Intermediate + Intermediate (network blocked)
+  ✓ pod: the multiplayer library is blocked (no internet)
+  ✓ pod: three bots sat down and kept their hands
+  bots: easy:Elminster | intermediate:GAA | intermediate:Random Yawgmoth, Thran Physician
+  ✓ pod: the table runs on the loopback relay
+ t2 t3 t4 t5 t6 t7 t8 t9 t10 t11 t12 t13 t14 t15 t16
+  ✓ pod: ran 16 turns (done) in 57 s
+  ✓ pod: Davriel (easy) took part (85 actions)
+  ✓ pod: Jaya (intermediate) took part (97 actions)
+  ✓ pod: Ral (intermediate) took part (106 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)
+  host page JS heap ~109 MB; 3 bot frames
+
+12 passed, 0 failed

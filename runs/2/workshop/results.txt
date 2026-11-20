@@ -1,0 +1,13 @@
+PASS edgar loads from real Scryfall
+PASS header video loads
+PASS header banner loads
+PASS edgar: deck area shows real card images (95/95)
+PASS Build search returns real results
+PASS adding from Build search works
+PASS gaa loads from real Scryfall
+PASS gaa: deck area shows real card images (84/84)
+PASS elminster loads from real Scryfall
+PASS elminster: deck area shows real card images (94/94)
+PASS bluefarm loads from real Scryfall
+PASS bluefarm: deck area shows real card images (100/100)
+PASS no page errors ()

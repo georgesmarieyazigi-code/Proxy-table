@@ -1,0 +1,97 @@
+Springheart Nantuko + Tireless Provisioner | Infinite landfall triggers; Infinite tapped land tokens; +1 other prerequisite | 92938
+Springheart Nantuko + Lotus Cobra | Infinite landfall triggers; Infinite tapped land tokens; +1 other prerequisite | 89252
+Peregrin Took + Nuka-Cola Vending Machine | Infinite card draw; Infinite draw triggers; Near-infinite tapped Treasure tokens; +1 other prerequisite | 60474
+Staff of Domination + Priest of Titania | Infinite card draw; Infinite draw triggers; +5 more results; +2 other prerequisites | 36988
+Staff of Domination + Elvish Archdruid | Infinite card draw; Infinite draw triggers; +5 more results; +2 other prerequisites | 33525
+Springheart Nantuko + Nissa, Resurgent Animist | Infinite landfall triggers; Infinite tapped land tokens; +1 other prerequisite | 32653
+Staff of Domination + Marwyn, the Nurturer | Infinite card draw; Infinite draw triggers; +5 more results; +1 other prerequisite | 32237
+Shifting Woodland + Aftermath Analyst + Lotus Cobra + Sylvan Safekeeper | Infinite creature LTB; Infinite colored mana; +3 more results; +1 other prerequisite | 30121
+Scurry Oak + Ivy Lane Denizen | Infinite +1/+1 counters on a creature; Infinite creature tokens; Infinite creature ETB | 29131
+Staff of Domination + Circle of Dreams Druid | Infinite card draw; Infinite draw triggers; +5 more results; +2 other prerequisites | 28448
+Ashaya, Soul of the Wild + Quirion Ranger | Infinite creature ETB; Infinite landfall triggers; +2 more results; +1 other prerequisite | 28318
+Shifting Woodland + Aftermath Analyst + Lotus Cobra + Zuran Orb | Infinite colored mana; Infinite death triggers; +5 more results; +1 other prerequisite | 26185
+Shifting Woodland + Aftermath Analyst + Tireless Provisioner + Sylvan Safekeeper | Infinite artifact ETB; Infinite artifact LTB; +11 more results; +1 other prerequisite | 25942
+Springheart Nantuko + Doubling Season | Infinite creature ETB; Infinite creature tokens; +2 more results; +1 other prerequisite | 23534
+Glacial Chasm + Azusa, Lost but Seeking + Ramunap Excavator | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 23458
+Staff of Domination + Selvala, Heart of the Wilds | Infinite card draw; Infinite colored mana; +5 more results; +2 other prerequisites | 23451
+Shifting Woodland + Aftermath Analyst + Tireless Provisioner + Zuran Orb | Infinite artifact ETB; Infinite artifact LTB; +11 more results; +1 other prerequisite | 22796
+Glacial Chasm + Icetill Explorer | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 22751
+Umbral Mantle + Priest of Titania | Infinite green mana; Infinitely large creature until end of turn; +2 more results; +3 other prerequisites | 21994
+Glacial Chasm + Crucible of Worlds + Azusa, Lost but Seeking | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 20890
+Glacial Chasm + Ramunap Excavator + Exploration | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 20774
+Shifting Woodland + Aftermath Analyst + Spelunking + Sylvan Safekeeper | Infinite creature LTB; Infinite creature sacrifice triggers; +5 more results; +1 other prerequisite | 19843
+Glacial Chasm + Crucible of Worlds + Exploration | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 19701
+Eternal Scourge + Food Chain | Infinite colored mana that can only be spent to cast creature spells; Infinite creature ETB; +2 more results | 19277
+Umbral Mantle + Elvish Archdruid | Infinite green mana; Infinitely large creature until end of turn; +2 more results; +3 other prerequisites | 19118
+Umbral Mantle + Marwyn, the Nurturer | Infinite green mana; Infinitely large creature until end of turn; +2 more results; +2 other prerequisites | 18958
+Shifting Woodland + Aftermath Analyst + Zuran Orb + Spelunking | Infinite creature LTB; Infinite creature sacrifice triggers; +7 more results; +1 other prerequisite | 18827
+Springheart Nantuko + Parallel Lives | Infinite creature ETB; Infinite creature tokens; +2 more results; +1 other prerequisite | 18824
+Lumra, Bellow of the Woods + Springheart Nantuko + Zuran Orb + Lotus Cobra | Infinite creature LTB; Infinite creature ETB; +9 more results; +1 other prerequisite | 18591
+Glacial Chasm + Ramunap Excavator + Dryad of the Ilysian Grove | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 18108
+Glacial Chasm + Ramunap Excavator + Oracle of Mul Daya | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 17433
+Ashnod's Altar + The Great Henge | Infinite creature ETB; Infinite creature LTB; +3 more results | 17336
+Umbral Mantle + Circle of Dreams Druid | Infinite green mana; Infinitely large creature until end of turn; +2 more results; +3 other prerequisites | 17214
+Shifting Woodland + Aftermath Analyst + Nissa, Resurgent Animist + Sylvan Safekeeper | Infinite creature LTB; Infinite colored mana; +3 more results; +1 other prerequisite | 16888
+Cultivator Colossus + Abundance | Arrange your library in any order; Put all lands from your hand and library onto the battlefield; +1 other prerequisite | 16842
+Azusa, Lost but Seeking + Glacial Chasm + Life from the Loam | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 16786
+Glacial Chasm + Azusa, Lost but Seeking + Conduit of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 16703
+Shifting Woodland + Aftermath Analyst + Amulet of Vigor + Sylvan Safekeeper | Infinite creature LTB; Infinite creature sacrifice triggers; +3 more results; +1 other prerequisite | 16618
+Lumra, Bellow of the Woods + Springheart Nantuko + Zuran Orb + Tireless Provisioner | Infinite artifact ETB; Infinite artifact LTB; +15 more results; +1 other prerequisite | 16046
+Glacial Chasm + Crucible of Worlds + Dryad of the Ilysian Grove | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 16022
+Shifting Woodland + Aftermath Analyst + Zuran Orb + Amulet of Vigor | Infinite creature LTB; Infinite creature sacrifice triggers; +5 more results; +1 other prerequisite | 15705
+Glacial Chasm + Zuran Orb + Ramunap Excavator | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 15549
+Glacial Chasm + Crucible of Worlds + Oracle of Mul Daya | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 15320
+Umbral Mantle + Selvala, Heart of the Wilds | Infinite colored mana; Infinitely large creature until end of turn; +2 more results; +2 other prerequisites | 15166
+Basalt Monolith + Nyxbloom Ancient | Infinite colorless mana | 15095
+Staff of Domination + Wirewood Channeler | Infinite card draw; Infinite colored mana; +5 more results; +2 other prerequisites | 14928
+Springheart Nantuko + Dryad Arbor + Tireless Provisioner + Lotus Cobra | Infinite creature tokens; Infinite creature ETB; +3 more results; +2 other prerequisites | 14605
+Glacial Chasm + Conduit of Worlds + Exploration | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 14482
+Shifting Woodland + Aftermath Analyst + Nissa, Resurgent Animist + Zuran Orb | Infinite colored mana; Infinite death triggers; +5 more results; +1 other prerequisite | 14107
+Staff of Domination + Bloom Tender | Infinite lifegain triggers; Infinite lifegain; +5 more results; +2 other prerequisites | 14027
+Maze's End + Reshape the Earth | Win the game; +1 other prerequisite | 13330
+Glacial Chasm + Dryad of the Ilysian Grove + Conduit of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 12800
+Glacial Chasm + Conduit of Worlds + Oracle of Mul Daya | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 12752
+Phyrexian Altar + The Great Henge | Infinite creature ETB; Infinite creature LTB; +3 more results | 12522
+Herd Baloth + Ivy Lane Denizen | Infinite +1/+1 counters on a creature; Infinite creature tokens; Infinite creature ETB | 12395
+Springheart Nantuko + Nissa, Who Shakes the World | Infinite landfall triggers; Infinite tapped Forest tokens; +1 other prerequisite | 11788
+Lumra, Bellow of the Woods + Springheart Nantuko + Zuran Orb + Nissa, Resurgent Animist | Infinite creature LTB; Infinite creature ETB; +9 more results; +1 other prerequisite | 11507
+Kogla, the Titan Ape + Karametra's Acolyte | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 11306
+Ashaya, Soul of the Wild + Sylvan Safekeeper + Badgermole Cub | Infinite creature LTB; Infinite creature ETB; +3 more results | 11184
+Jumbo Cactuar + Selvala, Heart of the Wilds | Near-infinite colored mana; +1 other prerequisite | 10906
+Ashaya, Soul of the Wild + Zuran Orb + Badgermole Cub | Infinite creature LTB; Infinite creature ETB; +5 more results | 10807
+Ivy Lane Denizen + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; Infinite colorless mana | 10679
+Tyvar, the Pummeler + Devoted Druid | Infinite green mana; Infinitely large creatures you control until end of turn; +1 other prerequisite | 10382
+Glacial Chasm + Azusa, Lost but Seeking + Walk-In Closet // Forgotten Cellar | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 10077
+Nissa, Resurgent Animist + Dryad Arbor + Lotus Cobra + Springheart Nantuko | Infinite creature tokens; Infinite creature ETB; +3 more results; +2 other prerequisites | 9996
+Glacial Chasm + Exploration + Walk-In Closet // Forgotten Cellar | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 9775
+Sporemound + Life and Limb | Draw the game; Infinite creature tokens; +2 more results; +1 other prerequisite | 9460
+Shifting Woodland + Aftermath Analyst + Tiller Engine + Sylvan Safekeeper | Infinite creature LTB; Infinite creature sacrifice triggers; +3 more results; +1 other prerequisite | 9383
+Ashaya, Soul of the Wild + Lumra, Bellow of the Woods + Vesuva | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 9334
+Umbral Mantle + Wirewood Channeler | Infinite colored mana; Infinitely large creature until end of turn; +2 more results; +3 other prerequisites | 9057
+Shifting Woodland + Aftermath Analyst + Zuran Orb + Tiller Engine | Infinite creature LTB; Infinite creature sacrifice triggers; +5 more results; +1 other prerequisite | 8961
+Altar of Dementia + The Great Henge | Infinite self-mill; Infinite creature ETB; +4 more results | 8867
+Grim Monolith + Nyxbloom Ancient | Infinite colorless mana | 8715
+Maze's End + Scapeshift | Win the game; +1 other prerequisite | 8701
+Kodama of the East Tree + Tireless Provisioner + Guildless Commons | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 8606
+Nissa, Resurgent Animist + Dryad Arbor + Tireless Provisioner + Springheart Nantuko | Infinite creature tokens; Infinite creature ETB; +3 more results; +2 other prerequisites | 8516
+Kodama of the East Tree + Guildless Commons + Scute Swarm | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB | 8436
+Earthcraft + Squirrel Nest | Infinite creature ETB; Infinite tapped creature tokens; +1 other prerequisite | 8419
+Glacial Chasm + Dryad of the Ilysian Grove + Walk-In Closet // Forgotten Cellar | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 8042
+Lumra, Bellow of the Woods + Mirrorpool + Amulet of Vigor + Sylvan Safekeeper | Infinite creature ETB; Infinite death triggers; +4 more results; +1 other prerequisite | 8023
+Ashaya, Soul of the Wild + Zuran Orb + Toph, the Blind Bandit | Infinite creature LTB; Infinite creature ETB; +5 more results | 7946
+Lumra, Bellow of the Woods + Mirrorpool + Zuran Orb + Amulet of Vigor | Infinite creature ETB; Infinite death triggers; +6 more results; +1 other prerequisite | 7842
+Staff of Domination + Karametra's Acolyte | Infinite card draw; Infinite draw triggers; +5 more results; +2 other prerequisites | 7771
+Lumra, Bellow of the Woods + Mirrorpool + Spelunking + Sylvan Safekeeper | Infinite creature ETB; Infinite death triggers; +6 more results; +1 other prerequisite | 7727
+Lumra, Bellow of the Woods + Mirrorpool + Zuran Orb + Spelunking | Infinite creature ETB; Infinite death triggers; +8 more results; +1 other prerequisite | 7537
+Vigor + Hardened Scales + Walking Ballista | Infinite damage; Infinite +1/+1 counters on creatures you control; +1 other prerequisite | 7454
+Glacial Chasm + Oracle of Mul Daya + Walk-In Closet // Forgotten Cellar | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 7337
+Ashaya, Soul of the Wild + Zuran Orb + Bumi, Eclectic Earthbender | Infinite creature LTB; Infinite creature ETB; +5 more results | 7311
+Umbral Mantle + Fanatic of Rhonas | Infinite green mana; Infinitely large creature until end of turn; +2 more results; +1 other prerequisite | 7296
+Staff of Domination + Kami of Whispered Hopes | Infinite card draw; Infinite colored mana; +5 more results; +1 other prerequisite | 7285
+Lotus Field + Echoing Deeps + Aftermath Analyst + Shifting Woodland + Spelunking | Infinite colored mana; Infinite mana lands you control can produce; +3 more results; +1 other prerequisite | 7198
+Springbloom Druid + Springheart Nantuko + Spelunking | Near-infinite creature ETB; Near-infinite creature tokens; +2 more results; +2 other prerequisites | 7158
+Springheart Nantuko + Primal Vigor | Infinite creature ETB; Infinite creature tokens; +2 more results; +1 other prerequisite | 7011
+Temur Sabertooth + Nyxbloom Ancient | Infinite blinking of most creatures; Infinite creature ETB; +3 more results | 7002
+Staff of Domination + Gyre Sage | Infinite card draw; Infinite draw triggers; +5 more results; +1 other prerequisite | 6977
+Ashaya, Soul of the Wild + Zuran Orb + Earthbending Student | Infinite creature LTB; Infinite creature ETB; +5 more results | 6582
+Ashaya, Soul of the Wild + Scryb Ranger + Priest of Titania | Infinite creature ETB; Infinite green mana; +3 more results; +1 other prerequisite | 6572

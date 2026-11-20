@@ -1,0 +1,42 @@
+Mister Fantastic, Reed Richards + The Thing, Ben Grimm + Invisible Woman, Sue Storm + Human Torch, Johnny Storm | Infinite card draw; Infinite draw triggers; +4 more results; +1 other prerequisite | 3460
+Kodama of the East Tree + Felidar Retreat + Izzet Boilerworks | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2105
+Kodama of the East Tree + Azorius Chancery + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2080
+Retreat to Coralhelm + Llanowar Scout + Boros Garrison | Infinite landfall triggers | 1144
+Retreat to Coralhelm + Sakura-Tribe Scout + Boros Garrison | Infinite landfall triggers | 1131
+Ioreth of the Healing House + Samut, Voice of Dissent + Selvala, Heart of the Wilds | Infinite colored mana; Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 969
+Selvala, Heart of the Wilds + Emiel the Blessed + Dynaheir, Invoker Adept | Infinite creature LTB; Infinite creature ETB; +2 more results | 876
+Kodama of the East Tree + Emeria Angel + Izzet Boilerworks | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 854
+Retreat to Coralhelm + Scaled Herbalist + Boros Garrison | Infinite landfall triggers | 776
+Kodama of the East Tree + Selesnya Sanctuary + Dragonback Assault | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 746
+Retreat to Coralhelm + Skyshroud Ranger + Boros Garrison | Infinite landfall triggers | 624
+Kodama of the East Tree + Azorius Chancery + Dragonback Assault | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 489
+Double Major + Vadrok, Apex of Thunder | Cast a subset of spells in your graveyard; Infinite magecraft triggers; Infinite storm count; +1 other prerequisite | 485
+Kodama of the East Tree + Boros Garrison + Dragonback Assault | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 452
+Cloud of Faeries + Emiel the Blessed + Zirda, the Dawnwaker | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 385
+Appa, Steadfast Guardian + Temur Battlecrier + Aang, Swift Savior | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 278
+Selvala, Heart of the Wilds + Emiel the Blessed + Maelstrom Wanderer | Infinite creature LTB; Infinite creature ETB; +2 more results | 237
+Omnath, Locus of Creation + Ancient Greenwarden + Ashaya, Soul of the Wild + Deadeye Navigator | Infinite card draw; Infinite creature ETB; +7 more results; +1 other prerequisite | 225
+Ioreth of the Healing House + Samut, Voice of Dissent + Gwenna, Eyes of Gaea | Infinite mana legendary creatures you control can produce; Infinite untap of legendary creatures you control | 223
+Selvala, Heart of the Wilds + Emiel the Blessed + Frostcliff Siege | Infinite creature LTB; Infinite creature ETB; +2 more results | 217
+Monk Gyatso + Lightning Greaves + Temur Battlecrier | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +2 other prerequisites | 217
+Retreat to Coralhelm + Budoka Gardener + Boros Garrison | Infinite landfall triggers; +1 other prerequisite | 214
+Redshift, Rocketeer Chief + High Alert | Infinite untap of creatures you control; Infinite mana creatures you control can produce; Infinite colored mana that can only be spent to activate abilities; +2 other prerequisites | 211
+Kodama of the East Tree + Retreat to Emeria + Izzet Boilerworks | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 211
+Appa, Steadfast Guardian + Temur Battlecrier + Aang, Airbending Master | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 173
+Cloud of Faeries + Emiel the Blessed + Agatha of the Vile Cauldron | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 169
+Mister Fantastic + Unstoppable Plan | Infinite mana nonland permanents you control can produce; Infinite untap of nonland permanents you control; +1 other prerequisite | 157
+Patron of the Moon + Tireless Provisioner + Boros Garrison | Infinite landfall triggers | 157
+Appa, Steadfast Guardian + Temur Battlecrier + Aang, the Last Airbender | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 149
+Kodama of the East Tree + Spark Double + Boros Garrison | Infinite landfall triggers | 149
+Patron of the Moon + Lotus Cobra + Boros Garrison | Infinite landfall triggers | 140
+Vivi Ornitier + Emiel the Blessed | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 136
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Tireless Provisioner + Boros Garrison | Infinite landfall triggers | 132
+Path of Annihilation + Eldrazi Displacer + Drowner of Hope + Nahiri's Resolve | Infinite creature ETB; Infinite creature LTB; +7 more results | 123
+Miirym, Sentinel Wyrm + Changeling Hero | Infinite creature ETB; Infinite creature LTB | 120
+Omnath, Locus of Creation + Ghostly Flicker + Mystic Sanctuary + Ashaya, Soul of the Wild | Infinite blue mana; Infinite draw triggers; +10 more results; +1 other prerequisite | 119
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Lotus Cobra + Boros Garrison | Infinite landfall triggers | 111
+Inspirit, Flagship Vessel + Magistrate's Scepter + Doubling Season | Infinite turns; Lock; +1 other prerequisite | 110
+Appa, Steadfast Guardian + Temur Battlecrier + Appa, Loyal Sky Bison | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 107
+Aang, Airbending Master + Aang, the Last Airbender + Temur Battlecrier | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +1 other prerequisite | 106
+Path of Annihilation + Eldrazi Displacer + Drowner of Hope + Temur Ascendancy | Infinite creature LTB; Infinite creature ETB; +7 more results | 106
+The Chain Veil + Xenagos, the Reveler + Teferi, Who Slows the Sunset | Infinite red mana; Infinite creature tokens; +14 more results; +1 other prerequisite | 105

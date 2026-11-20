@@ -1,0 +1,20 @@
+Miirym, Sentinel Wyrm + Bladewing the Risen + Terror of the Peaks | Infinite creature LTB; Infinite creature ETB; +3 more results | 14637
+Bladewing the Risen + Moritte of the Frost | Infinite death triggers; Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 1179
+Miirym, Sentinel Wyrm + Bladewing the Risen + Warstorm Surge | Infinite creature LTB; Infinite creature ETB; +3 more results | 1028
+Kodama of the East Tree + Dimir Aqueduct + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 296
+Retreat to Coralhelm + Sakura-Tribe Scout + Rakdos Carnarium | Infinite landfall triggers | 275
+Retreat to Coralhelm + Llanowar Scout + Rakdos Carnarium | Infinite landfall triggers | 268
+Retreat to Coralhelm + Scaled Herbalist + Rakdos Carnarium | Infinite landfall triggers | 231
+Retreat to Coralhelm + Skyshroud Ranger + Rakdos Carnarium | Infinite landfall triggers | 228
+Miirym, Sentinel Wyrm + Bladewing the Risen + Phyrexian Altar | Infinite colored mana; Infinite creature tokens; +6 more results | 168
+Miirym, Sentinel Wyrm + Bladewing the Risen + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results | 164
+Displacer Kitten + Storm-Kiln Artist + Lluwen, Exchange Student | Infinite artifact ETB; Infinite artifact LTB; +5 more results | 148
+Kodama of the East Tree + Golgari Rot Farm + Dragonback Assault | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 130
+Hearthhull, the Worldseed + Retreat to Coralhelm + Icetill Explorer | Infinite card draw; Infinite draw triggers; +2 more results; +2 other prerequisites | 129
+Underworld Breach + Squandered Resources + Splendid Reclamation + Windfall | Infinite draw triggers for all players; Infinite looting for all players; +4 more results; +1 other prerequisite | 121
+Retreat to Coralhelm + Budoka Gardener + Rakdos Carnarium | Infinite landfall triggers; +1 other prerequisite | 120
+Patron of the Moon + Rakdos Carnarium + Tireless Provisioner | Infinite landfall triggers | 114
+Hearthhull, the Worldseed + Retreat to Coralhelm + Ramunap Excavator | Infinite card draw; Infinite draw triggers; +2 more results; +2 other prerequisites | 109
+Hearthhull, the Worldseed + Retreat to Coralhelm + Conduit of Worlds | Infinite card draw; Infinite draw triggers; +2 more results; +2 other prerequisites | 105
+Wight of the Reliquary + Omnath, Locus of Rage + Retreat to Coralhelm | Near-infinite damage; Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 104
+Hearthhull, the Worldseed + Retreat to Coralhelm + Ancient Greenwarden | Infinite card draw; Infinite draw triggers; +4 more results; +2 other prerequisites | 100

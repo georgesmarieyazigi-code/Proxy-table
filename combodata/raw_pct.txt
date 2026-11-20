@@ -1,0 +1,297 @@
+#dimir
+Thassa's Oracle + Demonic Consultation | Exile your library; Win the game | 5.8%
+Thassa's Oracle + Tainted Pact | Win the game | 5.1%
+Carrion Feeder + Rooftop Storm + Gravecrawler | Infinite +1/+1 counters on a creature; Infinite creature ETB | 1.0%
+Syr Konrad, the Grim + The Mindskinner | Significant mill | 0.79%
+Mindcrank + Duskmantle Guildmage | Each opponent loses the game; Infinite mill | 0.76%
+Ashnod's Altar + Rooftop Storm + Gravecrawler | Infinite death triggers; Infinite colorless mana | 0.73%
+Grimgrin, Corpse-Born + Rooftop Storm + Gravecrawler | Infinite death triggers; Infinite +1/+1 counters on a creature | 0.70%
+Maddening Cacophony + Duskmantle Guildmage | Each opponent loses the game; Significant lifeloss | 0.61%
+Singularity Rupture + Bruvac the Grandiloquent | Infinite mill; Significant self-mill | 0.81%
+Laboratory Maniac + Demonic Consultation | Exile your library; Win the game | 0.57%
+Thassa's Oracle + Doomsday | Win the game | 0.56%
+Singularity Rupture + Riverchurn Monument | Infinite mill | 0.70%
+Maddening Cacophony + Consuming Aberration + Phenax, God of Deception | Infinite mill for target opponent; Significant mill | 0.53%
+Maha, Its Feathers Night + Toxrill, the Corrosive | Reduce the toughness of creatures opponents control to 0 on each of your turns | 0.40%
+Grimgrin, Corpse-Born + Mikaeus, the Unhallowed | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.40%
+Laboratory Maniac + Tainted Pact | Win the game | 0.37%
+Jace, Wielder of Mysteries + Demonic Consultation | Exile your library; Win the game | 0.37%
+Phyrexian Altar + Rooftop Storm + Relentless Dead | Infinite death triggers; Infinite creature ETB | 0.35%
+Rooftop Storm + Acererak the Archlich | Infinite card draw; Infinite draw triggers | 0.33%
+Phyrexian Altar + Necroduality + Relentless Dead | Infinite creature LTB; Infinite creature ETB | 0.32%
+Carrion Feeder + Poppet Stitcher + Wilhelt, the Rotcleaver | Infinite +1/+1 counters on a creature; Infinite death triggers | 0.32%
+Teferi's Ageless Insight + Peer into the Abyss | Infinite card draw; Infinite draw triggers | 0.31%
+Traumatize + Consuming Aberration + Phenax, God of Deception | Infinite mill for target opponent | 0.30%
+Jace, Wielder of Mysteries + Tainted Pact | Win the game | 0.27%
+Ashnod's Altar + Necroduality + Relentless Dead | Infinite creature LTB; Infinite creature ETB | 0.29%
+Altar of Dementia + Rooftop Storm + Gravecrawler | Infinite death triggers; Infinite self-mill | 0.27%
+Time Sieve + Thopter Assembly | Infinite turns; Lock | 0.24%
+Carrion Feeder + Rot Hulk + Necroduality | Infinite +1/+1 counters on a creature; Infinite creature tokens | 0.24%
+Teferi's Puzzle Box + Notion Thief | Lock | 0.23%
+Fleshbag Marauder + Rot Hulk + Necroduality | Each opponent sacrifices all creatures they control; Infinite creature ETB | 0.23%
+Carrion Feeder + Rooftop Storm + Liliana, Untouched by Death | Infinite +1/+1 counters on a creature; Infinite death triggers | 0.23%
+Ashnod's Altar + Poppet Stitcher + Wilhelt, the Rotcleaver | Infinite colorless mana; Infinite death triggers | 0.23%
+Ashnod's Altar + Havengul Lich | Infinite death triggers; Infinite creature ETB | 0.22%
+Phyrexian Altar + Poppet Stitcher + Wilhelt, the Rotcleaver | Infinite colored mana; Infinite death triggers | 0.22%
+Essence Flux + Emet-Selch, Unsundered | Infinite turns; Lock | 0.26%
+Emry, Lurker of the Loch + Myr Battlesphere + Time Sieve | Infinite turns; Lock | 0.21%
+Fleshbag Marauder + Rooftop Storm + Liliana, Untouched by Death | Infinite creature ETB; Infinite creature LTB | 0.20%
+Eater of the Dead + Phenax, God of Deception | Significant mill; Significant self-mill | 0.20%
+Maddening Cacophony + Sewer Nemesis + Phenax, God of Deception | Infinite mill for target opponent; Significant mill | 0.20%
+Fleet Swallower + Consuming Aberration + Phenax, God of Deception | Infinite mill for target opponent | 0.19%
+Kindred Discovery + Cryptcaller Chariot | Infinite self-discard triggers; Significant creature ETB | 0.20%
+Terisian Mindbreaker + Consuming Aberration + Phenax, God of Deception | Infinite mill for target opponent | 0.18%
+Grimgrin, Corpse-Born + Plague Belcher + Mikaeus, the Unhallowed | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.18%
+Jidoor, Aristocratic Capital + Consuming Aberration + Phenax, God of Deception | Infinite mill for target opponent | 0.23%
+Phyrexian Altar + Rot Hulk + Necroduality | Infinite colored mana; Infinite creature tokens | 0.18%
+Ashnod's Altar + Rooftop Storm + Havengul Lich | Infinite creature LTB; Infinite creature ETB | 0.17%
+Grimgrin, Corpse-Born + Rot Hulk + Necroduality | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.15%
+Ashnod's Altar + Rot Hulk + Necroduality | Infinite colorless mana; Infinite creature tokens | 0.15%
+Rite of Replication + Gray Merchant of Asphodel | Significant lifegain; Significant lifeloss | 0.15%
+Ghostly Flicker + Emet-Selch, Unsundered | Infinite turns; Lock | 0.19%
+Phyresis + Fate Unraveler + Windfall | Each opponent loses the game | 0.15%
+Ashnod's Altar + Rooftop Storm + Liliana, Untouched by Death | Infinite colorless mana; Infinite creature ETB | 0.15%
+Silver-Fur Master + Peregrine Drake + Satoru Umezawa | Infinite creature ETB; Infinite creature LTB | 0.15%
+Phyrexian Altar + Rooftop Storm + Havengul Lich | Infinite creature LTB; Infinite creature ETB | 0.15%
+Silver-Fur Master + Peregrine Drake + Thousand-Faced Shadow | Infinite creature tokens; Infinite creature ETB | 0.15%
+Maddening Cacophony + Doomsday Excruciator | Infinite mill; Significant self-mill | 0.14%
+Phyrexian Altar + Rooftop Storm + Liliana, Untouched by Death | Infinite creature ETB; Infinite creature LTB | 0.14%
+#golgari
+Pitiless Plunderer + Chatterfang, Squirrel General | Infinite artifact ETB; Infinite artifact LTB | 2.9%
+Dakmor Salvage + The Gitrog Monster | Infinite self-mill; Significant self-discard triggers | 2.5%
+Flourishing Defenses + Blowfly Infestation | Infinite creature ETB; Infinite creature LTB | 1.5%
+Experimental Confectioner + Peregrin Took | Infinite card draw; Infinite draw triggers | 1.5%
+Hapatra, Vizier of Poisons + Blowfly Infestation | Infinite death triggers; Infinite creature ETB | 1.5%
+Vorinclex, Monstrous Raider + Vraska, Betrayal's Sting | Target opponent loses the game | 1.4%
+Chatterfang, Squirrel General + Zulaport Cutthroat + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 1.2%
+Chatterfang, Squirrel General + Blood Artist + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 1.1%
+Academy Manufactor + Warren Soultrader + Chatterfang, Squirrel General | Infinite artifact ETB; Infinite artifact LTB | 1.0%
+Gilded Goose + Hazel's Brewmaster + Peregrin Took + Camellia, the Seedmiser | Infinite artifact ETB; Infinite artifact LTB | 1.0%
+Witherbloom Apprentice + Chain of Smog | Infinite lifegain; Infinite lifegain triggers | 0.95%
+Flourishing Defenses + High Perfect Morcant | Significant creature ETB; Significant creature tokens | 1.7%
+Peregrin Took + Warren Soultrader + Chatterfang, Squirrel General | Infinite artifact ETB; Infinite artifact LTB | 0.86%
+Savvy Hunter + Experimental Confectioner + Ygra, Eater of All | Infinite card draw; Significant creature ETB | 0.86%
+Peregrin Took + Chatterfang, Squirrel General + Academy Manufactor + Camellia, the Seedmiser + Ygra, Eater of All | Infinite artifact tokens; Infinite creature LTB | 0.86%
+Devoted Druid + Hazel's Brewmaster | Infinite green mana | 0.84%
+Ashnod's Altar + Peregrin Took + Camellia, the Seedmiser | Infinite creature LTB; Infinite creature ETB | 0.74%
+Bastion of Remembrance + Chatterfang, Squirrel General + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 0.73%
+Ramunap Excavator + The Gitrog Monster + Glacial Chasm | Prevent all damage that would be dealt to you; Lock | 0.73%
+Innkeeper's Talent + Vraska, Betrayal's Sting | Target opponent loses the game | 0.70%
+Squandered Resources + Aftermath Analyst + Shifting Woodland | Infinite death triggers; Infinite landfall triggers | 0.67%
+Ashnod's Altar + Camellia, the Seedmiser + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.65%
+Doubling Season + Academy Manufactor + Peregrin Took + Camellia, the Seedmiser | Infinite artifact tokens; Infinite creature ETB | 0.63%
+Nadier's Nightblade + Chatterfang, Squirrel General + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 0.62%
+Crucible of Worlds + The Gitrog Monster + Glacial Chasm | Prevent all damage that would be dealt to you; Lock | 0.62%
+Obelisk Spider + Yawgmoth, Thran Physician + Hapatra, Vizier of Poisons | Significant lifeloss; Significant lifegain triggers | 0.62%
+Exquisite Blood + Dina, Soul Steeper | Infinite lifegain triggers; Infinite lifeloss | 0.59%
+Jaheira, Friend of the Forest + Academy Manufactor + Peregrin Took + Camellia, the Seedmiser | Infinite artifact ETB; Infinite artifact LTB | 0.57%
+Sprout Swarm + Witherbloom, the Balancer | Infinite creature ETB; Infinite magecraft triggers | 1.4%
+Moldervine Reclamation + Chatterfang, Squirrel General + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 0.53%
+Ashnod's Altar + Experimental Confectioner + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.53%
+Conduit of Worlds + The Gitrog Monster + Glacial Chasm | Prevent all damage that would be dealt to you; Lock | 0.53%
+Parallel Lives + Academy Manufactor + Peregrin Took + Camellia, the Seedmiser | Infinite artifact tokens; Infinite creature ETB | 0.51%
+Phyrexian Altar + Eternal Witness + Living Death | Infinite blinking; Infinite colored mana | 0.46%
+Academy Manufactor + Hazel's Brewmaster + Pippin, Warden of Isengard | Infinite artifact tokens; Infinite tapped Food tokens | 0.45%
+Viscera Seer + Camellia, the Seedmiser + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.45%
+Peregrin Took + Cauldron Familiar + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 0.44%
+Prosperous Innkeeper + Chatterfang, Squirrel General + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 0.44%
+Gorma, the Gullet + Viscera Seer | Infinite +1/+1 counters on a creature; Infinite creature ETB | 1.1%
+Revel in Riches + Bootleggers' Stash | Win the game at the beginning of your next upkeep | 0.42%
+Viscera Seer + Experimental Confectioner + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.41%
+Revel in Riches + Old Gnawbone | Win the game at the beginning of your next upkeep | 0.40%
+Scute Swarm + Golgari Rot Farm + Kodama of the East Tree | Infinite creature tokens; Infinite landfall triggers | 0.39%
+Golgari Rot Farm + Tireless Provisioner + Kodama of the East Tree | Infinite artifact ETB; Infinite artifact LTB | 0.38%
+Walk-In Closet + The Gitrog Monster + Glacial Chasm | Prevent all damage that would be dealt to you; Lock | 0.37%
+Gorma, the Gullet + Umbral Collar Zealot | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.90%
+Mazirek, Kraul Death Priest + Basking Broodscale | Infinite colorless mana; Infinite death triggers | 0.36%
+Devoted Druid + Mikaeus, the Unhallowed | Infinite death triggers; Infinite creature ETB | 0.35%
+Bloodthirsty Conqueror + Dina, Soul Steeper | Infinite lifegain triggers; Infinite lifeloss | 0.35%
+Gilded Goose + Academy Manufactor + Gourmand's Talent + Hazel's Brewmaster | Infinite artifact ETB; Infinite artifact tokens | 0.34%
+Ashnod's Altar + Pitiless Plunderer + Cauldron Familiar + Peregrin Took | Infinite artifact ETB; Infinite artifact LTB | 0.33%
+Peregrin Took + Ninja Pizza + Camellia, the Seedmiser | Infinite artifact ETB; Infinite artifact LTB | 0.68%
+Doubling Season + Ashnod's Altar + Slimefoot, the Stowaway | Infinite damage; Infinite death triggers | 0.32%
+Quillspike + Devoted Druid | Infinitely large creature until end of turn | 0.31%
+Doubling Season + Night of the Sweets' Revenge + Peregrin Took + Camellia, the Seedmiser | Infinite creature ETB; Infinite card draw | 0.30%
+Sephiroth, Fabled SOLDIER + Chatterfang, Squirrel General + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 0.36%
+Parallel Lives + Ashnod's Altar + Slimefoot, the Stowaway | Infinite damage; Infinite death triggers | 0.29%
+Viscera Seer + Pitiless Plunderer + Cauldron Familiar + Peregrin Took | Infinite artifact ETB; Infinite artifact LTB | 0.29%
+Sakura-Tribe Elder + Tireless Provisioner + Hazel's Brewmaster | Significant landfall triggers | 0.28%
+Parallel Lives + Jaheira, Friend of the Forest + Peregrin Took + Camellia, the Seedmiser | Infinite creature ETB; Infinite card draw | 0.28%
+Doubling Season + Jaheira, Friend of the Forest + Peregrin Took + Camellia, the Seedmiser | Infinite creature ETB; Infinite card draw | 0.28%
+Cauldron of Essence + Chatterfang, Squirrel General + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB | 0.69%
+Yahenni, Undying Partisan + Gorma, the Gullet | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.69%
+Phyrexian Altar + Camellia, the Seedmiser + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.27%
+Blood Artist + Hapatra, Vizier of Poisons + Yawgmoth, Thran Physician | Significant -1/-1 counters; Destroy all creatures opponents control | 0.26%
+Grave Venerations + Hapatra, Vizier of Poisons + Yawgmoth, Thran Physician | Destroy all creatures opponents control | 0.47%
+Warden of the Grove + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.29%
+Grave Venerations + Flourishing Defenses + Yawgmoth, Thran Physician | Destroy all creatures opponents control | 0.45%
+Rampaging Baloths + Golgari Rot Farm + Kodama of the East Tree | Infinite creature tokens; Infinite creature ETB | 0.24%
+Noose Constrictor + Dakmor Salvage + The Gitrog Monster | Infinite self-mill; Significantly large creature until end of turn | 0.24%
+Field of the Dead + Golgari Rot Farm + Kodama of the East Tree | Infinite creature ETB; Infinite creature tokens | 0.24%
+Phyrexian Altar + Experimental Confectioner + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.23%
+Jumbo Cactuar + Jarad, Golgari Lich Lord | Significant lifeloss; Each opponent loses the game | 0.29%
+Gorma, the Gullet + Ashnod's Altar | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.57%
+Gorma, the Gullet + Woe Strider | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.57%
+The Great Henge + Viscera Seer | Infinite scry 1; Infinite creature ETB | 0.23%
+Viscera Seer + Ivy Lane Denizen | Infinite creature LTB; Infinite creature ETB | 0.23%
+Insidious Roots + Phyrexian Altar + Tortured Existence | Infinite creature LTB; Infinite creature ETB | 0.23%
+Putrid Imp + Dakmor Salvage + The Gitrog Monster | Infinite self-mill; Significant self-discard triggers | 0.22%
+Hapatra, Vizier of Poisons + Zulaport Cutthroat + Yawgmoth, Thran Physician | Significant -1/-1 counters; Destroy all creatures opponents control | 0.22%
+Gourmand's Talent + Academy Manufactor + Peregrin Took + Camellia, the Seedmiser | Infinite artifact ETB; Infinite artifact LTB | 0.21%
+Oblivion Crown + Dakmor Salvage + The Gitrog Monster | Infinite self-mill | 0.20%
+Parallel Lives + Night of the Sweets' Revenge + Peregrin Took + Camellia, the Seedmiser | Infinite creature ETB; Infinite card draw | 0.19%
+Jumbo Cactuar + Dina, Essence Brewer | Significant +1/+1 counters on a creature; Significant lifegain | 0.47%
+Springheart Nantuko + Golgari Rot Farm + Kodama of the East Tree | Infinite creature ETB; Infinite creature tokens | 0.19%
+Ashnod's Altar + Slimefoot, the Stowaway + Chatterfang, Squirrel General | Infinite damage; Infinite death triggers | 0.19%
+Melira, Sylvok Outcast + Viscera Seer | Infinite creature ETB; Infinite creature LTB | 0.18%
+Wall of Blood + Jarad, Golgari Lich Lord | Each opponent loses the game; Significant lifeloss | 0.18%
+Dryad of the Ilysian Grove + Golgari Rot Farm + Spelunking + Springheart Nantuko | Infinite creature ETB; Infinite black mana | 0.18%
+Warden of the Grove + Viscera Seer | Infinite creature ETB; Infinite creature LTB | 0.20%
+Viscera Seer + Dúnedain Rangers + Sméagol, Helpful Guide | Significant creature ETB; Significant landfall triggers | 0.17%
+Reyhan, Last of the Abzan + Ashnod's Altar | Infinite colorless mana; Infinite creature ETB | 0.16%
+Blood Artist + Flourishing Defenses + Yawgmoth, Thran Physician | Destroy all creatures opponents control | 0.16%
+Professor Dellian Fel + Exquisite Blood | Infinite lifegain; Infinite lifegain triggers | 0.40%
+Carrion Feeder + Camellia, the Seedmiser + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.16%
+Icetill Explorer + Golgari Rot Farm + Spelunking + Springheart Nantuko | Infinite self-mill; Infinite creature ETB | 0.21%
+Viridian Longbow + Thornbite Staff + Shelob, Child of Ungoliant | Destroy all creatures opponents control | 0.16%
+Eternal Witness + Cabal Ritual + Saw in Half | Infinite creature tokens; Infinite death triggers | 0.16%
+Carrion Feeder + Experimental Confectioner + Ygra, Eater of All | Infinite creature LTB; Infinite creature ETB | 0.15%
+Reyhan, Last of the Abzan + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB | 0.15%
+#selesnya
+Basking Broodscale + Rosie Cotton of South Lane | Infinite colorless mana; Infinite creature tokens | 1.1%
+Scurry Oak + Rosie Cotton of South Lane | Infinite creature tokens; Infinite creature ETB | 0.88%
+Swift Reconfiguration + Devoted Druid | Infinite green mana | 0.87%
+Enduring Vitality + Emiel the Blessed | Infinite creature ETB; Infinite colored mana | 0.83%
+Walking Ballista + Hardened Scales + Gatta and Luzzu | Infinite damage; Infinite +1/+1 counters on a creature | 0.99%
+Cathars' Crusade + Basking Broodscale | Infinite colorless mana; Infinite creature tokens | 0.55%
+Jumbo Cactuar + Swords to Plowshares | Significant lifegain | 0.70%
+Elesh Norn, Grand Cenobite + Kudo, King Among Bears | Destroy all creatures opponents control | 0.49%
+Cathars' Crusade + Scurry Oak | Infinite creature tokens; Infinite creature ETB | 0.44%
+Gaea's Cradle + Emiel the Blessed + Badgermole Cub | Infinite creature ETB; Infinite creature LTB | 0.72%
+Herd Baloth + Rosie Cotton of South Lane | Infinite creature tokens; Infinite creature ETB | 0.41%
+Scute Swarm + Selesnya Sanctuary + Kodama of the East Tree | Infinite creature tokens; Infinite landfall triggers | 0.37%
+Walking Ballista + Kami of Whispered Hopes + Gatta and Luzzu | Infinite damage; Infinite +1/+1 counters on a creature | 0.46%
+Sakura-Tribe Elder + Emeria Shepherd | Put all basic Plains from your library onto the battlefield | 0.35%
+Selesnya Sanctuary + Tireless Provisioner + Kodama of the East Tree | Infinite artifact ETB; Infinite artifact LTB | 0.34%
+Felidar Retreat + Selesnya Sanctuary + Kodama of the East Tree | Infinite creature tokens; Infinite creature ETB | 0.33%
+The Earth Crystal + Walking Ballista + Gatta and Luzzu | Infinite damage; Infinite +1/+1 counters on a creature | 0.42%
+Brood Monitor + Eldrazi Displacer | Infinite death triggers; Infinite creature ETB | 0.31%
+Mondrak, Glory Dominus + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens | 0.29%
+Anointed Procession + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens | 0.28%
+Walking Ballista + Branching Evolution + Gatta and Luzzu | Infinite damage; Infinite +1/+1 counters on a creature | 0.35%
+Cathars' Crusade + Herd Baloth | Infinite creature tokens; Infinite creature ETB | 0.27%
+Heliod, Sun-Crowned + Spike Feeder | Infinite lifegain; Infinite lifegain triggers | 0.27%
+Good-Fortune Unicorn + Ashnod's Altar | Infinite creature ETB; Infinite creature LTB | 0.25%
+Rampaging Baloths + Selesnya Sanctuary + Kodama of the East Tree | Infinite creature tokens; Infinite creature ETB | 0.25%
+Cryptolith Rite + Emiel the Blessed | Infinite creature ETB; Infinite colored mana | 0.25%
+Archangel of Thune + Spike Feeder | Infinite lifegain; Infinite lifegain triggers | 0.24%
+Emiel the Blessed + Village Bell-Ringer | Infinite creature ETB; Infinite creature LTB | 0.23%
+Vizier of Remedies + Devoted Druid | Infinite green mana | 0.23%
+Shielded by Faith + Siona, Captain of the Pyleas | Infinite creature tokens; Infinite creature ETB | 0.23%
+Innkeeper's Talent + Walking Ballista + Gatta and Luzzu | Infinite damage; Infinite +1/+1 counters on a creature | 0.28%
+Elspeth, Storm Slayer + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens | 0.24%
+Ozolith, the Shattered Spire + Walking Ballista + Gatta and Luzzu | Infinite damage; Infinite +1/+1 counters on a creature | 0.26%
+Cleric Class + Spike Feeder | Infinite lifegain; Infinite lifegain triggers | 0.20%
+Gaea's Cradle + Felidar Guardian + Emiel the Blessed | Infinite blinking of permanents; Infinite creature ETB | 0.19%
+Field of the Dead + Selesnya Sanctuary + Kodama of the East Tree | Infinite creature ETB; Infinite creature tokens | 0.19%
+Faeburrow Elder + Staff of Domination | Infinite lifegain triggers; Infinite lifegain | 0.18%
+Springheart Nantuko + Selesnya Sanctuary + Kodama of the East Tree | Infinite creature ETB; Infinite creature tokens | 0.17%
+Presence of Gond + Midnight Guard | Infinite creature tokens | 0.15%
+Exalted Sunborn + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens | 0.19%
+Selesnya Sanctuary + Emeria Angel + Kodama of the East Tree | Infinite creature ETB; Infinite landfall triggers | 0.14%
+Selesnya Sanctuary + Tireless Tracker + Kodama of the East Tree | Infinite artifact tokens; Infinite Clue tokens | 0.14%
+Karmic Guide + Altar of Dementia + Saffi Eriksdotter | Infinite death triggers; Infinite creature ETB | 0.14%
+Brigid, Clachan's Heart + Staff of Domination | Infinite card draw; Infinite draw triggers | 0.21%
+Essence Warden + Scurry Oak + Treebeard, Gracious Host | Infinite damage; Infinite +1/+1 counters on a creature | 0.14%
+#grixis
+Peer into the Abyss + Nekusar, the Mindrazer | Significant card draw for target opponent; Significant damage to one opponent | 1.4%
+Frantic Search + Narset's Reversal + Fire Lord Azula | Infinite self-discard triggers; Infinite draw triggers | 2.0%
+Psychosis Crawler + Kefka, Court Mage | Infinite card draw; Significant lifeloss | 1.5%
+Storm-Kiln Artist + Narset's Reversal + Fire Lord Azula | Infinite artifact ETB; Infinite artifact LTB | 1.8%
+Dualcaster Mage + Snap + Fire Lord Azula | Infinite untap of lands you control; Infinite creature ETB | 1.5%
+Mechanized Production + Obeka, Splitter of Seconds | Win the game | 0.92%
+Kefka, Court Mage + Niv-Mizzet, Parun | Significant damage; Infinite card draw | 1.1%
+Rite of Replication + Be'lakor, the Dark Master | Significant card draw; Significant damage | 0.58%
+Kefka, Court Mage + Magmakin Artillerist | Significant damage; Infinite self-discard triggers | 0.63%
+Glint-Horn Buccaneer + Kefka, Court Mage | Significant damage; Infinite self-discard triggers | 0.58%
+Frantic Search + Underworld Breach + Fire Lord Azula | Infinite draw triggers; Infinite looting | 0.74%
+Descent into Avernus + Obeka, Splitter of Seconds | Significant Treasure tokens for all players; Significant damage to all players | 0.43%
+Ruthless Technomancer + Bloodline Necromancer + Inalla, Archmage Ritualist | Infinite artifact ETB; Infinite artifact LTB | 0.41%
+Time Sieve + Edward Kenway | Infinite turns; Lock | 0.41%
+Phyresis + Nekusar, the Mindrazer + Windfall | Each opponent loses the game | 0.41%
+Kefka, Court Mage + Niv-Mizzet, the Firemind | Significant damage; Infinite card draw | 0.42%
+Inalla, Archmage Ritualist + Riptide Laboratory + Timestream Navigator | Infinite turns; Lock | 0.31%
+Razorkin Needlehead + Phyresis + Windfall | Each opponent loses the game | 0.30%
+Ashnod's Altar + Bloodline Necromancer + Inalla, Archmage Ritualist | Infinite colorless mana; Infinite creature tokens with haste | 0.26%
+Turnabout + Narset's Reversal + Fire Lord Azula | Infinite untap of permanents you control; Infinite magecraft triggers | 0.25%
+Persist + Burnt Offering + Scholar of the Ages | Infinite black mana; Infinite creature ETB | 0.19%
+Breath of Fury + Goro-Goro and Satoru | Infinite combat damage; Infinite combat phases | 0.18%
+Phyresis + Echo of Eons + Nekusar, the Mindrazer | Each opponent loses the game | 0.17%
+Strionic Resonator + Gonti's Aether Heart + Mishra, Eminent One | Infinite turns; Lock | 0.17%
+Nekusar, the Mindrazer + Tainted Strike + Windfall | Each opponent loses the game | 0.17%
+Time Sieve + Hoard Hauler | Infinite turns; Lock | 0.16%
+Shallow Grave + Burnt Offering + Scholar of the Ages | Infinite creature sacrifice triggers; Infinite black mana | 0.16%
+Obeka, Brute Chronologist + Final Fortune + Isochron Scepter | Infinite turns; Lock | 0.16%
+Feast of Sanity + Kefka, Court Mage | Significant damage; Infinite self-discard triggers | 0.16%
+Lord Xander, the Collector + Bruvac the Grandiloquent | Infinite mill for target opponent | 0.15%
+Brudiclad, Telchor Engineer + Gonti's Aether Heart + Mishra, Eminent One | Infinite turns; Lock | 0.15%
+Dark Ritual + Saw in Half + Cormela, Glamour Thief | Infinite black mana | 0.15%
+Ichormoon Gauntlet + Jace, Cunning Castaway + Nicol Bolas, Dragon-God | Infinite planeswalker activations | 0.15%
+Lithoform Engine + Gonti's Aether Heart + Mishra, Eminent One | Infinite creature ETB; Infinite creature tokens | 0.14%
+Conspiracy + Wick, the Whorled Mind | Each opponent loses the game | 0.14%
+Phyresis + Echo of Eons + Razorkin Needlehead | Each opponent loses the game | 0.14%
+Deceptive Frostkite + Bladewing the Risen | Infinite creature LTB; Infinite creature ETB | 0.14%
+#jeskai
+Lightning Runner + Satya, Aetherflux Genius | Infinite creature LTB; Infinite creature ETB | 1.3%
+Izzet Generatorium + Gonti's Aether Heart + Automated Assembly Line | Infinite creature tokens; Infinite creature ETB | 0.85%
+Magistrate's Scepter + Kilo, Apogee Mind + Inspirit, Flagship Vessel | Infinite turns; Lock | 1.0%
+Aether Refinery + Izzet Generatorium + Guide of Souls + Whirler Virtuoso | Infinite creature ETB; Infinite lifegain triggers | 0.72%
+Freed from the Real + Pentad Prism + Kilo, Apogee Mind | Infinite proliferate | 0.90%
+Windfall + Underworld Breach + Smothering Tithe | Infinite draw triggers for all players; Infinite looting for all players | 0.69%
+Freed from the Real + Crystalline Crawler + Kilo, Apogee Mind | Infinite proliferate | 0.89%
+Izzet Generatorium + Sphinx of the Revelation + Guide of Souls + Whirler Virtuoso | Infinite creature ETB; Infinite lifegain triggers | 0.68%
+Izzet Generatorium + Decoction Module + Aethergeode Miner | Infinite creature LTB; Infinite creature ETB | 0.64%
+Relic of Legends + Freed from the Real + Kilo, Apogee Mind | Infinite proliferate | 0.81%
+Aether Refinery + Sphinx of the Revelation + Guide of Souls + Whirler Virtuoso | Infinite creature ETB; Infinite lifegain triggers | 0.60%
+Izzet Generatorium + Aetherstorm Roc + Aethergeode Miner | Infinite creature LTB; Infinite creature ETB | 0.58%
+Paradise Mantle + Freed from the Real + Kilo, Apogee Mind | Infinite proliferate | 0.72%
+Coretapper + Magistrate's Scepter + Inspirit, Flagship Vessel | Infinite turns; Lock | 0.67%
+Izzet Generatorium + Guide of Souls + Aethergeode Miner | Infinite creature LTB; Infinite creature ETB | 0.48%
+Izzet Generatorium + Sphinx of the Revelation + Guide of Souls + Automated Assembly Line | Infinite creature ETB; Infinite lifegain triggers | 0.47%
+Pentad Prism + Aura of Dominion + Kilo, Apogee Mind | Infinite proliferate | 0.58%
+Pemmin's Aura + Pentad Prism + Kilo, Apogee Mind | Infinite proliferate | 0.58%
+Aether Refinery + Sphinx of the Revelation + Guide of Souls + Automated Assembly Line | Infinite creature ETB; Infinite lifegain triggers | 0.43%
+Relic of Legends + Pemmin's Aura + Kilo, Apogee Mind | Infinite proliferate | 0.56%
+Freed from the Real + Magistrate's Scepter + Kilo, Apogee Mind | Infinite turns; Lock | 0.56%
+Pemmin's Aura + Crystalline Crawler + Kilo, Apogee Mind | Infinite proliferate | 0.56%
+Crystalline Crawler + Aura of Dominion + Kilo, Apogee Mind | Infinite proliferate | 0.54%
+Spark Double + Pramikon, Sky Rampart | Creatures can't attack; Lock | 0.42%
+Paradise Mantle + Pemmin's Aura + Kilo, Apogee Mind | Infinite proliferate | 0.53%
+Chronomantic Escape + The Tenth Doctor | You can't be attacked; Lock | 0.39%
+Transcendence + Zedruu the Greathearted | Each opponent with 20 or more life loses the game | 0.39%
+Decoction Module + Aethergeode Miner + Cayth, Famed Mechanist | Infinite creature LTB; Infinite creature ETB | 0.33%
+Gonti's Aether Heart + Aethergeode Miner + Cayth, Famed Mechanist | Infinite creature LTB; Infinite creature ETB | 0.32%
+Aetherstorm Roc + Aethergeode Miner + Cayth, Famed Mechanist | Infinite creature LTB; Infinite creature ETB | 0.31%
+Jeskai Ascendancy + Frantic Search + Underworld Breach | Infinite draw triggers; Infinite looting | 0.29%
+Pemmin's Aura + Magistrate's Scepter + Kilo, Apogee Mind | Infinite turns; Lock | 0.37%
+Reality Spasm + Soulfire Grand Master + Hinata, Dawn-Crowned | Infinite untap of permanents you control; Infinite magecraft triggers | 0.28%
+Reality Spasm + Voracious Bibliophile + Hinata, Dawn-Crowned | Significant card draw; Significant draw triggers | 0.31%
+Port Razer + Satya, Aetherflux Genius | Infinite combat damage; Infinite combat phases | 0.26%
+Elsha of the Infinite + Kykar, Wind's Fury + Sensei's Divining Top | Infinite card draw; Infinite draw triggers | 0.23%
+Elsha of the Infinite + Birgi, God of Storytelling + Sensei's Divining Top | Infinite card draw; Infinite draw triggers | 0.22%
+Guide of Souls + Aethergeode Miner + Cayth, Famed Mechanist | Infinite creature LTB; Infinite creature ETB | 0.22%
+Felidar Guardian + Saheeli Rai | Infinite creature tokens with haste; Infinite creature ETB | 0.20%
+Helm of Awakening + Elsha of the Infinite + Sensei's Divining Top | Infinite card draw; Significant storm count | 0.19%
+Cayth, Famed Mechanist + Ashnod's Altar | Infinite colorless mana; Infinite death triggers | 0.19%
+Blasphemous Act + Soulfire Grand Master | Significant lifegain; Significant damage to creatures | 0.18%
+Kykar, Wind's Fury + Sensei's Divining Top + Birgi, God of Storytelling | Significant death triggers; Significant draw triggers | 0.17%
+Éowyn, Shieldmaiden + Breath of Fury | Infinite card draw; Infinite draw triggers | 0.17%
+Pyrohemia + Amulet of Vigor + Sonic the Hedgehog | Significant artifact ETB; Significant artifact LTB | 0.22%
+Sage of Hours + Kratos, Stoic Father | Infinite turns; Lock | 0.24%
+Zirda, the Dawnwaker + Smothering Tithe + Faerie Mastermind | Infinite card draw for all players | 0.16%
+Goldspan Dragon + Smothering Tithe + Faerie Mastermind | Infinite card draw for all players | 0.16%
+Jeska's Will + Soulfire Grand Master | Exile your library; Infinite magecraft triggers | 0.16%
+Retraction Helix + Jeskai Ascendancy | Infinite looting; Infinite mana creatures you control can produce | 0.16%
+Aurelia, the Warleader + Brago, King Eternal | Infinite blinking; Infinite combat damage | 0.15%
+Brago, King Eternal + Port Razer | Infinite blinking of nonland permanents; Infinite combat damage | 0.14%
+Emeritus of Truce + Storm-Kiln Artist + Displacer Kitten | Infinite artifact ETB; Infinite artifact LTB | 0.26%

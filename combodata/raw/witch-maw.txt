@@ -1,0 +1,100 @@
+Atraxa, Praetors' Voice + Magistrate's Scepter + Contagion Engine | Infinite turns; Lock; +1 other prerequisite | 1746
+Aminatou, the Fateshifter + Ichormoon Gauntlet + Doubling Season + Ugin, the Spirit Dragon | Infinite turns; Lock; +1 other prerequisite | 1274
+Aminatou, the Fateshifter + Ichormoon Gauntlet + Vorinclex, Monstrous Raider + Ugin, the Spirit Dragon | Infinite turns; Lock; +1 other prerequisite | 1094
+Aminatou, the Fateshifter + Ichormoon Gauntlet + Doubling Season + Liliana, Dreadhorde General | Infinite turns; Lock; +1 other prerequisite | 974
+Aminatou, the Fateshifter + Ichormoon Gauntlet + Vorinclex, Monstrous Raider + Liliana, Dreadhorde General | Infinite turns; Lock; +1 other prerequisite | 767
+Crystalline Crawler + Simic Ascendancy + Corpsejack Menace + Conclave Mentor | Infinite +1/+1 counters on creatures you control; Infinite colored mana; Win the game at the beginning of your next upkeep | 533
+Kodama of the East Tree + Simic Growth Chamber + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 423
+Lae'zel, Vlaakith's Champion + Jace, Cunning Castaway + Carth the Lion | Infinite creature tokens; Infinite creature ETB; Infinite copies of a specific planeswalker | 351
+Retreat to Coralhelm + Sakura-Tribe Scout + Orzhov Basilica | Infinite landfall triggers | 278
+Kodama of the East Tree + Felidar Retreat + Dimir Aqueduct | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 275
+Retreat to Coralhelm + Llanowar Scout + Orzhov Basilica | Infinite landfall triggers | 268
+Crystalline Crawler + Simic Ascendancy + Corpsejack Menace + Lae'zel, Vlaakith's Champion | Infinite +1/+1 counters on creatures you control; Infinite colored mana; Win the game at the beginning of your next upkeep | 264
+Magosi, the Waterveil + Nesting Grounds + Atraxa, Praetors' Voice | Infinite turns; Lock; +1 other prerequisite | 247
+Retreat to Coralhelm + Scaled Herbalist + Orzhov Basilica | Infinite landfall triggers | 234
+Retreat to Coralhelm + Skyshroud Ranger + Orzhov Basilica | Infinite landfall triggers | 225
+Kodama of the East Tree + Azorius Chancery + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 221
+Kodama of the East Tree + Dimir Aqueduct + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 210
+Carth the Lion + Wrenn and Realmbreaker + Lotus Petal + Oath of Teferi | Cast all permanent cards in your graveyard; Infinite colored mana; Infinite storm count; +1 other prerequisite | 186
+Kaya the Inexorable + Karn's Temporal Sundering + Doubling Season | Infinite turns; Lock; +1 other prerequisite | 170
+Kaya the Inexorable + Karn's Temporal Sundering + Vorinclex, Monstrous Raider | Infinite turns; Lock; +1 other prerequisite | 169
+Wight of the Reliquary + Retreat to Coralhelm + The Necrobloom | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 149
+Wight of the Reliquary + Retreat to Coralhelm + Felidar Retreat | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 119
+Retreat to Coralhelm + Budoka Gardener + Orzhov Basilica | Infinite landfall triggers; +1 other prerequisite | 116
+Kodama of the East Tree + Emeria Angel + Dimir Aqueduct | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 114
+Patron of the Moon + Orzhov Basilica + Tireless Provisioner | Infinite landfall triggers | 113
+Patron of the Moon + Lotus Cobra + Orzhov Basilica | Infinite landfall triggers | 88
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Orzhov Basilica + Tireless Provisioner | Infinite landfall triggers | 82
+Moritte of the Frost + Eirdu, Carrier of Dawn | Infinite creature ETB; Infinite creature LTB; Infinite death triggers | 77
+Marneus Calgar + Ashnod's Altar + Doubling Season | Infinite card draw; Infinite draw triggers; +6 more results | 73
+Aminatou, the Fateshifter + Ichormoon Gauntlet + Doubling Season + Kiora, Behemoth Beckoner | Infinite turns; Lock; +1 other prerequisite | 72
+Marneus Calgar + Ashnod's Altar + Chatterfang, Squirrel General | Infinite card draw; Infinite draw triggers; +6 more results | 70
+Marneus Calgar + Ashnod's Altar + Parallel Lives | Infinite card draw; Infinite draw triggers; +6 more results | 64
+Aminatou, the Fateshifter + Ichormoon Gauntlet + Vorinclex, Monstrous Raider + Kiora, Behemoth Beckoner | Infinite turns; Lock; +1 other prerequisite | 64
+Marneus Calgar + Ashnod's Altar + Adrix and Nev, Twincasters | Infinite card draw; Infinite draw triggers; +6 more results | 59
+Atraxa, Praetors' Voice + Myojin of Towering Might + Sage of Hours | Infinite turns; Lock; +1 other prerequisite | 59
+Wight of the Reliquary + Retreat to Coralhelm + Emeria Angel | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 58
+Patron of the Moon + Spelunking + Orzhov Basilica | Infinite black mana; Infinite landfall triggers; +3 more results | 57
+Kodama of the East Tree + Dimir Aqueduct + Retreat to Emeria | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 53
+Kaya the Inexorable + Karn's Temporal Sundering + Innkeeper's Talent | Infinite turns; Lock; +1 other prerequisite | 52
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Lotus Cobra + Orzhov Basilica | Infinite landfall triggers | 50
+Bartolomé del Presidio + Master Biomancer | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 48
+Escape Protocol + Fluctuator + Bone Miser + Eternal Witness + Irrigated Farmland | Infinite black mana; Infinite card draw; +2 more results | 47
+Yahenni, Undying Partisan + Yuna, Grand Summoner | Infinite creature ETB; Infinite creature LTB; +2 more results; +1 other prerequisite | 45
+Escape Protocol + Fluctuator + Bone Miser + Eternal Witness + Scattered Groves | Infinite black mana; Infinite card draw; +2 more results | 45
+Aminatou, the Fateshifter + Teferi, Master of Time + Ajani, the Greathearted + Contagion Engine | Infinite turns; Lock; +1 other prerequisite | 44
+Derevi, Empyrial Tactician + Emiel the Blessed + Cabal Coffers | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 40
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Spelunking + Orzhov Basilica | Infinite black mana; Infinite landfall triggers; +3 more results | 38
+Carrion Feeder + Yuna, Grand Summoner | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results; +1 other prerequisite | 31
+Escape Protocol + Fluctuator + Bone Miser + Eternal Witness + Drifting Meadow | Infinite black mana; Infinite card draw; +2 more results | 31
+Ghave, Guru of Spores + Ashnod's Altar + Adrix and Nev, Twincasters | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 30
+Marneus Calgar + Ashnod's Altar + Primal Vigor | Infinite card draw; Infinite draw triggers; +6 more results | 29
+Kodama of the East Tree + Oboro, Palace in the Clouds + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers | 28
+Llanowar Scout + Orzhov Basilica + Elven Raft-Steerer | Infinite landfall triggers | 26
+Primal Prayers + Guide of Souls + Cavern Harpy | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 25
+Scaled Herbalist + Orzhov Basilica + Elven Raft-Steerer | Infinite landfall triggers | 23
+Wight of the Reliquary + Retreat to Coralhelm + Retreat to Emeria | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 22
+Aethergeode Miner + Guide of Souls + Yarok, the Desecrated | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 22
+Aethergeode Miner + Decoction Module + Yarok, the Desecrated | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 22
+Bartolomé del Presidio + Yuna, Grand Summoner | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results; +1 other prerequisite | 21
+Sakura-Tribe Scout + Orzhov Basilica + Elven Raft-Steerer | Infinite landfall triggers | 21
+Patron of the Moon + Nissa, Resurgent Animist + Orzhov Basilica | Infinite landfall triggers | 20
+Aethergeode Miner + Aetherstorm Roc + Yarok, the Desecrated | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 20
+Aftermath Analyst + Takenuma, Abandoned Mire + Squandered Resources + Azorius Chancery | Infinite colored mana; Infinite creature ETB; +7 more results; +1 other prerequisite | 19
+Viscera Seer + Yuna, Grand Summoner | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 19
+Automated Assembly Line + Gonti's Aether Heart + Yarok, the Desecrated | Infinite creature ETB; Infinite creature tokens; Infinite energy counters; +1 other prerequisite | 19
+Ratadrabik of Urborg + Adrix and Nev, Twincasters + Blade of Selves | Near-infinite creature tokens; Near-infinite creature ETB; +1 other prerequisite | 19
+Kodama of the East Tree + Maja, Bretagard Protector + Dimir Aqueduct | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 19
+Skyshroud Ranger + Orzhov Basilica + Elven Raft-Steerer | Infinite landfall triggers | 18
+Escape Protocol + Fluctuator + Bone Miser + Tilling Treefolk + Irrigated Farmland | Infinite black mana; Infinite card draw; +2 more results | 18
+Myrkul, Lord of Bones + Astral Dragon | Infinite copies of all noncreature permanents; Infinite creature tokens; +2 more results; +1 other prerequisite | 17
+Escape Protocol + Fluctuator + Bone Miser + Tilling Treefolk + Scattered Groves | Infinite black mana; Infinite card draw; +2 more results | 17
+Patron of the Moon + Stone-Seeder Hierophant + Orzhov Basilica | Infinite black mana; Infinite white mana; Infinite landfall triggers | 16
+Patron of the Moon + Orzhov Basilica + Horizon Explorer | Infinite black mana; Infinite landfall triggers; Infinite white mana | 15
+Wight of the Reliquary + Intruder Alarm + The Necrobloom | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 15
+Murasa Rootgrazer + Retreat to Coralhelm + Yarok, the Desecrated | Infinite colored mana; Infinite landfall triggers; +1 other prerequisite | 15
+Ghave, Guru of Spores + Pitiless Plunderer + Adrix and Nev, Twincasters | Infinite creature tokens; Infinite death triggers; +3 more results; +1 other prerequisite | 14
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Selesnya Sanctuary + Archelos, Lagoon Mystic | Infinite green mana; Infinite landfall triggers; Infinite white mana | 14
+Patron of the Moon + Selesnya Sanctuary + Archelos, Lagoon Mystic | Infinite green mana; Infinite landfall triggers; Infinite white mana | 14
+Patron of the Moon + Azorius Chancery + Archelos, Lagoon Mystic | Infinite blue mana; Infinite landfall triggers; Infinite white mana | 14
+Springheart Nantuko + Selesnya Sanctuary + Dryad of the Ilysian Grove + Archelos, Lagoon Mystic | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 13
+Kodama of the East Tree + Sakashima of a Thousand Faces + Orzhov Basilica | Infinite landfall triggers | 13
+Wight of the Reliquary + Retreat to Coralhelm + Maja, Bretagard Protector | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 13
+Springheart Nantuko + Selesnya Sanctuary + Archelos, Lagoon Mystic + Oracle of Mul Daya | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 12
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Amulet of Vigor + Orzhov Basilica | Infinite black mana; Infinite landfall triggers; Infinite white mana | 12
+Ratadrabik of Urborg + Adrix and Nev, Twincasters + Legion Loyalty | Near-infinite creature tokens; Near-infinite creature ETB; +1 other prerequisite | 12
+Budoka Gardener + Orzhov Basilica + Elven Raft-Steerer | Infinite landfall triggers; +1 other prerequisite | 11
+Moritte of the Frost + Bartolomé del Presidio | Infinite +1/+1 counters on a creature; Infinite death triggers; +3 more results | 11
+Atraxa, Grand Unifier + Mind Over Matter + Deadeye Navigator | Near-infinite looting; Near-infinite self-discard triggers; +1 other prerequisite | 11
+Composer of Spring + Enchanted Evening + Golgari Rot Farm | Infinite landfall triggers | 11
+Composer of Spring + Enchanted Evening + Orzhov Basilica | Infinite landfall triggers | 11
+Peregrine Drake + Yarok, the Desecrated + Whitemane Lion | Infinite creature ETB; Infinite creature LTB; +4 more results; +1 other prerequisite | 10
+Zameck Guildmage + Bartolomé del Presidio | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 10
+Fathom Mage + Heliod, Sun-Crowned + Sheoldred, the Apocalypse | Infinite card draw; Near-infinite lifegain; +3 more results; +1 other prerequisite | 10
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Stone-Seeder Hierophant + Orzhov Basilica | Infinite landfall triggers; Infinite mana lands you control can produce; +3 more results | 10
+Emiel the Blessed + Tivit, Seller of Secrets + Doubling Season | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 10
+Kodama of the East Tree + Orzhov Basilica + Spark Double | Infinite landfall triggers | 10
+Marneus Calgar + Ashnod's Altar + Biomancer's Familiar | Infinite card draw; Infinite draw triggers; +4 more results | 10
+Patron of the Moon + Orzhov Basilica + Archelos, Lagoon Mystic | Infinite black mana; Infinite landfall triggers; Infinite white mana | 10
+Escape Protocol + Fluctuator + Bone Miser + Tilling Treefolk + Drifting Meadow | Infinite black mana; Infinite card draw; +2 more results | 10
+Fathom Mage + Archangel of Thune + Sheoldred, the Apocalypse | Infinite card draw; Near-infinite lifegain; +3 more results; +1 other prerequisite | 9

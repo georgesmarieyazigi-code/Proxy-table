@@ -1,0 +1,100 @@
+Teferi, Time Raveler + Displacer Kitten + Sol Ring | Infinite card draw; Infinite draw triggers; +2 more results | 45808
+The One Ring + Displacer Kitten + Teferi, Time Raveler | Prevent all damage that would be dealt to you; You have protection from everything; Lock | 27876
+Teferi, Time Raveler + Displacer Kitten + Mana Vault | Infinite card draw; Infinite draw triggers; +2 more results | 27459
+Approach of the Second Sun + Windfall | Win the game; +1 other prerequisite | 26780
+Approach of the Second Sun + Mystical Tutor | Win the game; +1 other prerequisite | 25184
+Teferi, Time Raveler + Displacer Kitten + Mox Opal | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 23370
+Teferi, Time Raveler + Displacer Kitten + Mox Amber | Infinite card draw; Infinite draw triggers; +2 more results | 18063
+Teferi, Master of Time + Ichormoon Gauntlet + Oath of Teferi | Infinite turns; Lock; +1 other prerequisite | 17742
+Faerie Mastermind + Smothering Tithe + Mirrormade | Near-infinite colored mana; Infinite draw triggers for all players; +2 more results; +1 other prerequisite | 16462
+Teferi, Time Raveler + Displacer Kitten + Grim Monolith | Near-infinite artifact ETB; Near-infinite artifact LTB; +4 more results | 13105
+Brago, King Eternal + Strionic Resonator | Infinite blinking of nonland permanents; Infinite creature ETB; +2 more results; +1 other prerequisite | 12393
+Approach of the Second Sun + Narset's Reversal | Win the game | 12342
+Faerie Mastermind + Smothering Tithe + Copy Enchantment | Near-infinite colored mana; Infinite draw triggers for all players; +2 more results; +1 other prerequisite | 12025
+Approach of the Second Sun + Solve the Equation | Win the game | 11187
+Teferi, Who Slows the Sunset + The Chain Veil | Infinite activations of most planeswalkers; Infinite lifegain; +2 more results; +1 other prerequisite | 11105
+Felidar Guardian + Phyrexian Metamorph | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 10024
+Faerie Mastermind + Smothering Tithe + Clever Impersonator | Near-infinite colored mana; Infinite draw triggers for all players; +2 more results; +1 other prerequisite | 9554
+Felidar Guardian + Spark Double | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 8855
+Faerie Mastermind + Smothering Tithe + Training Grounds | Infinite card draw for all players; Infinite draw triggers for all players; +3 more results; +1 other prerequisite | 8454
+Stasis + Smothering Tithe | Mass Land Denial; Players skip their untap steps; Lock | 8250
+Teferi, Master of Time + The Eternal Wanderer + Deepglow Skate | Infinite turns; Lock; +1 other prerequisite | 7954
+Secret Arcade // Dusty Parlor + Gremlin Tamer | Infinite creature ETB; Infinite creature tokens; Draw the game | 7750
+Wedding Ring + Consecrated Sphinx | Infinite card draw; Infinite card draw for opponents that control a Wedding Ring; +1 other prerequisite | 7659
+Approach of the Second Sun + Personal Tutor | Win the game; +1 other prerequisite | 7470
+Officious Interrogation + Mechanized Production | Win the game; +1 other prerequisite | 7243
+Shorikai, Genesis Engine + Intruder Alarm | Infinite self-discard triggers; Near-infinite creature ETB; +5 more results; +2 other prerequisites | 7016
+Peregrine Drake + Elesh Norn, Mother of Machines + Venser, Shaper Savant | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 6764
+Peregrine Drake + Eldrazi Displacer | Infinite creature ETB; Infinite creature LTB; +2 more results; +1 other prerequisite | 6760
+Drogskol Reaver + Shabraz, the Skyshark | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 6610
+Teferi, Time Raveler + Displacer Kitten + Basalt Monolith | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 6124
+Preston, the Vanisher + Ghostly Flicker + Felidar Guardian | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 6099
+Abdel Adrian, Gorion's Ward + Archaeomancer + Cloudshift | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 6034
+Preston, the Vanisher + Felidar Guardian + Essence Flux | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 5669
+Felidar Guardian + Glasspool Mimic | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 5567
+Lavinia, Azorius Renegade + Knowledge Pool | Counter all spells opponents cast that are created by Knowledge Pool; Exile all spells players cast from their hands; Lock | 5499
+Abdel Adrian, Gorion's Ward + Ghostly Flicker + Archaeomancer | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 5457
+Abdel Adrian, Gorion's Ward + Momentary Blink + Archaeomancer | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 5430
+Brago, King Eternal + Cyclonic Rift + Archaeomancer | Return all nonland permanents opponents control to their hand on each of your turns; Lock; +1 other prerequisite | 5388
+Abdel Adrian, Gorion's Ward + Restoration Angel + Momentary Blink | Infinite creature ETB; Infinite creature LTB; +2 more results | 5240
+Felidar Guardian + Flesh Duplicate | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 5086
+Felidar Guardian + Clever Impersonator | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 5051
+Enchanted Evening + Archon of Sun's Grace | Draw the game; Infinite creature tokens; Infinite creature ETB | 4990
+Abdel Adrian, Gorion's Ward + Restoration Angel + Ghostly Flicker | Infinite creature ETB; Infinite creature LTB; +2 more results | 4952
+Solemnity + Decree of Silence | Counter all spells opponents cast; Lock | 4880
+Abdel Adrian, Gorion's Ward + Archaeomancer + Essence Flux | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 4738
+Felidar Guardian + Spark Double + Panharmonicon | Infinite blinking; Infinite colored mana; +3 more results | 4675
+Abdel Adrian, Gorion's Ward + Ghostly Flicker + Felidar Guardian | Infinite creature ETB; Infinite creature LTB; +2 more results | 4650
+Preston, the Vanisher + Momentary Blink + Felidar Guardian | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 4534
+Abdel Adrian, Gorion's Ward + Restoration Angel + Essence Flux | Infinite creature tokens; Infinite creature ETB; +2 more results | 4460
+Ondu Spiritdancer + Enchanted Evening | Infinite creature tokens; Infinite creature ETB | 4435
+Abdel Adrian, Gorion's Ward + Momentary Blink + Felidar Guardian | Infinite creature ETB; Infinite creature LTB; +2 more results | 4386
+Abdel Adrian, Gorion's Ward + Felidar Guardian + Essence Flux | Infinite creature tokens; Infinite creature ETB; +2 more results | 4130
+Venser, Shaper Savant + Approach of the Second Sun | Win the game | 4118
+Abdel Adrian, Gorion's Ward + Deadeye Navigator | Infinite blinking; Infinite creature tokens; +4 more results; +1 other prerequisite | 4047
+Enchanted Evening + Aura Thief | Gain control of all permanents; Mass Land Denial; +1 other prerequisite | 4020
+Teferi, Time Raveler + Knowledge Pool | Exile all spells opponents cast from their hands; Lock | 3914
+Gleaming Splendor + Smothering Tithe + Bard, King of Dale | Infinite card draw for any number of players; Infinite draw triggers for any number of players; +5 more results; +1 other prerequisite | 3869
+Sakashima of a Thousand Faces + Felidar Guardian | Infinite creature ETB; Infinite creature LTB | 3854
+Sensei's Divining Top + Mystic Forge + Urza, Lord Protector | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 3814
+Energy Field + Rest in Peace | Prevent all damage that would be dealt to you by sources you don't control; Lock | 3769
+Felidar Guardian + Chameleon, Master of Disguise | Infinite creature LTB; Infinite creature ETB | 3631
+Appa, Steadfast Guardian + Urza's Incubator + Aang, Swift Savior | Infinite creature LTB; Infinite creature ETB; +2 more results | 3543
+Abdel Adrian, Gorion's Ward + Archaeomancer + Flicker of Fate | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 3502
+Urza, Prince of Kroog + Myr Battlesphere + Mechanized Production | Win the game at the beginning of your next upkeep | 3481
+The Fifth Doctor + Adric, Mathematical Genius | Infinite +1/+1 counters on certain creatures; Infinite mana creatures you control can produce except ones that attacked or entered the battlefield this turn; Infinite untap of creatures you control except ones that attacked or entered the battlefield this turn; +1 other prerequisite | 3391
+Sakashima the Impostor + Felidar Guardian | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 3373
+Mendicant Core, Guidelight + Urza, Lord High Artificer + Worldwalker Helm | Infinite blue mana; Exile your library; +3 more results; +1 other prerequisite | 3204
+Brago, King Eternal + Lithoform Engine + Sol Ring | Infinite blinking of nonland permanents; Infinite creature ETB; +2 more results; +1 other prerequisite | 3186
+Intruder Alarm + Whitemane Lion | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 2894
+Sensei's Divining Top + Urza, Lord Protector + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 2890
+Jace, Cunning Castaway + Ichormoon Gauntlet + Oath of Teferi | Infinite creature ETB; Infinite creature tokens; Infinite copies of a specific planeswalker; +1 other prerequisite | 2818
+Lavinia, Azorius Renegade + Omen Machine | All spells opponents cast using Omen Machine are countered; Players can't draw cards; Lock | 2813
+Retreat to Coralhelm + Walking Atlas + Azorius Chancery | Infinite landfall triggers | 2795
+Transcendence + Fractured Identity | Each opponent loses the game; +1 other prerequisite | 2780
+Approach of the Second Sun + Remand | Win the game; +1 other prerequisite | 2698
+Felidar Guardian + Stunt Double | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 2694
+Cloud of Faeries + Archaeomancer + Ghostly Flicker + Elesh Norn, Mother of Machines | Infinite casts of any instants and/or sorcery cards in your hand or graveyard; Infinite creature ETB; +4 more results; +1 other prerequisite | 2518
+Abdel Adrian, Gorion's Ward + Planar Incision + Archaeomancer | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 2478
+Ruin Ghost + Retreat to Coralhelm | Infinite landfall triggers; +1 other prerequisite | 2477
+Archetype of Imagination + Magus of the Moat | Opponents can't attack; Lock | 2436
+Urza, Lord High Artificer + Worldwalker Helm + Urza, Prince of Kroog | Infinite artifact tokens; Infinite creature ETB; +6 more results | 2434
+Mirror Image + Felidar Guardian | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 2266
+Felidar Guardian + Vizier of Many Faces | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 2248
+Web of Inertia + Rest in Peace | You can't be attacked; Lock | 2239
+Brago, King Eternal + Peter Parker's Camera | Infinite artifact ETB; Infinite artifact LTB; +3 more results; +1 other prerequisite | 2226
+Felidar Guardian + Clone | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 2207
+Felidar Guardian + Altar of the Brood + Spark Double | Infinite creature ETB; Infinite creature LTB; Infinite mill | 2169
+Abdel Adrian, Gorion's Ward + Planar Incision + Restoration Angel | Infinite creature ETB; Infinite creature LTB; +2 more results | 2149
+Sensei's Divining Top + One with the Multiverse + Heliod, the Radiant Dawn | Infinite card draw; Infinite draw triggers; Near-infinite storm count; +1 other prerequisite | 2127
+Zethi, Arcane Blademaster + Teferi's Protection | Permanents you control phase out during your opponents' turns; Your life total can't change during your opponents' turns; Lock | 2117
+Glorious Protector + Felidar Guardian + Ghostly Flicker | Infinite blinking of most creatures; Infinite creature ETB; Infinite creature LTB | 2070
+Naru Meha, Master Wizard + Ephemerate | Infinite creature ETB; Infinite creature LTB; Infinite magecraft triggers; +1 other prerequisite | 2060
+Retreat to Coralhelm + Azorius Chancery + PuPu UFO | Infinite landfall triggers | 2050
+Marina Vendrell's Grimoire + Shabraz, the Skyshark | Infinite card draw; Infinite draw triggers; +3 more results | 2034
+Felidar Guardian + Altar of the Brood + Phyrexian Metamorph | Infinite creature ETB; Infinite creature LTB; Infinite mill | 2021
+Mind Over Matter + Kwain, Itinerant Meddler | Infinite looting; Infinite self-discard triggers; +8 more results | 2017
+Abdel Adrian, Gorion's Ward + Archaeomancer + Displace | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 2014
+Abdel Adrian, Gorion's Ward + Blur + Archaeomancer | Infinite card draw; Near-infinite creature ETB; +6 more results; +1 other prerequisite | 1989
+Enchanted Evening + Ghostly Dancers | Infinite creature ETB; Infinite creature tokens; Draw the game | 1988
+Felidar Guardian + Naga Fleshcrafter | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 1966

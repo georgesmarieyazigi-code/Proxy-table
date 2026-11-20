@@ -1,0 +1,100 @@
+Dualcaster Mage + Saw in Half | Infinite creature tokens; Infinite creature ETB; +3 more results; +1 other prerequisite | 31839
+Razorkin Needlehead + Peer into the Abyss | Near-infinite damage to one opponent; Near-infinite draw triggers for target opponent; +2 more results | 17906
+Worldgorger Dragon + Animate Dead | Infinite death triggers; Infinite blinking of permanents; +5 more results | 15680
+Brass's Bounty + Revel in Riches | Win the game at the beginning of your next upkeep; +1 other prerequisite | 15192
+All Will Be One + Everlasting Torment | Destroy any number of creatures opponents control; Destroy any number of creatures opponents control whenever you put a counter on a permanent or player; +2 more results; +1 other prerequisite | 9300
+Goblin Bombardment + Gev, Scaled Scorch | Infinite damage; Infinite creature LTB; +3 more results; +1 other prerequisite | 8962
+Ob Nixilis, Captive Kingpin + All Will Be One | Exile your library; Infinite +1/+1 counters on a creature; Infinite damage; +1 other prerequisite | 8918
+Worldgorger Dragon + Necromancy | Infinite death triggers; Infinite blinking of permanents; +5 more results | 8916
+Demonic Pact + Harmless Offering | Target opponent loses the game at the beginning of their next upkeep; +1 other prerequisite | 8587
+Goblin Bombardment + Thran Vigil | Infinite creature ETB; Infinite creature LTB; +3 more results | 8520
+Smaug the Impenetrable + Mayhem Devil | Infinite colored mana; Infinite artifact ETB; +2 more results; +1 other prerequisite | 8393
+Saw in Half + Burnt Offering + Pinnacle Monk | Infinite creature LTB; Infinite creature ETB; +6 more results | 8120
+Birgi, God of Storytelling + Sensei's Divining Top + Prosper, Tome-Bound | Near-infinite draw triggers; Near-infinite looting; +2 more results | 7871
+Murderous Redcap + Gev, Scaled Scorch | Infinite creature LTB; Infinite creature ETB; Infinite death triggers; +1 other prerequisite | 7527
+Mahadi, Emporium Master + Revel in Riches + Ashnod's Altar | Win the game at the beginning of your next upkeep; +1 other prerequisite | 6882
+Viscera Seer + Gev, Scaled Scorch | Infinite scry 1; Infinite creature LTB; +3 more results; +1 other prerequisite | 6766
+Murderous Redcap + Metallic Mimic | Infinite creature LTB; Infinite creature ETB; Infinite death triggers; +1 other prerequisite | 6696
+Worldgorger Dragon + Dance of the Dead | Infinite death triggers; Infinite blinking of permanents; +5 more results | 6582
+Demonic Pact + Blim, Comedic Genius | Target opponent loses the game at the beginning of their next upkeep; +1 other prerequisite | 6530
+Underworld Breach + Culling the Weak + Stitcher's Supplier | Infinite self-mill; +1 other prerequisite | 6389
+Sozin's Comet + Aggravated Assault + Ozai, the Phoenix King | Infinite combat phases; Infinite red mana; +2 more results; +1 other prerequisite | 6267
+Murderous Redcap + First Day of Class | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 6097
+Heartless Hidetsugu + Wound Reflection | Each opponent with an even life total loses the game; Near-infinite damage; Near-infinite lifeloss; +1 other prerequisite | 5997
+Carrion Feeder + Uncivil Unrest | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 5718
+Havoc Festival + Wound Reflection | Each opponent loses the game; Near-infinite lifeloss | 5560
+Viscera Seer + Uncivil Unrest | Infinite creature ETB; Infinite creature LTB; +3 more results | 5523
+Storm-Kiln Artist + Chain of Smog | Infinite artifact ETB; Infinite artifact LTB; +6 more results | 5484
+Avatar Roku, Firebender + Aggravated Assault + Ozai, the Phoenix King | Infinite combat phases; Infinite red mana; +3 more results; +1 other prerequisite | 5467
+Mikaeus, the Unhallowed + Goblin Bombardment | Infinite creature ETB; Infinite creature LTB; +3 more results | 5444
+Academy Manufactor + Mirkwood Bats + There and Back Again | Near-infinite lifeloss; +1 other prerequisite | 5416
+Ashnod's Altar + Gev, Scaled Scorch | Infinite colorless mana; Infinite creature LTB; +3 more results; +1 other prerequisite | 5346
+Smaug the Impenetrable + Pyrohemia | Near-infinite damage to all players; Near-infinite damage to creatures; +3 more results | 5241
+Tree of Perdition + Soul Immolation | Near-infinite damage; Target opponent loses the game; +1 other prerequisite | 5232
+Rowan, Scion of War + Exsanguinate + Wall of Blood | Near-infinite lifegain; Near-infinite lifeloss | 5207
+Carrion Feeder + Gev, Scaled Scorch | Infinite +1/+1 counters on a creature; Infinite creature LTB; +3 more results; +1 other prerequisite | 5204
+Ob Nixilis, Captive Kingpin + Agatha's Soul Cauldron + Walking Ballista | Exile your library; Infinite damage; +1 other prerequisite | 5039
+Firebending Student + Aggravated Assault + Ozai, the Phoenix King | Infinite combat phases; Infinite red mana; +2 more results; +1 other prerequisite | 5010
+Putrid Goblin + First Day of Class + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results; +1 other prerequisite | 4975
+Smaug the Impenetrable + Pestilence | Near-infinite damage to all players; Near-infinite damage to creatures; +3 more results | 4944
+Rowan, Scion of War + Exsanguinate + Treasonous Ogre | Near-infinite lifegain; Near-infinite lifeloss; Near-infinite red mana | 4935
+Saw in Half + Culling the Weak + Pinnacle Monk | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 4916
+Rowan, Scion of War + Exsanguinate + Blood Celebrant | Near-infinite lifegain; Near-infinite lifeloss | 4787
+Ob Nixilis, Captive Kingpin + Prosper, Tome-Bound + Sensei's Divining Top + Reckless Fireweaver | Near-infinite +1/+1 counters on a creature; Near-infinite damage; +3 more results | 4721
+Yahenni, Undying Partisan + Uncivil Unrest | Infinite creature ETB; Infinite creature LTB; +2 more results | 4669
+Smaug the Impenetrable + Chain Lightning | Infinite Treasure tokens; Infinite colored mana; +5 more results | 4530
+Prosper, Tome-Bound + Professional Face-Breaker + Sensei's Divining Top + Xorn | Infinite card draw; Infinite draw triggers; Near-infinite storm count; +1 other prerequisite | 4439
+Gravecrawler + Pitiless Plunderer + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 4380
+Ob Nixilis, Captive Kingpin + Prosper, Tome-Bound + Sensei's Divining Top + Mayhem Devil | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 4373
+Forsaken Miner + Pitiless Plunderer + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results | 4362
+Mahadi, Emporium Master + Revel in Riches + Viscera Seer | Win the game at the beginning of your next upkeep; +1 other prerequisite | 4205
+Putrid Goblin + Skirk Prospector + Metallic Mimic | Infinite creature LTB; Infinite creature ETB; +3 more results; +2 other prerequisites | 4050
+Fire Covenant + Brash Taunter | Near-infinite damage to one opponent; +1 other prerequisite | 3985
+Viscera Seer + First Day of Class | Infinite creature ETB; Infinite creature LTB; +3 more results | 3911
+Conspicuous Snoop + Kiki-Jiki, Mirror Breaker + Boggart Harbinger | Infinite creature ETB; Infinite tapped creature tokens; +1 other prerequisite | 3885
+Yahenni, Undying Partisan + Gev, Scaled Scorch | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 3788
+Mahadi, Emporium Master + Revel in Riches + Phyrexian Altar | Win the game at the beginning of your next upkeep; +1 other prerequisite | 3739
+Putrid Goblin + Skirk Prospector + First Day of Class | Infinite death triggers; Infinite creature ETB; +3 more results | 3723
+Phyrexian Altar + Gev, Scaled Scorch | Infinite colored mana; Infinite creature LTB; +3 more results; +1 other prerequisite | 3600
+Asmoranomardicadaistinaculdacar + Academy Manufactor + Nuka-Cola Vending Machine | Infinite artifact ETB; Infinite artifact tokens; +5 more results; +1 other prerequisite | 3494
+Rowan, Scion of War + Exsanguinate + Necropotence | Near-infinite lifegain; Near-infinite lifeloss | 3281
+Magar of the Magic Strings + Savage Beating | Infinite combat damage; Infinite combat phases; +4 more results; +1 other prerequisite | 3236
+Orthion, Hero of Lavabrink + Gray Merchant of Asphodel | Near-infinite lifegain; Near-infinite lifeloss; +1 other prerequisite | 3203
+Zuko, Firebending Master + Aggravated Assault + Ozai, the Phoenix King | Infinite combat phases; Infinite red mana; +2 more results; +1 other prerequisite | 3179
+Rowan, Scion of War + Exsanguinate + Doom Whisperer | Near-infinite lifegain; Near-infinite lifeloss | 3117
+Rowan, Scion of War + Exsanguinate + Immolating Souleater | Near-infinite lifegain; Near-infinite lifeloss | 3081
+Bladewing the Risen + Molten Echoes | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 3080
+Animation Module + Ashnod's Altar + Juri, Master of the Revue | Infinite artifact tokens; Infinite death triggers; +7 more results; +1 other prerequisite | 3054
+First Day of Class + Murderous Redcap + Viscera Seer | Infinite death triggers; Infinite creature ETB; +4 more results | 3028
+Animation Module + Pitiless Plunderer + Evereth, Viceroy of Plunder | Infinite +1/+1 counters on a creature; Infinite artifact ETB; +7 more results; +1 other prerequisite | 2996
+Saw in Half + Sacrifice + Pinnacle Monk | Infinite creature LTB; Infinite creature ETB; +5 more results | 2950
+Putrid Goblin + First Day of Class + Viscera Seer | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 2869
+Casey Jones, Back Alley Brute + Ob Nixilis, Captive Kingpin | Exile your library with the ability to play the exiled cards until end of turn; Infinite +1/+1 counters on a creature; Infinite damage | 2838
+Heartless Hidetsugu + Archfiend of Despair | Each opponent with an even life total loses the game; Near-infinite damage to all players; Near-infinite lifeloss; +1 other prerequisite | 2830
+Rakdos, the Muscle + Forsaken Miner + Phyrexian Altar | Cast any number of spells from opponents' libraries; Exile each opponent's library; +4 more results | 2801
+Fury Storm + Sedgemoor Witch | Infinite creature tokens; Infinite magecraft triggers; +1 other prerequisite | 2638
+Judith, Carnage Connoisseur + Vito, Thorn of the Dusk Rose + Fire Covenant | Near-infinite lifeloss for target opponent | 2529
+First Day of Class + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 2488
+Kediss, Emberclaw Familiar + Tainted Strike | Each opponent loses the game; +2 other prerequisites | 2456
+Putrid Goblin + First Day of Class + Sling-Gang Lieutenant | Infinite death triggers; Infinite creature ETB; +5 more results; +1 other prerequisite | 2447
+Bladewing the Risen + Saw in Half | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 2408
+Ashnod's Altar + Dualcaster Mage + Victimize | Infinite creature ETB; Infinite creature LTB; +4 more results; +2 other prerequisites | 2385
+Murderous Redcap + Uncivil Unrest | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 2380
+Murderous Redcap + Metallic Mimic + Viscera Seer | Infinite damage; Infinite creature ETB; +3 more results; +1 other prerequisite | 2335
+Grenzo, Dungeon Warden + The Cauldron of Eternity + Ashnod's Altar | Infinite death triggers; Infinite creature ETB; +2 more results | 2295
+Judith, Carnage Connoisseur + Sanguine Bond + Fire Covenant | Near-infinite lifeloss for target opponent | 2224
+Viscera Seer + Dualcaster Mage + Victimize | Infinite creature ETB; Infinite creature LTB; +4 more results; +2 other prerequisites | 2213
+Bladewing the Risen + Cursed Mirror | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 2208
+Chthonian Nightmare + Priest of Gix + Priest of Urabrask | Infinite black mana; Infinite death triggers; +5 more results; +1 other prerequisite | 2156
+Altar of Dementia + Gev, Scaled Scorch | Infinite self-mill; Infinite creature LTB; +4 more results; +1 other prerequisite | 2113
+Grenzo, Dungeon Warden + Workhorse + Tomb Trawler | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 2053
+Grenzo, Dungeon Warden + Workhorse + Barkform Harvester | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 2044
+Putrid Goblin + Metallic Mimic + Goblin Chirurgeon | Infinite creature ETB; Infinite creature LTB; +2 more results | 2022
+Ashnod's Altar + Dualcaster Mage + Unearth | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 2016
+Blazing Sunsteel + Barbed Servitor | Infinite damage; Infinite lifeloss; +1 other prerequisite | 2014
+Grenzo, Dungeon Warden + Workhorse + The Cauldron of Eternity | Infinite creature LTB; Infinite creature ETB; +2 more results | 1980
+Bloodline Necromancer + Molten Echoes + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens with haste; +5 more results | 1965
+Underworld Breach + Stitcher's Supplier + Phyrexian Altar | Infinite self-mill; Near-infinite death triggers; +4 more results | 1915
+Rowan, Scion of War + Storm-Kiln Artist + Searing Touch | Infinite artifact ETB; Infinite artifact LTB; +3 more results; +1 other prerequisite | 1890
+Breath of Fury + Lagomos, Hand of Hatred | Infinite combat damage; Infinite combat phases; +6 more results; +1 other prerequisite | 1889
+Deathbringer Thoctar + Basilisk Collar | Destroy all creatures opponents control; Destroy each creature that enters the battlefield under an opponent's control; Lock; +1 other prerequisite | 1854

@@ -1,0 +1,100 @@
+Squee, the Immortal + Food Chain | Infinite colored mana that can only be spent to cast creature spells; Infinite creature ETB; +2 more results | 35871
+Polyraptor + Marauding Raptor | Draw the game; Infinite creature tokens; +2 more results | 24877
+Aggravated Assault + Old Gnawbone | Infinite artifact ETB; Infinite artifact LTB; +7 more results; +1 other prerequisite | 23661
+Old Gnawbone + Hellkite Charger | Infinite artifact ETB; Infinite artifact LTB; +6 more results; +1 other prerequisite | 21121
+Apex Altisaur + Wrathful Raptors + Heroic Intervention | Destroy all creatures opponents control; Near-infinite damage | 19327
+Bumi, Unleashed + Ashaya, Soul of the Wild | Infinite combat phases; Infinite mana lands you control can produce; +5 more results; +1 other prerequisite | 19185
+Goblin Bombardment + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +3 more results | 19118
+Ashnod's Altar + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +3 more results | 19103
+Savage Ventmaw + Aggravated Assault | Infinite combat damage; Infinite combat phases; +4 more results; +1 other prerequisite | 19003
+Aggravated Assault + Selvala, Heart of the Wilds | Infinite colored mana; Infinite combat phases; +2 more results; +1 other prerequisite | 18183
+Aggravated Assault + Bear Umbra | Infinite combat phases; +1 other prerequisite | 16958
+Apex Altisaur + Wrathful Raptors + Savage Order | Destroy all creatures opponents control; Near-infinite damage; +1 other prerequisite | 15560
+Kodama of the East Tree + Gruul Turf + Rampaging Baloths | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 13766
+Polyraptor + Forerunner of the Empire | Infinite creature tokens; Infinite damage to all creatures; +3 more results; +1 other prerequisite | 13646
+Aggravated Assault + Nature's Will | Infinite combat damage; Infinite combat phases; +4 more results; +1 other prerequisite | 12640
+Kodama of the East Tree + Tireless Provisioner + Gruul Turf | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 11613
+Kodama of the East Tree + Gruul Turf + Scute Swarm | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 11288
+Kodama of the East Tree + Gruul Turf + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 10589
+Phyrexian Altar + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +3 more results | 9230
+Grand Warlord Radha + Aggravated Assault | Infinite combat phases; Infinite green mana; +3 more results; +1 other prerequisite | 6499
+Sanctum Weaver + Aggravated Assault | Infinite colored mana; Infinite combat phases; +2 more results; +1 other prerequisite | 6064
+Lightning Runner + Aetherwind Basker | Infinite combat phases; Infinite energy counters; +2 more results; +1 other prerequisite | 5859
+Kodama of the East Tree + Tireless Tracker + Gruul Turf | Infinite artifact tokens; Infinite Clue tokens; Infinite landfall triggers; +1 other prerequisite | 5405
+Goblin Bombardment + The Great Henge | Infinite creature ETB; Infinite creature LTB; +3 more results | 5402
+Polyraptor + Warstorm Surge | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 5384
+Chandra's Ignition + Jumbo Cactuar | Near-infinite damage; +2 other prerequisites | 5330
+Goblin Bombardment + Grumgully, the Generous | Infinite creature ETB; Infinite creature LTB; +3 more results | 5142
+Kodama of the East Tree + Gruul Turf + Field of the Dead | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 5022
+Aggravated Assault + Kami of Whispered Hopes | Infinite colored mana; Infinite combat phases; +2 more results | 4952
+Aggravated Assault + Enduring Vitality | Infinite colored mana; Infinite combat phases; +2 more results; +1 other prerequisite | 4846
+Kodama of the East Tree + Gruul Turf + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 4685
+Polyraptor + Forerunner of the Empire + Rite of Passage | Infinite creature tokens; Infinite damage to all creatures; +5 more results; +1 other prerequisite | 4666
+Kodama of the East Tree + Gruul Turf + Zendikar's Roil | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 4510
+Altar of Dementia + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +4 more results | 4506
+Xenagos, God of Revels + Malignus + Chandra's Ignition | Near-infinite damage; Each opponent loses the game | 4066
+Aggravated Assault + Cryptolith Rite | Infinite colored mana; Infinite combat phases; +2 more results; +1 other prerequisite | 4039
+Magus of the Candelabra + Staff of Domination + Mana Flare | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 3994
+Cacophodon + Rite of Passage + Pyrohemia | Infinite damage; Near-infinite +1/+1 counters; +1 other prerequisite | 3993
+Grand Warlord Radha + Hellkite Charger | Infinite combat phases; Infinite green mana; Infinite red mana; +1 other prerequisite | 3870
+Hellkite Charger + Bear Umbra | Infinite combat phases; +1 other prerequisite | 3715
+Magus of the Candelabra + Staff of Domination + Zhur-Taa Ancient | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 3661
+Anara, Wolvid Familiar + Anzrag, the Quake-Mole | Near-infinite combat phases; Near-infinite untap of creatures you control; Near-infinite mana creatures you control can produce; +1 other prerequisite | 3660
+Springheart Nantuko + Spelunking + Gruul Turf + Dryad of the Ilysian Grove | Infinite creature tokens; Infinite landfall triggers; +5 more results; +1 other prerequisite | 3624
+Polyraptor + Goblin Bombardment | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 3566
+Glacial Chasm + Mina and Denn, Wildborn + Ramunap Excavator | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 3270
+Aerid Konstrari + Agatha of the Vile Cauldron | Infinite artifact ETB; Infinite tapped Heartwood tokens; +2 more results; +1 other prerequisite | 3127
+Springheart Nantuko + Spelunking + Gruul Turf + Oracle of Mul Daya | Infinite creature tokens; Infinite landfall triggers; +5 more results; +1 other prerequisite | 2995
+Vrondiss, Rage of Ancients + Scourge of Valkas | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2935
+Druids' Repository + Aggravated Assault | Infinite combat phases; Infinite mana creatures you control can produce; Infinite untap of creatures you control; +1 other prerequisite | 2922
+Blasting Station + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +3 more results | 2921
+Glacial Chasm + Mina and Denn, Wildborn + Crucible of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 2873
+Kiki-Jiki, Mirror Breaker + Hyrax Tower Scout | Infinite creature tokens with haste; Infinite death triggers; +3 more results | 2836
+Ashnod's Altar + Grumgully, the Generous | Infinite creature ETB; Infinite creature LTB; +3 more results | 2835
+Jolene, the Plunder Queen + Goldspan Dragon + Aggravated Assault | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 2829
+Perilous Forays + Omnath, Locus of Rage + Lotus Cobra | Near-infinite damage; Put all lands with a basic land type from your library onto the battlefield tapped; +1 other prerequisite | 2795
+Springheart Nantuko + Spelunking + Gruul Turf + Icetill Explorer | Infinite creature ETB; Infinite creature tokens; +5 more results; +1 other prerequisite | 2699
+Redshift, Rocketeer Chief + Umbral Mantle | Infinite untap of creatures you control; Infinite mana creatures you control can produce; +2 more results; +1 other prerequisite | 2691
+Anzrag, the Quake-Mole + Last Night Together | Infinite combat phases; Infinite untap of creatures you control; Infinite mana creatures you control can produce; +1 other prerequisite | 2615
+Vrondiss, Rage of Ancients + Warstorm Surge | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2573
+Aggravated Assault + Elven Chorus | Infinite colored mana; Infinite combat phases; +2 more results; +1 other prerequisite | 2551
+Thromok the Insatiable + Chandra's Ignition | Near-infinite damage; +1 other prerequisite | 2551
+Vrondiss, Rage of Ancients + Dragon Tempest | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2500
+Perilous Forays + Omnath, Locus of Rage + Tireless Provisioner | Near-infinite damage; Put all lands with a basic land type from your library onto the battlefield tapped; +1 other prerequisite | 2443
+Redshift, Rocketeer Chief + Staff of Domination | Infinite lifegain triggers; Infinite lifegain; +5 more results; +2 other prerequisites | 2440
+Springheart Nantuko + Gruul Turf + Amulet of Vigor + Dryad of the Ilysian Grove | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 2426
+Blazing Sunsteel + Polyraptor | Infinite damage; Infinite creature ETB; Infinite creature tokens; +1 other prerequisite | 2395
+Hellkite Courser + Cloudstone Curio + Food Chain | Infinite colored mana that can only be spent to cast creature spells; Infinite creature ETB; +2 more results; +1 other prerequisite | 2357
+Glacial Chasm + Mina and Denn, Wildborn + Conduit of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 2337
+Yarus, Roar of the Old Gods + Ashcloud Phoenix + Goblin Bombardment | Near-infinite damage; Near-infinite damage to all players; +4 more results; +1 other prerequisite | 2320
+Yarus, Roar of the Old Gods + Ashcloud Phoenix + Ashnod's Altar | Near-infinite colorless mana; Near-infinite damage to all players; +4 more results; +1 other prerequisite | 2136
+Fire Ants + Cacophodon + Rite of Passage | Infinite +1/+1 counters on certain creatures; Infinite damage to some creatures; +1 other prerequisite | 2113
+Hellkite Charger + Nature's Will | Infinite combat damage; Infinite combat phases; +2 more results; +1 other prerequisite | 2091
+Polyraptor + Terror of the Peaks | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 2089
+Kodama of the East Tree + Toggo, Goblin Weaponsmith + Gruul Turf | Infinite artifact tokens; Infinite landfall triggers; Infinite Rock tokens; +1 other prerequisite | 2076
+Springheart Nantuko + Gruul Turf + Horizon Explorer + Icetill Explorer | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 2044
+Redshift, Rocketeer Chief + Aggravated Assault | Infinite combat phases; Infinite untap of creatures you control; +2 more results; +2 other prerequisites | 2019
+Kodama of the East Tree + Guildless Commons + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 1980
+Vrondiss, Rage of Ancients + Terror of the Peaks | Infinite creature tokens; Infinite creature ETB; +1 other prerequisite | 1975
+Grand Warlord Radha + Hellkite Charger + Savage Ventmaw | Infinite combat phases; Infinite green mana; Infinite red mana; +1 other prerequisite | 1884
+Ivy Lane Denizen + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; Infinite damage | 1868
+Jolene, the Plunder Queen + Goldspan Dragon + Hellkite Charger | Infinite combat phases; +1 other prerequisite | 1815
+Agatha of the Vile Cauldron + Magus of the Candelabra + Umbral Mantle | Infinite power and toughness for most creatures you control until end of turn; Infinite mana lands you control can produce; +4 more results; +1 other prerequisite | 1813
+Phyrexian Altar + Grumgully, the Generous | Infinite creature ETB; Infinite creature LTB; +3 more results | 1783
+Glint-Horn Buccaneer + Keen Sense | Infinite draw triggers; Infinite rummaging; +2 more results; +1 other prerequisite | 1758
+Springheart Nantuko + Gruul Turf + Amulet of Vigor + Icetill Explorer | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1747
+Springheart Nantuko + Gruul Turf + Dryad of the Ilysian Grove + Horizon Explorer | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 1747
+Polyraptor + Aether Flash | Draw the game; Infinite creature tokens; Infinite creature ETB | 1729
+Rite of Passage + Forerunner of the Empire + Raptor Hatchling | Infinite creature tokens; Infinite damage to creatures; Infinite creature ETB; +1 other prerequisite | 1722
+Redshift, Rocketeer Chief + Sword of the Paruns | Infinite untap of creatures you control; Infinite mana creatures you control can produce; Infinite colored mana that can only be spent to activate abilities; +1 other prerequisite | 1706
+Springheart Nantuko + Gruul Turf + Oracle of Mul Daya + Horizon Explorer | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 1661
+Spawning Pit + Rhythm of the Wild | Infinite charge counters on a permanent; Infinite creature ETB; +3 more results | 1656
+Kodama of the East Tree + Gruul Turf + Greensleeves, Maro-Sorcerer | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 1623
+Raggadragga, Goreguts Boss + Viridian Joiner + Wurmcalling | Infinite creature tokens; Infinite creature ETB; +4 more results; +1 other prerequisite | 1618
+Springheart Nantuko + Gruul Turf + Amulet of Vigor + Oracle of Mul Daya | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 1563
+Aggravated Assault + Heronblade Elite | Infinite colored mana; Infinite combat phases; +2 more results | 1554
+Kodama of the East Tree + Gruul Turf + Nesting Dragon | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 1539
+Raggadragga, Goreguts Boss + Marwyn, the Nurturer + Wurmcalling | Infinite creature tokens; Infinite creature ETB; +4 more results; +1 other prerequisite | 1529
+Aggravated Assault + The Legend of Kyoshi | Infinite colored mana; Infinite combat phases; +2 more results | 1431
+Kodama of the East Tree + Omnath, Locus of Rage + Arid Archway | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1423
+Silvanus's Invoker + Agatha of the Vile Cauldron + Gruul Turf | Infinite power and toughness for most creatures you control until end of turn; Infinite mana lands you control can produce; +3 more results; +1 other prerequisite | 1408

@@ -1,0 +1,100 @@
+Kaalia of the Vast + Master of Cruelties | Target opponent loses the game; +1 other prerequisite | 23781
+Murderous Redcap + Celes, Rune Knight | Infinite +1/+1 counters on most creatures you control; Infinite creature ETB; +2 more results | 9120
+Celes, Rune Knight + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +4 more results | 8902
+Celes, Rune Knight + Viscera Seer | Infinite creature LTB; Infinite creature ETB; +4 more results | 8357
+Celes, Rune Knight + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +4 more results | 6971
+Celes, Rune Knight + Altar of Dementia | Infinite creature LTB; Infinite creature ETB; +5 more results | 6691
+Fire Lord Zuko + Hellkite Charger | Infinite combat phases; +1 other prerequisite | 4991
+Celes, Rune Knight + Phyrexian Altar | Infinite creature LTB; Infinite creature ETB; +4 more results | 4971
+Edgar Markov + Oathsworn Vampire + Phyrexian Altar | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite; +3 more results | 4882
+Celes, Rune Knight + Umbral Collar Zealot | Infinite creature LTB; Infinite creature ETB; +4 more results | 4325
+Celes, Rune Knight + Carrion Feeder | Infinite creature LTB; Infinite creature ETB; +3 more results | 4087
+Kelsien, the Plague + Thornbite Staff | Destroy each creature that enters the battlefield under an opponent's control; Destroy any number of creatures opponents control; Lock; +2 other prerequisites | 4043
+Jan Jansen, Chaos Crafter + Clock of Omens + Liquimetal Torque | Infinite artifact ETB; Infinite artifact tokens; +1 other prerequisite; +6 more results | 3636
+Celes, Rune Knight + Blasting Station | Infinite creature LTB; Infinite creature ETB; +4 more results | 3168
+Alesha, Who Smiles at Death + Master of Cruelties | Target opponent loses the game; +1 other prerequisite | 2819
+Dihada, Binder of Wills + Underworld Breach + Flicker | Infinite self-mill; Near-infinite colored mana; +1 other prerequisite; +3 more results | 2676
+Terra, Herald of Hope + Aurelia, the Warleader + Ashnod's Altar + Karmic Guide | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +8 more results | 2555
+Caesar, Legion's Emperor + Breath of Fury | Infinite combat damage; Infinite combat phases; +1 other prerequisite; +6 more results | 2352
+Jan Jansen, Chaos Crafter + Clock of Omens + Liquimetal Coating | Infinite artifact ETB; Infinite artifact tokens; +1 other prerequisite; +6 more results | 2230
+Dihada, Binder of Wills + Underworld Breach + Mayhem Devil | Near-infinite damage; Infinite self-mill; Near-infinite storm count | 2160
+Vihaan, Goldwaker + Pitiless Plunderer + Aggravated Assault | Infinite combat phases; Infinite death triggers; +1 other prerequisite; +2 more results | 1920
+Hellkite Charger + Fire Nation Palace + Isshin, Two Heavens as One | Infinite combat phases; Infinite red mana; +1 other prerequisite | 1902
+Kiki-Jiki, Mirror Breaker + Viscera Seer + Karmic Guide | Infinite creature tokens with haste; Infinite death triggers; +4 more results | 1707
+Celes, Rune Knight + Bartolomé del Presidio | Infinite creature LTB; Infinite creature ETB; +3 more results | 1572
+Karmic Guide + Sister Hospitaller + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +5 more results | 1543
+Viscera Seer + Dualcaster Mage + Sevinne's Reclamation | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +4 more results | 1493
+Jan Jansen, Chaos Crafter + Dross Scorpion + Skullclamp + Liquimetal Torque | Infinite card draw; Infinite draw triggers; +1 other prerequisite; +3 more results | 1489
+Anafenza, Kin-Tree Spirit + Murderous Redcap + Viscera Seer | Infinite damage; Infinite death triggers; +1 other prerequisite; +4 more results | 1411
+Avatar Roku, Firebender + Hellkite Charger + Isshin, Two Heavens as One | Infinite combat phases; Infinite red mana; Infinitely powerful creatures you control until end of turn; +1 other prerequisite | 1248
+Mardu Siegebreaker + Restoration Angel | Infinite creature LTB; Infinite creature ETB | 1215
+Jan Jansen, Chaos Crafter + Dross Scorpion + Skullclamp + Liquimetal Coating | Infinite card draw; Infinite draw triggers; +1 other prerequisite; +3 more results | 1202
+Sun Titan + Karmic Guide + Animate Dead + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results | 1198
+Edgar Markov + Oathsworn Vampire + Warren Soultrader + Blood Artist | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +7 more results | 1098
+Celes, Rune Knight + Woe Strider | Infinite creature LTB; Infinite creature ETB; +4 more results | 1074
+Celes, Rune Knight + Yahenni, Undying Partisan | Infinite creature LTB; Infinite creature ETB; +3 more results | 999
+Squall, SeeD Mercenary + Fear of Missing Out + Ashnod's Altar | Infinite self-discard triggers; Near-infinite creature ETB; +1 other prerequisite; +8 more results | 996
+Kiki-Jiki, Mirror Breaker + Carrion Feeder + Karmic Guide | Infinite creature tokens with haste; Infinite death triggers; +4 more results | 973
+Kroxa and Kunoros + Altar of Dementia | Exile your library; Infinite self-mill | 930
+Edgar Markov + Oathsworn Vampire + Warren Soultrader + Cruel Celebrant | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +7 more results | 895
+Jan Jansen, Chaos Crafter + Clock of Omens + Biotransference | Infinite artifact ETB; Infinite artifact tokens; +1 other prerequisite; +6 more results | 894
+Edgar Markov + Cloudstone Curio + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +1 other prerequisite; +3 more results | 894
+Mardu Siegebreaker + Port Razer | Infinite creature ETB; Infinite combat phases; +2 other prerequisites; +7 more results | 872
+Edgar Markov + Oathsworn Vampire + Warren Soultrader + Vengeful Bloodwitch | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +7 more results | 819
+Jan Jansen, Chaos Crafter + Clock of Omens + Mycosynth Lattice | Infinite artifact ETB; Infinite artifact tokens; +1 other prerequisite; +6 more results | 812
+Murderous Redcap + Cathars' Crusade | Infinite death triggers; Infinite creature ETB; +2 more results | 811
+Altaïr Ibn-La'Ahad + Port Razer + Roshan, Hidden Magister | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +4 more results | 784
+Anafenza, Kin-Tree Spirit + Murderous Redcap + Ashnod's Altar | Infinite colorless mana; Infinite damage; +1 other prerequisite; +4 more results | 781
+Terra, Herald of Hope + Aurelia, the Warleader + Phyrexian Altar + Karmic Guide | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite; +5 more results | 666
+Dualcaster Mage + Sevinne's Reclamation + Carrion Feeder | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +4 more results | 626
+Anafenza, Kin-Tree Spirit + Murderous Redcap + Altar of Dementia | Infinite damage; Infinite death triggers; +1 other prerequisite; +5 more results | 616
+Jan Jansen, Chaos Crafter + Thornbite Staff + Krark-Clan Ironworks | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +10 more results | 604
+Jan Jansen, Chaos Crafter + Dross Scorpion + Liquimetal Torque + Goblin Bombardment | Infinite artifact ETB; Infinite artifact tokens; +1 other prerequisite; +7 more results | 602
+Mardu Siegebreaker + Felidar Guardian | Infinite creature LTB; Infinite creature ETB | 601
+Jan Jansen, Chaos Crafter + Thornbite Staff + Ashnod's Altar | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +10 more results | 576
+Jan Jansen, Chaos Crafter + Dross Scorpion + Mondrak, Glory Dominus + Liquimetal Torque | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +9 more results | 573
+Jan Jansen, Chaos Crafter + Clock of Omens + Ashnod's Transmogrant | Infinite artifact ETB; Infinite artifact tokens; +1 other prerequisite; +6 more results | 561
+Professional Face-Breaker + Aggravated Assault + Mardu Siegebreaker | Infinite artifact ETB; Infinite artifact LTB; +2 other prerequisites; +13 more results | 552
+Squall, SeeD Mercenary + Fear of Missing Out + Viscera Seer | Infinite self-discard triggers; Near-infinite creature ETB; +1 other prerequisite; +7 more results | 546
+Mardu Siegebreaker + Éomer, Marshal of Rohan | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +4 more results | 538
+Sun Warriors + Aggravated Assault + Ozai, the Phoenix King | Infinite creature ETB; Infinite combat phases; +1 other prerequisite; +4 more results | 535
+Kiki-Jiki, Mirror Breaker + Viscera Seer + Fiend Hunter | Infinite creature LTB; Infinite creature ETB; +3 more results | 533
+Jan Jansen, Chaos Crafter + Dross Scorpion + Liquimetal Coating + Goblin Bombardment | Infinite artifact ETB; Infinite artifact tokens; +1 other prerequisite; +7 more results | 519
+Demonic Pact + Iroh, Tea Master | Target opponent loses the game at the beginning of their next upkeep; +1 other prerequisite | 517
+Jan Jansen, Chaos Crafter + Dross Scorpion + Skullclamp + Biotransference | Infinite card draw; Infinite draw triggers; +1 other prerequisite; +3 more results | 494
+Angel of Glory's Rise + Silvar, Devourer of the Free + Fiend Hunter | Infinite creature LTB; Infinite creature ETB; +3 more results | 489
+Squall, SeeD Mercenary + Fear of Missing Out + Goblin Bombardment | Near-infinite damage; Infinite self-discard triggers; +1 other prerequisite; +8 more results | 471
+Jan Jansen, Chaos Crafter + Dross Scorpion + Mondrak, Glory Dominus + Liquimetal Coating | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +9 more results | 459
+Repercussion + Barbed Servitor + Pariah | Infinite lifeloss; +1 other prerequisite | 454
+Celes, Rune Knight + Evereth, Viceroy of Plunder | Infinite +1/+1 counters on creatures you control; Infinite creature ETB; +4 more results | 453
+Celes, Rune Knight + Phantom Train | Infinite creature LTB; Infinite creature ETB; +3 more results | 443
+Squall, SeeD Mercenary + Fear of Missing Out + Altar of Dementia | Infinite self-discard triggers; Near-infinite creature ETB; +1 other prerequisite; +9 more results | 441
+Umbral Collar Zealot + Dualcaster Mage + Sevinne's Reclamation | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +4 more results | 435
+Squall, SeeD Mercenary + Fear of Missing Out + Umbral Collar Zealot | Infinite self-discard triggers; Near-infinite creature ETB; +1 other prerequisite; +8 more results | 434
+Altaïr Ibn-La'Ahad + Port Razer + Ashes of the Fallen | Infinite combat damage; Infinite combat phases; +2 other prerequisites; +4 more results | 425
+Altaïr Ibn-La'Ahad + Port Razer + Conspiracy | Infinite combat damage; Infinite combat phases; +2 other prerequisites; +4 more results | 418
+Viscera Seer + Hardened Academic | Infinite creature ETB; Infinite creature LTB; +3 more results | 411
+Umbral Collar Zealot + Hardened Academic | Infinite creature ETB; Infinite creature LTB; +3 more results | 410
+Jan Jansen, Chaos Crafter + Thornbite Staff + Goblin Bombardment | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +10 more results | 407
+First Day of Class + Bartolomé del Presidio | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 381
+Kiki-Jiki, Mirror Breaker + Ashnod's Altar + Sister Hospitaller | Infinite colorless mana; Infinite creature ETB; +4 more results | 379
+Extus, Oriq Overlord + Chain of Smog | Infinite magecraft triggers; Infinite self-discard triggers; +1 other prerequisite | 374
+Kiki-Jiki, Mirror Breaker + Fiend Hunter + Carrion Feeder | Infinite creature LTB; Infinite creature ETB; +3 more results | 366
+Anafenza, Kin-Tree Spirit + Murderous Redcap + Phyrexian Altar | Infinite colored mana; Infinite damage; +1 other prerequisite; +4 more results | 346
+Kiki-Jiki, Mirror Breaker + Altar of Dementia + Sister Hospitaller | Infinite creature ETB; Infinite creature LTB; +5 more results | 341
+Fire Covenant + Boros Reckoner | Near-infinite damage to one opponent; +1 other prerequisite | 338
+Celes, Rune Knight + Bloodthrone Vampire | Infinite +1/+1 counters on creatures you control; Infinite creature ETB; +4 more results | 337
+Kiki-Jiki, Mirror Breaker + Goblin Bombardment + Sister Hospitaller | Infinite creature ETB; Infinite creature LTB; +4 more results | 337
+Jan Jansen, Chaos Crafter + Dross Scorpion + Skullclamp + Ashnod's Transmogrant | Infinite card draw; Infinite draw triggers; +1 other prerequisite; +3 more results | 337
+Kiki-Jiki, Mirror Breaker + Yahenni, Undying Partisan + Karmic Guide | Infinite creature ETB; Infinite creature LTB; +3 more results | 335
+Kiki-Jiki, Mirror Breaker + Viscera Seer + Sister Hospitaller | Infinite creature ETB; Infinite creature LTB; +4 more results | 334
+Fiendlash + Barbed Servitor + Pariah | Infinite damage to one opponent; Infinite lifeloss; +1 other prerequisite | 330
+Pitiless Plunderer + Reassembling Skeleton + Goblin Bombardment + Teysa Karlov | Infinite creature LTB; Infinite creature ETB; +3 more results | 325
+Kiki-Jiki, Mirror Breaker + Umbral Collar Zealot + Karmic Guide | Infinite creature ETB; Infinite creature LTB; +4 more results | 314
+Murderous Redcap + Solemnity | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 309
+Kiki-Jiki, Mirror Breaker + Goblin Bombardment + Mardu Siegebreaker | Infinite creature LTB; Infinite creature ETB; +3 more results | 308
+Jan Jansen, Chaos Crafter + Dross Scorpion + Skullclamp + Mycosynth Lattice | Infinite card draw; Infinite draw triggers; +1 other prerequisite; +3 more results | 304
+Eirdu, Carrier of Dawn + Luminous Broodmoth + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +3 more results | 290
+Edgar Markov + Oathsworn Vampire + Warren Soultrader + Susurian Voidborn | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +7 more results | 288
+Animate Dead + Sun Titan + Dance of the Dead + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +3 more results | 273
+Body Launderer + Karmic Guide + Goblin Bombardment | Infinite draw triggers; Infinite looting; +6 more results | 268

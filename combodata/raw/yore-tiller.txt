@@ -1,0 +1,100 @@
+Aminatou, the Fateshifter + Nicol Bolas, Dragon-God + Oath of Teferi | Exile all of your opponents' permanents and hands; Infinite card draw; +4 more results; +1 other prerequisite | 7850
+Nim Deathmantle + Ashnod's Altar + Breya, Etherium Shaper | Infinite artifact ETB; Infinite artifact tokens; +6 more results | 6197
+Nim Deathmantle + Krark-Clan Ironworks + Breya, Etherium Shaper | Infinite artifact ETB; Infinite artifact tokens; +6 more results | 4927
+Eldrazi Displacer + Ashnod's Altar + Breya, Etherium Shaper | Infinite colorless mana; Infinite creature ETB; +6 more results | 4213
+Breya, Etherium Shaper + Eldrazi Displacer + Krark-Clan Ironworks | Infinite creature ETB; Infinite creature LTB; +6 more results | 3401
+Nicol Bolas, Dragon-God + Aminatou, the Fateshifter + The Chain Veil | Exile all permanents opponents control; Infinite planeswalker activations; +3 more results | 2771
+Jace, Cunning Castaway + Nicol Bolas, Dragon-God + Oath of Teferi | Exile all permanents opponents control; Infinite card draw; +5 more results; +1 other prerequisite | 1111
+Crime Novelist + Thopter Foundry + Sword of the Meek | Infinite +1/+1 counters on a creature; Infinite creature tokens; +3 more results | 808
+Sophina, Spearsage Deserter + Time Sieve | Infinite turns; Lock; +1 other prerequisite | 703
+Demonic Pact + Zedruu the Greathearted | Target opponent loses the game at the beginning of their next upkeep; +1 other prerequisite | 659
+Urza, Lord High Artificer + Deadeye Navigator + Breya, Etherium Shaper | Infinite artifact ETB; Infinite artifact LTB; +8 more results | 627
+Jace, Cunning Castaway + Nicol Bolas, Dragon-God + Oath of Gideon | Exile all permanents opponents control; Infinite card draw; +5 more results; +1 other prerequisite | 420
+Lae'zel, Vlaakith's Champion + Jace, Cunning Castaway + Nicol Bolas, Dragon-God | Exile all permanents opponents control; Infinite card draw; +5 more results | 400
+Jan Jansen, Chaos Crafter + Intruder Alarm | Infinite artifact ETB; Infinite artifact LTB; +11 more results; +1 other prerequisite | 191
+Metallic Sliver + Lavabelly Sliver + Hibernation Sliver + Syphon Sliver + Herald's Horn | Infinite creature LTB; Infinite creature ETB; +3 more results | 190
+Aminatou, the Fateshifter + Teferi, Master of Time + Nicol Bolas, Dragon-God + Karn Liberated | Infinite turns; Lock | 190
+Cadric, Soul Kindler + Aminatou, the Fateshifter + Sol Ring | Infinite creature LTB; Infinite creature ETB; +6 more results | 125
+Metallic Sliver + Lavabelly Sliver + Hibernation Sliver + Syphon Sliver + Urza's Incubator | Infinite creature LTB; Infinite creature ETB; +3 more results | 119
+Jan Jansen, Chaos Crafter + Clock of Omens + Encroaching Mycosynth | Infinite artifact ETB; Infinite artifact tokens; +6 more results; +1 other prerequisite | 119
+Metallic Sliver + Lavabelly Sliver + Hibernation Sliver + Essence Sliver + Herald's Horn | Infinite damage; Infinite creature ETB; +3 more results; +1 other prerequisite | 110
+Smothering Tithe + Underworld Breach + Whispering Madness | Infinite draw triggers for all players; Infinite looting for all players; +3 more results; +1 other prerequisite | 107
+Metallic Sliver + Lavabelly Sliver + Hibernation Sliver + Essence Sliver + Urza's Incubator | Infinite damage; Infinite creature ETB; +3 more results; +1 other prerequisite | 89
+Azor's Elocutors + Obeka, Splitter of Seconds | Win the game; +1 other prerequisite | 88
+Cadric, Soul Kindler + Aminatou, the Fateshifter + Oath of Teferi | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 78
+Time Sieve + Myr Battlesphere + Teleportation Circle + Brudiclad, Telchor Engineer | Infinite turns; Lock | 70
+Marneus Calgar + The Locust God | Infinite card draw; Infinite draw triggers; +5 more results; +1 other prerequisite | 69
+Breya, Etherium Shaper + Master Transmuter + Phyrexian Altar + Clock of Omens | Infinite colored mana; Infinite damage; +8 more results; +1 other prerequisite | 67
+Breya, Etherium Shaper + Crime Novelist + Urza, Prince of Kroog + Ashnod's Altar | Infinite artifact ETB; Infinite artifact LTB; +6 more results | 66
+Breya, Etherium Shaper + Crime Novelist + Urza, Prince of Kroog + Krark-Clan Ironworks | Infinite artifact ETB; Infinite artifact LTB; +6 more results | 54
+Kefka, Court Mage + Queza, Augur of Agonies | Infinite card draw; Near-infinite lifegain; +3 more results; +1 other prerequisite | 51
+Magister Sphinx + Hidetsugu's Second Rite | Target player loses the game | 48
+Time Sieve + Myr Battlesphere + Teleportation Circle + Loyal Apprentice | Infinite turns; Lock; +1 other prerequisite | 38
+Cadric, Soul Kindler + Aminatou, the Fateshifter + The Chain Veil | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 37
+Bartolomé del Presidio + Cayth, Famed Mechanist | Infinite +1/+1 counters on a creature; Infinite death triggers; +3 more results; +1 other prerequisite | 36
+Marneus Calgar + Mana Echoes | Infinite card draw; Infinite draw triggers; +3 more results | 36
+Cadric, Soul Kindler + Aminatou, the Fateshifter + Chromatic Orrery | Infinite creature LTB; Infinite creature ETB; +8 more results | 35
+Viscera Seer + Cayth, Famed Mechanist | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 33
+Breya, Etherium Shaper + Master Transmuter + Phyrexian Altar + Intruder Alarm | Infinite colored mana; Infinite creature tokens; +8 more results; +1 other prerequisite | 30
+Aminatou, the Fateshifter + Teferi, Master of Time + Nicol Bolas, Dragon-God + Gideon, Champion of Justice | Infinite turns; Lock; +1 other prerequisite | 22
+Marneus Calgar + Ashnod's Altar + Zirda, the Dawnwaker | Infinite card draw; Infinite draw triggers; +4 more results | 20
+Time Sieve + Myr Battlesphere + Teleportation Circle + Saheeli, the Gifted | Infinite turns; Lock | 19
+Radiant Solar + Sefris of the Hidden Ways + White Plume Adventurer + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 18
+Radiant Solar + Sefris of the Hidden Ways + Seasoned Dungeoneer + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 17
+Time Sieve + Myr Battlesphere + Teleportation Circle + Daretti, Ingenious Iconoclast | Infinite turns; Lock | 17
+Radiant Solar + Sefris of the Hidden Ways + Rilsa Rael, Kingpin + Mardu Siegebreaker | Near-infinite creature sacrifice triggers; Near-infinite creature ETB; +3 more results; +1 other prerequisite | 16
+Ratadrabik of Urborg + Atsushi, the Blazing Sky + Blade of Shared Souls | Infinite artifact ETB; Infinite artifact LTB; +9 more results | 16
+Yore-Tiller Nephilim + Medomai the Ageless + Viscera Seer | Infinite turns; Lock; +1 other prerequisite | 15
+Altaïr Ibn-La'Ahad + Port Razer + Leyline of Transformation | Infinite creature LTB; Infinite creature ETB; +4 more results; +2 other prerequisites | 15
+Altaïr Ibn-La'Ahad + Medomai the Ageless + Roshan, Hidden Magister | Infinite turns; Lock; +1 other prerequisite | 15
+Despotic Scepter + Nefarious Lich + Zedruu the Greathearted | Target opponent loses the game | 15
+Radiant Solar + Sefris of the Hidden Ways + Barrowin of Clan Undurr + Mardu Siegebreaker | Near-infinite creature LTB; Near-infinite death triggers; +3 more results; +1 other prerequisite | 14
+Aminatou, the Fateshifter + Teferi, Master of Time + Nicol Bolas, Dragon-God + Dovin, Grand Arbiter | Infinite turns; Lock; +1 other prerequisite | 14
+Carrion Feeder + Cayth, Famed Mechanist | Infinite +1/+1 counters on a creature; Infinite death triggers; +3 more results; +1 other prerequisite | 14
+Radiant Solar + Sefris of the Hidden Ways + Ravenloft Adventurer + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 13
+Yahenni, Undying Partisan + Cayth, Famed Mechanist | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 13
+Gonti's Aether Heart + Mishra, Eminent One + Urza, Prince of Kroog | Infinite turns; Lock | 13
+Jan Jansen, Chaos Crafter + Dross Scorpion + Skullclamp + Encroaching Mycosynth | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 12
+Tariel, Reckoner of Souls + Intruder Alarm | Return all creature cards from each opponent's graveyard to the battlefield under your control; +1 other prerequisite | 12
+Radiant Solar + Sefris of the Hidden Ways + Caves of Chaos Adventurer + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 11
+Mishra, Eminent One + Urza, Lord High Artificer + Worldwalker Helm + Alibou, Ancient Witness | Infinite artifact tokens; Cast all spells in your library; +5 more results | 11
+Zedruu the Greathearted + Shadowspear + Lich's Mastery | Target opponent loses the game; +1 other prerequisite | 11
+Radiant Solar + Sefris of the Hidden Ways + Tomb of Horrors Adventurer + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 10
+Breath of Fury + Yore-Tiller Nephilim + Anger | Infinite combat damage; Infinite combat phases; +6 more results; +1 other prerequisite | 10
+Breath of Fury + Yore-Tiller Nephilim + Mass Hysteria | Infinite combat damage; Infinite combat phases; +6 more results; +1 other prerequisite | 10
+Radiant Solar + Sefris of the Hidden Ways + Feywild Caretaker + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 9
+Shilgengar, Sire of Famine + Cayth, Famed Mechanist | Infinite artifact tokens; Infinite creature LTB; +4 more results; +1 other prerequisite | 9
+Altaïr Ibn-La'Ahad + Port Razer + Arcane Adaptation | Infinite combat damage; Infinite combat phases; +4 more results; +2 other prerequisites | 9
+Time Sieve + Myr Battlesphere + Teleportation Circle + Mishra, Eminent One | Infinite turns; Lock | 9
+Deadeye Navigator + Mondrak, Glory Dominus + Kalain, Reclusive Painter | Infinite artifact ETB; Infinite artifact LTB; +3 more results | 8
+Cadric, Soul Kindler + Aminatou, the Fateshifter + Mana Vault | Infinite creature LTB; Infinite creature ETB; +6 more results | 8
+Murderous Redcap + Cayth, Famed Mechanist | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 8
+Woe Strider + Cayth, Famed Mechanist | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 8
+Staff of Compleation + Nefarious Lich + Zedruu the Greathearted | Target opponent loses the game | 8
+Kiki-Jiki, Mirror Breaker + Grimgrin, Corpse-Born + Karmic Guide | Infinite +1/+1 counters on a creature; Infinite creature ETB; +4 more results | 7
+Cayth, Famed Mechanist + Phantom Train | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 7
+Time Sieve + Myr Battlesphere + Teleportation Circle + Mahadi, Emporium Master | Infinite turns; Lock; +1 other prerequisite | 7
+Metallic Sliver + Lavabelly Sliver + Hibernation Sliver + Syphon Sliver + Gathering Stone | Infinite creature ETB; Infinite creature LTB; +3 more results | 6
+Archfiend of the Dross + Heartless Act + Zedruu the Greathearted | Target opponent loses the game at the beginning of their next upkeep; +1 other prerequisite | 6
+Vilis, Broker of Blood + Shabraz, the Skyshark + Niv-Mizzet, the Firemind | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 6
+All Will Be One + Heliod, Sun-Crowned + Zur, Eternal Schemer | Infinite damage; Infinite lifegain; +2 more results; +1 other prerequisite | 6
+Kiki-Jiki, Mirror Breaker + Grimgrin, Corpse-Born + Fiend Hunter | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 5
+Radiant Solar + Sefris of the Hidden Ways + Passageway Seer + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 5
+Radiant Solar + Sefris of the Hidden Ways + Aarakocra Sneak + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 5
+Yore-Tiller Nephilim + Medomai the Ageless + Phyrexian Altar | Infinite turns; Lock; +1 other prerequisite | 5
+Yore-Tiller Nephilim + Medomai the Ageless + Ashnod's Altar | Infinite turns; Lock; +1 other prerequisite | 5
+Eirdu, Carrier of Dawn + Ashnod's Altar + Cayth, Famed Mechanist | Infinite creature LTB; Infinite creature ETB; +3 more results | 5
+Sister Hospitaller + Thermopod + Wormfang Drake | Infinite creature LTB; Infinite creature ETB; +5 more results | 5
+Sister Hospitaller + Goblin Bombardment + Wormfang Drake | Infinite creature LTB; Infinite creature ETB; +5 more results | 5
+Knowledge Pool + Moderation + Blim, Comedic Genius | Target opponent can only cast one spell per turn; Exile all spells target opponent casts from their hand; Lock; +1 other prerequisite | 5
+Yawgmoth, Thran Physician + The Locust God + Queza, Augur of Agonies | Infinite card draw; Near-infinite lifeloss; +7 more results; +1 other prerequisite | 5
+Optimus Prime, Hero + Luminous Broodmoth + Sarcatog | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 5
+Altaïr Ibn-La'Ahad + Medomai the Ageless + Conspiracy | Infinite turns; Lock; +1 other prerequisite | 5
+Bloodflow Connoisseur + Cayth, Famed Mechanist | Infinite +1/+1 counters on a creature; Infinite death triggers; +3 more results; +1 other prerequisite | 5
+Obeka, Splitter of Seconds + Time Sieve + Illustrious Wanderglyph | Infinite turns; Lock; +1 other prerequisite | 5
+Consecrated Sphinx + Notion Thief + Zedruu the Greathearted | Each opponent loses the game; Infinite card draw for opponents; Infinite draw triggers for each opponent | 5
+Breath of Fury + Yore-Tiller Nephilim + Fervor | Infinite combat damage; Infinite combat phases; +6 more results; +1 other prerequisite | 5
+Vilis, Broker of Blood + Queza, Augur of Agonies + Niv-Mizzet, Parun | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 5
+Vilis, Broker of Blood + Queza, Augur of Agonies + Niv-Mizzet, the Firemind | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 5
+Yore-Tiller Nephilim + Port Razer + Ashnod's Altar | Infinite combat damage; Infinite combat phases; +6 more results; +1 other prerequisite | 5
+Radiant Solar + Sefris of the Hidden Ways + Vicious Battlerager + Mardu Siegebreaker | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 4

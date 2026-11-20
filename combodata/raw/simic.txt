@@ -1,0 +1,100 @@
+Kinnan, Bonder Prodigy + Basalt Monolith | Infinite colorless mana | 46893
+Bloom Tender + Freed from the Real | Infinite non-blue mana of colors among permanents you control; Infinite mana of colors among permanents you control; +1 other prerequisite | 23064
+Eternal Witness + Snap + Gaea's Cradle | Infinite creature ETB; Infinite creature LTB; +5 more results; +2 other prerequisites | 22564
+Kodama of the East Tree + Simic Growth Chamber + Scute Swarm | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 20281
+Kodama of the East Tree + Tireless Provisioner + Simic Growth Chamber | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 19229
+Oboro Breezecaller + Talon Gates of Madara + Gaea's Cradle | Infinite mana lands you control can produce; Infinite green mana; +2 more results; +1 other prerequisite | 17559
+Inexorable Tide + Evolution Witness | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 16791
+Kinnan, Bonder Prodigy + Birds of Paradise + Freed from the Real | Infinite colored mana; +1 other prerequisite | 15823
+Kodama of the East Tree + Simic Growth Chamber + Rampaging Baloths | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 15798
+Ghostly Flicker + Peregrine Drake + Eternal Witness | Infinite blinking; Infinite creature ETB; +6 more results; +1 other prerequisite | 14980
+Food Chain + Misthollow Griffin | Infinite colored mana that can only be spent to cast creature spells; Infinite creature ETB; +2 more results | 14082
+Bloom Tender + Pemmin's Aura | Infinite non-blue mana of colors among permanents you control; Infinite mana of colors among permanents you control; +1 other prerequisite | 13990
+Incubation Druid + Freed from the Real | Infinite mana lands you control can produce; +1 other prerequisite | 13471
+Machine God's Effigy + Devoted Druid | Infinite blue mana; Infinite green mana | 13298
+Ioreth of the Healing House + Kiora's Follower | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce; +1 other prerequisite | 13036
+Zimone, Mystery Unraveler + Yedora, Grave Gardener + Whisperwood Elemental | Infinite creature LTB; Infinite creature sacrifice triggers; +5 more results; +1 other prerequisite | 12966
+Zimone, Mystery Unraveler + Yedora, Grave Gardener + Sakura-Tribe Elder | Infinite creature LTB; Infinite creature sacrifice triggers; +4 more results | 12524
+Doppelgang + Eternal Witness | Infinite copies of all permanents; Infinite creature tokens; +7 more results; +1 other prerequisite | 12507
+Kinnan, Bonder Prodigy + Bloom Tender + Freed from the Real | Infinite mana of colors among permanents you control; Infinite non-blue mana of colors among permanents you control; Put most creature cards from your library onto the battlefield; +1 other prerequisite | 12143
+Retreat to Coralhelm + Simic Growth Chamber + Sakura-Tribe Scout | Infinite landfall triggers | 11991
+Hermit Druid + Thassa's Oracle | Win the game; +1 other prerequisite | 10371
+Selvala, Heart of the Wilds + Freed from the Real | Infinite colored mana; +1 other prerequisite | 10268
+Kinnan, Bonder Prodigy + Birds of Paradise + Pemmin's Aura | Infinite colored mana; +1 other prerequisite | 10014
+Fathom Mage + Wizard Class | Infinite card draw; Infinite draw triggers; Near-infinite +1/+1 counters on a creature; +1 other prerequisite | 9910
+Displacer Kitten + Eternal Witness + Lotus Petal + Snap | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 9813
+Kami of Whispered Hopes + Freed from the Real | Infinite colored mana; +1 other prerequisite | 9670
+Biovisionary + Rite of Replication | Win the game | 9518
+Sanctum Weaver + Freed from the Real | Infinite colored mana; +1 other prerequisite | 9255
+Kinnan, Bonder Prodigy + Delighted Halfling + Freed from the Real | Infinite colored mana that can only be spent to cast legendary spells | 9151
+Incubation Druid + Pemmin's Aura | Infinite mana lands you control can produce; +1 other prerequisite | 8959
+Nyxbloom Ancient + Freed from the Real | Infinite blue mana; Infinite mana creatures you control can produce; +1 other prerequisite | 8620
+Kodama of the East Tree + Simic Growth Chamber + Field of the Dead | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 8509
+Kodama of the East Tree + Simic Growth Chamber + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 8263
+Retreat to Coralhelm + Llanowar Scout + Simic Growth Chamber | Infinite landfall triggers | 8080
+Kodama of the East Tree + Meloku the Clouded Mirror | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 7926
+Peregrine Drake + Lilysplash Mentor | Infinite creature LTB; Infinite creature ETB; +2 more results | 7268
+Hermit Druid + Laboratory Maniac | Win the game; +1 other prerequisite | 7174
+Selvala, Heart of the Wilds + Pemmin's Aura | Infinite colored mana; +1 other prerequisite | 6929
+Kodama of the East Tree + Simic Growth Chamber + Zendikar's Roil | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 6693
+Displacer Kitten + Eternal Witness + Lotus Petal + Snap + Cloud of Faeries | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 6299
+Displace + Eternal Witness + Peregrine Drake | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 6284
+Sanctum Weaver + Pemmin's Aura | Infinite colored mana; +1 other prerequisite | 6056
+Kami of Whispered Hopes + Pemmin's Aura | Infinite colored mana; +1 other prerequisite | 6054
+Kodama of the East Tree + Tireless Tracker + Simic Growth Chamber | Infinite artifact tokens; Infinite Clue tokens; Infinite landfall triggers; +1 other prerequisite | 5780
+Nyxbloom Ancient + Pemmin's Aura | Infinite blue mana; Infinite mana creatures you control can produce; +1 other prerequisite | 5774
+Kinnan, Bonder Prodigy + Delighted Halfling + Pemmin's Aura | Infinite colored mana that can only be spent to cast legendary spells | 5630
+Springheart Nantuko + Adrix and Nev, Twincasters | Infinite creature ETB; Infinite creature tokens; +2 more results; +1 other prerequisite | 5384
+Retreat to Coralhelm + Walking Atlas + Simic Growth Chamber | Infinite landfall triggers | 5022
+Retreat to Coralhelm + Scaled Herbalist + Simic Growth Chamber | Infinite landfall triggers | 4943
+Meloku the Clouded Mirror + Retreat to Coralhelm + Sakura-Tribe Scout | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 4789
+Hermit Druid + Jace, Wielder of Mysteries | Win the game; +1 other prerequisite | 4705
+Retreat to Coralhelm + Simic Growth Chamber + Skyshroud Ranger | Infinite landfall triggers | 4689
+Glacial Chasm + Aesi, Tyrant of Gyre Strait + Ramunap Excavator | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 4601
+Kodama of the East Tree + Tireless Provisioner + Oboro, Palace in the Clouds | Infinite artifact ETB; Infinite artifact LTB; +8 more results | 4416
+Kumena, Tyrant of Orazca + Deeproot Pilgrimage + Intruder Alarm | Infinite card draw; Infinite creature tokens; +5 more results | 4404
+Walk the Aeons + Azusa, Lost but Seeking + Ramunap Excavator | Infinite turns; Lock; +1 other prerequisite | 4234
+Kodama of the East Tree + Oboro, Palace in the Clouds + Scute Swarm | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers | 4156
+Badgermole Cub + Freed from the Real | Infinite green mana; +1 other prerequisite | 4128
+Doppelgang + Biovisionary | Win the game; +1 other prerequisite | 4111
+Sage of Hours + Ezuri, Claw of Progress | Infinite turns; Lock; +1 other prerequisite | 4105
+Body of Research + Simic Ascendancy | Win the game at the beginning of your next upkeep; +1 other prerequisite | 4045
+Glacial Chasm + Aesi, Tyrant of Gyre Strait + Crucible of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 3928
+Springheart Nantuko + Spelunking + Simic Growth Chamber + Dryad of the Ilysian Grove | Infinite creature tokens; Infinite landfall triggers; +5 more results; +1 other prerequisite | 3914
+Aethertide Whale + Nissa, Worldsoul Speaker + Panharmonicon | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +1 other prerequisite | 3799
+Kinnan, Bonder Prodigy + Paradise Druid + Freed from the Real | Infinite colored mana; +1 other prerequisite | 3767
+Esix, Fractal Bloom + Biovisionary + Avenger of Zendikar | Win the game; +1 other prerequisite | 3711
+Replication Technique + Doubling Season | Near-infinite creature tokens; Near-infinite creature ETB; +1 other prerequisite | 3709
+Kodama of the East Tree + Simic Growth Chamber + Greensleeves, Maro-Sorcerer | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 3687
+Aluren + Shrieking Drake | Infinite creature LTB; Infinite storm count; Infinite creature ETB | 3668
+Intruder Alarm + Imperious Perfect | Infinite creature tokens; Infinite creature ETB; +2 more results; +1 other prerequisite | 3652
+Arixmethes, Slumbering Isle + Freed from the Real | Infinite green mana; +1 other prerequisite | 3652
+Doppelgang + Timeless Witness | Infinite creature ETB; Infinite storm count; +6 more results; +1 other prerequisite | 3632
+Bootleggers' Stash + Mechanized Production | Win the game at the beginning of your next upkeep; +1 other prerequisite | 3601
+Vigean Graftmage + Incubation Druid | Infinite mana lands you control can produce; +1 other prerequisite | 3434
+Replication Technique + Parallel Lives | Near-infinite creature tokens; Near-infinite creature ETB; +1 other prerequisite | 3418
+Esix, Fractal Bloom + Biovisionary + Hornet Queen | Win the game; +1 other prerequisite | 3396
+Biovisionary + Progenitor Mimic + Adrix and Nev, Twincasters | Win the game | 3351
+Lonis, Cryptozoologist + Shrieking Drake + Academy Manufactor | Infinite artifact tokens; Infinite Clue tokens; +4 more results | 3310
+Glacial Chasm + Aesi, Tyrant of Gyre Strait + Conduit of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 3307
+Retreat to Coralhelm + Oboro, Palace in the Clouds + Sakura-Tribe Scout | Infinite landfall triggers | 3251
+Walk the Aeons + Azusa, Lost but Seeking + Ancient Greenwarden | Infinite turns; Lock; +1 other prerequisite | 3213
+Ouroboroid + Sage of Hours | Infinite turns; Lock | 3199
+Nyxbloom Ancient + Rite of Replication | Near-infinite mana permanents you control can produce | 3179
+Retreat to Coralhelm + Guildless Commons + Sakura-Tribe Scout | Infinite landfall triggers | 3159
+Kodama of the East Tree + Oboro, Palace in the Clouds + Field of the Dead | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 3123
+Mana Reflection + Freed from the Real | Infinite blue mana; Infinite mana creatures you control can produce; +1 other prerequisite | 3120
+Springheart Nantuko + Spelunking + Simic Growth Chamber + Oracle of Mul Daya | Infinite creature tokens; Infinite landfall triggers; +5 more results; +1 other prerequisite | 3046
+Freed from the Real + Gyre Engineer | Infinite green mana; +1 other prerequisite | 3020
+Retreat to Coralhelm + Simic Growth Chamber + PuPu UFO | Infinite landfall triggers | 2950
+Meloku the Clouded Mirror + Retreat to Coralhelm + Llanowar Scout | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2931
+Ioreth of the Healing House + Seeker of Skybreak | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce; +1 other prerequisite | 2901
+Kinnan, Bonder Prodigy + Paradise Druid + Pemmin's Aura | Infinite colored mana; +1 other prerequisite | 2826
+Kami of Whispered Hopes + Vigean Graftmage | Infinite colored mana; Infinite untap of creatures you control that have a +1/+1 counter on them; +1 other prerequisite | 2757
+Walk the Aeons + Azusa, Lost but Seeking + Crucible of Worlds | Lock; Infinite turns; +1 other prerequisite | 2739
+Fathom Mage + Lyla, Holographic Assistant | Infinite card draw; Infinite draw triggers; Near-infinite +1/+1 counters on a creature; +1 other prerequisite | 2710
+Kodama of the East Tree + Simic Growth Chamber + Sakashima of a Thousand Faces | Infinite landfall triggers | 2671
+Kinnan, Bonder Prodigy + Cryptolith Rite + Freed from the Real | Infinite colored mana; Put most creature cards from your library onto the battlefield; +1 other prerequisite | 2659
+Kinnan, Bonder Prodigy + Ilysian Caryatid + Freed from the Real | Infinite colored mana; +1 other prerequisite | 2657
+Trade Routes + Retreat to Coralhelm + Sakura-Tribe Scout | Infinite landfall triggers; +1 other prerequisite | 2648
+Badgermole Cub + Pemmin's Aura | Infinite green mana; +1 other prerequisite | 2623

@@ -1,0 +1,50 @@
+#1 Hullbreaker Horror + Sol Ring | Infinite colorless mana; Infinite storm count
+#6 Underworld Breach + Lotus Petal + Brain Freeze | Infinite self-mill; Near-infinite magecraft triggers; Near-infinite mill
+#9 Springheart Nantuko + Tireless Provisioner | Infinite landfall triggers; Infinite tapped land tokens
+#12 Springheart Nantuko + Lotus Cobra | Infinite landfall triggers; Infinite tapped land tokens
+#15 Sanguine Bond + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#18 Exquisite Blood + Enduring Tenacity | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#21 Pitiless Plunderer + Ashnod's Altar + Reassembling Skeleton | Infinite colorless mana; Infinite death triggers
+#24 Enduring Tenacity + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#27 Peregrin Took + Nuka-Cola Vending Machine | Infinite card draw; Infinite draw triggers; Near-infinite tapped Treasure tokens
+#30 Storm-Kiln Artist + Narset's Reversal + Fire Lord Azula | Infinite artifact ETB; Infinite artifact LTB
+#33 Rings of Brighthearth + Basalt Monolith | Infinite colorless mana
+#37 Sheoldred, the Apocalypse + Peer into the Abyss | Near-infinite card draw for target opponent; Near-infinite draw triggers for target opponent
+#40 Marauding Blight-Priest + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#43 Kinnan, Bonder Prodigy + Basalt Monolith | Infinite colorless mana
+#46 Experimental Confectioner + Peregrin Took | Infinite card draw; Infinite draw triggers
+#49 Dualcaster Mage + Snap + Fire Lord Azula | Infinite untap of lands you control; Infinite creature ETB
+#53 Sprout Swarm + Witherbloom, the Balancer | Infinite creature ETB; Infinite magecraft triggers
+#57 Pitiless Plunderer + Reassembling Skeleton + Phyrexian Altar | Infinite death triggers; Infinite creature ETB
+#60 Lightning Runner + Satya, Aetherflux Genius | Infinite creature LTB; Infinite creature ETB
+#63 Niv-Mizzet, Parun + Ophidian Eye | Infinite card draw; Infinite draw triggers; Near-infinite damage
+#67 Chatterfang, Squirrel General + Zulaport Cutthroat + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB
+#70 Sword of Feast and Famine + Aggravated Assault | Infinite combat phases
+#75 Squee, the Immortal + Food Chain | Infinite colored mana that can only be spent to cast creature spells; Infinite creature ETB
+#78 Chatterfang, Squirrel General + Blood Artist + Warren Soultrader | Infinite artifact ETB; Infinite artifact LTB
+#81 Kefka, Court Mage + Niv-Mizzet, Parun | Significant damage; Infinite card draw
+#84 Mikaeus, the Unhallowed + Viscera Seer | Infinite creature ETB; Infinite creature LTB
+#87 Staff of Domination + Marwyn, the Nurturer | Infinite card draw; Infinite draw triggers
+#90 Luminous Broodmoth + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB
+#93 Carrion Feeder + Rooftop Storm + Gravecrawler | Infinite +1/+1 counters on a creature; Infinite creature ETB
+#97 Ancient Copper Dragon + Aggravated Assault | Near-infinite colored mana; Near-infinite combat damage
+#101 Nim Deathmantle + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB
+#104 Storm-Kiln Artist + Seething Song + Reiterate | Infinite artifact ETB; Infinite artifact LTB
+#108 Dragon Tempest + Ancient Gold Dragon | Near-infinite damage
+#112 Kiki-Jiki, Mirror Breaker + Zealous Conscripts | Infinite creature tokens with haste; Infinite death triggers
+#115 Freed from the Real + Pentad Prism + Kilo, Apogee Mind | Infinite proliferate
+#119 Freed from the Real + Crystalline Crawler + Kilo, Apogee Mind | Infinite proliferate
+#122 Scurry Oak + Rosie Cotton of South Lane | Infinite creature tokens; Infinite creature ETB
+#126 Ghostly Flicker + Peregrine Drake + Archaeomancer | Infinite blinking; Infinite ETB
+#130 Luminous Broodmoth + Viscera Seer | Infinite creature LTB; Infinite creature ETB
+#133 Izzet Generatorium + Gonti's Aether Heart + Automated Assembly Line | Infinite creature tokens; Infinite creature ETB
+#138 Devoted Druid + Hazel's Brewmaster | Infinite green mana
+#142 Smothering Tithe + Underworld Breach + Wheel of Fortune | Infinite draw triggers for all players; Infinite looting for all players
+#145 Ulalek, Fused Atrocity + Glaring Fleshraker + Echoes of Eternity | Infinite creature LTB; Infinite creature ETB
+#149 Relic of Legends + Freed from the Real + Kilo, Apogee Mind | Infinite proliferate
+#152 Warren Soultrader + Gravecrawler + Ayara, First of Locthwain | Infinite creature LTB; Infinite creature ETB
+#156 Sensei's Divining Top + Etherium Sculptor + Mystic Forge | Infinite card draw; Near-infinite storm count; Infinite draw triggers
+#160 Springheart Nantuko + Doubling Season | Infinite creature ETB; Infinite creature tokens
+#163 Narset's Reversal + Isochron Scepter | Infinite turns
+#167 Staff of Domination + Selvala, Heart of the Wilds | Infinite card draw; Infinite colored mana
+#170 Starscape Cleric + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain

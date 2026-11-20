@@ -1,0 +1,100 @@
+Restoration Angel + Felidar Guardian | Infinite creature ETB; Infinite creature LTB | 54045
+Heliod, Sun-Crowned + Walking Ballista | Infinite damage; Infinite lifegain; Infinite lifegain triggers; +1 other prerequisite | 52233
+Luminous Broodmoth + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +3 more results | 31834
+Ashnod's Altar + Cathars' Crusade | Infinite creature ETB; Infinite creature LTB; +4 more results | 26560
+Ondu Spiritdancer + Secret Arcade // Dusty Parlor | Infinite creature ETB; Infinite creature tokens; +1 other prerequisite | 21846
+Approach of the Second Sun + Reprieve | Win the game | 21491
+Preston, the Vanisher + Felidar Guardian + Ephemerate | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite; +6 more results | 20482
+Luminous Broodmoth + Phyrexian Altar | Infinite creature LTB; Infinite creature ETB; +3 more results | 18338
+Abdel Adrian, Gorion's Ward + Restoration Angel + Ephemerate | Infinite creature tokens; Infinite creature ETB; +2 more results | 17014
+Abdel Adrian, Gorion's Ward + Felidar Guardian + Ephemerate | Infinite creature tokens; Infinite creature ETB; +2 more results | 16322
+Abdel Adrian, Gorion's Ward + Restoration Angel + Cloudshift | Infinite creature tokens; Infinite creature ETB; +2 more results | 16119
+Anti-Venom, Horrifying Healer + With Great Power . . . | Prevent all damage that would be dealt to you; Lock | 15993
+Preston, the Vanisher + Felidar Guardian + Cloudshift | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +6 more results | 15948
+Anti-Venom, Horrifying Healer + Pariah | Lock; Prevent all damage that would be dealt to you | 15528
+Secret Arcade // Dusty Parlor + Ghostly Dancers | Infinite creature ETB; Infinite creature tokens; Draw the game | 15480
+Abdel Adrian, Gorion's Ward + Felidar Guardian + Cloudshift | Infinite creature tokens; Infinite creature ETB; +2 more results | 14771
+Stuffy Doll + Pariah | Draw the game; +1 other prerequisite | 14111
+Cathars' Crusade + Phyrexian Altar | Infinite +1/+1 counters on most creatures you control; Infinite creature ETB; +4 more results | 13671
+Anti-Venom, Horrifying Healer + Pariah's Shield | Prevent all damage that would be dealt to you; Lock | 12833
+Secret Arcade // Dusty Parlor + Archon of Sun's Grace | Infinite creature ETB; Infinite creature tokens; Draw the game | 12513
+Archangel of Thune + Walking Ballista | Infinite damage; Infinite lifegain; +1 other prerequisite; +2 more results | 12198
+Guilty Conscience + Phyrexian Vindicator | Infinite damage; +1 other prerequisite | 11446
+Luminous Broodmoth + Altar of Dementia | Infinite creature LTB; Infinite creature ETB; +4 more results | 10937
+Karmic Guide + Reveillark + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +4 more results | 10871
+Anti-Venom, Horrifying Healer + Gideon's Sacrifice | Prevent all damage that would be dealt to you; Lock | 10637
+Solemnity + Phyrexian Unlife | You can't lose the game due to having 0 or less life; Lock | 10555
+Approach of the Second Sun + Scroll Rack | Win the game; +1 other prerequisite | 9674
+Cleric Class + Walking Ballista | Infinite damage; Infinite lifegain; Infinite lifegain triggers; +1 other prerequisite | 9339
+Dawnsire, Sunstar Dreadnought + Phyrexian Vindicator | Near-infinite damage to one opponent; +2 other prerequisites | 9275
+Restoration Angel + Icewind Stalwart | Infinite creature ETB; Infinite creature LTB | 9174
+Karmic Guide + Reveillark + Altar of Dementia | Infinite death triggers; Infinite creature ETB; +5 more results | 9129
+Abdel Adrian, Gorion's Ward + Restoration Angel + Flicker of Fate | Infinite creature ETB; Infinite creature LTB; +2 more results | 8782
+Monk Gyatso + Lightning Greaves | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +1 other prerequisite | 8722
+Felidar Guardian + Icewind Stalwart | Infinite creature ETB; Infinite creature LTB | 8562
+Automated Assembly Line + Gonti's Aether Heart + Guide of Souls | Infinite creature ETB; Infinite lifegain triggers; +1 other prerequisite; +2 more results | 8548
+Magistrate's Scepter + Resourceful Defense | Infinite turns; Lock; +1 other prerequisite | 7843
+Abdel Adrian, Gorion's Ward + Felidar Guardian + Flicker of Fate | Infinite creature ETB; Infinite creature LTB; +2 more results | 7816
+Aethergeode Miner + Aetherstorm Roc + Decoction Module | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 7789
+Guilty Conscience + Stuffy Doll | Infinite damage to one opponent; +1 other prerequisite | 7589
+Preston, the Vanisher + Felidar Guardian + Karmic Guide | Exile all nonland permanents opponents control; Infinite creature ETB; +6 more results | 7403
+Automated Assembly Line + Gonti's Aether Heart + Panharmonicon | Infinite creature ETB; Infinite creature tokens; Infinite energy counters; +1 other prerequisite | 7159
+Karmic Guide + Reveillark + Phyrexian Altar | Infinite colored mana; Infinite death triggers; +4 more results | 6830
+Preston, the Vanisher + Felidar Guardian + Flicker of Fate | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +6 more results | 6779
+Lion's Eye Diamond + Auriok Salvagers | Infinite colored mana; Infinite storm count; Return some artifact cards from your graveyard to your hand | 6727
+Automated Assembly Line + Gonti's Aether Heart + Aetherstorm Roc | Infinite creature ETB; Infinite creature tokens; +1 other prerequisite | 6706
+Myr Galvanizer + Clock of Omens + Gold Myr | Infinite mana Myr you control can produce; Infinite untap of Myr you control; +1 other prerequisite | 6704
+Aethergeode Miner + Guide of Souls + Decoction Module | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +2 more results | 6648
+Abdel Adrian, Gorion's Ward + Restoration Angel + Fiend Hunter | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +2 more results | 6605
+Heliod, Sun-Crowned + Triskelion | Infinite damage; Infinite lifegain; Infinite lifegain triggers | 6260
+Abdel Adrian, Gorion's Ward + Fiend Hunter + Felidar Guardian | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +2 more results | 6135
+Dawnsire, Sunstar Dreadnought + Darksteel Reactor + Resourceful Defense | Win the game; +2 other prerequisites | 6084
+Drannith Magistrate + Knowledge Pool | Opponents can't cast spells; Lock | 5978
+Gleaming Splendor + Smothering Tithe + Anointed Procession | Infinite card draw for any number of players; Infinite draw triggers for any number of players; +1 other prerequisite; +5 more results | 5952
+Aethergeode Miner + Guide of Souls + Aetherstorm Roc | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +2 more results | 5948
+Solemnity + Nine Lives | Prevent all damage that would be dealt to you; Lock | 5893
+Stuffy Doll + With Great Power . . . | Draw the game; +1 other prerequisite | 5863
+Gilraen, Dúnedain Protector + Village Bell-Ringer | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite; +2 more results | 5779
+Abdel Adrian, Gorion's Ward + Eldrazi Displacer | Infinite blinking; Infinite creature tokens; +1 other prerequisite; +4 more results | 5730
+Storm Herd + Cathars' Crusade | Near-infinite +1/+1 counters; Near-infinite creature ETB; Near-infinite creature tokens | 5635
+Gleaming Splendor + Smothering Tithe + Mondrak, Glory Dominus | Infinite card draw for any number of players; Infinite draw triggers for any number of players; +1 other prerequisite; +5 more results | 5421
+Preston, the Vanisher + Felidar Guardian + Another Round | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +6 more results | 5017
+Abdel Adrian, Gorion's Ward + Restoration Angel + Glorious Protector | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +2 more results | 5015
+Gleaming Splendor + Smothering Tithe + Elspeth, Storm Slayer | Infinite card draw for any number of players; Infinite draw triggers for any number of players; +1 other prerequisite; +5 more results | 4951
+Teshar, Ancestor's Apostle + Sol Ring + Scrap Trawler + Krark-Clan Ironworks | Infinite creature LTB; Infinite creature ETB; +3 more results | 4757
+Glorious Protector + Felidar Guardian + Cloudshift | Infinite blinking of most creatures; Infinite creature ETB; Infinite creature LTB | 4724
+Avacyn, Angel of Hope + Worldslayer | Destroy all permanents opponents control each turn; Lock; Mass Land Denial; +1 other prerequisite | 4580
+Sensei's Divining Top + Mystic Forge + Voyager Quickwelder | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 4563
+Avacyn, Angel of Hope + Nevinyrral's Disk | Destroy all creatures, artifacts, and enchantments opponents control on each of your turns; +1 other prerequisite | 4530
+Cathars' Crusade + Altar of Dementia | Infinite +1/+1 counters on most creatures you control; Infinite creature ETB; +5 more results | 4233
+Helm of Obedience + Rest in Peace | Exile target opponent's library | 4190
+Abdel Adrian, Gorion's Ward + Glorious Protector + Felidar Guardian | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +2 more results | 4187
+Aethergeode Miner + Decoction Module + Panharmonicon | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 4134
+Caduceus, Staff of Hermes + Pariah | Prevent all damage that would be dealt to you; Lock; +2 other prerequisites | 4116
+Solemnity + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +2 other prerequisites; +3 more results | 3886
+Appa, Steadfast Guardian + Urza's Incubator + Aang, Airbending Master | Infinite creature LTB; Infinite creature ETB; +2 more results | 3842
+Ashnod's Altar + Resourceful Defense | Infinite colorless mana; Infinite creature ETB; +1 other prerequisite; +3 more results | 3835
+Ashnod's Altar + Felidar Guardian + Karmic Guide | Infinite creature LTB; Infinite creature ETB; +3 more results | 3833
+Wispweaver Angel + Felidar Guardian | Infinite creature ETB; Infinite creature LTB | 3820
+Preston, the Vanisher + Fiend Hunter + Charming Prince | Infinite blinking; Infinite creature tokens; +2 more results | 3791
+Gleaming Splendor + Smothering Tithe + Exalted Sunborn | Infinite card draw for any number of players; Infinite draw triggers for any number of players; +1 other prerequisite; +5 more results | 3786
+Archon of Emeria + Knowledge Pool | Exile all spells players cast from their hand; Players can only cast one spell per turn; Lock | 3675
+Aethergeode Miner + Aetherstorm Roc + Panharmonicon | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 3674
+Aethergeode Miner + Guide of Souls + Panharmonicon | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +2 more results | 3418
+Teshar, Ancestor's Apostle + Sol Ring + Scrap Trawler + Arcbound Ravager | Infinite creature LTB; Infinite creature ETB; +4 more results | 3405
+Knowledge Pool + Rule of Law | Exile all spells players cast from their hand; Players can only cast one spell per turn; Lock | 3397
+Abdel Adrian, Gorion's Ward + Restoration Angel + Justiciar's Portal | Infinite creature ETB; Infinite creature LTB; +2 more results | 3361
+Touch the Spirit Realm + Starfield of Nyx | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 3307
+Solemnity + Phyrexian Altar | Infinite creature LTB; Infinite creature ETB; +2 other prerequisites; +3 more results | 3300
+Caduceus, Staff of Hermes + With Great Power . . . | Prevent all damage that would be dealt to you; Lock; +3 other prerequisites | 3269
+Caduceus, Staff of Hermes + Pariah's Shield | Prevent all damage that would be dealt to you; Lock; +2 other prerequisites | 3235
+Luminous Broodmoth + Blasting Station | Infinite creature LTB; Infinite creature ETB; +3 more results | 3222
+Abdel Adrian, Gorion's Ward + Restoration Angel + Scrollshift | Infinite creature ETB; Infinite creature LTB; +2 more results | 3219
+Blasting Station + Cathars' Crusade | Infinite damage; Infinite death triggers; +4 more results | 3208
+Preston, the Vanisher + Fiend Hunter + Flickerwisp | Infinite blinking; Infinite creature tokens; +2 more results | 3186
+Luminous Broodmoth + Spawning Pit | Infinite charge counters on a permanent; Infinite creature ETB; +3 more results | 3160
+Vizier of Remedies + Ashnod's Altar | Infinite colorless mana; Infinite creature ETB; +3 more results | 3122
+Famished Paladin + Resplendent Mentor | Infinite lifegain; +1 other prerequisite | 3080
+Abdel Adrian, Gorion's Ward + Restoration Angel + Slip On the Ring | Infinite creature ETB; Infinite creature LTB; +2 more results | 3072
+Together Forever + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +3 more results | 2985
+Abdel Adrian, Gorion's Ward + Felidar Guardian + Justiciar's Portal | Infinite creature ETB; Infinite creature LTB; +2 more results | 2894

@@ -1,0 +1,100 @@
+Kheru Goldkeeper + Tortured Existence | Infinite self-discard triggers; +1 other prerequisite | 10120
+Teferi, Temporal Archmage + The Chain Veil + Carth the Lion | Infinite card draw; Infinite colored mana; +3 more results; +1 other prerequisite | 9255
+Zaxara, the Exemplary + Freed from the Real | Infinite colored mana; +1 other prerequisite | 8223
+Displacer Kitten + Eternal Witness + Dark Ritual | Infinite black mana; Cast a subset of spells in your graveyard; +4 more results; +1 other prerequisite | 6200
+Zaxara, the Exemplary + Pemmin's Aura | Infinite colored mana; +1 other prerequisite | 5913
+Thranduil, the Elvenking + Devoted Druid + Immaculate Magistrate | Infinite +1/+1 counters on creatures you control; Infinite green mana; +1 other prerequisite | 5551
+Tortured Existence + Phyrexian Altar + Teval, the Balanced Scale | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 5551
+Kheru Goldkeeper + Gravecrawler + Altar of Dementia | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 5203
+Muldrotha, the Gravetide + Kaya's Ghostform + Altar of Dementia + Lotus Petal | Infinite death triggers; Infinite creature ETB; +4 more results; +1 other prerequisite | 3606
+Muldrotha, the Gravetide + Displacer Kitten + Lotus Petal | Infinite colored mana; Infinite storm count; +1 other prerequisite | 3455
+Zimone and Dina + Bloodghast + Retreat to Coralhelm + Simic Growth Chamber | Infinite card draw; Infinite draw triggers; +6 more results | 3105
+Zimone and Dina + Bloodghast + Retreat to Coralhelm + Golgari Rot Farm | Infinite card draw; Infinite draw triggers; +6 more results | 3059
+Kodama of the East Tree + Scute Swarm + Dimir Aqueduct | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 2955
+Peregrine Drake + Yarok, the Desecrated + Venser, Shaper Savant | Infinite creature ETB; Infinite creature LTB; +4 more results; +1 other prerequisite | 2936
+Zimone and Dina + Bloodghast + Retreat to Coralhelm + Dimir Aqueduct | Infinite card draw; Infinite draw triggers; +6 more results | 2900
+Kodama of the East Tree + Tireless Provisioner + Dimir Aqueduct | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 2879
+Retreat to Coralhelm + Golgari Rot Farm + Sakura-Tribe Scout | Infinite landfall triggers | 2601
+Muldrotha, the Gravetide + Mindslaver | You control one opponent on each of their turns; Lock | 2379
+Retreat to Coralhelm + Sakura-Tribe Scout + Dimir Aqueduct | Infinite landfall triggers | 2257
+Muldrotha, the Gravetide + Phyrexian Altar + Kaya's Ghostform | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 2220
+Kodama of the East Tree + Dimir Aqueduct + Rampaging Baloths | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2161
+Thranduil, the Elvenking + Devoted Druid + Timberwatch Elf | Infinite green mana; Infinitely large creatures you control until end of turn; +1 other prerequisite | 2160
+Homer, the Hermit + Hedge Shredder | Near-infinite landfall triggers; Near-infinite mill; +2 more results; +1 other prerequisite | 2081
+Wight of the Reliquary + Scute Swarm + Retreat to Coralhelm | Near-infinite creature ETB; Near-infinite landfall triggers; +2 more results; +1 other prerequisite | 1968
+Kotis, Sibsig Champion + Altar of Dementia + Timeless Witness | Near-infinite turns; Lock; +1 other prerequisite | 1876
+Retreat to Coralhelm + Golgari Rot Farm + Llanowar Scout | Infinite landfall triggers | 1832
+Kotis, Sibsig Champion + Altar of Dementia + Eternal Witness | Near-infinite turns; Lock; +1 other prerequisite | 1726
+Retreat to Coralhelm + Llanowar Scout + Dimir Aqueduct | Infinite landfall triggers | 1712
+Kheru Goldkeeper + Gravecrawler + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 1688
+Wight of the Reliquary + Retreat to Coralhelm + Bloodghast | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 1669
+Xavier Sal, Infested Captain + Basking Broodscale + Intruder Alarm | Infinite +1/+1 counters on a creature; Infinite colorless mana; +8 more results; +1 other prerequisite | 1601
+Kodama of the East Tree + Dimir Aqueduct + Field of the Dead | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1566
+Yarok, the Desecrated + Cloud of Faeries + Eternal Witness + Ghostly Flicker | Infinite casts of any instants and/or sorcery cards in your hand or graveyard; Infinite creature ETB; +4 more results; +1 other prerequisite | 1425
+Xavier Sal, Infested Captain + Scurry Oak + Intruder Alarm | Infinite +1/+1 counters on a creature; Infinite copies of creature tokens you control; +7 more results; +1 other prerequisite | 1422
+Thranduil, the Elvenking + Devoted Druid + Greenhilt Trainee | Infinite green mana; Infinitely large creatures you control until end of turn | 1400
+Wight of the Reliquary + Retreat to Coralhelm + Springheart Nantuko | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 1379
+Kodama of the East Tree + Dimir Aqueduct + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1376
+Jorn, God of Winter + Stasis | Mass Land Denial; Players skip their untap steps; +2 more results; +1 other prerequisite | 1353
+Zimone and Dina + Bloodghast + Intruder Alarm + Simic Growth Chamber | Infinite card draw; Infinite draw triggers; +7 more results; +1 other prerequisite | 1311
+Retreat to Coralhelm + Golgari Rot Farm + Scaled Herbalist | Infinite landfall triggers | 1283
+Zimone and Dina + Bloodghast + Intruder Alarm + Golgari Rot Farm | Infinite card draw; Infinite draw triggers; +7 more results; +1 other prerequisite | 1282
+Kheru Goldkeeper + Gravecrawler + Woe Strider | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 1275
+Wight of the Reliquary + Retreat to Coralhelm + Field of the Dead | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 1261
+Zimone and Dina + Bloodghast + Intruder Alarm + Dimir Aqueduct | Infinite card draw; Infinite draw triggers; +7 more results; +1 other prerequisite | 1244
+Wight of the Reliquary + Retreat to Coralhelm + Rampaging Baloths | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 1222
+Zimone and Dina + Abundance + Retreat to Coralhelm + Scute Swarm | Arrange your library in any order; Put all lands from your hand and library onto the battlefield tapped; +2 more results; +1 other prerequisite | 1219
+Retreat to Coralhelm + Scaled Herbalist + Dimir Aqueduct | Infinite landfall triggers | 1207
+Kodama of the East Tree + Dimir Aqueduct + Zendikar's Roil | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1193
+Zimone and Dina + Bloodghast + Retreat to Coralhelm + Abundance | Near-infinite landfall triggers; Put all lands from your hand and library onto the battlefield; +1 other prerequisite | 1191
+Displacer Kitten + Eternal Witness + Cabal Ritual | Infinite black mana; Cast a subset of spells in your graveyard; +4 more results; +1 other prerequisite | 1189
+Xavier Sal, Infested Captain + Intruder Alarm + Master Biomancer | Infinite creature tokens; Infinite creature ETB; +2 more results; +1 other prerequisite | 1163
+Phyrexian Altar + Reassembling Skeleton + Teval, the Balanced Scale | Infinite creature LTB; Infinite creature ETB; +2 more results | 1153
+Peregrine Drake + Shrieking Drake + Yarok, the Desecrated | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 1141
+Retreat to Coralhelm + Golgari Rot Farm + Skyshroud Ranger | Infinite landfall triggers | 1128
+Retreat to Coralhelm + Golgari Rot Farm + PuPu UFO | Infinite landfall triggers | 1123
+Crystalline Crawler + Simic Ascendancy + Corpsejack Menace + Hardened Scales | Infinite +1/+1 counters on creatures you control; Infinite colored mana; Win the game at the beginning of your next upkeep | 1118
+Retreat to Coralhelm + Golgari Rot Farm + Walking Atlas | Infinite landfall triggers | 1086
+Muldrotha, the Gravetide + Glacial Chasm + Zuran Orb | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 1069
+Lumra, Bellow of the Woods + Port of Karfell + Amulet of Vigor + Sylvan Safekeeper | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 1055
+Zimone and Dina + Abundance + Retreat to Coralhelm + Rampaging Baloths | Arrange your library in any order; Put all lands from your hand and library onto the battlefield tapped; +1 other prerequisite | 1049
+Retreat to Coralhelm + Skyshroud Ranger + Dimir Aqueduct | Infinite landfall triggers | 1034
+Lumra, Bellow of the Woods + Port of Karfell + Amulet of Vigor + Zuran Orb | Infinite death triggers; Infinite creature ETB; +8 more results; +1 other prerequisite | 984
+Kheru Goldkeeper + Gravecrawler + Umbral Collar Zealot | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 946
+Lumra, Bellow of the Woods + Port of Karfell + Amulet of Vigor + Squandered Resources | Infinite death triggers; Infinite creature ETB; +6 more results; +1 other prerequisite | 940
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Golgari Rot Farm + Tireless Provisioner | Infinite landfall triggers | 908
+Old Gnawbone + Time Sieve | Infinite turns; Lock; +1 other prerequisite | 901
+Yarok, the Desecrated + Palinchron | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 860
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Dimir Aqueduct + Tireless Provisioner | Infinite landfall triggers | 850
+Cloud of Faeries + Shrieking Drake + Yarok, the Desecrated | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 842
+Kodama of the East Tree + Tireless Tracker + Dimir Aqueduct | Infinite artifact tokens; Infinite Clue tokens; Infinite landfall triggers; +1 other prerequisite | 835
+Muldrotha, the Gravetide + Displacer Kitten + Lion's Eye Diamond | Infinite colored mana; Infinite storm count; +1 other prerequisite | 832
+Kheru Goldkeeper + Gravecrawler + Viscera Seer | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 825
+Zimone and Dina + Abundance + Retreat to Coralhelm + Zendikar's Roil | Arrange your library in any order; Put all lands from your hand and library onto the battlefield tapped; +1 other prerequisite | 823
+Crystalline Crawler + Simic Ascendancy + Corpsejack Menace + Branching Evolution | Infinite +1/+1 counters on creatures you control; Infinite colored mana; Win the game at the beginning of your next upkeep | 814
+Crystalline Crawler + Simic Ascendancy + Corpsejack Menace + Winding Constrictor | Infinite +1/+1 counters on creatures you control; Infinite colored mana; Win the game at the beginning of your next upkeep | 804
+Wight of the Reliquary + Retreat to Coralhelm + Zendikar's Roil | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +1 other prerequisite | 773
+Peregrine Drake + Man-o'-War + Yarok, the Desecrated | Infinite blue mana; Infinite untap of lands you control; +4 more results; +1 other prerequisite | 772
+Crystalline Crawler + Simic Ascendancy + Kami of Whispered Hopes + Corpsejack Menace | Infinite +1/+1 counters on creatures you control; Infinite colored mana; Win the game at the beginning of your next upkeep | 768
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Golgari Rot Farm + Lotus Cobra | Infinite landfall triggers | 746
+Phyrexian Altar + Kheru Goldkeeper + Reassembling Skeleton | Infinite creature LTB; Infinite creature ETB; +2 more results | 733
+Zimone and Dina + Abundance + Retreat to Coralhelm + Springheart Nantuko | Arrange your library in any order; Put all lands from your hand and library onto the battlefield tapped; +1 other prerequisite | 720
+Wight of the Reliquary + Intruder Alarm + Scute Swarm | Near-infinite landfall triggers; Put all lands from your library onto the battlefield tapped; +3 more results; +1 other prerequisite | 706
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Lotus Cobra + Dimir Aqueduct | Infinite landfall triggers | 690
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Simic Growth Chamber + Archelos, Lagoon Mystic | Infinite blue mana; Infinite green mana; Infinite landfall triggers | 686
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Golgari Rot Farm + Archelos, Lagoon Mystic | Infinite black mana; Infinite green mana; Infinite landfall triggers | 648
+Beifong's Bounty Hunters + Altar of Dementia + Teval, the Balanced Scale | Infinite creature ETB; Infinite creature LTB; +5 more results; +2 other prerequisites | 637
+Crystalline Crawler + Simic Ascendancy + Branching Evolution + Winding Constrictor | Infinite +1/+1 counters on creatures you control; Infinite colored mana; Win the game at the beginning of your next upkeep | 633
+Tortured Existence + Pitiless Plunderer + Altar of Dementia + Teval, the Balanced Scale | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 630
+Muldrotha, the Gravetide + Displacer Kitten + Mishra's Bauble | Infinite card draw at the beginning of the next upkeep; Infinite draw triggers at the beginning of the next upkeep; Infinite storm count; +1 other prerequisite | 626
+Titans' Nest + Embalmer's Tools + Teval, the Balanced Scale | Near-infinite tapped creature tokens; Exile your library and graveyard; Near-infinite creature ETB; +1 other prerequisite | 622
+Aftermath Analyst + Takenuma, Abandoned Mire + Simic Growth Chamber + Squandered Resources | Infinite colored mana; Infinite creature ETB; +7 more results; +1 other prerequisite | 618
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Spelunking + Golgari Rot Farm | Infinite green mana; Infinite black mana; +3 more results | 611
+Zimone and Dina + Abundance + Retreat to Coralhelm + Sporemound | Arrange your library in any order; Put all lands from your hand and library onto the battlefield tapped; +1 other prerequisite | 610
+Patron of the Moon + Golgari Rot Farm + Lotus Cobra | Infinite landfall triggers | 603
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Dimir Aqueduct + Archelos, Lagoon Mystic | Infinite black mana; Infinite blue mana; Infinite landfall triggers | 603
+Zimone, Quandrix Prodigy + Retreat to Coralhelm + Spelunking + Dimir Aqueduct | Infinite blue mana; Infinite black mana; +3 more results | 582
+Mimeoplasm, Revered One + Kami of Whispered Hopes + Horseshoe Crab | Infinite colored mana; +1 other prerequisite | 578
+Patron of the Moon + Golgari Rot Farm + Tireless Provisioner | Infinite landfall triggers | 578
+Zimone and Dina + Abundance + Retreat to Coralhelm + Field of the Dead | Arrange your library in any order; Put all lands from your hand and library onto the battlefield tapped; +1 other prerequisite | 573
+Zimone and Dina + Bloodghast + Retreat to Coralhelm + Guildless Commons | Infinite card draw; Near-infinite creature ETB; +6 more results | 566

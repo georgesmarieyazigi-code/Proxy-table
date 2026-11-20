@@ -1,0 +1,41 @@
+# Runs ci.sh on a GitHub machine with full internet (real Scryfall, real art, the live site).
+# Logs and screenshots are committed to the "results" branch under runs/<run number>/.
+name: playtest
+on:
+  push:
+    branches: [main]
+    paths: ['ci.sh']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: playtest
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - name: Install
+        run: |
+          cd test && npm ci && npm i --no-save playwright@1.63.0 && npx playwright install --with-deps chromium
+      - name: Run ci.sh
+        continue-on-error: true
+        run: |
+          mkdir -p out
+          bash ci.sh 2>&1 | tee out/log.txt
+      - name: Save results
+        if: always()
+        env:
+          RUN: ${{ github.run_number }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p /tmp/r && cd /tmp/r && git init -q
+          git config user.name "playtest bot" && git config user.email "actions@users.noreply.github.com"
+          git remote add origin "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q --depth 1 origin results; then git checkout -q -b results FETCH_HEAD; else git checkout -q --orphan results; fi
+          mkdir -p runs/$RUN && cp -r "$GITHUB_WORKSPACE"/out/. runs/$RUN/
+          git add -A && git commit -q -m "playtest run $RUN" && git push -q origin results

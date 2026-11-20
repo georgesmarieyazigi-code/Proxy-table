@@ -1,0 +1,100 @@
+The Gitrog Monster + The Necrobloom | Infinite self-mill; Near-infinite self-discard triggers; +1 other prerequisite | 24623
+Selvala, Heart of the Wilds + Emiel the Blessed + Tyvar, Jubilant Brawler | Infinite creature LTB; Infinite creature ETB; +2 more results | 7926
+Tayam, Luminous Enigma + Devoted Druid | Infinite self-mill; Put a selection of permanant cards from your library and graveyard onto the battlefield; +1 other prerequisite | 7836
+Myrkul, Lord of Bones + Devoted Druid | Infinite green mana | 5250
+Samwise Gamgee + Cauldron Familiar + Viscera Seer | Infinite death triggers; Infinite creature ETB; +6 more results; +1 other prerequisite | 5246
+Betor, Kin to All + Bloodletter of Aclazotz | Infinite lifeloss; +1 other prerequisite | 4994
+Glacial Chasm + Thalia and The Gitrog Monster + Ramunap Excavator | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 4430
+Ghave, Guru of Spores + Doubling Season + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 3972
+Sam, Loyal Attendant + Peregrin Took + Camellia, the Seedmiser + Academy Manufactor | Infinite artifact ETB; Infinite artifact LTB; +10 more results; +1 other prerequisite | 3947
+Ghave, Guru of Spores + Cathars' Crusade + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 3816
+Myrkul, Lord of Bones + Barrenton Medic | Prevent all damage that would be dealt to permanents you control; Prevent all damage that would be dealt to you; Lock | 3694
+Sam, Loyal Attendant + Pippin, Warden of Isengard + Hazel's Brewmaster | Infinite tapped Food tokens; +1 other prerequisite | 3626
+Tayam, Luminous Enigma + Ashnod's Altar + Strangleroot Geist + Young Wolf | Infinite colorless mana; Infinite death triggers; +5 more results; +1 other prerequisite | 3599
+Myrkul, Lord of Bones + Ondu Spiritdancer + Eidolon of Blossoms | Infinite card draw; Infinite draw triggers; Infinite copies of a specific creature; +1 other prerequisite | 3473
+Glacial Chasm + Thalia and The Gitrog Monster + Crucible of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 3411
+Glacial Chasm + Thalia and The Gitrog Monster + Conduit of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 3350
+Betor, Kin to All + Wound Reflection | Infinite lifeloss; +1 other prerequisite | 3304
+Bartolomé del Presidio + Warden of the Grove | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 3135
+Samwise Gamgee + Cauldron Familiar + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite death triggers; +6 more results; +1 other prerequisite | 3098
+Myrkul, Lord of Bones + Ondu Spiritdancer + Setessan Champion | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 3049
+Saffi Eriksdotter + Viscera Seer + Karmic Guide | Infinite death triggers; Infinite creature ETB; +2 more results | 3047
+Carrion Feeder + Good-Fortune Unicorn | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 3045
+Kodama of the East Tree + Golgari Rot Farm + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 3023
+Ghave, Guru of Spores + Mazirek, Kraul Death Priest + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 2992
+Warren Soultrader + Cauldron Familiar + Samwise Gamgee | Infinite artifact ETB; Infinite artifact LTB; +11 more results; +1 other prerequisite | 2854
+Ghave, Guru of Spores + Parallel Lives + Ashnod's Altar | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2805
+Ghave, Guru of Spores + Good-Fortune Unicorn + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 2802
+Myrkul, Lord of Bones + Ondu Spiritdancer + Archon of Sun's Grace | Infinite creature tokens; Infinite creature ETB; Infinite copies of a specific creature; +1 other prerequisite | 2779
+Ghave, Guru of Spores + Rosie Cotton of South Lane + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 2658
+Saffi Eriksdotter + Reveillark + Viscera Seer | Infinite death triggers; Infinite creature ETB; +3 more results | 2646
+Kodama of the East Tree + Selesnya Sanctuary + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 2577
+Ghave, Guru of Spores + Ashnod's Altar + Chatterfang, Squirrel General | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2525
+Myrkul, Lord of Bones + Ondu Spiritdancer + Grim Guardian | Infinite lifeloss; Infinite copies of a specific creature; +1 other prerequisite | 2515
+Viscera Seer + Good-Fortune Unicorn | Infinite creature ETB; Infinite creature LTB; +3 more results | 2506
+Tayam, Luminous Enigma + Promise of Bunrei + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +6 more results; +1 other prerequisite | 2463
+Glacial Chasm + Thalia and The Gitrog Monster + Walk-In Closet // Forgotten Cellar | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 2439
+Ghave, Guru of Spores + Mazirek, Kraul Death Priest + Utopia Mycon | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 2301
+Bartolomé del Presidio + Good-Fortune Unicorn | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 2272
+Ghave, Guru of Spores + Anointed Procession + Ashnod's Altar | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2176
+Saffi Eriksdotter + Sun Titan + Viscera Seer | Infinite creature LTB; Infinite creature ETB; +3 more results | 2170
+Ghave, Guru of Spores + Utopia Mycon + Good-Fortune Unicorn | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2144
+Ghave, Guru of Spores + Cryptic Trilobite + Hardened Scales | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2100
+Kodama of the East Tree + Golgari Rot Farm + Felidar Retreat | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2079
+Ghave, Guru of Spores + Cryptic Trilobite + Good-Fortune Unicorn | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2008
+Ghave, Guru of Spores + Cryptic Trilobite + Cathars' Crusade | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 1996
+Saffi Eriksdotter + Carrion Feeder + Karmic Guide | Infinite +1/+1 counters on a creature; Infinite death triggers; +2 more results | 1990
+Wall of Roots + Agatha's Soul Cauldron + Tayam, Luminous Enigma + Ashnod's Altar + Orcish Bowmasters | Infinite creature ETB; Infinite creature LTB; +6 more results | 1943
+Kodama of the East Tree + Orzhov Basilica + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1942
+Ghave, Guru of Spores + Cryptic Trilobite + Corpsejack Menace | Infinite creature ETB; Infinite creature LTB; +2 more results; +1 other prerequisite | 1926
+Kodama of the East Tree + Scute Swarm + Orzhov Basilica | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB | 1865
+Ghave, Guru of Spores + Pitiless Plunderer + Parallel Lives | Infinite creature tokens; Infinite death triggers; +3 more results; +1 other prerequisite | 1808
+Ghave, Guru of Spores + Cathars' Crusade + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 1805
+Ghave, Guru of Spores + Cryptic Trilobite + Mazirek, Kraul Death Priest | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 1794
+Ghave, Guru of Spores + Basking Broodscale + Doubling Season | Infinite death triggers; Infinite creature ETB; +4 more results; +1 other prerequisite | 1766
+Saffi Eriksdotter + Reveillark + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite death triggers; +3 more results | 1757
+Ghave, Guru of Spores + Doubling Season + Cryptic Trilobite | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +5 more results; +1 other prerequisite | 1753
+Kodama of the East Tree + Tireless Provisioner + Orzhov Basilica | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 1738
+Ghave, Guru of Spores + Ashnod's Altar + Mondrak, Glory Dominus | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 1736
+Samwise Gamgee + Cauldron Familiar + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +6 more results; +1 other prerequisite | 1612
+Ghave, Guru of Spores + Cryptic Trilobite + Winding Constrictor | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 1582
+Myrkul, Lord of Bones + Cinderhaze Wretch + Jaheira, Friend of the Forest | Infinite green mana | 1579
+Slimefoot, the Stowaway + Ashnod's Altar + Anointed Procession | Infinite damage; Infinite death triggers; +5 more results | 1569
+Ghave, Guru of Spores + Basking Broodscale + Chatterfang, Squirrel General | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 1535
+Ghave, Guru of Spores + Ashnod's Altar + Primal Vigor | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 1520
+Ghave, Guru of Spores + Pitiless Plunderer + Anointed Procession | Infinite creature tokens; Infinite death triggers; +3 more results; +1 other prerequisite | 1512
+Ghave, Guru of Spores + Scurry Oak + Ashnod's Altar | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 1481
+Anikthea, Hand of Erebos + Three Blind Mice + Doubling Season | Infinite copies of tokens you control; Infinite creature tokens; +2 more results; +1 other prerequisite | 1452
+Kodama of the East Tree + Felidar Retreat + Orzhov Basilica | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 1414
+Ghave, Guru of Spores + Mazirek, Kraul Death Priest + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 1411
+Sam, Loyal Attendant + Warren Soultrader + Academy Manufactor + Experimental Confectioner | Infinite artifact tokens; Infinite creature LTB; +6 more results; +1 other prerequisite | 1404
+Ghave, Guru of Spores + Ivy Lane Denizen + Ashnod's Altar | Infinite death triggers; Infinite creature ETB; +5 more results; +1 other prerequisite | 1399
+Ghave, Guru of Spores + Cryptic Trilobite + Hardened Scales + Winding Constrictor | Infinite +1/+1 counters on a creature; Infinite colorless mana that can only be spent to activate abilities; +5 more results; +1 other prerequisite | 1360
+Pulmonic Sliver + Basal Sliver + Realmwalker | Infinite creature LTB; Infinite creature ETB; Infinite storm count | 1358
+Ghave, Guru of Spores + Rosie Cotton of South Lane + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 1325
+Ghave, Guru of Spores + Good-Fortune Unicorn + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 1325
+Ghave, Guru of Spores + Young Wolf + Cryptic Trilobite | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +4 more results; +1 other prerequisite | 1323
+Ghave, Guru of Spores + Pitiless Plunderer + Mondrak, Glory Dominus | Infinite creature tokens; Infinite death triggers; +3 more results; +1 other prerequisite | 1322
+Ghave, Guru of Spores + Cryptic Trilobite + Conclave Mentor | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 1293
+Saffi Eriksdotter + Sun Titan + Carrion Feeder | Infinite creature LTB; Infinite creature ETB; +3 more results | 1262
+Slimefoot, the Stowaway + Ashnod's Altar + Mondrak, Glory Dominus | Infinite damage; Infinite death triggers; +5 more results | 1249
+Kodama of the East Tree + Field of the Dead + Orzhov Basilica | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1245
+The Necrobloom + Fluctuator | Infinite self-mill; Near-infinite self-discard triggers | 1245
+Ghave, Guru of Spores + Ashnod's Altar + Young Wolf + Zulaport Cutthroat | Infinite colorless mana; Infinite creature tokens; +8 more results; +1 other prerequisite | 1184
+Ghave, Guru of Spores + Basking Broodscale + Parallel Lives | Infinite death triggers; Infinite creature ETB; +4 more results; +1 other prerequisite | 1182
+Ghave, Guru of Spores + Ashnod's Altar + Young Wolf + Blood Artist | Infinite colorless mana; Infinite creature tokens; +8 more results; +1 other prerequisite | 1156
+Samwise Gamgee + Cauldron Familiar + Bartolomé del Presidio | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 1129
+Ghave, Guru of Spores + Cryptic Trilobite + Hardened Scales + Conclave Mentor | Infinite +1/+1 counters on a creature; Infinite colorless mana that can only be spent to activate abilities; +5 more results; +1 other prerequisite | 1114
+Ghave, Guru of Spores + Geralf's Messenger + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +6 more results | 1107
+Tayam, Luminous Enigma + Weaponcraft Enthusiast + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +5 more results | 1090
+Master Chef + Bartolomé del Presidio | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 1070
+Kodama of the East Tree + Orzhov Basilica + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1047
+Warren Soultrader + Elas il-Kor, Sadistic Pilgrim + Chatterfang, Squirrel General | Infinite artifact ETB; Infinite artifact LTB; +10 more results; +1 other prerequisite | 1037
+Kodama of the East Tree + Orzhov Basilica + Rampaging Baloths | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 1033
+Samwise Gamgee + Cauldron Familiar + Phyrexian Altar | Infinite colored mana; Infinite death triggers; +6 more results; +1 other prerequisite | 1007
+Ghave, Guru of Spores + Cryptic Trilobite + Branching Evolution | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 1007
+Ghave, Guru of Spores + Cryptic Trilobite + Conclave Mentor + Winding Constrictor | Infinite +1/+1 counters on a creature; Infinite colorless mana that can only be spent to activate abilities; +5 more results; +1 other prerequisite | 1004
+Ghave, Guru of Spores + Pitiless Plunderer + Primal Vigor | Infinite creature tokens; Infinite death triggers; +3 more results; +1 other prerequisite | 999
+Tayam, Luminous Enigma + Wall of Roots + Ashnod's Altar + Winding Constrictor | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 979
+Ghave, Guru of Spores + Juniper Order Ranger + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 952
+Ghave, Guru of Spores + Pitiless Plunderer + Teysa Karlov | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 929

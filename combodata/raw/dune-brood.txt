@@ -1,0 +1,99 @@
+Kodama of the East Tree + Gruul Turf + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 327
+Samwise Gamgee + Cauldron Familiar + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 235
+Kodama of the East Tree + Orzhov Basilica + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 164
+Kodama of the East Tree + Felidar Retreat + Rakdos Carnarium | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 159
+Kodama of the East Tree + Boros Garrison + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 145
+Kodama of the East Tree + Rakdos Carnarium + The Necrobloom | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 127
+Murderous Redcap + Good-Fortune Unicorn | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 87
+Kodama of the East Tree + Emeria Angel + Rakdos Carnarium | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 83
+Rhythm of the Wild + Bartolomé del Presidio | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 77
+Chatterfang, Squirrel General + Prosperous Partnership + Academy Manufactor | Infinite artifact ETB; Infinite artifact LTB; +12 more results; +1 other prerequisite | 72
+Mayael's Aria + Wall of Blood | Win the game at the beginning of your next upkeep; +1 other prerequisite | 65
+Goldspan Dragon + Flickering Ward + Korvold, Fae-Cursed King | Infinite card draw; Infinite storm count; +2 more results | 51
+Slimefoot and Squee + Pitiless Plunderer + Teysa Karlov + Goblin Bombardment | Infinite artifact ETB; Infinite artifact LTB; +9 more results; +1 other prerequisite | 45
+Kodama of the East Tree + Rakdos Carnarium + Retreat to Emeria | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 45
+Eirdu, Carrier of Dawn + Morselhoarder + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +4 more results | 41
+Shilgengar, Sire of Famine + Rhythm of the Wild | Infinite artifact tokens; Infinite Blood tokens; +4 more results; +1 other prerequisite | 33
+Murderous Redcap + Good-Fortune Unicorn + Ashnod's Altar | Infinite colorless mana; Infinite damage; +4 more results | 33
+Bartolomé del Presidio + Grumgully, the Generous | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 31
+Satsuki, the Living Lore + There and Back Again + Hex Parasite + Staff of Domination | Infinite artifact ETB; Infinite artifact LTB; +14 more results; +1 other prerequisite | 31
+Slimefoot and Squee + Pitiless Plunderer + Teysa Karlov + Viscera Seer | Infinite artifact ETB; Infinite artifact LTB; +9 more results; +1 other prerequisite | 28
+Mayael's Aria + Hatred | Win the game at the beginning of your next upkeep; +1 other prerequisite | 28
+Murderous Redcap + Good-Fortune Unicorn + Phyrexian Altar | Infinite colored mana; Infinite damage; +4 more results | 28
+Mayael's Aria + Dark Depths + Vampire Hexmage | Win the game at the beginning of your next upkeep | 26
+Ob Nixilis, Captive Kingpin + Shalai and Hallar | Exile your library; Infinite +1/+1 counters on a creature; Infinite damage; +1 other prerequisite | 26
+Mayael's Aria + Lord of Extinction | Win the game at the beginning of your next upkeep; +1 other prerequisite | 25
+Murderous Redcap + Juniper Order Ranger | Infinite creature LTB; Infinite creature ETB; +2 more results | 24
+Murderous Redcap + Good-Fortune Unicorn + Altar of Dementia | Infinite damage; Infinite death triggers; +4 more results | 22
+Mayael's Aria + Dark Depths + Mutated Cultist | Win the game at the beginning of your next upkeep | 21
+The Necrobloom + Surly Badgersaur | Infinite self-mill; Near-infinite self-discard triggers; +1 other prerequisite | 20
+Toph, the First Metalbender + Bumi, Unleashed + Ygra, Eater of All | Infinite combat damage; Infinite combat phases; +4 more results; +1 other prerequisite | 19
+Glacial Chasm + Thalia and The Gitrog Monster + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 19
+Saffi Eriksdotter + Body Launderer + Goblin Bombardment | Near-infinite damage; Infinite self-discard triggers; +6 more results | 18
+Breath of Fury + Dune-Brood Nephilim + Anger | Infinite combat damage; Infinite combat phases; +7 more results; +1 other prerequisite | 14
+Dihada, Binder of Wills + Luxior, Giada's Gift + Emiel the Blessed | Infinite self-mill; +1 other prerequisite | 14
+Jinnie Fay, Jetmir's Second + Pitiless Plunderer + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +3 more results; +1 other prerequisite | 14
+Toph, the First Metalbender + Toph, Hardheaded Teacher + Zuran Orb + Golgari Rot Farm | Infinite creature ETB; Infinite creature LTB; +8 more results | 13
+Saffi Eriksdotter + Sister Hospitaller + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +4 more results | 13
+Baylen, the Haymaker + Ant Queen + Chatterfang, Squirrel General + Mondrak, Glory Dominus | Infinite creature ETB; Infinite colored mana; +4 more results | 13
+Kodama of the East Tree + Maja, Bretagard Protector + Rakdos Carnarium | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 13
+Kodama of the East Tree + Nesting Dragon + Orzhov Basilica | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 13
+Kodama of the East Tree + Cadric, Soul Kindler + Orzhov Basilica | Infinite landfall triggers | 12
+Atla Palani, Nest Tender + Viscera Seer + Maskwood Nexus | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +1 other prerequisite | 12
+Slimefoot and Squee + Pitiless Plunderer + Bartolomé del Presidio | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results; +1 other prerequisite | 11
+Selvala, Heart of the Wilds + Emiel the Blessed + Garna, the Bloodflame | Infinite creature LTB; Infinite creature ETB; +2 more results | 11
+Baylen, the Haymaker + Ant Queen + Parallel Lives + Chatterfang, Squirrel General | Infinite creature ETB; Infinite colored mana; +4 more results | 11
+Slimefoot and Squee + Pitiless Plunderer + Teysa Karlov + Altar of Dementia | Infinite artifact ETB; Infinite artifact LTB; +10 more results; +1 other prerequisite | 11
+Mayael's Aria + Dark Depths + Aether Snap | Win the game at the beginning of your next upkeep | 11
+Kaya's Ghostform + Goblin Bombardment + Renegade Rallier | Infinite creature ETB; Infinite creature LTB; +3 more results | 10
+Baylen, the Haymaker + Ant Queen + Chatterfang, Squirrel General + Elspeth, Storm Slayer | Infinite creature ETB; Infinite colored mana; +4 more results | 10
+Baylen, the Haymaker + Ant Queen + Chatterfang, Squirrel General + Doubling Season | Infinite creature ETB; Infinite colored mana; +4 more results | 10
+Bhaal, Lord of Murder + Bartolomé del Presidio | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 10
+Breath of Fury + Dune-Brood Nephilim + Mass Hysteria | Infinite combat damage; Infinite combat phases; +7 more results; +1 other prerequisite | 10
+Atla Palani, Nest Tender + Shilgengar, Sire of Famine + Maskwood Nexus | Near-infinite artifact tokens; Near-infinite Blood tokens; +5 more results; +1 other prerequisite | 9
+Baylen, the Haymaker + Ant Queen + Anointed Procession + Chatterfang, Squirrel General | Infinite creature ETB; Infinite card draw; +4 more results | 9
+Mayael's Aria + Willowdusk, Essence Seer | Win the game at the beginning of your next upkeep; +1 other prerequisite | 9
+Slimefoot, the Stowaway + Ashnod's Altar + Zirda, the Dawnwaker | Infinite damage; Infinite death triggers; +5 more results | 9
+Ghave, Guru of Spores + Mana Echoes | Infinite colorless mana; Infinite death triggers; +3 more results; +1 other prerequisite | 9
+Shalai and Hallar + Karlov of the Ghost Council | Infinite +1/+1 counters on a creature; Infinite damage; +2 more results; +1 other prerequisite | 8
+Samwise Gamgee + Cauldron Familiar + Evereth, Viceroy of Plunder | Infinite +1/+1 counters on a creature; Infinite creature ETB; +7 more results; +1 other prerequisite | 8
+Atla Palani, Nest Tender + Ashnod's Altar + Conspiracy | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +1 other prerequisite | 8
+Saffi Eriksdotter + Goblin Bombardment + Metamorphosis Fanatic | Infinite creature LTB; Infinite creature ETB; +2 more results | 8
+Eirdu, Carrier of Dawn + Morselhoarder + Phyrexian Altar | Infinite creature LTB; Infinite creature ETB; +3 more results | 8
+Baylen, the Haymaker + Ant Queen + Ojer Taq, Deepest Foundation + Chatterfang, Squirrel General | Infinite creature ETB; Infinite colored mana; +5 more results | 8
+Evereth, Viceroy of Plunder + Good-Fortune Unicorn | Infinite +1/+1 counters on a creature; Infinite creature ETB; +4 more results | 7
+Toph, the First Metalbender + Toph, Hardheaded Teacher + Zuran Orb + Orzhov Basilica | Infinite creature ETB; Infinite creature LTB; +8 more results | 7
+Requiem Angel + Goblin Bombardment + Chatterfang, Squirrel General | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 7
+Eirdu, Carrier of Dawn + Melira, Sylvok Outcast + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +3 more results | 7
+Baylen, the Haymaker + Ant Queen + Chatterfang, Squirrel General + Exalted Sunborn | Infinite creature ETB; Infinite colored mana; +4 more results | 7
+Havi, the All-Father + Saffi Eriksdotter + Bartolomé del Presidio | Infinite creature LTB; Infinite creature ETB; +3 more results | 7
+Shilgengar, Sire of Famine + Jinnie Fay, Jetmir's Second | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 7
+Slimefoot and Squee + Pitiless Plunderer + Teysa Karlov + Carrion Feeder | Infinite artifact ETB; Infinite artifact LTB; +9 more results; +1 other prerequisite | 7
+Jinnie Fay, Jetmir's Second + Pitiless Plunderer + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results; +1 other prerequisite | 7
+Ghave, Guru of Spores + Grumgully, the Generous + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 7
+Aftermath Analyst + Takenuma, Abandoned Mire + Squandered Resources + Boros Garrison | Infinite colored mana; Infinite creature ETB; +7 more results; +1 other prerequisite | 6
+Toph, the First Metalbender + Toph, Hardheaded Teacher + Zuran Orb + Rakdos Carnarium | Infinite creature ETB; Infinite creature LTB; +8 more results | 6
+Kodama of the East Tree + Rakdos Carnarium + Cadric, Soul Kindler | Infinite landfall triggers | 6
+Atla Palani, Nest Tender + Maskwood Nexus + Carrion Feeder | Near-infinite +1/+1 counters on a creature; Near-infinite creature ETB; +4 more results; +1 other prerequisite | 6
+Eirdu, Carrier of Dawn + Morselhoarder + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +4 more results | 6
+Szarel, Genesis Shepherd + Bartolomé del Presidio | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 6
+Havi, the All-Father + Saffi Eriksdotter + Yahenni, Undying Partisan | Infinite creature LTB; Infinite creature ETB; +2 more results | 6
+Yurlok of Scorch Thrash + Umbral Mantle + Zirda, the Dawnwaker | Draw the game; Infinite black mana for all players; +4 more results; +1 other prerequisite | 6
+Breath of Fury + Dune-Brood Nephilim + Fervor | Infinite combat damage; Infinite combat phases; +7 more results; +1 other prerequisite | 6
+Satsuki, the Living Lore + There and Back Again + Hex Parasite + Umbral Mantle | Infinite artifact ETB; Infinite artifact LTB; +14 more results; +1 other prerequisite | 6
+Jinnie Fay, Jetmir's Second + Pitiless Plunderer + Phyrexian Altar | Infinite colored mana; Infinite death triggers; +3 more results; +1 other prerequisite | 6
+Kodama of the East Tree + Toggo, Goblin Weaponsmith + Orzhov Basilica | Infinite artifact tokens; Infinite landfall triggers; Infinite Rock tokens; +1 other prerequisite | 6
+Saffi Eriksdotter + Crypt Champion | Infinite death triggers; Infinite creature ETB; +2 more results | 6
+Guilty Conscience + Indoraptor, the Perfect Hybrid | Infinite damage; +1 other prerequisite | 5
+Kodama of the East Tree + Golgari Rot Farm + Cadric, Soul Kindler | Infinite landfall triggers | 5
+Atla Palani, Nest Tender + Goblin Bombardment + Conspiracy | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +1 other prerequisite | 5
+Saffi Eriksdotter + Sister Hospitaller + Thermopod | Infinite creature LTB; Infinite creature ETB; +4 more results | 5
+Beifong's Bounty Hunters + Goblin Bombardment + Felidar Retreat | Infinite creature LTB; Infinite creature ETB; +4 more results; +2 other prerequisites | 5
+Beifong's Bounty Hunters + Goblin Bombardment + Retreat to Emeria | Infinite creature LTB; Infinite creature ETB; +4 more results; +2 other prerequisites | 5
+Selvala, Heart of the Wilds + Slimefoot and Squee + Bartolomé del Presidio + Tyvar, Jubilant Brawler | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 5
+Selvala, Heart of the Wilds + Slimefoot and Squee + Thermopod + Samut, Voice of Dissent | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 5
+Selvala, Heart of the Wilds + Slimefoot and Squee + Samut, Voice of Dissent + Bartolomé del Presidio | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 5
+Luminous Broodmoth + Pitiless Plunderer + Slimefoot and Squee + Goblin Bombardment | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 5
+Dune-Brood Nephilim + Aggravated Assault + Phyrexian Altar | Infinite colored mana; Infinite combat damage; +8 more results; +1 other prerequisite | 5
+Toph, the First Metalbender + Zuran Orb + Biotransference | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 4
+Toph, the First Metalbender + Haru, Hidden Talent + Viscera Seer + Maskwood Nexus | Infinite artifact ETB; Infinite artifact LTB; +7 more results; +1 other prerequisite | 4

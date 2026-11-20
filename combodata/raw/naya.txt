@@ -1,0 +1,99 @@
+Apex Altisaur + Wrathful Raptors + Akroma's Will | Destroy all creatures opponents control; Near-infinite damage | 25908
+Toph, the First Metalbender + The Stasis Coffin | Prevent all damage that would be dealt to you; You have protection from everything during your opponents' turns; Lock | 15601
+Toph, the First Metalbender + Bumi, Unleashed + Liquimetal Torque | Infinite combat phases; Infinite mana lands you control can produce; +4 more results; +1 other prerequisite | 11123
+Atla Palani, Nest Tender + Ashnod's Altar + Maskwood Nexus | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +1 other prerequisite | 8487
+Atla Palani, Nest Tender + Goblin Bombardment + Maskwood Nexus | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +1 other prerequisite | 8118
+Toph, the First Metalbender + Mindslaver | You control one opponent on each of their turns; Lock | 7185
+The Red Terror + Shalai and Hallar | Infinite damage; +1 other prerequisite | 6788
+Toph, the First Metalbender + Bumi, Unleashed + Liquimetal Coating | Infinite combat phases; Infinite mana lands you control can produce; +4 more results; +1 other prerequisite | 6597
+Apex Altisaur + Wrathful Raptors + Flawless Maneuver | Destroy all creatures opponents control; Near-infinite damage | 6558
+Atla Palani, Nest Tender + Thornbite Staff + Ashnod's Altar | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 6315
+Wayta, Trainer Prodigy + Cacophodon | Infinite untap of permanents you control; Infinite damage; Infinite mana permanents you control can produce; +1 other prerequisite | 5924
+Toph, the First Metalbender + Bumi, Unleashed + Mycosynth Lattice | Infinite colored mana; Infinite combat phases; +5 more results; +1 other prerequisite | 5856
+Toph, the First Metalbender + Zuran Orb + Mycosynth Lattice | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 5662
+Wayta, Trainer Prodigy + Boros Reckoner | Infinite damage; +1 other prerequisite | 5350
+Toph, the First Metalbender + Springheart Nantuko + Lotus Cobra | Infinite landfall triggers; Infinite tapped land tokens; +1 other prerequisite | 5112
+Toph, the First Metalbender + Springheart Nantuko + Tireless Provisioner | Infinite landfall triggers; Infinite tapped land tokens; +1 other prerequisite | 4763
+Wayta, Trainer Prodigy + Cacophodon + Brash Taunter | Infinite damage; +1 other prerequisite | 4604
+Kodama of the East Tree + Gruul Turf + Felidar Retreat | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 4258
+Wayta, Trainer Prodigy + Siegehorn Ceratops + Cacophodon | Infinite +1/+1 counters on a creature; +1 other prerequisite | 4200
+Shalai and Hallar + Heliod, Sun-Crowned | Infinite damage; Infinite lifegain; +2 more results; +1 other prerequisite | 4149
+Kodama of the East Tree + Selesnya Sanctuary + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 4115
+Toph, the First Metalbender + Mycosynth Lattice + Sylvan Safekeeper | Infinite creature ETB; Infinite creature LTB; +4 more results | 4114
+Wayta, Trainer Prodigy + Cacophodon + Polyraptor | Infinite creature tokens; Infinite death triggers; +2 more results; +1 other prerequisite | 3982
+Atla Palani, Nest Tender + Phyrexian Altar + Maskwood Nexus | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +1 other prerequisite | 3644
+Atla Palani, Nest Tender + Life Finds a Way + Ashnod's Altar | Put all creature cards from your library onto the battlefield; +1 other prerequisite | 3608
+Baylen, the Haymaker + Aggravated Assault | Infinite colored mana; Infinite combat phases; +5 more results; +1 other prerequisite | 3588
+Atla Palani, Nest Tender + Mirror Entity + Worldspine Wurm | Infinite death triggers; Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 3546
+Zacama, Primal Calamity + Temur Sabertooth | Destroy all artifacts and enchantments opponents control; Infinite damage to creatures; +7 more results; +1 other prerequisite | 3060
+Wayta, Trainer Prodigy + Spitemare | Infinite damage; +1 other prerequisite | 3009
+Atla Palani, Nest Tender + Life Finds a Way + Goblin Bombardment | Put all creature cards from your library onto the battlefield; +1 other prerequisite | 2999
+Wayta, Trainer Prodigy + Boros Reckoner + Rite of Passage | Infinite +1/+1 counters on certain creatures; Infinite damage; +1 other prerequisite | 2980
+Kodama of the East Tree + Scute Swarm + Boros Garrison | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 2920
+Wayta, Trainer Prodigy + Blazing Sunsteel | Infinite damage; +2 other prerequisites | 2884
+Kodama of the East Tree + Omnath, Locus of Rage + Boros Garrison | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2629
+Kodama of the East Tree + Felidar Retreat + Boros Garrison | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2618
+War Elemental + Shalai and Hallar | Infinite damage; +1 other prerequisite | 2561
+Toph, the First Metalbender + Gonti's Aether Heart | Infinite turns; Lock; +1 other prerequisite | 2534
+Kodama of the East Tree + Tireless Provisioner + Boros Garrison | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 2447
+Wayta, Trainer Prodigy + Ill-Tempered Loner | Infinite damage; +1 other prerequisite | 2291
+Kodama of the East Tree + Rampaging Baloths + Boros Garrison | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2256
+Atla Palani, Nest Tender + Blasting Station + Maskwood Nexus | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +1 other prerequisite | 2163
+Ghired, Mirror of the Wilds + Village Bell-Ringer | Infinite creature ETB; Infinite creature tokens; +2 more results; +1 other prerequisite | 2086
+Ghired, Mirror of the Wilds + Midnight Guard | Infinite copies of creature tokens you control that entered the battlefield this turn; Infinite creature tokens; Infinite creature ETB; +1 other prerequisite | 2069
+Marath, Will of the Wild + Cryptic Trilobite + Hardened Scales | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +3 more results; +1 other prerequisite | 1910
+Wayta, Trainer Prodigy + Spitemare + Rite of Passage | Infinite +1/+1 counters on certain creatures; Infinite damage; +1 other prerequisite | 1751
+Apex Altisaur + Wrathful Raptors + Unbreakable Formation | Destroy all creatures opponents control; Near-infinite damage | 1716
+Atla Palani, Nest Tender + Altar of Dementia + Maskwood Nexus | Near-infinite creature ETB; Near-infinite creature LTB; +5 more results; +1 other prerequisite | 1679
+Toph, the First Metalbender + Candelabra of Tawnos + Gaea's Cradle | Infinite mana lands you control can produce; Infinite green mana; +3 more results; +1 other prerequisite | 1656
+Toph, the First Metalbender + Candelabra of Tawnos + Mana Vault | Infinite colorless mana; Infinite mana lands you control can produce; +3 more results | 1635
+Atla Palani, Nest Tender + Life Finds a Way + Phyrexian Altar | Put all creature cards from your library onto the battlefield; +1 other prerequisite | 1626
+Marath, Will of the Wild + Cryptic Trilobite + Conclave Mentor | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +3 more results; +1 other prerequisite | 1590
+Mayael's Aria + Conclave Sledge-Captain | Win the game at the beginning of your next upkeep; +1 other prerequisite | 1567
+Zacama, Primal Calamity + Sanctum of Eternity | Destroy all artifacts and enchantments opponents control; Infinite damage to creatures; +7 more results; +1 other prerequisite | 1550
+Kodama of the East Tree + Gruul Turf + Emeria Angel | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens | 1503
+Shalai and Hallar + Archangel of Thune | Infinite damage; Infinite lifegain; +2 more results; +1 other prerequisite | 1412
+Toph, the First Metalbender + Toph, Hardheaded Teacher + Zuran Orb + Gruul Turf | Infinite creature ETB; Infinite creature LTB; +8 more results | 1369
+Jinnie Fay, Jetmir's Second + Academy Manufactor + Prosperous Partnership | Infinite tapped creature tokens; Infinite creature ETB; +1 other prerequisite | 1340
+Toph, the First Metalbender + Toph, Hardheaded Teacher + Zuran Orb + Selesnya Sanctuary | Infinite creature ETB; Infinite creature LTB; +8 more results | 1320
+Kodama of the East Tree + Zendikar's Roil + Boros Garrison | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1316
+Atla Palani, Nest Tender + Mirror Entity + Ulamog, the Infinite Gyre | Infinite death triggers; Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 1314
+Marath, Will of the Wild + Ashnod's Altar + Hardened Scales | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 1176
+Kodama of the East Tree + Emeria Angel + Boros Garrison | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 1127
+Selvala, Heart of the Wilds + Emiel the Blessed + Samut, Voice of Dissent | Infinite creature LTB; Infinite creature ETB; +2 more results | 1124
+Marath, Will of the Wild + Cryptic Trilobite + Branching Evolution | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +3 more results; +1 other prerequisite | 1124
+Kodama of the East Tree + Boros Garrison + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1109
+Toph, the First Metalbender + Springheart Nantuko + Nissa, Resurgent Animist | Infinite landfall triggers; Infinite tapped land tokens; +1 other prerequisite | 1104
+Shalai and Hallar + Exemplar of Light | Infinite +1/+1 counters on a creature; Infinite damage; +2 more results; +1 other prerequisite | 1101
+Toph, the First Metalbender + Candelabra of Tawnos + Lotus Field | Infinite colored mana; Infinite mana lands you control can produce; +3 more results | 1089
+Toph, the First Metalbender + Candelabra of Tawnos + Grim Monolith | Infinite colorless mana; Infinite mana lands you control can produce; +3 more results | 1081
+Kodama of the East Tree + Field of the Dead + Boros Garrison | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1079
+Marath, Will of the Wild + Ozolith, the Shattered Spire + Cryptic Trilobite | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +3 more results; +1 other prerequisite | 1054
+Kodama of the East Tree + Tireless Tracker + Boros Garrison | Infinite artifact tokens; Infinite Clue tokens; Infinite landfall triggers; +1 other prerequisite | 1010
+Marath, Will of the Wild + Cathars' Crusade + Cryptic Trilobite | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +2 more results; +1 other prerequisite | 980
+Marath, Will of the Wild + Ashnod's Altar + Conclave Mentor | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 969
+Atla Palani, Nest Tender + Life Finds a Way + Blasting Station | Put all creature cards from your library onto the battlefield; +1 other prerequisite | 968
+Toph, the First Metalbender + Krark-Clan Ironworks + Mycosynth Lattice | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 963
+Toph, the First Metalbender + Toph, Hardheaded Teacher + Zuran Orb + Boros Garrison | Infinite creature ETB; Infinite creature LTB; +8 more results | 962
+Preston Garvey, Minuteman + Aggravated Assault | Infinite combat phases; Infinite mana creatures you control can produce; +2 more results; +1 other prerequisite | 960
+Atla Palani, Nest Tender + Mirror Entity + Kozilek, Butcher of Truth | Infinite death triggers; Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 942
+The Unbeatable Squirrel Girl + Baylen, the Haymaker | Infinite draw triggers; Infinite +1/+1 counters on a creature; +4 more results; +1 other prerequisite | 940
+Toph, the First Metalbender + Candelabra of Tawnos + Basalt Monolith | Infinite colorless mana; Infinite mana lands you control can produce; +3 more results | 925
+Apex Altisaur + Wrathful Raptors + Rootborn Defenses | Destroy all creatures opponents control; Near-infinite damage | 877
+Ghired, Mirror of the Wilds + Sunstrike Legionnaire | Infinite creature ETB; Infinite creature tokens; Infinite copies of creature tokens you control that entered the battlefield this turn; +1 other prerequisite | 873
+Toph, the First Metalbender + Bumi, Unleashed + Ashnod's Transmogrant | Infinite combat phases; Infinite mana lands you control can produce; +4 more results; +1 other prerequisite | 869
+Monk Gyatso + Zacama, Primal Calamity | Destroy all artifacts and enchantments opponents control; Infinite damage to creatures; +8 more results; +1 other prerequisite | 866
+Marath, Will of the Wild + Cathars' Crusade + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results; +1 other prerequisite | 866
+Saffi Eriksdotter + Cadric, Soul Kindler + Relic of Legends | Infinite colored mana; Infinite death triggers; +3 more results | 827
+Marath, Will of the Wild + Mana Echoes + Hardened Scales | Infinite creature ETB; Infinite +1/+1 counters on creatures you control; +4 more results; +1 other prerequisite | 827
+Marath, Will of the Wild + Ivy Lane Denizen + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +4 more results | 817
+Jinnie Fay, Jetmir's Second + Ojer Taq, Deepest Foundation + Prosperous Partnership | Infinite creature ETB; Infinite tapped creature tokens; +1 other prerequisite | 802
+Marath, Will of the Wild + Ashnod's Altar + Branching Evolution | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 784
+Toph, the First Metalbender + Caged Sun | Draw the game; +1 other prerequisite | 726
+Marath, Will of the Wild + Cryptic Trilobite + Doubling Season | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +3 more results; +1 other prerequisite | 717
+Samut, the Driving Force + Sprout Swarm | Infinite creature ETB; Infinite storm count; +2 more results; +1 other prerequisite | 711
+Marath, Will of the Wild + Doubling Season + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +7 more results; +1 other prerequisite | 708
+Jinnie Fay, Jetmir's Second + Requiem Angel + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results; +1 other prerequisite | 694
+Shalai and Hallar + Cleric Class | Infinite damage; Infinite lifegain; +2 more results; +1 other prerequisite | 680
+Marath, Will of the Wild + Cryptic Trilobite + Lae'zel, Vlaakith's Champion | Infinite colorless mana that can only be spent to activate abilities; Infinite creature tokens; +3 more results; +1 other prerequisite | 672
+Toph, the First Metalbender + Blossoming Tortoise + Basalt Monolith | Infinite colorless mana | 670

@@ -1,0 +1,100 @@
+Aurelia, the Warleader + Helm of the Host | Infinite combat phases; Infinite creature tokens with haste; +1 other prerequisite; +3 more results | 32196
+Dragon Tempest + Ancient Gold Dragon | Near-infinite damage; +1 other prerequisite | 28384
+Smothering Tithe + Underworld Breach + Wheel of Fortune | Infinite draw triggers for all players; Infinite looting for all players; +1 other prerequisite; +3 more results | 25886
+Boros Reckoner + Boros Charm | Infinite lifegain; Infinite lifegain triggers; +1 other prerequisite | 14093
+The Jolly Balloon Man + Village Bell-Ringer | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +5 more results | 14082
+Kiki-Jiki, Mirror Breaker + Village Bell-Ringer | Infinite creature tokens with haste; Infinite death triggers; +5 more results | 12829
+Kiki-Jiki, Mirror Breaker + Felidar Guardian | Infinite creature tokens with haste; Infinite death triggers; +3 more results | 12607
+Aurelia, the Warleader + Sword of Hearth and Home | Infinite combat damage; Infinite combat phases; +1 other prerequisite; +3 more results | 12480
+Zirda, the Dawnwaker + Basalt Monolith | Infinite colorless mana | 10215
+Automated Assembly Line + Gonti's Aether Heart + Aether Refinery | Infinite creature tokens; Infinite energy counters; Infinite creature ETB; +1 other prerequisite | 9544
+Cathars' Crusade + Goblin Bombardment | Infinite +1/+1 counters on most creatures you control; Infinite creature ETB; +4 more results | 8269
+Dualcaster Mage + Ephemerate | Infinite creature ETB; Infinite creature LTB; Infinite magecraft triggers; +1 other prerequisite | 7257
+Ragost, Deft Gastronaut + Nuka-Cola Vending Machine + Krark-Clan Ironworks | Infinite artifact ETB; Infinite artifact LTB; Infinite colorless mana; +1 other prerequisite | 6736
+Kiki-Jiki, Mirror Breaker + Restoration Angel | Infinite creature tokens with haste; Infinite death triggers; +3 more results | 5836
+Luminous Broodmoth + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +3 more results | 5660
+Emrakul's Hatcher + Eldrazi Displacer | Infinite death triggers; Infinite creature ETB; +2 more results | 5490
+Dualcaster Mage + Cloudshift | Infinite creature ETB; Infinite creature LTB; Infinite magecraft triggers; +1 other prerequisite | 5419
+Donna Noble + Boros Reckoner | Infinite damage; +2 other prerequisites | 4650
+Karmic Guide + Reveillark + Goblin Bombardment | Infinite damage; Infinite death triggers; +4 more results | 4620
+Gisela, Blade of Goldnight + Heartless Hidetsugu | Each opponent with an even life total loses the game; Near-infinite damage; +1 other prerequisite | 4497
+Guilty Conscience + Brash Taunter | Infinite damage to one opponent; +1 other prerequisite | 4375
+The Jolly Balloon Man + Ertha Jo, Frontier Mentor + Zealous Conscripts | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +3 more results | 4304
+Fiendlash + Boros Reckoner | Infinite damage; +1 other prerequisite | 4253
+Arcbond + Pariah | Infinite damage; +1 other prerequisite | 4203
+Zirda, the Dawnwaker + Grim Monolith | Infinite colorless mana | 4180
+Storm Herd + Impact Tremors | Near-infinite creature ETB; Near-infinite creature tokens; Near-infinite damage | 4082
+Kiki-Jiki, Mirror Breaker + Goblin Bombardment + Karmic Guide | Infinite creature tokens with haste; Infinite damage; +4 more results | 4029
+The Jolly Balloon Man + Coercive Recruiter | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +4 more results | 3761
+Brion Stoutarm + Serra Avatar | Near-infinite damage to one opponent; Near-infinite lifegain; Target opponent loses the game; +1 other prerequisite | 3695
+The Jolly Balloon Man + Ashnod's Altar + Village Bell-Ringer | Infinite creature ETB; Infinite creature LTB; +6 more results | 3522
+Gleaming Splendor + Smothering Tithe + Goldspan Dragon | Infinite card draw for any number of players; Infinite draw triggers for any number of players; +1 other prerequisite; +5 more results | 3497
+Donna Noble + Spitemare | Infinite damage; +2 other prerequisites | 3493
+Guilty Conscience + Boros Reckoner | Infinite damage; +1 other prerequisite | 3422
+Felidar Guardian + Cursed Mirror | Infinite creature ETB; Infinite creature LTB | 3413
+Goblin Bombardment + Dualcaster Mage + Sevinne's Reclamation | Infinite damage; Infinite death triggers; +1 other prerequisite; +4 more results | 3401
+Ragost, Deft Gastronaut + Nuka-Cola Vending Machine + Grinding Station | Infinite artifact ETB; Infinite artifact LTB; +1 other prerequisite; +2 more results | 3323
+Arabella, Abandoned Doll + Storm Herd | Near-infinite damage; Near-infinite lifegain; +1 other prerequisite; +2 more results | 3308
+The Jolly Balloon Man + Ertha Jo, Frontier Mentor + Restoration Angel | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +3 more results | 3268
+Gleaming Splendor + Smothering Tithe + Xorn | Infinite card draw for any number of players; Infinite draw triggers for any number of players; +1 other prerequisite; +5 more results | 3181
+Brion Stoutarm + Soul of Eternity | Near-infinite damage to one opponent; Near-infinite lifegain; Target opponent loses the game; +1 other prerequisite | 3126
+Goblin Bombardment + Felidar Guardian + Karmic Guide | Infinite creature LTB; Infinite creature ETB; +3 more results | 3045
+Kiki-Jiki, Mirror Breaker + Ashnod's Altar + Karmic Guide | Infinite colorless mana; Infinite creature tokens with haste; +4 more results | 2881
+Fiendlash + Spitemare | Infinite damage; +1 other prerequisite | 2652
+Sensei's Divining Top + Mystic Forge + Sami, Wildcat Captain | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 2573
+Altar of Dementia + Dualcaster Mage + Sevinne's Reclamation | Infinite creature ETB; Infinite death triggers; +1 other prerequisite; +5 more results | 2431
+Devastating Onslaught + Exalted Sunborn | Infinite copies of all tokens you control; +1 other prerequisite | 2366
+Splinter Twin + Village Bell-Ringer | Infinite creature tokens with haste; Infinite creature ETB; +1 other prerequisite; +2 more results | 2351
+Fling + Serra Avatar | Near-infinite damage to one opponent; Target opponent loses the game; +1 other prerequisite | 2323
+Teferi's Protection + Obliterate | Mass Land Denial; Destroy all lands, creatures, and artifacts your opponents control | 2307
+Godo, Bandit Warlord + Ardenn, Intrepid Archaeologist + Sword of Hearth and Home | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +5 more results | 2299
+Guilty Conscience + Spitemare | Infinite damage; +1 other prerequisite | 2247
+Fable of the Mirror-Breaker + Village Bell-Ringer | Infinite creature tokens with haste; Infinite creature ETB; +1 other prerequisite; +2 more results | 2218
+Dawnsire, Sunstar Dreadnought + Boros Reckoner | Near-infinite damage to one opponent; +2 other prerequisites | 2206
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sami, Wildcat Captain | Infinite artifact ETB; Infinite artifact LTB; +7 more results | 2162
+Fling + Soul of Eternity | Near-infinite damage to one opponent; Target opponent loses the game; +1 other prerequisite | 2118
+Teferi's Protection + Worldfire | Each opponent's life total becomes 1; Exile all cards in hands and graveyards; +2 more results | 2077
+Approach of the Second Sun + Wheel of Fortune | Win the game | 2037
+Goblin Bombardment + Fiend Hunter + Karmic Guide | Infinite damage; Infinite death triggers; +3 more results | 2002
+Spine of Ish Sah + Sami, Wildcat Captain | Infinite artifact ETB; Infinite artifact LTB; Infinite storm count; +1 other prerequisite | 1985
+The Jolly Balloon Man + Ertha Jo, Frontier Mentor + Felidar Guardian | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +3 more results | 1970
+Storm Herd + Molten Gatekeeper | Near-infinite creature ETB; Near-infinite creature tokens; Near-infinite damage | 1919
+Boros Reckoner + Shielded by Faith | Infinite lifegain; Infinite lifegain triggers; +1 other prerequisite | 1918
+Repercussion + Brash Taunter + Pariah | Infinite damage to one opponent; +1 other prerequisite | 1843
+Dualcaster Mage + Flicker | Infinite creature LTB; Infinite creature ETB; Infinite magecraft triggers; +1 other prerequisite | 1822
+Guilty Conscience + Screaming Nemesis | Infinite damage; +1 other prerequisite | 1794
+Guilty Conscience + Ill-Tempered Loner | Infinite damage; +1 other prerequisite | 1753
+Storm Herd + Agate Instigator | Near-infinite creature ETB; Near-infinite creature tokens; Near-infinite damage | 1747
+Kazuul's Fury + Serra Avatar | Near-infinite damage to one opponent; Target opponent loses the game; +1 other prerequisite | 1747
+Kazuul's Fury + Soul of Eternity | Near-infinite damage to one opponent; Target opponent loses the game; +1 other prerequisite | 1731
+Aurelia, the Warleader + Rionya, Fire Dancer | Infinite combat phases; Infinite death triggers; +1 other prerequisite; +4 more results | 1643
+Phyrexian Altar + Dualcaster Mage + Sevinne's Reclamation | Infinite colored mana; Infinite death triggers; +1 other prerequisite; +4 more results | 1620
+Storm Herd + Warleader's Call | Near-infinite creature ETB; Near-infinite creature tokens; Near-infinite damage | 1609
+Avacyn, Angel of Hope + Obliterate | Destroy all lands, creatures, and artifacts your opponents control; Mass Land Denial | 1561
+Guilty Conscience + Donna Noble | Infinite damage to one opponent; +1 other prerequisite | 1559
+Hellkite Charger + Sun Warriors | Infinite combat phases; Infinite red mana; +1 other prerequisite | 1558
+The Jolly Balloon Man + Combat Celebrant + Determined Iteration | Infinite creature ETB; Infinite creature LTB; +6 more results | 1502
+Dawnsire, Sunstar Dreadnought + Spitemare | Near-infinite damage to one opponent; +2 other prerequisites | 1498
+Orthion, Hero of Lavabrink + Village Bell-Ringer | Infinite creature ETB; Infinite creature tokens with haste; +1 other prerequisite; +3 more results | 1480
+Guilty Conscience + Mogg Maniac | Infinite damage to one opponent; +1 other prerequisite | 1477
+Duke Ulder Ravengard + Éomer, Marshal of Rohan | Near-infinite creature ETB; Near-infinite creature LTB; +1 other prerequisite; +4 more results | 1444
+Kiki-Jiki, Mirror Breaker + Altar of Dementia + Karmic Guide | Infinite creature tokens with haste; Infinite death triggers; +5 more results | 1427
+Boros Reckoner + Avacyn, Angel of Hope | Infinite lifegain; Infinite lifegain triggers; +1 other prerequisite | 1407
+The Jolly Balloon Man + Felidar Guardian + Mondrak, Glory Dominus | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +3 more results | 1404
+Dualcaster Mage + Flicker of Fate | Infinite creature ETB; Infinite creature LTB; Infinite magecraft triggers; +1 other prerequisite | 1403
+Nine Lives + Harmless Offering + Austere Command | Target opponent loses the game | 1402
+Coalhauler Swine + Pariah | Infinite damage; Draw the game; +1 other prerequisite | 1392
+Guilty Conscience + Truefire Captain | Infinite damage to one opponent; +1 other prerequisite | 1389
+Storm-Kiln Artist + Cloudshift + Pinnacle Monk | Infinite artifact ETB; Infinite artifact LTB; +4 more results | 1388
+Possibility Storm + Drannith Magistrate | Opponents can't cast spells; Lock | 1347
+Duke Ulder Ravengard + Port Razer | Near-infinite combat damage; Near-infinite combat phases; +1 other prerequisite; +4 more results | 1328
+Sun Titan + Fiend Hunter + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results | 1303
+Brion Stoutarm + Malignus + Gisela, Blade of Goldnight | Near-infinite damage to one opponent; Near-infinite lifegain; Target opponent loses the game; +1 other prerequisite | 1293
+Storm Herd + Purphoros, God of the Forge | Near-infinite creature ETB; Near-infinite creature tokens; Near-infinite damage | 1280
+Kiki-Jiki, Mirror Breaker + Phyrexian Altar + Karmic Guide | Infinite colored mana; Infinite creature tokens with haste; +4 more results | 1276
+The Jolly Balloon Man + Anointed Procession + Felidar Guardian | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite; +3 more results | 1203
+Repercussion + Brash Taunter + Gideon's Sacrifice | Infinite damage to one opponent; +1 other prerequisite | 1203
+Storm Herd + Witty Roastmaster | Near-infinite creature ETB; Near-infinite creature tokens; Near-infinite damage | 1175
+Ashnod's Altar + Dualcaster Mage + Sevinne's Reclamation | Infinite colorless mana; Infinite death triggers; +1 other prerequisite; +4 more results | 1161
+Martyrdom + Arcbond | Infinite damage; +1 other prerequisite | 1159
+Blasting Station + Dualcaster Mage + Sevinne's Reclamation | Infinite damage; Infinite death triggers; +1 other prerequisite; +4 more results | 1142

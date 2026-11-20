@@ -1,0 +1,100 @@
+Sanguine Bond + Exquisite Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 150078
+Vito, Thorn of the Dusk Rose + Exquisite Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 125777
+Vito, Thorn of the Dusk Rose + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 94142
+Sanguine Bond + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 79057
+Gravecrawler + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 77822
+Exquisite Blood + Enduring Tenacity | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 75537
+Pitiless Plunderer + Ashnod's Altar + Reassembling Skeleton | Infinite colorless mana; Infinite death triggers; +3 more results | 64888
+Bloodchief Ascension + Mindcrank | Infinite mill; Near-infinite lifegain; +2 more results; +1 other prerequisite | 63293
+Enduring Tenacity + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 63202
+Marauding Blight-Priest + Exquisite Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 60860
+Aetherflux Reservoir + Exquisite Blood | Infinite damage; Infinite lifegain triggers; +1 other prerequisite | 56509
+Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel | Infinite card draw; Infinite draw triggers; +4 more results; +1 other prerequisite | 51573
+Sheoldred, the Apocalypse + Peer into the Abyss | Near-infinite card draw for target opponent; Near-infinite draw triggers for target opponent; +2 more results; +1 other prerequisite | 51388
+Marauding Blight-Priest + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 48949
+Warren Soultrader + Gravecrawler + Blood Artist | Infinite death triggers; Infinite creature ETB; +5 more results; +1 other prerequisite | 47454
+Mikaeus, the Unhallowed + Ashnod's Altar | Infinite colorless mana; Infinite creature ETB; +3 more results | 46862
+Orcish Bowmasters + Peer into the Abyss | Infinite +1/+1 counters on a creature; Near-infinite card draw for target opponent; +3 more results; +1 other prerequisite | 46377
+Warren Soultrader + Gravecrawler + Zulaport Cutthroat | Infinite creature ETB; Infinite creature LTB; +5 more results; +1 other prerequisite | 42388
+Mikaeus, the Unhallowed + Phyrexian Altar | Infinite colored mana; Infinite creature ETB; +3 more results | 42011
+Pitiless Plunderer + Reassembling Skeleton + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +2 more results | 42003
+Mikaeus, the Unhallowed + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 40562
+Gravecrawler + Pitiless Plunderer + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +4 more results; +1 other prerequisite | 39849
+Warren Soultrader + Pitiless Plunderer + Reassembling Skeleton + Blood Artist | Infinite artifact ETB; Infinite artifact LTB; +6 more results; +1 other prerequisite | 37779
+Aetherflux Reservoir + Bloodthirsty Conqueror | Infinite damage; Infinite lifegain triggers; +1 other prerequisite | 37366
+Warren Soultrader + Pitiless Plunderer + Zulaport Cutthroat + Reassembling Skeleton | Infinite artifact ETB; Infinite artifact LTB; +6 more results; +1 other prerequisite | 36466
+Peer into the Abyss + Underworld Dreams | Target opponent loses the game; +1 other prerequisite | 36154
+Gravecrawler + Pitiless Plunderer + Viscera Seer | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 36123
+Blowfly Infestation + Nest of Scarabs | Infinite death triggers; Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 35446
+Mikaeus, the Unhallowed + Viscera Seer | Infinite creature ETB; Infinite creature LTB; +3 more results | 32957
+Gravecrawler + Pitiless Plunderer + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite death triggers; +4 more results; +1 other prerequisite | 32571
+Psychosis Crawler + Peer into the Abyss | Near-infinite lifeloss; Near-infinite card draw; Near-infinite draw triggers; +1 other prerequisite | 31073
+Warren Soultrader + Forsaken Miner + Blood Artist | Infinite death triggers; Infinite creature ETB; +4 more results; +1 other prerequisite | 30071
+Exquisite Blood + Starscape Cleric | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 28291
+Warren Soultrader + Gravecrawler + Bastion of Remembrance | Infinite creature ETB; Infinite creature LTB; +5 more results; +1 other prerequisite | 27783
+Warren Soultrader + Pitiless Plunderer + Reassembling Skeleton + Bastion of Remembrance | Infinite artifact ETB; Infinite artifact LTB; +6 more results; +1 other prerequisite | 26276
+Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 26184
+Sensei's Divining Top + Bolas's Citadel + Sheoldred, the Apocalypse | Infinite card draw; Infinite draw triggers; +3 more results | 25960
+Warren Soultrader + Gravecrawler + Ayara, First of Locthwain | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 24693
+Yawgmoth, Thran Physician + Zulaport Cutthroat + Pawn of Ulamog | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 23533
+Reassembling Skeleton + Phyrexian Altar + Pawn of Ulamog | Infinite death triggers; Infinite creature ETB; +2 more results | 23458
+Yawgmoth, Thran Physician + Blood Artist + Pawn of Ulamog | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 23455
+Starscape Cleric + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 22973
+Warren Soultrader + Forsaken Miner + Sephiroth, Fabled SOLDIER | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 22971
+Sheoldred, the Apocalypse + Vilis, Broker of Blood + K'rrik, Son of Yawgmoth | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 22447
+Professor Onyx + Chain of Smog | Infinite lifegain; Infinite lifegain triggers; +2 more results | 22213
+Forsaken Miner + Phyrexian Altar + Blood Artist | Infinite death triggers; Infinite creature ETB; +5 more results; +1 other prerequisite | 21194
+Warren Soultrader + Gravecrawler + Bontu's Monument | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 20950
+Mikaeus, the Unhallowed + Altar of Dementia | Infinite creature ETB; Infinite creature LTB; +4 more results | 20381
+Warren Soultrader + Pitiless Plunderer + Reassembling Skeleton + Sephiroth, Fabled SOLDIER | Infinite artifact ETB; Infinite artifact LTB; +6 more results; +1 other prerequisite | 20071
+Forsaken Miner + Phyrexian Altar + Sephiroth, Fabled SOLDIER | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 17255
+Vito, Thorn of the Dusk Rose + Blood Tribute | Target opponent loses the game; Infinite lifeloss for target opponent | 17132
+Yawgmoth, Thran Physician + Bastion of Remembrance + Pawn of Ulamog | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 17122
+Ob Nixilis, the Hate-Twisted + Peer into the Abyss | Target player loses the game; +1 other prerequisite | 16945
+Pitiless Plunderer + Reassembling Skeleton + Viscera Seer + Drivnod, Carnage Dominus | Infinite creature LTB; Infinite creature ETB; +3 more results | 16731
+Mikaeus, the Unhallowed + Warren Soultrader + Blood Artist | Infinite artifact ETB; Infinite artifact LTB; +10 more results; +1 other prerequisite | 16289
+Peer into the Abyss + Bloodletter of Aclazotz | Infinite lifeloss for target opponent; Target opponent loses the game | 16086
+Mikaeus, the Unhallowed + Yawgmoth, Thran Physician + Gray Merchant of Asphodel | Infinite card draw; Infinite draw triggers; +7 more results; +1 other prerequisite | 15449
+Unstoppable Slasher + Bloodletter of Aclazotz | Target opponent loses the game; Infinite lifeloss for target opponent; +1 other prerequisite | 14864
+Yawgmoth, Thran Physician + Nest of Scarabs + Blood Artist | Near-infinite -1/-1 counters; Near-infinite card draw; +7 more results; +1 other prerequisite | 14403
+Yawgmoth, Thran Physician + Pawn of Ulamog + Sephiroth, Fabled SOLDIER | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 13727
+Mikaeus, the Unhallowed + Plague Belcher + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite death triggers; +3 more results | 13001
+Sheoldred, the Apocalypse + Vilis, Broker of Blood + Necropotence | Infinite card draw; Infinite draw triggers; +4 more results; +1 other prerequisite | 12967
+Nether Traitor + Phyrexian Altar + Pawn of Ulamog | Infinite colored mana; Infinite death triggers; +4 more results | 12726
+Pitiless Plunderer + Reassembling Skeleton + Carrion Feeder + Drivnod, Carnage Dominus | Infinite creature LTB; Infinite creature ETB; +3 more results | 12181
+Asmodeus the Archfiend + Necrotic Ooze + Skirge Familiar | Infinite card draw; Infinite draw triggers; +3 more results | 12164
+Walking Ballista + Mikaeus, the Unhallowed | Infinite death triggers; Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 12011
+Defiant Bloodlord + Exquisite Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 11712
+Viscera Seer + Thran Vigil | Infinite creature ETB; Infinite creature LTB; +3 more results | 11657
+Peer into the Abyss + Alhammarret's Archive | Infinite card draw; Infinite draw triggers; +1 other prerequisite | 11312
+Ashnod's Altar + Thran Vigil | Infinite colorless mana; Infinite creature ETB; +3 more results | 10681
+Warren Soultrader + Gravecrawler + Vengeful Bloodwitch | Infinite creature ETB; Infinite creature LTB; +5 more results; +1 other prerequisite | 10636
+Warren Soultrader + Cauldron Familiar + Academy Manufactor | Infinite artifact ETB; Infinite artifact LTB; +14 more results; +1 other prerequisite | 10618
+Bloodletter of Aclazotz + Blood Tribute | Infinite lifeloss for target opponent; Near-infinite lifegain; Target opponent loses the game | 10567
+Gravecrawler + Pitiless Plunderer + Umbral Collar Zealot | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 10477
+Gravecrawler + Pitiless Plunderer + Altar of Dementia | Infinite death triggers; Infinite creature ETB; +5 more results; +1 other prerequisite | 10442
+Mikaeus, the Unhallowed + Phyrexian Altar + Plague Belcher | Infinite colored mana; Infinite death triggers; +3 more results | 10287
+Tree of Perdition + Bloodletter of Aclazotz | Near-infinite lifeloss for target opponent; +1 other prerequisite | 10227
+Thran Vigil + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 9835
+Warren Soultrader + Forsaken Miner + Vengeful Bloodwitch | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 9819
+Ayara, First of Locthwain + Plague of Vermin | Near-infinite creature tokens for all players; Near-infinite creature ETB; +3 more results; +1 other prerequisite | 9776
+Sedgemoor Witch + Chain of Smog | Infinite creature tokens; Infinite creature ETB; Infinite magecraft triggers | 9642
+Mikaeus, the Unhallowed + Ashnod's Altar + Plague Belcher | Infinite colorless mana; Infinite death triggers; +3 more results | 9460
+Unstoppable Slasher + Wound Reflection | Target opponent loses the game; Infinite lifeloss for target opponent; +1 other prerequisite | 9207
+Marrow-Gnawer + Thornbite Staff | Infinite creature tokens; Infinite creature ETB; +3 more results; +1 other prerequisite | 8983
+Warren Soultrader + Gravecrawler + Funeral Room // Awakening Hall | Infinite creature ETB; Infinite creature LTB; +5 more results; +2 other prerequisites | 8909
+Pitiless Plunderer + Reassembling Skeleton + Viscera Seer + The Masamune | Infinite creature LTB; Infinite creature ETB; +3 more results | 8740
+Defiant Bloodlord + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 8580
+Sheoldred, the Apocalypse + Vilis, Broker of Blood + Blood Celebrant | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 8568
+Grievous Wound + Bloodletter of Aclazotz | Target opponent loses the game; Infinite lifeloss for target opponent; +2 other prerequisites | 8534
+Yawgmoth, Thran Physician + Mikaeus, the Unhallowed + Ayara, First of Locthwain | Infinite card draw; Infinite draw triggers; +7 more results; +1 other prerequisite | 8502
+Reassembling Skeleton + Phyrexian Altar + Sifter of Skulls | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 8489
+Mikaeus, the Unhallowed + Triskelion | Infinite damage; Infinite death triggers; +2 more results; +1 other prerequisite | 8459
+Pitiless Plunderer + Ashnod's Altar + Bloodsoaked Champion | Infinite colorless mana; Infinite death triggers; +3 more results; +1 other prerequisite | 8399
+Exquisite Blood + Epicure of Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain; +1 other prerequisite | 8391
+Yawgmoth, Thran Physician + Zulaport Cutthroat + Sifter of Skulls | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 8272
+Yawgmoth, Thran Physician + Sifter of Skulls + Blood Artist | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 8244
+Sheoldred, the Apocalypse + Vilis, Broker of Blood + Skirge Familiar | Infinite draw triggers; Near-infinite black mana; +5 more results; +1 other prerequisite | 8112
+Grievous Wound + Wound Reflection | Target opponent loses the game; Infinite lifeloss for target opponent; +2 other prerequisites | 8078
+Maralen of the Mornsong + Opposition Agent | Lock; Players can't draw cards; Exile a card of your choice from an opponent's library on each opponent's turn and you may cast that card | 8003
+Mikaeus, the Unhallowed + Yahenni, Undying Partisan | Infinite creature ETB; Infinite creature LTB; +2 more results | 7918

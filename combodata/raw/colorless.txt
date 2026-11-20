@@ -1,0 +1,100 @@
+Basalt Monolith + Forsaken Monument | Infinite colorless mana | 64574
+Sensei's Divining Top + Foundry Inspector + Mystic Forge | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 57970
+Rings of Brighthearth + Basalt Monolith | Infinite colorless mana | 53051
+Sensei's Divining Top + Mystic Forge + Cloud Key | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 37113
+Nim Deathmantle + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB | 30101
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Foundry Inspector | Infinite artifact ETB; Infinite artifact LTB | 28022
+Sensei's Divining Top + Glaring Fleshraker + Mystic Forge | Infinite card draw; Infinite draw triggers | 25517
+Sensei's Divining Top + Mystic Forge + Jhoira's Familiar | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 24917
+Karn, the Great Creator + Mycosynth Lattice | Activated abilities of permanents your opponents control can't be activated; Activated abilities can't be activated | 22782
+Sensei's Divining Top + Mystic Forge + Ugin, the Ineffable | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 22737
+Nuka-Cola Vending Machine + Academy Manufactor + Krark-Clan Ironworks | Infinite artifact ETB; Infinite artifact tokens | 21147
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Sol Ring + Junk Diver | Infinite blinking of some artifacts; Infinite colorless mana | 19890
+Scrap Trawler + Myr Retriever + Ashnod's Altar + Foundry Inspector | Infinite artifact ETB; Infinite artifact LTB | 19763
+Cybermen Squadron + Blightsteel Colossus | Each opponent loses the game | 18167
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Cloud Key | Infinite artifact ETB; Infinite artifact LTB | 14523
+Glacial Chasm + Zuran Orb + Crucible of Worlds | Prevent all damage that would be dealt to you; Lock | 14468
+Stuffy Doll + Pariah's Shield | Draw the game | 14416
+Sensei's Divining Top + Mystic Forge + Semblance Anvil | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 13562
+Dawnsire, Sunstar Dreadnought + Stuffy Doll | Near-infinite damage to target player | 13138
+Ashnod's Altar + Metallic Mimic | Infinite creature ETB; Infinite creature LTB | 11952
+Voltaic Key + Rings of Brighthearth + Everflowing Chalice | Infinite untap of artifacts you control; Infinite colorless mana; Infinite mana artifacts you control can produce | 11778
+Staff of Domination + Metalworker | Infinite card draw; Infinite colorless mana | 11536
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Jhoira's Familiar | Infinite artifact ETB; Infinite artifact LTB | 11533
+Painter's Servant + Grindstone | Infinite self-mill; Infinite mill for target opponent | 11129
+Nuka-Cola Vending Machine + Academy Manufactor + Clock of Omens | Infinite tapped Food tokens; Infinite tapped Clue tokens | 10139
+Basalt Monolith + Mesmeric Orb | Infinite self-mill | 10038
+Karn, the Great Creator + Aetherflux Reservoir | Infinite damage; Infinite lifegain triggers | 9935
+Sensei's Divining Top + Echoes of Eternity + Foundry Inspector | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 9754
+Voltaic Key + Forsaken Monument + Rings of Brighthearth + Thran Dynamo | Infinite untap of artifacts you control; Infinite colorless mana; Infinite mana artifacts you control can produce | 9664
+Scrap Trawler + Myr Retriever + Ashnod's Altar + Cloud Key | Infinite artifact ETB; Infinite artifact LTB | 9467
+Sensei's Divining Top + Mystic Forge + Helm of Awakening | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 9165
+Voltaic Key + Rings of Brighthearth + Metalworker | Infinite colorless mana; Infinite untap of artifacts you control; Infinite mana artifacts you control can produce | 8455
+Nuka-Cola Vending Machine + Academy Manufactor + Grinding Station | Infinite artifact ETB; Infinite artifact tokens | 8032
+Scrap Trawler + Myr Retriever + Ashnod's Altar + Jhoira's Familiar | Infinite artifact ETB; Infinite artifact LTB | 7968
+Moxite Refinery + Magistrate's Scepter | Infinite turns; Lock | 7671
+Myr Galvanizer + Clock of Omens + Palladium Myr | Infinite colorless mana; Infinite mana Myr you control can produce; Infinite untap of Myr you control | 7406
+Rings of Brighthearth + Forsaken Monument + Grim Monolith | Infinite colorless mana | 7405
+Sensei's Divining Top + Echoes of Eternity + Cloud Key | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 7282
+Voltaic Key + Forsaken Monument + Rings of Brighthearth + Mana Vault | Infinite untap of artifacts you control; Infinite colorless mana; Infinite mana artifacts you control can produce | 7139
+Glaring Fleshraker + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks | Infinite creature LTB; Infinite creature ETB | 7101
+Transmutation Font + Academy Manufactor + Clock of Omens | Infinite artifact ETB; Infinite artifact LTB | 7059
+Phyrexian Altar + Metallic Mimic | Infinite creature ETB; Infinite creature LTB | 6978
+Sensei's Divining Top + Echoes of Eternity + Jhoira's Familiar | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 6708
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Semblance Anvil | Infinite artifact ETB; Infinite artifact LTB | 6632
+Myr Galvanizer + Clock of Omens + Alloy Myr | Infinite mana Myr you control can produce; Infinite untap of Myr you control | 6599
+Realmbreaker, the Invasion Tree + Maskwood Nexus | Put all creature cards from your library onto the battlefield | 6407
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Ugin, the Ineffable | Infinite artifact ETB; Infinite artifact LTB | 5752
+Magistrate's Scepter + Clock of Omens | Infinite turns; Lock | 5742
+Staff of Domination + Clock of Omens + Sculpting Steel + Basalt Monolith | Infinite card draw; Infinite colorless mana | 5434
+Glaring Fleshraker + Myr Retriever + Junk Diver + Krark-Clan Ironworks | Infinite creature LTB; Infinite creature ETB | 5159
+Myr Welder + Staff of Domination + Sol Ring | Infinite card draw; Infinite draw triggers | 5096
+Myr Galvanizer + Palladium Myr + Sculpting Steel | Infinite colorless mana; Infinite untap of Myr you control | 5086
+Sensei's Divining Top + Mystic Forge + The Immortal Sun | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 5048
+Wurmcoil Engine + Nim Deathmantle + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens | 4997
+Voltaic Key + Rings of Brighthearth + Chromatic Orrery | Infinite untap of artifacts you control; Infinite colored mana | 4936
+Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Scrap Trawler | Infinite creature LTB; Infinite creature ETB | 4878
+Blightsteel Colossus + Blade of Selves | Each opponent loses the game | 4463
+Nim Deathmantle + Ashnod's Altar + Myr Battlesphere | Infinite artifact ETB; Infinite artifact tokens | 4460
+Aetheric Amplifier + Magistrate's Scepter | Infinite turns; Lock | 4429
+Staff of Domination + Clock of Omens + Sculpting Steel + Thran Dynamo | Infinite card draw; Infinite colorless mana | 4344
+Tarrian's Soulcleaver + Animation Module + Ashnod's Altar | Infinite +1/+1 counters on a creature; Infinite death triggers | 4200
+Scrap Trawler + Myr Retriever + Ashnod's Altar + Semblance Anvil | Infinite artifact ETB; Infinite artifact LTB | 4113
+Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Junk Diver | Infinite creature LTB; Infinite creature ETB | 4029
+Staff of Domination + Clock of Omens + Sculpting Steel + Mana Vault | Infinite colorless mana; Infinite lifegain triggers | 4010
+Rings of Brighthearth + Deserted Temple + Scorched Ruins | Infinite colorless mana; Infinite mana lands you control can produce; Infinite untap of lands you control | 3923
+Metalworker + Voltaic Construct | Infinite colorless mana; Infinite untap of artifact creatures you control | 3898
+Sensei's Divining Top + Echoes of Eternity + Semblance Anvil | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 3890
+Marvin, Murderous Mimic + Pili-Pala + Palladium Myr | Infinite colored mana; Infinite colorless mana | 3860
+Myr Retriever + Krark-Clan Ironworks + Mirrorworks | Infinite artifact ETB; Infinite artifact LTB | 3840
+Nuka-Cola Vending Machine + Academy Manufactor + Arcbound Ravager | Infinite artifact ETB; Infinite artifact tokens | 3810
+Myr Retriever + Krark-Clan Ironworks + Ultron, Artificial Malevolence | Infinite creature ETB; Infinite creature LTB | 3782
+Crackdown Construct + Lightning Greaves | Infinitely large creature until end of turn | 3773
+Myr Welder + Staff of Domination + Palladium Myr | Infinite card draw; Infinite colorless mana | 3762
+Wurmcoil Engine + Nim Deathmantle + Krark-Clan Ironworks | Infinite colorless mana; Infinite death triggers | 3762
+Nevinyrral's Disk + Darksteel Forge + Mycosynth Lattice + Unwinding Clock | Destroy all permanents opponents control each turn; Lock; Mass Land Denial | 3684
+Nim Deathmantle + Krark-Clan Ironworks + Myr Battlesphere | Infinite artifact ETB; Infinite artifact tokens | 3674
+Voltaic Key + Rings of Brighthearth + The Eternity Elevator | Infinite colored mana; Infinite colorless mana; Infinite untap of artifacts you control | 3661
+Clock of Omens + Staff of Domination + Basalt Monolith + Everflowing Chalice | Infinite card draw; Infinite colorless mana | 3609
+Scrap Trawler + Myr Retriever + Ashnod's Altar + Ugin, the Ineffable | Infinite artifact ETB; Infinite artifact LTB | 3596
+Krark-Clan Ironworks + Spine of Ish Sah + Sculpting Steel + Foundry Inspector | Near-infinite artifact ETB; Near-infinite artifact LTB | 3551
+Super State + Grafted Exoskeleton | Each opponent loses the game | 3335
+Krark-Clan Ironworks + Mycosynth Golem + Junk Diver + Myr Retriever | Infinite colorless mana; Infinite creature ETB | 3320
+Myr Welder + Staff of Domination + Basalt Monolith | Infinite card draw; Infinite draw triggers | 3305
+Staff of Domination + Clock of Omens + Sculpting Steel + Grim Monolith | Infinite card draw; Infinite colorless mana | 3073
+Voltaic Construct + Basalt Monolith + Karn, the Great Creator | Infinite colorless mana; Infinite untap of artifact creatures you control | 2984
+Krark-Clan Ironworks + Scrap Trawler + Myr Retriever + Chromatic Star + Mox Opal | Infinite card draw; Near-infinite creature ETB | 2934
+Myr Retriever + Ashnod's Altar + Ultron, Artificial Malevolence | Infinite creature ETB; Infinite creature LTB | 2857
+Glaring Fleshraker + Myr Retriever + Workshop Assistant + Krark-Clan Ironworks | Infinite creature LTB; Infinite creature ETB | 2837
+Altar of Dementia + Metallic Mimic | Infinite creature ETB; Infinite creature LTB | 2817
+Voltaic Construct + Thran Dynamo + Karn, the Great Creator | Infinite colorless mana; Infinite untap of artifact creatures you control | 2798
+Glaring Fleshraker + Junk Diver + Workshop Assistant + Krark-Clan Ironworks | Infinite creature LTB; Infinite creature ETB | 2711
+Voltaic Key + Forsaken Monument + Rings of Brighthearth + Dreamstone Hedron | Infinite untap of artifacts you control; Infinite colorless mana; Infinite mana artifacts you control can produce | 2599
+Sensei's Divining Top + Echoes of Eternity + The Immortal Sun | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 2591
+Chrome Dome + Metalworker | Infinite artifact ETB; Infinite artifact LTB | 2525
+Glaring Fleshraker + Ashnod's Altar + Myr Retriever + Workshop Assistant | Infinite creature LTB; Infinite creature ETB | 2479
+Blade of the Bloodchief + Animation Module + Ashnod's Altar | Infinite colorless mana; Infinite death triggers | 2457
+Glaring Fleshraker + Ashnod's Altar + Junk Diver + Workshop Assistant | Infinite creature LTB; Infinite creature ETB | 2390
+Glaring Fleshraker + Ashnod's Altar + Scrap Trawler + Workshop Assistant | Infinite creature LTB; Infinite creature ETB | 2337
+Transmutation Font + Clock of Omens + Stridehangar Automaton | Infinite creature ETB; Infinite tapped Food tokens | 2258
+Marvin, Murderous Mimic + Farmstead Gleaner + Palladium Myr | Infinite +1/+1 counters on a creature | 2218

@@ -1,0 +1,100 @@
+Hullbreaker Horror + Sol Ring | Infinite colorless mana; Infinite storm count | 223482
+Dramatic Reversal + Isochron Scepter | Infinite magecraft triggers; Infinite mana nonland permanents you control can produce; +2 more results | 86633
+Hullbreaker Horror + Mana Vault | Infinite colorless mana; Infinite storm count | 53663
+Maddening Cacophony + Bruvac the Grandiloquent | Infinite mill | 35975
+Tidespout Tyrant + Sol Ring | Infinite colorless mana; Infinite storm count | 27748
+Ghostly Flicker + Peregrine Drake + Archaeomancer | Infinite blinking; Infinite ETB; +6 more results | 26660
+Hullbreaker Horror + Mana Crypt | Infinite colorless mana; Infinite storm count | 24476
+Sensei's Divining Top + Etherium Sculptor + Mystic Forge | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 23817
+Narset's Reversal + Isochron Scepter | Infinite turns | 23482
+Sensei's Divining Top + Etherium Sculptor + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 19475
+Bruvac the Grandiloquent + Traumatize | Infinite mill for target opponent | 17783
+Cut Your Losses + Bruvac the Grandiloquent | Infinite mill for up to two target players | 15546
+Sensei's Divining Top + Foundry Inspector + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 15249
+Basalt Monolith + Forensic Gadgeteer | Infinite colorless mana | 14680
+Valley Floodcaller + Retraction Helix | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; Infinitely large Birds, Otters, Rats and Frogs you control until end of turn | 14563
+Teferi, Master of Time + Ichormoon Gauntlet + The Chain Veil | Infinite turns | 14504
+Valley Floodcaller + Retraction Helix + Sol Ring | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; +2 more results | 14403
+Bruvac the Grandiloquent + Terisian Mindbreaker | Infinite mill for target opponent | 14220
+Ioreth of the Healing House + Vizier of Tumbling Sands | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 14136
+Traumatize + Fraying Sanity | Infinite mill for target opponent | 13742
+Peregrine Drake + Venser, Shaper Savant + Panharmonicon | Infinite ETB; Infinite LTB; +2 more results | 13263
+Ioreth of the Healing House + Kelpie Guide | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 12928
+Cut Your Losses + Fraying Sanity | Infinite mill for target player | 12908
+Tidespout Tyrant + Mana Vault | Infinite colorless mana; Infinite storm count | 12307
+Valley Floodcaller + Retraction Helix + Mana Vault | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; +2 more results | 11910
+Fleet Swallower + Bruvac the Grandiloquent | Infinite mill for target opponent | 11888
+Naru Meha, Master Wizard + Ghostly Flicker | Infinite ETB; Infinite landfall triggers; +3 more results | 11507
+Tidespout Tyrant + Mox Opal | Infinite storm count | 10934
+Terisian Mindbreaker + Fraying Sanity | Infinite mill for target opponent | 10854
+Tidespout Tyrant + Mox Amber | Infinite storm count | 10852
+Archetype of Imagination + Stormtide Leviathan | Opponents' creatures without islandwalk cannot attack | 10682
+Twinning Staff + Narset's Reversal | Infinite magecraft triggers | 10628
+Fleet Swallower + Fraying Sanity | Infinite mill for target opponent | 10399
+High Tide + Archaeomancer + Snap | Infinite ETB; Infinite LTB; Infinite storm count | 9902
+Peregrine Drake + Archaeomancer + Displace | Infinite blinking; Infinite ETB; +5 more results | 9634
+Enter the Infinite + Thassa's Oracle | Infinite card draw; Infinite draw triggers; Win the game | 9176
+Sensei's Divining Top + Cloud Key + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 8970
+Kelpie Guide + Freed from the Real | Infinite mana permanents you control can produce | 8725
+Jace, Wielder of Mysteries + Enter the Infinite | Infinite card draw; Infinite draw triggers; Win the game | 8297
+Valley Floodcaller + Banishing Knack | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; Infinitely large Birds, Otters, Rats and Frogs you control until end of turn | 8280
+Valley Floodcaller + Banishing Knack + Sol Ring | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; +2 more results | 8178
+Pili-Pala + Grand Architect | Infinite colored mana | 8150
+Marvin, Murderous Mimic + Ioreth of the Healing House | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 7965
+Sensei's Divining Top + Etherium Sculptor + Crystal Skull, Isu Spyglass | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 7930
+Cloud of Faeries + Deadeye Navigator | Infinite ETB; Infinite LTB | 7763
+Brine Elemental + Vesuvan Shapeshifter | Each opponent skips their untap steps indefinitely | 7757
+Urza, Lord High Artificer + Forensic Gadgeteer + Sensei's Divining Top + Etherium Sculptor | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 7687
+Power Artifact + Basalt Monolith | Infinite colorless mana | 7571
+Ioreth of the Healing House + Aphetto Alchemist | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 7538
+Tidespout Tyrant + Grim Monolith | Infinite colorless mana; Infinite storm count | 7491
+Power Artifact + Grim Monolith | Infinite colorless mana | 7462
+Primal Amulet + Frantic Search + Narset's Reversal | Infinite draw triggers; Infinite looting; +3 more results | 7183
+Displacer Kitten + Sensei's Divining Top + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 7122
+Narset, Parter of Veils + Teferi's Puzzle Box | Each opponent shuffles their hand into their library during their draw step; Opponents cannot draw cards during their turn | 6896
+Riverchurn Monument + Maddening Cacophony | Infinite mill | 6837
+Nexus of Fate + Isochron Scepter + Mystical Tutor | Infinite turns; Skip your draw step | 6796
+Valley Floodcaller + Banishing Knack + Mana Vault | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; +2 more results | 6736
+Sensei's Divining Top + Foundry Inspector + Crystal Skull, Isu Spyglass | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 6634
+Sensei's Divining Top + Jhoira's Familiar + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 6201
+Leveler + Thassa's Oracle | Exile your library; Win the game | 6167
+Urza, Lord High Artificer + Forensic Gadgeteer + Sensei's Divining Top + Foundry Inspector | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 5852
+Wanderwine Prophets + Deeproot Pilgrimage | Infinite turns | 5830
+Unctus, Grand Metatect + Aphetto Alchemist | Infinite draw triggers; Infinite looting; Infinite self-discard triggers | 5806
+Displacer Kitten + Sensei's Divining Top + Mystic Forge | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 5648
+Valley Floodcaller + Retraction Helix + Grim Monolith | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; +2 more results | 5628
+Ioreth of the Healing House + Forensic Researcher | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 5434
+Naru Meha, Master Wizard + Displace | Infinite blinks on a creature you control; Infinite ETB; Infinite LTB | 5386
+Ioreth of the Healing House + Fatestitcher | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 5377
+Kelpie Guide + Pemmin's Aura | Infinite mana permanents you control can produce | 5374
+Tidespout Tyrant + Mana Crypt | Infinite storm count; Infinite colorless mana | 5308
+Leveler + Laboratory Maniac | Exile your library; Win the game | 5288
+Sai, Master Thopterist + Myr Retriever + Scrap Trawler + Krark-Clan Ironworks | Infinite colorless mana; Infinite creature tokens; +5 more results | 5272
+Myr Galvanizer + Clock of Omens + Silver Myr | Infinite mana Myr you control can produce; Infinite untap of Myr you control | 5215
+Maddening Cacophony + Keening Stone | Infinite mill for target opponent; Near-infinite mill | 5135
+Enter the Infinite + Psychosis Crawler | Infinite card draw; Near-infinite lifeloss; Infinite draw triggers | 5107
+Mindslaver + Academy Ruins | You control target opponent on each of their turns | 5084
+Emry, Lurker of the Loch + Mindslaver | You control target opponent on each of their turns | 5016
+Kitsa, Otterball Elite + Dramatic Reversal | Infinite magecraft triggers; Infinite untap of creatures you control; Infinite mana creatures you control can produce | 4884
+Orvar, the All-Form + Peregrine Drake + Mind Games | Infinite creature tokens; Infinite ETB; +2 more results | 4846
+Valley Floodcaller + Retraction Helix + Basalt Monolith | Infinite storm count; Infinite untap of Birds, Otters, Rats and Frogs you control; Infinitely large Birds, Otters, Rats and Frogs you control until end of turn | 4836
+Urza, Lord High Artificer + Worldwalker Helm + Mechanized Production | Infinite blue mana; Exile your library; +2 more results | 4795
+Ioreth of the Healing House + Clever Conjurer | Infinite untap of legendary creatures you control; Infinite mana legendary creatures you control can produce | 4658
+Traumatize + Keening Stone | Infinite mill for target opponent | 4604
+Mechanized Production + Masterful Replication | Win the game at the beginning of your next upkeep | 4496
+Hullbreaker Horror + Peregrine Drake + Cloud of Faeries | Infinite ETB; Infinite LTB; +3 more results | 4492
+Drafna, Founder of Lat-Nam + Urza, Lord High Artificer + Sai, Master Thopterist | Infinite ETB; Infinite storm count; Infinite tapped creature tokens | 4419
+Cloud of Faeries + Archaeomancer + Ghostly Flicker + Panharmonicon | Infinite casts of any instants and/or sorcery cards in your hand or graveyard; Infinite ETB; +4 more results | 4332
+Sai, Master Thopterist + Myr Retriever + Scrap Trawler + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +5 more results | 4318
+Mind Over Matter + The One Ring | Near-infinite card draw; Infinite self-discard triggers; +4 more results | 4298
+Intruder Alarm + Deeproot Pilgrimage | Infinite ETB; Infinite creature tokens; +3 more results | 4210
+Sensei's Divining Top + Cloud Key + Crystal Skull, Isu Spyglass | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 4182
+Emry, Lurker of the Loch + Mirran Spy + Mishra's Bauble | Infinite storm count; Infinite card draw at the beginning of the next upkeep step; Infinite draw triggers at the beginning of the next upkeep step | 4166
+Dramatic Reversal + Lithoform Engine | Infinite colored mana; Infinite colorless mana; Infinite untap of nonland permanents | 4121
+Orvar, the All-Form + Peregrine Drake + Clockspinning | Infinite copies of permanents you control; Infinite creature tokens; +5 more results | 4015
+Cut Your Losses + Keening Stone | Infinite mill for target opponent | 3988
+Naru Meha, Master Wizard + Essence Flux | Infinite ETB; Infinite LTB; Infinite magecraft triggers | 3963
+Ghostly Flicker + Peregrine Drake + Shipwreck Dowser | Infinite blinking; Infinite ETB; +6 more results | 3942
+James, Wandering Dad + Mechanized Production | Win the game | 3922
+Emry, Lurker of the Loch + The One Ring + Krark-Clan Ironworks | Prevent all damage that would be dealt to you; You gain protection from everything | 3859
+Displacer Kitten + The One Ring + Sensei's Divining Top + Etherium Sculptor | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 3817

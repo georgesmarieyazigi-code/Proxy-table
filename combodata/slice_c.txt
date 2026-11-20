@@ -1,0 +1,50 @@
+#5 Vito, Thorn of the Dusk Rose + Exquisite Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#8 Vito, Thorn of the Dusk Rose + Bloodthirsty Conqueror | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#11 Pitiless Plunderer + Chatterfang, Squirrel General | Infinite artifact ETB; Infinite artifact LTB
+#14 Dramatic Reversal + Isochron Scepter | Infinite magecraft triggers; Infinite mana nonland permanents you control can produce
+#17 Dakmor Salvage + The Gitrog Monster | Infinite self-mill; Significant self-discard triggers
+#20 Curiosity + Niv-Mizzet, Parun | Infinite draw triggers; Infinite card draw; Near-infinite damage
+#23 Bloodchief Ascension + Mindcrank | Infinite mill; Near-infinite lifegain
+#26 Marauding Blight-Priest + Exquisite Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#29 Aetherflux Reservoir + Exquisite Blood | Infinite damage; Infinite lifegain triggers
+#32 Hullbreaker Horror + Mana Vault | Infinite colorless mana; Infinite storm count
+#36 Sensei's Divining Top + Aetherflux Reservoir + Bolas's Citadel | Infinite card draw; Infinite draw triggers
+#39 Niv-Mizzet, Parun + Niv-Mizzet, Visionary | Near-infinite damage; Infinite card draw; Infinite draw triggers
+#42 The Reaver Cleaver + Aggravated Assault | Infinite artifact ETB; Infinite artifact LTB
+#45 Flourishing Defenses + Blowfly Infestation | Infinite creature ETB; Infinite creature LTB
+#48 Psychosis Crawler + Kefka, Court Mage | Infinite card draw; Significant lifeloss
+#51 Teferi, Time Raveler + Displacer Kitten + Sol Ring | Infinite card draw; Infinite draw triggers
+#56 Mikaeus, the Unhallowed + Phyrexian Altar | Infinite colored mana; Infinite creature ETB
+#59 Mikaeus, the Unhallowed + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB
+#62 Blasphemous Act + Repercussion | Near-infinite damage to all players
+#66 Aetherflux Reservoir + Bloodthirsty Conqueror | Infinite damage; Infinite lifegain triggers
+#69 Staff of Domination + Priest of Titania | Infinite card draw; Infinite draw triggers
+#74 Maddening Cacophony + Bruvac the Grandiloquent | Infinite mill
+#77 Blowfly Infestation + Nest of Scarabs | Infinite death triggers; Infinite creature ETB; Infinite creature LTB
+#80 Basking Broodscale + Rosie Cotton of South Lane | Infinite colorless mana; Infinite creature tokens
+#83 Staff of Domination + Elvish Archdruid | Infinite card draw; Infinite draw triggers
+#86 Gravecrawler + Pitiless Plunderer + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite death triggers
+#89 Dualcaster Mage + Saw in Half | Infinite creature tokens; Infinite creature ETB
+#92 Psychosis Crawler + Peer into the Abyss | Near-infinite lifeloss; Near-infinite card draw; Near-infinite draw triggers
+#96 Magistrate's Scepter + Kilo, Apogee Mind + Inspirit, Flagship Vessel | Infinite turns; Lock
+#99 Reiterate + Mana Geyser | Infinite magecraft triggers; Infinite red mana; Infinite storm count
+#103 Witherbloom Apprentice + Chain of Smog | Infinite lifegain; Infinite lifegain triggers
+#107 Staff of Domination + Circle of Dreams Druid | Infinite card draw; Infinite draw triggers
+#110 Exquisite Blood + Starscape Cleric | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#114 Gorma, the Gullet + Umbral Collar Zealot | Infinite +1/+1 counters on a creature; Infinite creature ETB
+#118 Tidespout Tyrant + Sol Ring | Infinite colorless mana; Infinite storm count
+#121 Storm-Kiln Artist + Haze of Rage | Infinite artifact ETB; Infinite artifact LTB
+#124 Swift Reconfiguration + Devoted Druid | Infinite green mana
+#128 Savvy Hunter + Experimental Confectioner + Ygra, Eater of All | Infinite card draw; Significant creature ETB
+#132 Niv-Mizzet, the Firemind + Curiosity | Infinite card draw; Infinite draw triggers; Near-infinite damage
+#137 Combat Celebrant + Helm of the Host | Infinite combat phases; Infinite creature ETB
+#141 Apex Altisaur + Wrathful Raptors + Akroma's Will | Destroy all creatures opponents control; Near-infinite damage
+#144 Enduring Vitality + Emiel the Blessed | Infinite creature ETB; Infinite colored mana
+#148 Singularity Rupture + Bruvac the Grandiloquent | Infinite mill; Significant self-mill
+#151 Polyraptor + Marauding Raptor | Draw the game; Infinite creature tokens
+#155 Hullbreaker Horror + Mana Crypt | Infinite colorless mana; Infinite storm count
+#159 Mindcrank + Duskmantle Guildmage | Each opponent loses the game; Infinite mill
+#162 Neheb, the Eternal + Aggravated Assault | Infinite combat phases; Infinite red mana
+#166 Yawgmoth, Thran Physician + Blood Artist + Pawn of Ulamog | Infinite card draw; Infinite draw triggers
+#169 Bloom Tender + Freed from the Real | Infinite non-blue mana of colors among permanents you control; Infinite mana of colors among permanents you control
+#172 Ashnod's Altar + Peregrin Took + Camellia, the Seedmiser | Infinite creature LTB; Infinite creature ETB

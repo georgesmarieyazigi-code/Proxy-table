@@ -1,0 +1,100 @@
+Underworld Breach + Lotus Petal + Brain Freeze | Infinite self-mill; Near-infinite magecraft triggers; Near-infinite mill; +1 other prerequisite | 117251
+Underworld Breach + Lion's Eye Diamond + Brain Freeze | Infinite self-mill; Near-infinite colored mana; +3 more results; +1 other prerequisite | 95352
+Curiosity + Niv-Mizzet, Parun | Infinite draw triggers; Infinite card draw; Near-infinite damage; +1 other prerequisite | 68562
+Niv-Mizzet, Parun + Niv-Mizzet, Visionary | Near-infinite damage; Infinite card draw; Infinite draw triggers; +1 other prerequisite | 49192
+Niv-Mizzet, Parun + Ophidian Eye | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 38671
+Tandem Lookout + Niv-Mizzet, Parun | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 34090
+Niv-Mizzet, the Firemind + Curiosity | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 26412
+Niv-Mizzet, the Firemind + Niv-Mizzet, Visionary | Near-infinite damage; Infinite card draw; Infinite draw triggers; +1 other prerequisite | 22930
+Malcolm, Keen-Eyed Navigator + Glint-Horn Buccaneer | Near-infinite damage; Near-infinite self-discard triggers; Near-infinite draw triggers; +1 other prerequisite | 22643
+Storm-Kiln Artist + Thousand-Year Storm + Narset's Reversal | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 20828
+Gonti's Aether Heart + Decoction Module + Whirler Virtuoso | Infinite creature tokens; Infinite creature ETB; +1 other prerequisite | 17855
+Narset's Reversal + Reverberate | Infinite magecraft triggers; +1 other prerequisite | 17632
+Dualcaster Mage + Ghostly Flicker | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 17593
+Glint-Horn Buccaneer + Curiosity | Infinite draw triggers; Infinite rummaging; +2 more results; +1 other prerequisite | 16673
+Vivi Ornitier + Quicksilver Elemental | Infinite red mana; Infinite blue mana; Infinite colored mana that can only be spent to activate abilities | 16567
+Narset's Reversal + Expansion // Explosion | Infinite magecraft triggers; +1 other prerequisite | 14940
+Narset's Reversal + Return the Favor | Infinite magecraft triggers; +1 other prerequisite | 13956
+Niv-Mizzet, the Firemind + Ophidian Eye | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 13702
+Narset's Reversal + Reiterate | Infinite magecraft triggers; +1 other prerequisite | 12559
+Birgi, God of Storytelling + Dualcaster Mage + Snap | Infinite creature ETB; Infinite creature LTB; +4 more results; +1 other prerequisite | 12334
+Narset's Reversal + Increasing Vengeance | Infinite magecraft triggers; +1 other prerequisite | 12153
+Underworld Breach + Frantic Search + Dragon's Rage Channeler | Near-infinite looting; Near-infinite magecraft triggers; +5 more results; +1 other prerequisite | 12008
+Niv-Mizzet, the Firemind + Tandem Lookout | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 11929
+Sensei's Divining Top + Mystic Forge + Enthusiastic Mechanaut | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 11273
+Dualcaster Mage + Essence Flux | Infinite creature ETB; Infinite creature LTB; Infinite magecraft triggers; +1 other prerequisite | 11085
+Thousand-Year Storm + Reiterate | Infinite magecraft triggers; +1 other prerequisite | 10905
+Astral Dragon + Cursed Mirror | Infinite copies of noncreature permanents you control; Infinite creature tokens with haste; Infinite creature ETB; +1 other prerequisite | 10770
+Frantic Search + Underworld Breach + Thousand-Year Storm | Infinite draw triggers; Infinite looting; +4 more results; +1 other prerequisite | 10090
+Twincast + Reverberate | Infinite magecraft triggers | 9897
+The Tenth Doctor + Rousing Refrain | Infinite magecraft triggers; Infinite storm count; +1 other prerequisite | 9619
+Glint-Horn Buccaneer + Tandem Lookout | Infinite draw triggers; Infinite rummaging; +2 more results; +1 other prerequisite | 8270
+Glint-Horn Buccaneer + Ophidian Eye | Infinite draw triggers; Infinite rummaging; +2 more results; +1 other prerequisite | 8019
+There and Back Again + Clockspinning | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 7695
+Edgar, King of Figaro + Squee's Revenge | Infinite card draw; Infinite draw triggers; +1 other prerequisite | 7664
+Frantic Search + Underworld Breach + Bonus Round | Infinite draw triggers; Infinite looting; +4 more results; +1 other prerequisite | 7641
+Prismari, the Inspiration + Return the Favor | Infinite magecraft triggers; +1 other prerequisite | 7405
+Frenetic Efreet + Tavern Scoundrel | Infinite artifact ETB; Infinite artifact LTB; +4 more results | 7023
+Alania, Divergent Storm + Return the Favor | Infinite magecraft triggers; +1 other prerequisite | 6621
+Okaun, Eye of Chaos + Frenetic Efreet | Infinitely large creature until end of turn | 6497
+Body of Knowledge + Niv-Mizzet, Parun | Infinite draw triggers; Infinite card draw; +1 other prerequisite | 6462
+Frenetic Efreet + Chance Encounter | Win the game at the beginning of your next upkeep | 6356
+Narset's Reversal + Flare of Duplication | Infinite magecraft triggers; +1 other prerequisite | 5949
+Magmakin Artillerist + Curiosity | Near-infinite damage; Infinite self-discard triggers; +2 more results; +1 other prerequisite | 5885
+Dualcaster Mage + Displace | Infinite creature ETB; Infinite creature LTB; +2 more results; +1 other prerequisite | 5874
+Dualcaster Mage + Rite of Replication | Infinite creature tokens; Infinite creature ETB; Infinite magecraft triggers; +1 other prerequisite | 5746
+Sensei's Divining Top + Enthusiastic Mechanaut + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 5744
+Malcolm, Keen-Eyed Navigator + Reckless Fireweaver + Trickery Charm | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 5581
+The Locust God + Skullclamp + Ashnod's Altar | Infinite card draw; Near-infinite colorless mana; +5 more results; +1 other prerequisite | 5367
+Terror of the Peaks + Rite of Replication | Near-infinite damage | 5348
+Narset's Reversal + Storm-Kiln Artist + Bonus Round | Infinite artifact ETB; Infinite artifact LTB; +7 more results; +1 other prerequisite | 5258
+Brass's Bounty + Mechanized Production | Win the game at the beginning of your next upkeep; +1 other prerequisite | 5216
+Brallin, Skyshark Rider + Curiosity | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 5202
+Niv-Mizzet, the Firemind + Body of Knowledge | Infinite draw triggers; Infinite card draw; +1 other prerequisite | 5195
+Sensei's Divining Top + Enthusiastic Mechanaut + Crystal Skull, Isu Spyglass | Infinite card draw; Near-infinite storm count; Infinite draw triggers | 5100
+Twincast + Increasing Vengeance | Infinite magecraft triggers; +1 other prerequisite | 5086
+Dualcaster Mage + Sublime Epiphany | Infinite creature tokens; Infinite creature ETB; +3 more results | 4853
+Scrap Trawler + Myr Retriever + Krark-Clan Ironworks + Enthusiastic Mechanaut | Infinite artifact ETB; Infinite artifact LTB; +7 more results | 4418
+The Locust God + Kindred Discovery | Infinite card draw; Near-infinite creature tokens with haste; Near-infinite creature ETB; +1 other prerequisite | 4293
+Fury Storm + Archmage Emeritus | Infinite card draw; Near-infinite magecraft triggers; +1 other prerequisite | 4254
+Malcolm, Keen-Eyed Navigator + Maskwood Nexus + Reckless Fireweaver | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 4179
+Turnabout + Reiterate | Infinite colored mana; Infinite magecraft triggers; Infinite storm count; +1 other prerequisite | 4136
+Adaptive Training Post + Expansion // Explosion | Infinite magecraft triggers; +1 other prerequisite | 4119
+Malcolm, Keen-Eyed Navigator + Reckless Fireweaver + Leyline of Transformation | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 4026
+Blazing Firesinger + Displacer Kitten | Infinite creature ETB; Infinite creature LTB; +3 more results | 3995
+Alania, Divergent Storm + Expansion // Explosion | Infinite magecraft triggers; +1 other prerequisite | 3975
+Storm-Kiln Artist + Swarm Intelligence + Narset's Reversal | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 3853
+The Locust God + Sage of the Falls | Infinite draw triggers; Infinite looting; +2 more results; +1 other prerequisite | 3763
+Expansion // Explosion + Twincast | Infinite magecraft triggers; +1 other prerequisite | 3739
+Kiki-Jiki, Mirror Breaker + Phyrexian Metamorph | Infinite creature ETB; Infinite creature LTB; Infinite death triggers | 3624
+Teach by Example + Increasing Vengeance | Infinite magecraft triggers; +1 other prerequisite | 3599
+Alania, Divergent Storm + Reverberate | Infinite magecraft triggers; +1 other prerequisite | 3509
+Dualcaster Mage + Three Steps Ahead | Infinite creature ETB; Infinite creature tokens; +5 more results; +1 other prerequisite | 3472
+Gonti's Aether Heart + Whirler Virtuoso + Stridehangar Automaton | Infinite creature ETB; Infinite creature tokens; Infinite energy counters; +1 other prerequisite | 3419
+Dualcaster Mage + Irenicus's Vile Duplication | Infinite creature tokens; Infinite creature ETB; Infinite magecraft triggers; +1 other prerequisite | 3410
+Birgi, God of Storytelling + Sensei's Divining Top + Etherium Sculptor | Near-infinite draw triggers; Near-infinite looting; +2 more results | 3368
+Scrap Trawler + Myr Retriever + Ashnod's Altar + Enthusiastic Mechanaut | Infinite artifact ETB; Infinite artifact LTB; +7 more results | 3252
+Baral's Expertise + Dualcaster Mage | Infinite creature ETB; Infinite creature LTB; +3 more results | 3164
+Dualcaster Mage + Blur | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 3160
+Malcolm, Keen-Eyed Navigator + Ingenious Artillerist + Trickery Charm | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 3096
+Sensei's Divining Top + Birgi, God of Storytelling + The Reality Chip | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 3063
+River Song + Timestream Navigator | Infinite turns; Lock; +1 other prerequisite | 3053
+Malcolm, Keen-Eyed Navigator + Trickery Charm + Weftstalker Ardent | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 3045
+Prismari, the Inspiration + Reiterate | Infinite magecraft triggers; +1 other prerequisite | 3037
+Scourge of Valkas + Rite of Replication | Near-infinite damage | 2947
+Mizzix of the Izmagnus + Frantic Search + Reiterate | Infinite draw triggers; Infinite looting; +4 more results; +1 other prerequisite | 2888
+Dualcaster Mage + Cackling Counterpart | Infinite creature ETB; Infinite creature tokens; Infinite magecraft triggers; +1 other prerequisite | 2792
+Dualcaster Mage + Planar Incision | Infinite creature LTB; Infinite creature ETB; Infinite magecraft triggers; +1 other prerequisite | 2789
+Prismari, the Inspiration + Reverberate | Infinite magecraft triggers; +1 other prerequisite | 2766
+Pyromancer's Goggles + Expansion // Explosion | Infinite magecraft triggers; +1 other prerequisite | 2738
+Primal Amulet + Frantic Search + Reiterate | Infinite draw triggers; Infinite looting; +3 more results; +1 other prerequisite | 2700
+Kitsa, Otterball Elite + Great Train Heist | Infinite untap of creatures you control; Infinite mana creatures you control can produce; +3 more results; +1 other prerequisite | 2673
+Alania, Divergent Storm + Increasing Vengeance | Infinite magecraft triggers; +1 other prerequisite | 2651
+Mizzix of the Izmagnus + Seething Song + Reiterate | Infinite magecraft triggers; Infinite red mana; Infinite storm count; +1 other prerequisite | 2633
+Malcolm, Keen-Eyed Navigator + Leyline of Transformation + Weftstalker Ardent | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 2576
+The Locust God + Skullclamp + Phyrexian Altar | Infinite card draw; Near-infinite death triggers; +3 more results; +1 other prerequisite | 2574
+Urza, Lord High Artificer + Forensic Gadgeteer + Sensei's Divining Top + Enthusiastic Mechanaut | Infinite card draw; Infinite draw triggers; Near-infinite storm count | 2566
+Alania, Divergent Storm + Flare of Duplication | Infinite magecraft triggers; +1 other prerequisite | 2556
+Malcolm, Keen-Eyed Navigator + Maskwood Nexus + Ingenious Artillerist | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 2547
+Kiki-Jiki, Mirror Breaker + Deceiver Exarch | Infinite creature tokens with haste; Infinite death triggers; +3 more results | 2520
+Birgi, God of Storytelling + Sensei's Divining Top + Enthusiastic Mechanaut | Near-infinite draw triggers; Near-infinite looting; +2 more results | 2509

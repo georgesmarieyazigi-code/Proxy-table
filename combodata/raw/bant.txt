@@ -1,0 +1,100 @@
+Axebane Guardian + High Alert | Infinite colored mana; Infinite mana creatures you control can produce; Infinite untap of creatures you control; +1 other prerequisite | 19052
+Derevi, Empyrial Tactician + Emiel the Blessed + Gaea's Cradle | Infinite blinking; Infinite creature ETB; +3 more results; +1 other prerequisite | 17668
+Derevi, Empyrial Tactician + Emiel the Blessed + Bloom Tender | Infinite creature LTB; Infinite creature ETB; +3 more results | 17627
+Derevi, Empyrial Tactician + Emiel the Blessed + Mana Vault | Infinite creature LTB; Infinite creature ETB | 15811
+Derevi, Empyrial Tactician + Emiel the Blessed + Faeburrow Elder | Infinite creature LTB; Infinite creature ETB; +3 more results | 13737
+Faerie Mastermind + Smothering Tithe + Kinnan, Bonder Prodigy | Infinite card draw for all players; Infinite draw triggers for all players; +3 more results; +1 other prerequisite | 12961
+Chulane, Teller of Tales + Intruder Alarm | Infinite card draw; Infinite draw triggers; +7 more results; +1 other prerequisite | 10295
+Faeburrow Elder + Freed from the Real | Infinite non-blue mana of colors among permanents you control; Infinite mana of colors among permanents you control; +1 other prerequisite | 10031
+Peregrine Drake + Emiel the Blessed | Infinite creature ETB; Infinite creature LTB; +2 more results; +1 other prerequisite | 9707
+Derevi, Empyrial Tactician + Emiel the Blessed + Selvala, Heart of the Wilds | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 9576
+Yuna, Grand Summoner + Freed from the Real | Infinite +1/+1 counters on a creature; +1 other prerequisite | 5917
+Derevi, Empyrial Tactician + Emiel the Blessed + Chromatic Orrery | Infinite blinking; Infinite creature ETB; +6 more results | 5626
+Faerie Mastermind + Smothering Tithe + Biomancer's Familiar | Infinite card draw for all players; Infinite draw triggers for all players; +3 more results; +1 other prerequisite | 5587
+Faeburrow Elder + Pemmin's Aura | Infinite non-blue mana of colors among permanents you control; Infinite mana of colors among permanents you control; +1 other prerequisite | 5080
+Kodama of the East Tree + Simic Growth Chamber + Felidar Retreat | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 4514
+Cloud of Faeries + Emiel the Blessed + Training Grounds | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 4464
+Cloud of Faeries + Emiel the Blessed + Biomancer's Familiar | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 4230
+Yuna, Grand Summoner + Pemmin's Aura | Infinite +1/+1 counters on a creature; +1 other prerequisite | 4109
+Kinnan, Bonder Prodigy + Faeburrow Elder + Freed from the Real | Infinite mana of colors among permanents you control; Infinite non-blue mana of colors among permanents you control; Put most creature cards from your library onto the battlefield; +1 other prerequisite | 3922
+Derevi, Empyrial Tactician + Emiel the Blessed + Basalt Monolith | Infinite creature LTB; Infinite creature ETB | 3651
+Bloom Tender + Delney, Streetwise Lookout + Derevi, Empyrial Tactician | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 3619
+Helga, Skittish Seer + Chakram Retriever + Venser, Shaper Savant | Infinite card draw; Near-infinite lifegain; +7 more results; +1 other prerequisite | 3569
+Faeburrow Elder + Delney, Streetwise Lookout + Derevi, Empyrial Tactician | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 3086
+Ms. Bumbleflower + Shrieking Drake + Smothering Tithe | Near-infinite +1/+1 counters; Near-infinite creature ETB; +4 more results; +1 other prerequisite | 3001
+Kodama of the East Tree + Scute Swarm + Azorius Chancery | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 2768
+Kodama of the East Tree + Tireless Provisioner + Azorius Chancery | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 2633
+Emiel the Blessed + Intruder Alarm | Infinite blinking; Infinite creature ETB; +3 more results; +1 other prerequisite | 2547
+Kodama of the East Tree + Felidar Retreat + Azorius Chancery | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 2540
+Appa, Steadfast Guardian + Doc Aurlock, Grizzled Genius + Aang, Swift Savior | Infinite creature LTB; Infinite creature ETB; +2 more results | 2440
+Felidar Guardian + Altered Ego | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 2212
+Retreat to Coralhelm + Selesnya Sanctuary + Sakura-Tribe Scout | Infinite landfall triggers | 2092
+Chulane, Teller of Tales + Mana Breach + Shrieking Drake | Infinite card draw; Infinite draw triggers; +4 more results; +1 other prerequisite | 2075
+Derevi, Empyrial Tactician + Emiel the Blessed + Grim Monolith | Infinite creature LTB; Infinite creature ETB | 2010
+Kodama of the East Tree + Azorius Chancery + Rampaging Baloths | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 1990
+Kodama of the East Tree + Emeria Angel + Simic Growth Chamber | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 1942
+Chulane, Teller of Tales + Shrieking Drake + Lotus Cobra + Simic Growth Chamber | Infinite card draw; Infinite draw triggers; +4 more results | 1896
+Estrid, the Masked + The Chain Veil | Infinite colored mana; Infinite colorless mana; Infinite mana enchanted permanents you control can produce; +1 other prerequisite | 1875
+Phelddagrif + Intruder Alarm | Infinite mana creatures you control can produce; Infinite untap of creatures; +2 more results; +1 other prerequisite | 1851
+Retreat to Coralhelm + Llanowar Scout + Selesnya Sanctuary | Infinite landfall triggers | 1781
+Brago, King Eternal + Cyclonic Rift + Eternal Witness | Lock; Return all nonland permanents opponents control to their hand on each of your turns; +1 other prerequisite | 1767
+Chulane, Teller of Tales + Shrieking Drake + Lotus Cobra + Selesnya Sanctuary | Infinite draw triggers; Near-infinite creature ETB; +4 more results | 1719
+Eldrazi Displacer + Drowner of Hope + Parallel Lives | Infinite creature LTB; Infinite creature ETB; +6 more results | 1696
+Chulane, Teller of Tales + Shrieking Drake + Lotus Cobra + Azorius Chancery | Infinite card draw; Infinite draw triggers; +4 more results | 1673
+Chulane, Teller of Tales + Shrieking Drake + Tireless Provisioner + Simic Growth Chamber | Infinite card draw; Infinite draw triggers; +4 more results | 1671
+Deadeye Navigator + Derevi, Empyrial Tactician + Bloom Tender | Infinite creature ETB; Infinite green mana; +3 more results; +1 other prerequisite | 1656
+Derevi, Empyrial Tactician + Deadeye Navigator + Faeburrow Elder | Infinite creature ETB; Infinite creature LTB; Infinite non-blue mana of colors among permanents you control; +1 other prerequisite | 1629
+Rafiq of the Many + Eldrazi Conscription | Target opponent loses the game; +1 other prerequisite | 1594
+Chulane, Teller of Tales + Shrieking Drake + Tireless Provisioner + Selesnya Sanctuary | Infinite card draw; Infinite draw triggers; +4 more results | 1540
+Retreat to Coralhelm + Azorius Chancery + Sakura-Tribe Scout | Infinite landfall triggers | 1485
+Chulane, Teller of Tales + Shrieking Drake + Tireless Provisioner + Azorius Chancery | Infinite card draw; Infinite draw triggers; +4 more results | 1479
+Questing Phelddagrif + Intruder Alarm | Infinite mana creatures you control can produce; Infinite untap of creatures; +2 more results; +1 other prerequisite | 1413
+Retreat to Coralhelm + Llanowar Scout + Azorius Chancery | Infinite landfall triggers | 1393
+Kodama of the East Tree + Emeria Angel + Azorius Chancery | Infinite creature ETB; Infinite landfall triggers; Infinite creature tokens; +1 other prerequisite | 1387
+Phelddagrif + Suture Priest + Intruder Alarm | Infinite creature tokens for opponents; Infinite creature ETB for opponents; +5 more results; +1 other prerequisite | 1319
+Gorion, Wise Mentor + Lucky Clover + Virtue of Knowledge | Infinite magecraft triggers; +1 other prerequisite | 1306
+Palinchron + Emiel the Blessed | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 1301
+Rafiq of the Many + Colossus Hammer | Target opponent loses the game; +1 other prerequisite | 1269
+Helga, Skittish Seer + Chakram Retriever + Ancestral Statue | Infinite card draw; Near-infinite lifegain; +7 more results; +1 other prerequisite | 1250
+Appa, Steadfast Guardian + Doc Aurlock, Grizzled Genius + Aang, Airbending Master | Infinite creature LTB; Infinite creature ETB; +4 more results | 1248
+Appa, Steadfast Guardian + Doc Aurlock, Grizzled Genius + Aang, the Last Airbender | Infinite creature LTB; Infinite creature ETB; +2 more results | 1246
+Eldrazi Displacer + Eyeless Watcher + Adrix and Nev, Twincasters | Infinite creature LTB; Infinite creature ETB; +6 more results | 1238
+Falco Spara, Pactweaver + Devoted Druid + Sensei's Divining Top | Infinite card draw; Infinite draw triggers; Near-infinite storm count; +1 other prerequisite | 1219
+Faerie Mastermind + Smothering Tithe + Doubling Season | Infinite card draw for all players; Infinite draw triggers for all players; +3 more results; +1 other prerequisite | 1216
+Kodama of the East Tree + Azorius Chancery + Zendikar's Roil | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1179
+Kodama of the East Tree + Azorius Chancery + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1176
+Eldrazi Displacer + Drowner of Hope + Doubling Season | Infinite creature LTB; Infinite creature ETB; +6 more results | 1168
+Retreat to Coralhelm + Selesnya Sanctuary + PuPu UFO | Infinite landfall triggers | 1151
+Romana II + The Sixth Doctor + Adrix and Nev, Twincasters | Near-infinite creature ETB; Near-infinite creature tokens; Infinite copies of all tokens you control; +1 other prerequisite | 1147
+Abdel Adrian, Gorion's Ward + Eternal Witness + Ghostly Flicker | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 1143
+Retreat to Coralhelm + Selesnya Sanctuary + Walking Atlas | Infinite landfall triggers | 1128
+Kodama of the East Tree + Azorius Chancery + Field of the Dead | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1115
+Retreat to Coralhelm + Scaled Herbalist + Selesnya Sanctuary | Infinite landfall triggers | 1085
+Eldrazi Displacer + Kozilek's Predator + Adrix and Nev, Twincasters | Infinite creature LTB; Infinite creature ETB; +6 more results | 1053
+Derevi, Empyrial Tactician + Displacer Kitten + Retraction Helix | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +1 other prerequisite | 1048
+Bloom Tender + High Alert | Infinite red mana; Infinite green mana; +2 more results; +1 other prerequisite | 1041
+Faeburrow Elder + High Alert | Infinite red mana; Infinite green mana; +2 more results; +1 other prerequisite | 1034
+Eldrazi Displacer + Drowner of Hope + Adrix and Nev, Twincasters | Infinite creature LTB; Infinite creature ETB; +6 more results | 1024
+Questing Phelddagrif + Suture Priest + Intruder Alarm | Infinite creature tokens for opponents; Infinite creature ETB for opponents; +6 more results; +1 other prerequisite | 1000
+Chulane, Teller of Tales + Shrieking Drake + Overburden | Infinite card draw; Infinite draw triggers; +4 more results; +1 other prerequisite | 999
+Ms. Bumbleflower + Shrieking Drake + Crystalline Crawler | Infinite card draw for opponents; Infinite draw triggers for each opponent; +3 more results; +1 other prerequisite | 996
+Lonis, Genetics Expert + Yotian Dissident | Infinite artifact tokens; Infinite Clue tokens; Infinite +1/+1 counters on creatures you control; +1 other prerequisite | 996
+Enchanted Evening + Calming Verse | Destroy all permanents opponents control; Mass Land Denial | 996
+Monk Gyatso + Lightning Greaves + Doc Aurlock, Grizzled Genius | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +1 other prerequisite | 988
+Kodama of the East Tree + Tireless Tracker + Azorius Chancery | Infinite artifact tokens; Infinite Clue tokens; Infinite landfall triggers; +1 other prerequisite | 985
+Derevi, Empyrial Tactician + Emiel the Blessed + Brigid, Clachan's Heart | Infinite creature ETB; Infinite creature LTB; +4 more results; +1 other prerequisite | 977
+Lagrella, the Magpie + Felidar Guardian + Ephemerate | Infinite blinking; Infinite creature ETB; Infinite creature LTB | 974
+Derevi, Empyrial Tactician + Emiel the Blessed + Fanatic of Rhonas | Infinite creature LTB; Infinite creature ETB; +3 more results; +2 other prerequisites | 957
+Retreat to Coralhelm + Scaled Herbalist + Azorius Chancery | Infinite landfall triggers | 952
+Lonis, Genetics Expert + Rosie Cotton of South Lane | Infinite artifact tokens; Draw the game; +2 more results; +1 other prerequisite | 939
+Drogskol Reaver + Horizon Chimera | Infinite card draw; Infinite lifegain; +4 more results; +1 other prerequisite | 922
+Helga, Skittish Seer + Chakram Retriever + Blinking Spirit | Infinite card draw; Near-infinite lifegain; +7 more results | 893
+Retreat to Coralhelm + Selesnya Sanctuary + Skyshroud Ranger | Infinite landfall triggers | 885
+Bloom Tender + Elesh Norn, Mother of Machines + Derevi, Empyrial Tactician | Infinite creature LTB; Infinite creature ETB; +5 more results; +1 other prerequisite | 884
+Vigean Graftmage + Faeburrow Elder | Infinite non-blue mana of colors among permanents you control; +1 other prerequisite | 876
+Kodama of the East Tree + Oboro, Palace in the Clouds + Felidar Retreat | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers | 868
+Doc Aurlock, Grizzled Genius + Appa, Loyal Sky Bison + Aang, Swift Savior | Infinite creature LTB; Infinite creature ETB; Infinite storm count | 859
+Lagrella, the Magpie + Felidar Guardian + Cloudshift | Infinite blinking; Infinite creature ETB; Infinite creature LTB | 859
+Abdel Adrian, Gorion's Ward + Eternal Witness + Momentary Blink | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 831
+Abdel Adrian, Gorion's Ward + Eternal Witness + Essence Flux | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 807
+Rafiq of the Many + Belt of Giant Strength | Target opponent loses the game; +1 other prerequisite | 795

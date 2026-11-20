@@ -1,0 +1,100 @@
+Tivit, Seller of Secrets + Time Sieve | Near-infinite turns; Lock; +1 other prerequisite | 14994
+Drogskol Reaver + Queza, Augur of Agonies | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 11089
+Thopter Foundry + Time Sieve + Sword of the Meek | Infinite turns; Lock | 8231
+Sharuum the Hegemon + Phyrexian Metamorph | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 7286
+Hashaton, Scarab's Fist + Tortured Existence + Peregrine Drake | Infinite creature ETB; Infinite self-discard triggers; Infinite tapped creature tokens; +1 other prerequisite | 7218
+Thopter Foundry + Sword of the Meek + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +5 more results | 6999
+Urza, Lord High Artificer + Thopter Foundry + Sword of the Meek | Cast all spells in your library; Infinite blue mana; +5 more results | 6839
+Marneus Calgar + Nadir Kraken + Ashnod's Altar | Infinite card draw; Infinite draw triggers; +7 more results; +1 other prerequisite | 6763
+Tivit, Seller of Secrets + Time Sieve + Academy Manufactor | Infinite turns; Near-infinite turns; Lock; +1 other prerequisite | 6624
+Aminatou, the Fateshifter + Felidar Guardian | Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 6401
+Thopter Foundry + Sword of the Meek + Krark-Clan Ironworks | Infinite colorless mana; Infinite death triggers; +5 more results | 6042
+Marneus Calgar + Ashnod's Altar + Pitiless Plunderer | Infinite card draw; Infinite draw triggers; +4 more results | 5995
+Aminatou, the Fateshifter + Spark Double + Oath of Teferi | Infinite blinking of permanents; Infinite creature ETB; +2 more results | 5899
+Drogskol Reaver + Sheoldred, the Apocalypse | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 5864
+Sharuum the Hegemon + Sculpting Steel | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 5192
+Marneus Calgar + Ashnod's Altar + Mondrak, Glory Dominus | Infinite card draw; Infinite draw triggers; +6 more results | 5174
+Marneus Calgar + Ashnod's Altar + Anointed Procession | Infinite card draw; Infinite draw triggers; +6 more results | 4576
+Noctis, Prince of Lucis + Aetherflux Reservoir + Vexing Bauble | Infinite damage; Infinite lifegain triggers; +2 more results; +1 other prerequisite | 4332
+Queza, Augur of Agonies + Lich's Mastery | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 4029
+Marina Vendrell's Grimoire + Queza, Augur of Agonies | Infinite card draw; Near-infinite lifeloss; +3 more results | 3950
+Marneus Calgar + Ashnod's Altar + Training Grounds | Infinite card draw; Infinite draw triggers; +4 more results | 3550
+Tivit, Seller of Secrets + Deadeye Navigator | Infinite colored mana if your opponent allows it; Infinite creature ETB; +2 more results; +1 other prerequisite | 3449
+Noctis, Prince of Lucis + Aetherflux Reservoir + Solemnity + Lotus Petal | Infinite colored mana; Infinite damage; +3 more results; +1 other prerequisite | 3209
+Marneus Calgar + Ashnod's Altar + Elspeth, Storm Slayer | Infinite card draw; Infinite draw triggers; +6 more results | 3122
+Sharuum the Hegemon + Hashaton, Scarab's Fist | Infinite creature LTB; Infinite creature ETB; Infinite death triggers; +1 other prerequisite | 2910
+Noctis, Prince of Lucis + Aetherflux Reservoir + Solemnity + Mishra's Bauble | Infinite damage; Infinite lifegain triggers; +4 more results; +1 other prerequisite | 2736
+Noctis, Prince of Lucis + Aetherflux Reservoir + Hex Parasite + Lotus Petal | Infinite damage; Infinite lifegain triggers; +2 more results; +1 other prerequisite | 2714
+Aminatou, the Fateshifter + Teferi, Master of Time + Ichormoon Gauntlet | Infinite turns; Lock; +1 other prerequisite | 2713
+Sefris of the Hidden Ways + Radiant Solar + Sun Titan + Karmic Guide + Viscera Seer | Infinite card draw; Infinite draw triggers; +12 more results; +2 other prerequisites | 2539
+Noctis, Prince of Lucis + Aetherflux Reservoir + Mox Diamond | Infinite damage; Infinite lifegain triggers; +2 more results; +1 other prerequisite | 2297
+Marneus Calgar + Ashnod's Altar + Ojer Taq, Deepest Foundation | Infinite card draw; Infinite draw triggers; +6 more results | 2292
+Marneus Calgar + Ashnod's Altar + Exalted Sunborn | Infinite card draw; Infinite draw triggers; +6 more results | 2107
+Tivit, Seller of Secrets + Time Sieve + Mondrak, Glory Dominus | Infinite turns; Near-infinite turns; Lock; +1 other prerequisite | 1801
+Tivit, Seller of Secrets + Time Sieve + Anointed Procession | Infinite turns; Lock; Near-infinite turns; +1 other prerequisite | 1801
+Lurrus of the Dream-Den + Displacer Kitten + Lotus Petal | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 1722
+Sensei's Divining Top + Queza, Augur of Agonies + Bolas's Citadel | Infinite card draw; Infinite draw triggers; +3 more results | 1704
+Marneus Calgar + Nadir Kraken + Phyrexian Altar | Infinite card draw; Infinite draw triggers; +5 more results; +1 other prerequisite | 1696
+Medomai the Ageless + Satoru Umezawa | Infinite turns; Lock; +1 other prerequisite | 1695
+Aminatou, the Fateshifter + Spark Double + Altar of the Brood | Infinite creature ETB; Infinite creature LTB; Infinite mill | 1614
+Sydri, Galvanic Genius + Aetherflux Reservoir | Infinite damage; +1 other prerequisite | 1611
+Noctis, Prince of Lucis + Aetherflux Reservoir + Chalice of the Void | Infinite damage; Infinite lifegain triggers; +2 more results; +1 other prerequisite | 1596
+Phage the Untouchable + Fractured Identity | Each opponent loses the game | 1521
+Hashaton, Scarab's Fist + Tortured Existence + Palinchron | Infinite creature ETB; Infinite mana lands you control can produce; +4 more results; +1 other prerequisite | 1376
+Noctis, Heir Apparent + Vorpal Sword | Target opponent loses the game | 1372
+Sefris of the Hidden Ways + Radiant Solar + Abdel Adrian, Gorion's Ward | Near-infinite creature ETB; Near-infinite creature LTB; +4 more results; +2 other prerequisites | 1348
+Wernog, Rider's Chaplain + Time Sieve + Academy Manufactor + Soulherder | Infinite turns; Lock | 1277
+Will, Scion of Peace + Debt to the Deathless + Beacon of Immortality | Each opponent loses the game; Near-infinite lifegain; Near-infinite lifeloss; +1 other prerequisite | 1215
+Wernog, Rider's Chaplain + Time Sieve + Academy Manufactor + Teleportation Circle | Infinite turns; Lock | 1073
+Noctis, Prince of Lucis + Aetherflux Reservoir + Solemnity + Urza's Bauble | Infinite damage; Infinite lifegain triggers; +4 more results; +1 other prerequisite | 1066
+Time Sieve + Tamiyo's Journal + Academy Manufactor + Anointed Procession | Infinite turns; Lock | 1038
+Noctis, Prince of Lucis + Aetherflux Reservoir + Solemnity + Tormod's Crypt | Infinite damage; Infinite lifegain triggers; +2 more results; +1 other prerequisite | 1002
+Noctis, Prince of Lucis + Aetherflux Reservoir + Solemnity + Lion's Eye Diamond | Infinite colored mana; Infinite damage; +3 more results; +1 other prerequisite | 1000
+Merieke Ri Berit + Intruder Alarm | Destroy any creature whenever a creature enters the battlefield; Lock; +1 other prerequisite | 977
+Sefris of the Hidden Ways + Radiant Solar + Sun Titan + Karmic Guide + Altar of Dementia | Infinite card draw; Infinite draw triggers; +12 more results; +2 other prerequisites | 953
+Time Sieve + Tamiyo's Journal + Academy Manufactor + Mondrak, Glory Dominus | Infinite turns; Lock | 933
+Sharuum the Hegemon + Machine God's Effigy | Infinite death triggers; Infinite creature ETB; Infinite creature LTB | 932
+Wernog, Rider's Chaplain + Time Sieve + Academy Manufactor + Conjurer's Closet | Infinite turns; Lock | 930
+Psychosis Crawler + Drogskol Reaver + Exquisite Blood | Infinite card draw; Infinite draw triggers; +4 more results; +1 other prerequisite | 920
+Wernog, Rider's Chaplain + Academy Manufactor + Deadeye Navigator | Infinite artifact ETB; Infinite artifact LTB; +14 more results | 836
+Radiant Solar + Sefris of the Hidden Ways + Hostage Taker + Barrowin of Clan Undurr | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 827
+Marneus Calgar + Ashnod's Altar + Kaya, Geist Hunter | Infinite card draw; Infinite draw triggers; +6 more results; +1 other prerequisite | 817
+Hashaton, Scarab's Fist + Tortured Existence + Great Whale | Infinite creature ETB; Infinite mana lands you control can produce; +4 more results; +1 other prerequisite | 792
+Sharuum the Hegemon + Reflections of Littjara | Infinite death triggers; Infinite creature ETB; Infinite creature LTB; +1 other prerequisite | 787
+Lurrus of the Dream-Den + Displacer Kitten + Lion's Eye Diamond | Infinite artifact ETB; Infinite artifact LTB; +5 more results; +1 other prerequisite | 784
+Noctis, Prince of Lucis + Power Conduit + Krark-Clan Ironworks + Aetherflux Reservoir | Infinite artifact ETB; Infinite artifact LTB; +7 more results; +1 other prerequisite | 746
+Radiant Solar + Sefris of the Hidden Ways + Hostage Taker + White Plume Adventurer | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 723
+Ad Nauseam + Laboratory Maniac + Angel's Grace | Win the game | 720
+Myrel, Shield of Argive + Time Sieve | Infinite turns; Lock; +1 other prerequisite | 712
+Sharuum the Hegemon + Mirrormade | Infinite creature ETB; Infinite creature LTB | 701
+Sefris of the Hidden Ways + Radiant Solar + Sun Titan + Karmic Guide + Ashnod's Altar | Infinite card draw; Infinite draw triggers; +13 more results; +2 other prerequisites | 696
+Liliana, Untouched by Death + Rooftop Storm + Ratadrabik of Urborg + Necroduality | Infinite creature tokens; Infinite death triggers; +2 more results; +1 other prerequisite | 692
+Sharuum the Hegemon + Clever Impersonator | Infinite creature ETB; Infinite creature LTB | 684
+Retreat to Coralhelm + Orzhov Basilica + PuPu UFO | Infinite landfall triggers | 674
+Wernog, Rider's Chaplain + Time Sieve + Academy Manufactor + Thassa, Deep-Dwelling | Infinite turns; Lock | 665
+Retreat to Coralhelm + Walking Atlas + Orzhov Basilica | Infinite landfall triggers | 665
+Sefris of the Hidden Ways + Radiant Solar + Spark Double + Glasspool Mimic | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 643
+Noctis, Prince of Lucis + Aetherflux Reservoir + Solemnity + Welding Jar | Infinite damage; Infinite lifegain triggers; +2 more results; +2 other prerequisites | 627
+Sefris of the Hidden Ways + Radiant Solar + Phantasmal Image + Glasspool Mimic | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 612
+Phyrexian Altar + Nevinyrral, Urborg Tyrant | Infinite colored mana; Infinite death triggers; +4 more results | 591
+Zur the Enchanter + Stasis + Tel-Jilad Stylus | Mass Land Denial; Opponents skip their untap steps; Lock; +1 other prerequisite | 574
+Radiant Solar + Sefris of the Hidden Ways + Hostage Taker + Rilsa Rael, Kingpin | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 570
+Radiant Solar + Sefris of the Hidden Ways + Phantom Steed + Barrowin of Clan Undurr | Near-infinite lifeloss for all players; Near-infinite creature sacrifice triggers; +3 more results; +1 other prerequisite | 563
+Radiant Solar + Sefris of the Hidden Ways + Hostage Taker + Tomb of Horrors Adventurer | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 545
+Niv-Mizzet, Ghost Counsel + Queza, Augur of Agonies | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 542
+Wedding Ring + Notion Thief | Infinite card draw; Infinite draw triggers | 542
+Sefris of the Hidden Ways + Radiant Solar + Sun Titan + Karmic Guide + Umbral Collar Zealot | Infinite card draw; Infinite draw triggers; +12 more results; +2 other prerequisites | 535
+Shabraz, the Skyshark + Lich's Mastery | Infinite card draw; Infinite draw triggers; +3 more results; +1 other prerequisite | 515
+Marneus Calgar + Scuttletide + Ashnod's Altar | Infinite draw triggers; Infinite rummaging; +7 more results; +1 other prerequisite | 512
+Magister Sphinx + Archfiend of Despair | Near-infinite lifeloss for target opponent; Target opponent loses the game; +1 other prerequisite | 503
+Sefris of the Hidden Ways + Radiant Solar + Phantasmal Image + Spark Double | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 494
+Sefris of the Hidden Ways + Radiant Solar + Sakashima of a Thousand Faces + Spark Double | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 493
+Radiant Solar + Sefris of the Hidden Ways + Phantom Steed + White Plume Adventurer | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 473
+Marneus Calgar + Ashnod's Altar + Bard, King of Dale | Infinite card draw; Infinite draw triggers; +6 more results | 470
+Aminatou, the Fateshifter + Spark Double + Rings of Brighthearth + Teferi, Temporal Archmage | Infinite blinking; Infinite card draw; Infinite mana permanents you control can produce; +1 other prerequisite | 470
+Sharuum the Hegemon + Copy Artifact | Infinite creature ETB; Infinite creature LTB | 468
+Sefris of the Hidden Ways + Radiant Solar + Sakashima of a Thousand Faces + Glasspool Mimic | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 464
+Sefris of the Hidden Ways + Radiant Solar + Sun Titan + Karmic Guide + Carrion Feeder | Infinite card draw; Infinite draw triggers; +12 more results; +2 other prerequisites | 457
+Marneus Calgar + The Watcher in the Water | Infinite card draw; Infinite draw triggers; +2 more results; +1 other prerequisite | 455
+Radiant Solar + Sefris of the Hidden Ways + Hostage Taker + Seasoned Dungeoneer | Near-infinite creature ETB; Near-infinite creature LTB; +3 more results; +1 other prerequisite | 443
+Psychosis Crawler + Drogskol Reaver + Bloodthirsty Conqueror | Infinite card draw; Near-infinite lifegain; +4 more results; +1 other prerequisite | 443

@@ -1,0 +1,99 @@
+Viscera Seer + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +3 more results | 5228
+Glacial Chasm + The Gitrog Monster + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 4912
+Slimefoot and Squee + Pitiless Plunderer + Goblin Bombardment | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 4184
+Slimefoot and Squee + Pitiless Plunderer + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +3 more results; +1 other prerequisite | 4176
+Glacial Chasm + Oracle of Mul Daya + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 4152
+Glacial Chasm + Szarel, Genesis Shepherd + Exploration Broodship | Prevent all damage that would be dealt to you; Lock; +2 other prerequisites | 4086
+Slimefoot and Squee + Pitiless Plunderer + Viscera Seer | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 3939
+Yurlok of Scorch Thrash + Leyline of Abundance + Umbral Mantle | Infinite black mana for opponents; Infinite green mana for opponents; +3 more results; +1 other prerequisite | 3883
+Glacial Chasm + Azusa, Lost but Seeking + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 3836
+Yurlok of Scorch Thrash + Staff of Domination + Nyxbloom Ancient | Infinite black mana for all players; Infinite card draw; +8 more results; +1 other prerequisite | 3734
+Yurlok of Scorch Thrash + Staff of Domination + Mana Reflection | Infinite black mana for all players; Infinite card draw; +8 more results; +1 other prerequisite | 3670
+Yurlok of Scorch Thrash + Umbral Mantle + Nyxbloom Ancient | Draw the game; Infinite black mana for all players; +4 more results; +1 other prerequisite | 3609
+Murderous Redcap + Grumgully, the Generous | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 3578
+Yurlok of Scorch Thrash + Umbral Mantle + Mana Reflection | Draw the game; Infinite black mana for all players; +4 more results; +1 other prerequisite | 3561
+Murderous Redcap + Rhythm of the Wild | Infinite creature LTB; Infinite creature ETB; Infinite death triggers | 3281
+Slimefoot and Squee + Pitiless Plunderer + Phyrexian Altar | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 3280
+Yurlok of Scorch Thrash + Leyline of Abundance + Sword of the Paruns | Infinite black mana for opponents; Infinite green mana for opponents; +2 more results; +1 other prerequisite | 3267
+Glacial Chasm + Exploration + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 3026
+Food Chain + Prossh, Skyraider of Kher | Infinite colored mana that can only be spent to cast creature spells; Infinite creature tokens; +6 more results | 3020
+Glacial Chasm + Dryad of the Ilysian Grove + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 2722
+Slimefoot and Squee + Pitiless Plunderer + Sprouting Thrinax + Goblin Bombardment | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 2550
+Slimefoot and Squee + Sprouting Thrinax + Phyrexian Altar | Infinite artifact ETB; Infinite artifact LTB; +9 more results | 2447
+Slimefoot and Squee + Pitiless Plunderer + Sprouting Thrinax + Viscera Seer | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 2441
+Slimefoot and Squee + Golgari Germination + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 2246
+Slimefoot and Squee + Pitiless Plunderer + Altar of Dementia | Infinite creature ETB; Infinite creature LTB; +4 more results; +1 other prerequisite | 2196
+Slimefoot and Squee + Pitiless Plunderer + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results; +1 other prerequisite | 2109
+Phyrexian Altar + Ashnod's Altar + Prossh, Skyraider of Kher | Infinite colored mana; Infinite colorless mana; +6 more results | 1952
+Grumgully, the Generous + Putrid Goblin + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results; +1 other prerequisite | 1903
+Rhythm of the Wild + Carrion Feeder | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 1804
+Phyrexian Altar + Purphoros, God of the Forge + Prossh, Skyraider of Kher | Near-infinite damage; Near-infinite death triggers; +3 more results; +1 other prerequisite | 1779
+Viscera Seer + Grumgully, the Generous | Infinite creature ETB; Infinite creature LTB; +3 more results | 1703
+Phyrexian Altar + Chatterfang, Squirrel General + Prossh, Skyraider of Kher | Infinite colored mana; Infinite commander casts; +6 more results | 1697
+Ziatora, the Incinerator + Solphim, Mayhem Dominus + Malignus | Near-infinite damage to one opponent; Target opponent loses the game | 1668
+The Beamtown Bullies + Bronze Bombshell + Thornbite Staff | Infinite damage; +1 other prerequisite | 1650
+Slimefoot and Squee + Pitiless Plunderer + Sprouting Thrinax + Altar of Dementia | Infinite artifact ETB; Infinite artifact LTB; +11 more results | 1510
+Slimefoot and Squee + Pitiless Plunderer + Umbral Collar Zealot | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 1506
+Slimefoot and Squee + Pitiless Plunderer + Sprouting Thrinax + Carrion Feeder | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 1473
+Kodama of the East Tree + Golgari Rot Farm + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 1388
+Putrid Goblin + Skirk Prospector + Grumgully, the Generous | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 1315
+Mr. Orfeo, the Boulder + Malignus + Chandra's Ignition | Each opponent loses the game; Near-infinite damage; +1 other prerequisite | 1266
+Indoraptor, the Perfect Hybrid + Rite of Passage + Blazing Sunsteel | Infinite +1/+1 counters on a creature; Infinite damage; +1 other prerequisite | 1224
+Bhaal, Lord of Murder + Viscera Seer | Infinite creature ETB; Infinite creature sacrifice triggers; +3 more results; +1 other prerequisite | 1167
+Rhythm of the Wild + Murderous Redcap + Phyrexian Altar | Infinite colored mana; Infinite damage; +4 more results | 1112
+Phyrexian Altar + Parallel Lives + Prossh, Skyraider of Kher | Infinite colored mana; Infinite commander casts; +5 more results | 1110
+Putrid Goblin + Sling-Gang Lieutenant + Grumgully, the Generous | Infinite creature LTB; Infinite creature ETB; +5 more results | 1089
+Kodama of the East Tree + Tireless Provisioner + Rakdos Carnarium | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 1088
+Szarel, Genesis Shepherd + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 1068
+Kodama of the East Tree + Scute Swarm + Rakdos Carnarium | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 1057
+Carrion Feeder + Grumgully, the Generous | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results | 1054
+Szarel, Genesis Shepherd + Viscera Seer | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 975
+Bhaal, Lord of Murder + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 940
+Korvold, Fae-Cursed King + Animation Module + Ashnod's Altar | Infinite card draw; Near-infinite colorless mana; +6 more results; +1 other prerequisite | 920
+Slimefoot and Squee + Ruthless Technomancer + Goblin Bombardment | Infinite artifact ETB; Infinite artifact LTB; +10 more results; +1 other prerequisite | 911
+Kodama of the East Tree + Rakdos Carnarium + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 891
+Rhythm of the Wild + Yahenni, Undying Partisan | Infinite creature ETB; Infinite creature LTB; +2 more results; +1 other prerequisite | 881
+Slimefoot and Squee + Ruthless Technomancer + Viscera Seer | Infinite artifact ETB; Infinite artifact LTB; +10 more results; +1 other prerequisite | 881
+Bhaal, Lord of Murder + Ashnod's Altar | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 874
+Glacial Chasm + Wayward Swordtooth + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 857
+Slimefoot and Squee + Ruthless Technomancer + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +3 more results; +1 other prerequisite | 857
+Umbral Collar Zealot + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +3 more results | 849
+Szarel, Genesis Shepherd + Goblin Bombardment | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 842
+Putrid Goblin + Skirk Prospector + Rhythm of the Wild | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 835
+Tortured Existence + Insidious Roots + Anger | Infinite +1/+1 counters on certain creatures; Infinite creature ETB; +2 more results; +1 other prerequisite | 834
+Goblin Bombardment + Reyhan, Last of the Abzan | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 833
+Slimefoot and Squee + Infested Thrinax + Phyrexian Altar | Infinite colored mana; Infinite creature tokens; +4 more results | 833
+Woe Strider + Rhythm of the Wild | Infinite creature ETB; Infinite creature LTB; +3 more results | 810
+Kodama of the East Tree + Rakdos Carnarium + Rampaging Baloths | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 771
+Slimefoot and Squee + Ruthless Technomancer + Phyrexian Altar | Infinite death triggers; Infinite creature ETB; +2 more results; +1 other prerequisite | 730
+Bhaal, Lord of Murder + Carrion Feeder | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 723
+Phyrexian Altar + Doubling Season + Prossh, Skyraider of Kher | Infinite colored mana; Infinite commander casts; +5 more results | 712
+Murderous Redcap + The Great Henge | Infinite card draw; Near-infinite creature ETB; +3 more results | 683
+Necrotic Ooze + Devoted Druid + Morselhoarder | Infinite colored mana | 680
+Putrid Goblin + Sling-Gang Lieutenant + Rhythm of the Wild | Infinite creature LTB; Infinite creature ETB; +5 more results | 662
+Mikaeus, the Unhallowed + Phyrexian Altar + The Reaper, King No More | Infinite creature ETB; Infinite creature LTB; +5 more results | 659
+Ziatora, the Incinerator + Malignus + Fiery Emancipation | Near-infinite damage to one opponent; Target opponent loses the game | 659
+Slimefoot and Squee + Ruthless Technomancer + Altar of Dementia | Infinite artifact ETB; Infinite artifact LTB; +11 more results; +1 other prerequisite | 643
+Szarel, Genesis Shepherd + Phyrexian Altar | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 639
+Slimefoot and Squee + Pitiless Plunderer + Skirk Prospector | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 610
+Squee, the Immortal + Phyrexian Altar + Doubling Season + Pitiless Plunderer | Infinite death triggers; Infinite creature ETB; +3 more results | 606
+Kodama of the East Tree + Rakdos Carnarium + Field of the Dead | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 602
+Mikaeus, the Unhallowed + Goblin Bombardment + The Reaper, King No More | Infinite creature ETB; Infinite creature LTB; +5 more results | 598
+Korvold, Fae-Cursed King + Animation Module + Pitiless Plunderer + Viscera Seer | Near-infinite artifact ETB; Near-infinite artifact LTB; +8 more results; +1 other prerequisite | 580
+The Gitrog Monster + Dakmor Salvage + Borborygmos Enraged | Infinite self-mill; Near-infinite damage; Near-infinite self-discard triggers | 572
+Stimulus Package + Pitiless Plunderer + Ashnod's Altar | Infinite colorless mana; Infinite death triggers; +3 more results; +1 other prerequisite | 554
+Ognis, the Dragon's Lash + Amulet of Vigor + Aggravated Assault | Infinite artifact ETB; Infinite artifact LTB; +7 more results; +1 other prerequisite | 546
+Putrid Goblin + Goblin Trashmaster + Grumgully, the Generous | Infinite creature ETB; Infinite creature LTB; +2 more results; +1 other prerequisite | 544
+Glacial Chasm + Mina and Denn, Wildborn + Szarel, Genesis Shepherd | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 536
+Korvold, Fae-Cursed King + Animation Module + Phyrexian Altar | Infinite card draw; Infinite draw triggers; +5 more results; +1 other prerequisite | 525
+Szarel, Genesis Shepherd + Umbral Collar Zealot | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 523
+Kodama of the East Tree + Tireless Tracker + Rakdos Carnarium | Infinite artifact tokens; Infinite Clue tokens; Infinite landfall triggers; +1 other prerequisite | 522
+Stimulus Package + Pitiless Plunderer + Viscera Seer | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 519
+Slimefoot and Squee + Ruthless Technomancer + Carrion Feeder | Infinite artifact ETB; Infinite artifact LTB; +10 more results; +1 other prerequisite | 518
+Bhaal, Lord of Murder + Phyrexian Altar | Infinite creature LTB; Infinite creature ETB; +3 more results; +1 other prerequisite | 493
+Lavaclaw Reaches + Blossoming Tortoise | Infinitely powerful creature until end of turn | 479
+Disa the Restless + Mimic Vat + Altar of Dementia | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 472
+Mikaeus, the Unhallowed + Goblin Bombardment + Dread Tiller | Infinite creature ETB; Infinite creature LTB; +3 more results | 468
+Kodama of the East Tree + Rakdos Carnarium + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 454
+Ziatora, the Incinerator + Malignus + City on Fire | Near-infinite damage to one opponent; Target opponent loses the game | 447
+Korvold, Fae-Cursed King + Animation Module + Pitiless Plunderer + Goblin Bombardment | Near-infinite artifact ETB; Near-infinite artifact LTB; +9 more results; +1 other prerequisite | 433

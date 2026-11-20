@@ -1,0 +1,96 @@
+// COMMANDER
+1 Elminster (CLB) 362 *F*
+
+1 Approach of the Second Sun (SLD) 1035 *F*
+1 Archmage's Charm (SCH) 2 *F*
+1 Arid Mesa (MH2) 436 *F*
+1 Ash Barrens (SLD) 469 *F*
+1 Brainstorm (STA) 76 *F*
+1 Brainsurge (MH3) 399 *F*
+1 Bribery (SLD) 411 *F*
+1 Castle Vantress (ELD) 390 *F*
+1 Command Tower (SLD) 806 *F*
+1 Condemn (RVR) 304 *F*
+1 Consult the Star Charts (EOE) 325 *F*
+1 Council's Judgment (2XM) 336 *F*
+1 Counterspell (STA) 78 *F*
+1 Cryptic Command (FCA) 29 *F*
+1 Day of Judgment (FDN) 422 *F*
+1 Deserted Beach (MID) 281 *F*
+1 Eiganjo, Seat of the Empire (NEO) 413 *F*
+1 Entreat the Angels (V15) 7 *F*
+1 Fabled Passage (PW21) 4 *F*
+1 Farewell (PWCS) 2022-5 *F*
+1 Fateful Absence (MID) 328 *F*
+1 Field of Ruin (MID) 262 *F*
+1 Flooded Strand (ONS) 316
+1 Floodfarm Verge (DSK) 330 *F*
+1 Force Spike (7ED) 76★ *F*
+1 Force of Negation (2X2) 346 *F*
+1 Fractured Identity (OTP) 76 *F*
+1 Get Lost (LCI) 333 *F*
+1 Gitaxian Probe (F12) 12 *F*
+1 Glacial Fortress (SLD) 456 *F*
+1 Hall of Storm Giants (AFR) 354 *F*
+1 Hallowed Fountain (RVR) 404 *F*
+1 Hengegate Pathway (SLU) 18 *F*
+4 Island (INV) 336 *F*
+1 Jace, the Mind Sculptor (BLC) 75 *F*
+1 Logic Knot (FUT) 52 *F*
+1 Lose Focus (MH2) 49 *F*
+1 Lórien Revealed (LTR) 511 *F*
+1 Mana Leak (PAL02) 5 *F*
+1 Mana Tithe (STA) 8 *F*
+1 Marsh Flats (MH2) 437 *F*
+1 Memory Deluge (INR) 361 *F*
+1 Memory Lapse (G99) 1 *F*
+1 Mental Misstep (SLD) 1179 *F*
+1 Meticulous Archive (MKM) 328 *F*
+1 Miscalculation (ULG) 36 *F*
+1 Mistrise Village (TDM) 397 *F*
+1 Misty Rainforest (MH2) 438 *F*
+1 Moat (LEG) 28
+1 Mystic Confluence (CMM) 492 *E*
+1 Mystic Gate (EXP) 26 *F*
+1 Mystic Sanctuary (TSR) 408 *F*
+1 Narset, Parter of Veils (BLC) 76 *F*
+1 Nimbus Maze (FUT) 178 *F*
+1 No More Lies (MKM) 427 *F*
+1 Noggle the Mind (ECL) 60
+1 Otawara, Soaring City (NEO) 414 *F*
+1 Oust (ROE) 40 *F*
+1 Personal Tutor (CMM) 633 *F*
+3 Plains (INR) 289 *F*
+1 Polluted Delta (MH3) 438 *F*
+1 Ponder (SLD) 1783 *F*
+1 Prairie Stream (PIP) 503 *F*
+1 Preordain (SLD) 1719 *F*
+1 Prismatic Ending (MH2) 384 *F*
+1 Prismatic Vista (H1R) 40 *E*
+1 Remand (TSR) 316 *F*
+1 Reprieve (LTR) 26 *F*
+1 Scalding Tarn (MH2) 439 *F*
+1 Sea Gate Restoration (ZNR) 333 *F*
+1 Shorikai, Genesis Engine (SLD) 1880 *F*
+1 Snapcaster Mage (INR) 478 *F*
+1 Solitude (SPG) 49 *F*
+1 Solve the Equation (SLD) 1022 *F*
+1 Stern Scolding (LTR) 71 *F*
+1 Stock Up (DFT) 67 *F*
+1 Subtlety (SPG) 50 *F*
+1 Sunset Revelry (MID) 38 *F*
+1 Supreme Verdict (2X2) 388 *F*
+1 Swords to Plowshares (F01) 6 *F*
+1 Tale's End (PM20) 77p *F*
+1 Teferi, Hero of Dominaria (MED) GR6 *F*
+1 Teferi, Time Raveler (BLC) 92 *F*
+1 Temple of the False God (P30A) 11 *F*
+1 Terminus (V14) 12 *F*
+1 The Wandering Emperor (NEO) 303
+1 Triumph of Saint Katherine (40K) 17★ *F*
+1 Tundra (3ED) 289
+1 Unexpectedly Absent (EMA) 33 *F*
+1 Wan Shi Tong, Librarian (TLA) 320
+1 Wash Away (VOW) 87 *F*
+1 Windswept Heath (MH3) 440 *F*
+1 Wrath of the Skies (MH3) 49 *F*

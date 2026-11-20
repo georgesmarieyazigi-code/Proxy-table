@@ -1,0 +1,50 @@
+#4 Sanguine Bond + Exquisite Blood | Infinite lifegain triggers; Infinite lifeloss; Infinite lifegain
+#7 Underworld Breach + Lion's Eye Diamond + Brain Freeze | Infinite self-mill; Near-infinite colored mana
+#10 Underworld Breach + Wheel of Fortune + Jeska's Will | Infinite draw triggers for all players; Infinite looting for all players
+#13 Underworld Breach + Lion's Eye Diamond + Wheel of Fortune | Infinite draw triggers; Infinite looting
+#16 Gravecrawler + Phyrexian Altar | Infinite death triggers; Infinite creature ETB
+#19 Dualcaster Mage + Twinflame | Infinite creature LTB; Infinite creature ETB
+#22 Basalt Monolith + Forsaken Monument | Infinite colorless mana
+#25 Frantic Search + Narset's Reversal + Fire Lord Azula | Infinite self-discard triggers; Infinite draw triggers
+#28 Sensei's Divining Top + Foundry Inspector + Mystic Forge | Infinite card draw; Near-infinite storm count; Infinite draw triggers
+#31 Restoration Angel + Felidar Guardian | Infinite creature ETB; Infinite creature LTB
+#35 Heliod, Sun-Crowned + Walking Ballista | Infinite damage; Infinite lifegain; Infinite lifegain triggers
+#38 Dualcaster Mage + Molten Duplication | Infinite creature LTB; Infinite creature ETB
+#41 Warren Soultrader + Gravecrawler + Blood Artist | Infinite death triggers; Infinite creature ETB
+#44 Mikaeus, the Unhallowed + Ashnod's Altar | Infinite colorless mana; Infinite creature ETB
+#47 Hapatra, Vizier of Poisons + Blowfly Infestation | Infinite death triggers; Infinite creature ETB
+#50 Orcish Bowmasters + Peer into the Abyss | Infinite +1/+1 counters on a creature; Near-infinite card draw for target opponent
+#55 Warren Soultrader + Gravecrawler + Zulaport Cutthroat | Infinite creature ETB; Infinite creature LTB
+#58 Underworld Breach + Grinding Station | Infinite self-mill; Near-infinite storm count; Near-infinite mana among colors of legendary creatures and planeswalkers you control
+#61 Gravecrawler + Pitiless Plunderer + Ashnod's Altar | Infinite colorless mana; Infinite death triggers
+#65 Reiterate + Jeska's Will | Infinite magecraft triggers; Infinite red mana
+#68 Sensei's Divining Top + Mystic Forge + Cloud Key | Infinite card draw; Near-infinite storm count; Infinite draw triggers
+#73 Gravecrawler + Pitiless Plunderer + Viscera Seer | Infinite creature LTB; Infinite creature ETB
+#76 Skirk Prospector + Goblin Warchief + Krenko, Mob Boss | Infinite commander casts; Infinite creature tokens with haste
+#79 Gorma, the Gullet + Viscera Seer | Infinite +1/+1 counters on a creature; Infinite creature ETB
+#82 Tandem Lookout + Niv-Mizzet, Parun | Infinite card draw; Infinite draw triggers; Near-infinite damage
+#85 Springheart Nantuko + Nissa, Resurgent Animist | Infinite landfall triggers; Infinite tapped land tokens
+#88 Aurelia, the Warleader + Helm of the Host | Infinite combat phases; Infinite creature tokens with haste
+#91 Skirk Prospector + Goblin Chieftain + Krenko, Mob Boss | Infinite commander casts; Infinite creature tokens with haste
+#94 Academy Manufactor + Warren Soultrader + Chatterfang, Squirrel General | Infinite artifact ETB; Infinite artifact LTB
+#98 Walking Ballista + Hardened Scales + Gatta and Luzzu | Infinite damage; Infinite +1/+1 counters on a creature
+#102 Warren Soultrader + Forsaken Miner + Blood Artist | Infinite death triggers; Infinite creature ETB
+#105 Scurry Oak + Ivy Lane Denizen | Infinite +1/+1 counters on a creature; Infinite creature tokens; Infinite creature ETB
+#109 Ashaya, Soul of the Wild + Quirion Ranger | Infinite creature ETB; Infinite landfall triggers
+#113 Dualcaster Mage + Electroduplicate | Infinite creature LTB; Infinite creature ETB
+#117 Warren Soultrader + Gravecrawler + Bastion of Remembrance | Infinite creature ETB; Infinite creature LTB
+#120 Teferi, Time Raveler + Displacer Kitten + Mana Vault | Infinite card draw; Infinite draw triggers
+#123 Dualcaster Mage + Heat Shimmer | Infinite creature LTB; Infinite creature ETB
+#127 Peregrin Took + Warren Soultrader + Chatterfang, Squirrel General | Infinite artifact ETB; Infinite artifact LTB
+#131 Ashnod's Altar + Cathars' Crusade | Infinite creature ETB; Infinite creature LTB
+#136 Warren Soultrader + Gravecrawler + Sephiroth, Fabled SOLDIER | Infinite creature LTB; Infinite creature ETB
+#139 Sensei's Divining Top + Bolas's Citadel + Sheoldred, the Apocalypse | Infinite card draw; Infinite draw triggers
+#143 Godo, Bandit Warlord + Helm of the Host | Infinite combat phases; Infinite death triggers
+#146 Sensei's Divining Top + Glaring Fleshraker + Mystic Forge | Infinite card draw; Infinite draw triggers
+#150 Sensei's Divining Top + Mystic Forge + Jhoira's Familiar | Infinite card draw; Near-infinite storm count; Infinite draw triggers
+#153 The Gitrog Monster + The Necrobloom | Infinite self-mill; Near-infinite self-discard triggers
+#158 Aggravated Assault + Old Gnawbone | Infinite artifact ETB; Infinite artifact LTB
+#161 Yawgmoth, Thran Physician + Zulaport Cutthroat + Pawn of Ulamog | Infinite card draw; Infinite draw triggers
+#165 Reassembling Skeleton + Phyrexian Altar + Pawn of Ulamog | Infinite death triggers; Infinite creature ETB
+#168 Teferi, Time Raveler + Displacer Kitten + Mox Opal | Infinite card draw; Infinite draw triggers
+#171 Warren Soultrader + Forsaken Miner + Sephiroth, Fabled SOLDIER | Infinite creature LTB; Infinite creature ETB

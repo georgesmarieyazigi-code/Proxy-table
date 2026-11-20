@@ -1,0 +1,100 @@
+Ancestral Statue + Animar, Soul of Elements | Infinite +1/+1 counters on a creature; Infinite creature ETB; +2 more results | 12216
+Animar, Soul of Elements + Hullbreaker Horror | Infinite +1/+1 counters on a creature; Infinite creature ETB; +2 more results; +1 other prerequisite | 11105
+Miirym, Sentinel Wyrm + Dracogenesis + Marang River Regent | Return all nonland permanents opponents control to their owner's hand; Infinite creature LTB; +3 more results | 8826
+Kodama of the East Tree + Simic Growth Chamber + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 5631
+Animar, Soul of Elements + Cloudstone Curio | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 5161
+Saheeli, Radiant Creator + Gonti's Aether Heart + Academy Ruins | Infinite turns; Skip your draw steps; Lock; +1 other prerequisite | 5133
+Miirym, Sentinel Wyrm + Astral Dragon + Parallel Lives | Near-infinite creature tokens; Near-infinite creature ETB | 5105
+Saheeli, Radiant Creator + Lightning Runner + Aetherwind Basker | Infinite creature LTB; Infinite creature ETB; +7 more results; +2 other prerequisites | 5049
+Hullbreaker Horror + Selvala, Heart of the Wilds + Maelstrom Wanderer | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 4961
+Bruce Banner + Caltrops | Infinite combat phases; Infinite +1/+1 counters on a creature; +1 other prerequisite | 4615
+Loot, the Pathfinder + Deadeye Navigator | Infinite creature LTB; Infinite creature ETB; +1 other prerequisite | 4395
+Saheeli, Radiant Creator + Lightning Runner + Peema Aether-Seer | Infinite creature LTB; Infinite creature ETB; +7 more results; +2 other prerequisites | 4220
+Kalamax, the Stormsire + Reverberate | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 4107
+Temur Sabertooth + Maelstrom Wanderer + Selvala, Heart of the Wilds | Cast a subset of spells in your library; Infinite colored mana; +4 more results | 4056
+Kodama of the East Tree + Scute Swarm + Izzet Boilerworks | Infinite creature tokens; Infinite landfall triggers; Infinite creature ETB; +1 other prerequisite | 3735
+Kodama of the East Tree + Izzet Boilerworks + Omnath, Locus of Rage | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 3624
+Kalamax, the Stormsire + Expansion // Explosion | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 3601
+Miirym, Sentinel Wyrm + Astral Dragon + Doubling Season | Near-infinite creature tokens; Near-infinite creature ETB | 3547
+Hullbreaker Horror + Selvala, Heart of the Wilds + Temur Ascendancy | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 3546
+Kodama of the East Tree + Tireless Provisioner + Izzet Boilerworks | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 3509
+Kalamax, the Stormsire + Increasing Vengeance | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 3087
+Temur Sabertooth + Selvala, Heart of the Wilds + Temur Ascendancy | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 3058
+Kodama of the East Tree + Izzet Boilerworks + Rampaging Baloths | Infinite creature tokens; Infinite creature ETB; Infinite landfall triggers; +1 other prerequisite | 3021
+The Locust God + Skullclamp + Cryptolith Rite | Infinite card draw; Infinite draw triggers; +5 more results; +1 other prerequisite | 2942
+Saheeli, Radiant Creator + Brudiclad, Telchor Engineer + Lightning Runner | Infinite creature ETB; Infinite combat phases; +2 more results; +2 other prerequisites | 2940
+Aethertide Whale + Nissa, Worldsoul Speaker + Aether Refinery | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +1 other prerequisite | 2690
+Kalamax, the Stormsire + Twincast | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 2605
+Saheeli, Radiant Creator + Lightning Runner + Aethertide Whale + Aether Refinery | Infinite creature LTB; Infinite creature ETB; +7 more results; +2 other prerequisites | 2417
+Retreat to Coralhelm + Gruul Turf + Sakura-Tribe Scout | Infinite landfall triggers | 2330
+Miirym, Sentinel Wyrm + Worldgorger Dragon | Infinite blinking; Infinite creature ETB; +2 more results | 2078
+Retreat to Coralhelm + Llanowar Scout + Gruul Turf | Infinite landfall triggers | 1879
+Animar, Soul of Elements + Palinchron | Infinite +1/+1 counters on a creature; Infinite creature ETB; +3 more results; +1 other prerequisite | 1802
+Kodama of the East Tree + Izzet Boilerworks + Zendikar's Roil | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1801
+Retreat to Coralhelm + Sakura-Tribe Scout + Izzet Boilerworks | Infinite landfall triggers | 1784
+Bruce Banner + Legolas's Quick Reflexes | Infinite +1/+1 counters on a creature; Infinite combat damage; Infinite combat phases; +1 other prerequisite | 1759
+Kalamax, the Stormsire + Return the Favor | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 1653
+Retreat to Coralhelm + Llanowar Scout + Izzet Boilerworks | Infinite landfall triggers | 1606
+Kodama of the East Tree + Field of the Dead + Izzet Boilerworks | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1544
+Kodama of the East Tree + Tireless Tracker + Izzet Boilerworks | Infinite artifact tokens; Infinite Clue tokens; Infinite landfall triggers; +1 other prerequisite | 1412
+Kodama of the East Tree + Izzet Boilerworks + Springheart Nantuko | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1379
+Reflections of Littjara + Ganax, Astral Hunter + Parallel Lives + Miirym, Sentinel Wyrm | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 1261
+Keen Sense + Niv-Mizzet, Parun | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 1240
+Gonti's Aether Heart + Whirler Virtuoso + Adrix and Nev, Twincasters | Infinite creature ETB; Infinite creature tokens; Infinite energy counters; +1 other prerequisite | 1221
+Ancestral Statue + Temur Battlecrier | Infinite creature LTB; Infinite creature ETB; Infinite storm count; +1 other prerequisite | 1211
+Retreat to Coralhelm + Gruul Turf + Walking Atlas | Infinite landfall triggers | 1208
+Kodama of the East Tree + Simic Growth Chamber + Dragonback Assault | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1192
+Retreat to Coralhelm + Gruul Turf + Scaled Herbalist | Infinite landfall triggers | 1115
+Miirym, Sentinel Wyrm + Ganax, Astral Hunter + Deadeye Navigator | Infinite artifact ETB; Infinite artifact LTB; +9 more results; +1 other prerequisite | 1102
+Kodama of the East Tree + Gruul Turf + Dragonback Assault | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 1075
+Ancient Greenwarden + Mina and Denn, Wildborn + Lotus Cobra + Retreat to Coralhelm + Sakura-Tribe Scout | Infinite landfall triggers; Infinite mana creatures you control can produce; +2 more results; +1 other prerequisite | 1065
+Retreat to Coralhelm + Gruul Turf + PuPu UFO | Infinite landfall triggers | 1062
+Kodama of the East Tree + Oboro, Palace in the Clouds + Omnath, Locus of Rage | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers | 1039
+Reflections of Littjara + Ganax, Astral Hunter + Adrix and Nev, Twincasters + Miirym, Sentinel Wyrm | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 1037
+Riku of Two Reflections + Biovisionary + Double Major | Win the game | 1027
+Lonis, Genetics Expert + Jenny Flint + Peregrin Took | Near-infinite artifact ETB; Near-infinite artifact LTB; +6 more results; +1 other prerequisite | 1019
+Retreat to Coralhelm + Scaled Herbalist + Izzet Boilerworks | Infinite landfall triggers | 978
+Retreat to Coralhelm + Gruul Turf + Skyshroud Ranger | Infinite landfall triggers | 943
+Reflections of Littjara + Ganax, Astral Hunter + Doubling Season + Miirym, Sentinel Wyrm | Infinite artifact ETB; Infinite artifact LTB; +10 more results | 937
+Deadeye Navigator + Kinnan, Bonder Prodigy + Maelstrom Wanderer + Enduring Vitality | Infinite creature ETB; Infinite creature LTB | 924
+Bruce Banner + Desert + Bear Umbra | Infinite +1/+1 counters on a creature; Infinite combat phases; +2 more results; +1 other prerequisite | 850
+Kalamax, the Stormsire + Reiterate | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 848
+Gonti's Aether Heart + Whirler Virtuoso + Parallel Lives | Infinite creature ETB; Infinite creature tokens; Infinite energy counters; +1 other prerequisite | 847
+Kalamax, the Stormsire + Fury Storm | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 826
+Bruce Banner + Pyrohemia + Fire Nation Palace | Near-infinite combat phases; Near-infinite damage to all players; Near-infinite +1/+1 counters on a creature; +1 other prerequisite | 822
+Retreat to Coralhelm + Skyshroud Ranger + Izzet Boilerworks | Infinite landfall triggers | 818
+Kodama of the East Tree + Izzet Boilerworks + Dragonback Assault | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 763
+Selvala, Heart of the Wilds + Deadeye Navigator + Maelstrom Wanderer | Infinite creature LTB; Infinite creature ETB; +2 more results | 760
+Hullbreaker Horror + Selvala, Heart of the Wilds + Frostcliff Siege | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 749
+Glacial Chasm + Song of Creation + Ramunap Excavator | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 732
+Gonti's Aether Heart + Whirler Virtuoso + Doubling Season | Infinite creature ETB; Infinite creature tokens; Infinite energy counters; +1 other prerequisite | 729
+Flubs, the Fool + Underworld Breach + Lion's Eye Diamond + Life from the Loam | Infinite self-mill; Near-infinite storm count; +1 other prerequisite | 723
+Niv-Mizzet, Parun + Snake Umbra | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 721
+Glacial Chasm + Crucible of Worlds + Song of Creation | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 700
+Dualcaster Mage + Mythos of Illuna | Infinite creature tokens; Infinite creature ETB; Infinite magecraft triggers; +1 other prerequisite | 695
+Dualcaster Mage + Doppelgang | Infinite creature tokens; Infinite creature ETB; +3 more results | 674
+Miirym, Sentinel Wyrm + Cloudstone Curio + Dracogenesis | Infinite creature LTB; Infinite creature ETB; +3 more results | 659
+Doppelgang + Pinnacle Monk | Infinite creature ETB; Infinite storm count; +6 more results; +1 other prerequisite | 626
+Temur Sabertooth + Selvala, Heart of the Wilds + Frostcliff Siege | Infinite creature ETB; Infinite creature LTB; +3 more results; +1 other prerequisite | 599
+Glacial Chasm + Song of Creation + Conduit of Worlds | Prevent all damage that would be dealt to you; Lock; +1 other prerequisite | 598
+Miirym, Sentinel Wyrm + Astral Dragon + Primal Vigor | Near-infinite creature tokens; Near-infinite creature ETB | 596
+Kodama of the East Tree + Greensleeves, Maro-Sorcerer + Izzet Boilerworks | Infinite creature ETB; Infinite creature tokens; Infinite landfall triggers; +1 other prerequisite | 581
+Ancient Greenwarden + Mina and Denn, Wildborn + Retreat to Coralhelm + Lotus Cobra + Llanowar Scout | Infinite colored mana; Infinite landfall triggers; +3 more results; +1 other prerequisite | 580
+Saheeli, Radiant Creator + Lightning Runner + Aethertide Whale + Adrix and Nev, Twincasters | Infinite creature LTB; Infinite creature ETB; +7 more results; +2 other prerequisites | 569
+Kiki-Jiki, Mirror Breaker + Progenitor Mimic | Infinite creature ETB; Infinite creature LTB; Infinite death triggers | 551
+Birgi, God of Storytelling + Sensei's Divining Top + Doc Aurlock, Grizzled Genius | Near-infinite storm count; Near-infinite self-discard triggers; +2 more results | 531
+Windfall + Triumph of the Hordes + Razorkin Needlehead | Each opponent loses the game; +1 other prerequisite | 531
+Kalamax, the Stormsire + Flare of Duplication | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 530
+Kiki-Jiki, Mirror Breaker + Kiora's Follower | Infinite creature ETB; Infinite creature LTB; +3 more results | 523
+Saheeli, Radiant Creator + Saheeli Rai | Infinite artifact ETB; Infinite artifact LTB; +3 more results; +1 other prerequisite | 520
+Brudiclad, Telchor Engineer + Biovisionary + Double Major | Win the game; +1 other prerequisite | 508
+Mm'menon, Uthros Exile + Lonis, Genetics Expert | Infinite artifact ETB; Infinite artifact tokens; +2 more results; +1 other prerequisite | 494
+Bruce Banner + Pyrohemia + Enduring Vitality | Near-infinite +1/+1 counters on a creature; Near-infinite combat phases; Near-infinite damage to all players | 489
+Niv-Mizzet, the Firemind + Keen Sense | Infinite card draw; Infinite draw triggers; Near-infinite damage; +1 other prerequisite | 489
+Kalamax, the Stormsire + Insidious Will | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 488
+Kalamax, the Stormsire + Fork | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 484
+Kiki-Jiki, Mirror Breaker + Double Major | Infinite death triggers; Infinite creature ETB; +4 more results | 466
+Selvala, Heart of the Wilds + Deadeye Navigator + Temur Ascendancy | Infinite creature LTB; Infinite creature ETB; +2 more results | 460
+Kalamax, the Stormsire + Wild Ricochet | Infinite +1/+1 counters on a creature; Infinite magecraft triggers; +1 other prerequisite | 434
+Ancient Greenwarden + Mina and Denn, Wildborn + Retreat to Coralhelm + Tireless Provisioner + Llanowar Scout | Infinite artifact ETB; Infinite artifact LTB; +11 more results; +1 other prerequisite | 430
+Storm-Kiln Artist + Eternal Witness + Essence Flux | Infinite artifact ETB; Infinite artifact LTB; +4 more results | 419

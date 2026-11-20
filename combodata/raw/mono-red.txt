@@ -1,0 +1,100 @@
+Underworld Breach + Wheel of Fortune + Jeska's Will | Infinite draw triggers for all players; Infinite looting for all players; +2 more results; +1 other prerequisite | 90093
+Underworld Breach + Lion's Eye Diamond + Wheel of Fortune | Infinite draw triggers; Infinite looting; +2 more results; +1 other prerequisite | 88110
+Dualcaster Mage + Twinflame | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 73678
+Dualcaster Mage + Molten Duplication | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 51191
+The Reaver Cleaver + Aggravated Assault | Infinite artifact ETB; Infinite artifact LTB; +8 more results; +1 other prerequisite | 47098
+Underworld Breach + Grinding Station | Infinite self-mill; Near-infinite storm count; Near-infinite mana among colors of legendary creatures and planeswalkers you control | 40575
+Blasphemous Act + Repercussion | Near-infinite damage to all players | 39288
+Reiterate + Jeska's Will | Infinite magecraft triggers; Infinite red mana; +2 more results; +1 other prerequisite | 37678
+Sword of Feast and Famine + Aggravated Assault | Infinite combat phases; +1 other prerequisite | 36806
+Skirk Prospector + Goblin Warchief + Krenko, Mob Boss | Infinite commander casts; Infinite creature tokens with haste; +6 more results; +1 other prerequisite | 35576
+Skirk Prospector + Goblin Chieftain + Krenko, Mob Boss | Infinite commander casts; Infinite creature tokens with haste; +6 more results; +1 other prerequisite | 31563
+Ancient Copper Dragon + Aggravated Assault | Near-infinite colored mana; Near-infinite combat damage; +4 more results; +1 other prerequisite | 30742
+Reiterate + Mana Geyser | Infinite magecraft triggers; Infinite red mana; Infinite storm count; +1 other prerequisite | 30619
+Storm-Kiln Artist + Seething Song + Reiterate | Infinite artifact ETB; Infinite artifact LTB; +8 more results | 29210
+Kiki-Jiki, Mirror Breaker + Zealous Conscripts | Infinite creature tokens with haste; Infinite death triggers; +3 more results | 28015
+Dualcaster Mage + Electroduplicate | Infinite creature LTB; Infinite creature ETB; +4 more results; +1 other prerequisite | 27994
+Storm-Kiln Artist + Haze of Rage | Infinite artifact ETB; Infinite artifact LTB; +7 more results; +1 other prerequisite | 27385
+Dualcaster Mage + Heat Shimmer | Infinite creature LTB; Infinite creature ETB; +2 more results; +1 other prerequisite | 27262
+Combat Celebrant + Helm of the Host | Infinite combat phases; Infinite creature ETB; +3 more results; +1 other prerequisite | 26150
+Godo, Bandit Warlord + Helm of the Host | Infinite combat phases; Infinite death triggers; +4 more results; +1 other prerequisite | 25754
+Neheb, the Eternal + Aggravated Assault | Infinite combat phases; Infinite red mana; +2 more results; +1 other prerequisite | 23507
+Toralf, God of Fury + Blasphemous Act | Near-infinite damage | 22215
+Mycosynth Lattice + Vandalblast | Destroy all permanents opponents control; Mass Land Denial | 21834
+Solphim, Mayhem Dominus + Heartless Hidetsugu | Each opponent with an even life total loses the game; Near-infinite damage to all players; +1 other prerequisite | 21086
+Birgi, God of Storytelling + Seething Song + Reiterate | Infinite magecraft triggers; Infinite storm count | 20115
+Combat Celebrant + Kiki-Jiki, Mirror Breaker | Infinite combat phases; Infinite creature tokens with haste; Infinite creature ETB | 18876
+Skirk Prospector + Howlsquad Heavy + Krenko, Mob Boss | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 17169
+Goblin Sharpshooter + Basilisk Collar | Lock; Destroy all creatures opponents control; From now on, destroy any creatures opponents control at instant speed; +1 other prerequisite | 15981
+Reiterate + Seething Song + Ruby Medallion | Infinite magecraft triggers; Infinite storm count | 15744
+Kiki-Jiki, Mirror Breaker + Helm of the Host | Infinite death triggers; Infinite creature ETB; +4 more results; +1 other prerequisite | 15590
+Orthion, Hero of Lavabrink + Terror of the Peaks | Near-infinite damage | 15556
+Rionya, Fire Dancer + Combat Celebrant | Infinite combat phases; Infinite creature tokens with haste; +2 more results | 14183
+Fall of Cair Andros + Blasphemous Act | Infinite +1/+1 counters on a creature; Near-infinite damage to creatures; +1 other prerequisite | 14159
+Lightning Runner + Stone Idol Generator | Infinite combat phases; Infinite energy counters; +2 more results; +1 other prerequisite | 14111
+Skirk Prospector + Thousand-Year Elixir + Krenko, Mob Boss | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 13798
+Pyromancer's Goggles + Reverberate | Infinite magecraft triggers; +1 other prerequisite | 13418
+Krenko, Mob Boss + Thornbite Staff + Skirk Prospector | Infinite creature tokens; Infinite damage; Infinite red mana; +1 other prerequisite | 13393
+Magda, Brazen Outlaw + Clock of Omens + Liquimetal Torque | Infinite artifact ETB; Infinite artifact tokens; +2 more results | 13129
+Cavern-Hoard Dragon + Aggravated Assault | Target opponent loses the game; Infinite combat damage to one opponent; +1 other prerequisite | 12791
+Magda, Brazen Outlaw + Clock of Omens + Universal Automaton | Infinite artifact ETB; Infinite artifact tokens; +2 more results | 12706
+Ojer Axonil, Deepest Might + Pyrohemia | Each opponent loses the game; Near-infinite damage; +1 other prerequisite | 12671
+Krenko, Mob Boss + Thornbite Staff + Goblin Bombardment | Infinite creature tokens; Infinite damage; +4 more results; +1 other prerequisite | 12486
+Skirk Prospector + Krenko, Mob Boss + Staff of Domination | Infinite creature tokens; Infinite death triggers; +10 more results; +2 other prerequisites | 12392
+Pyromancer's Goggles + Return the Favor | Infinite magecraft triggers; +1 other prerequisite | 12386
+Mycosynth Lattice + Hellkite Tyrant | Gain control of all permanents an opponent controls during each of your turns; Lock; Win the game at the beginning of your next upkeep; +1 other prerequisite | 11710
+Heartless Hidetsugu + Twinflame Tyrant | Near-infinite damage; Each opponent with an even life total loses the game; +1 other prerequisite | 11510
+Goblin Bombardment + Metallic Mimic | Infinite creature ETB; Infinite creature LTB; +3 more results | 10922
+Magda, Brazen Outlaw + Aggravated Assault | Infinite combat phases; +1 other prerequisite | 10509
+Chandra's Incinerator + Repercussion | Near-infinite damage to one opponent; Destroy all creatures target opponent controls; +1 other prerequisite | 10293
+Magda, Brazen Outlaw + Clock of Omens + Metallic Mimic | Infinite artifact ETB; Infinite artifact tokens; +2 more results | 10271
+Skirk Prospector + Rising of the Day + Krenko, Mob Boss | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 10270
+Reiterate + Seething Song + Bonus Round | Infinite magecraft triggers; Infinite red mana; Infinite storm count | 10149
+Krenko, Mob Boss + Thornbite Staff + Goblin Trashmaster | Destroy all artifacts that enter the battlefield under an opponent's control; Destroy all artifacts opponents control; +6 more results; +1 other prerequisite | 9803
+All Will Be One + The Red Terror | Infinite damage; +1 other prerequisite | 9747
+Kiki-Jiki, Mirror Breaker + Delina, Wild Mage | Infinite death triggers; Infinite creature ETB; +4 more results; +1 other prerequisite | 9720
+Magda, Brazen Outlaw + Clock of Omens + Adaptive Automaton | Infinite artifact ETB; Infinite artifact tokens; +2 more results | 9581
+Fury Storm + Storm-Kiln Artist | Infinite artifact ETB; Infinite artifact LTB; +6 more results; +1 other prerequisite | 9558
+Magda, Brazen Outlaw + Clock of Omens + Roaming Throne | Infinite artifact ETB; Infinite artifact LTB; +7 more results | 9533
+Magda, Brazen Outlaw + Clock of Omens + Barkform Harvester | Infinite artifact ETB; Infinite artifact tokens; +2 more results | 9480
+Port Razer + Helm of the Host | Infinite combat damage; Infinite combat phases; +5 more results; +1 other prerequisite | 9397
+Skirk Prospector + Krenko, Mob Boss + Umbral Mantle | Infinite creature tokens; Infinite death triggers; +7 more results; +2 other prerequisites | 9156
+Kiki-Jiki, Mirror Breaker + Thornbite Staff + Goblin Bombardment | Infinite damage; Infinite death triggers; +3 more results; +1 other prerequisite | 9090
+Kiki-Jiki, Mirror Breaker + Thornbite Staff + Skirk Prospector | Infinite death triggers; Infinite creature ETB; +3 more results; +1 other prerequisite | 8964
+Skirk Prospector + Fervor + Krenko, Mob Boss | Infinite creature LTB; Infinite creature ETB; +6 more results; +1 other prerequisite | 8900
+Dawnsire, Sunstar Dreadnought + Pain for All | Near-infinite damage; +2 other prerequisites | 8649
+Hellkite Charger + Sozin's Comet | Infinite combat phases; Infinite red mana; Infinite combat damage; +1 other prerequisite | 8649
+Reiterate + Pyretic Ritual + Bonus Round | Infinite magecraft triggers; Infinite storm count | 8398
+Rionya, Fire Dancer + Terror of the Peaks | Near-infinite damage | 8394
+Urabrask + Seething Song + Reiterate | Infinite damage; Infinite magecraft triggers; Infinite storm count | 8307
+Reiterate + Desperate Ritual + Bonus Round | Infinite magecraft triggers; Infinite storm count | 8152
+Breath of Fury + Loyal Apprentice | Infinite combat damage; Infinite combat phases; +6 more results; +1 other prerequisite | 8078
+Magda, Brazen Outlaw + Clock of Omens + Three Tree Mascot | Infinite artifact ETB; Infinite artifact tokens; +2 more results | 8019
+Pyromancer's Goggles + Increasing Vengeance | Infinite magecraft triggers; +1 other prerequisite | 8003
+Birgi, God of Storytelling + Grinning Ignus | Infinite creature ETB; Infinite creature LTB; Infinite storm count | 7730
+Skirk Prospector + Pashalik Mons + Mana Echoes | Infinite colorless mana; Infinite creature tokens; +6 more results; +1 other prerequisite | 7711
+Scourge of the Throne + Helm of the Host | Infinite combat phases; Infinite creature tokens with haste; Infinite creature ETB; +1 other prerequisite | 7350
+Delina, Wild Mage + Port Razer | Infinite combat damage; Infinite combat phases; +4 more results; +1 other prerequisite | 7308
+Reiterate + Brass's Bounty | Infinite colored mana; Infinite magecraft triggers; Infinite storm count; +1 other prerequisite | 7274
+Skirk Prospector + Mass Hysteria + Krenko, Mob Boss | Infinite commander casts; Infinite creature tokens with haste; +6 more results; +1 other prerequisite | 7215
+Devastating Onslaught + Terror of the Peaks | Near-infinite damage | 7174
+Hellkite Charger + Firebending Student | Infinite combat phases; Infinite red mana; Infinite combat damage; +1 other prerequisite | 7168
+Magda, Brazen Outlaw + Battered Golem + Maskwood Nexus | Infinite artifact ETB; Infinite artifact LTB; +5 more results | 7037
+Magda, Brazen Outlaw + Battered Golem + Maskwood Nexus | Infinite artifact ETB; Infinite artifact LTB; +5 more results | 7037
+Ashnod's Altar + Uncivil Unrest | Infinite creature ETB; Infinite creature LTB; +3 more results | 7011
+Goblin Bombardment + First Day of Class | Infinite creature ETB; Infinite creature LTB; +3 more results | 6950
+Goblin Bombardment + Uncivil Unrest | Infinite creature ETB; Infinite creature LTB; +3 more results | 6924
+The Reaver Cleaver + Hellkite Charger | Infinite artifact ETB; Infinite artifact LTB; +6 more results; +1 other prerequisite | 6888
+Dawnsire, Sunstar Dreadnought + Brash Taunter | Near-infinite damage to one opponent; +2 other prerequisites | 6878
+Reiterate + Seething Song + Runaway Steam-Kin + Ruby Medallion | Infinite magecraft triggers; Infinite red mana; Infinite storm count | 6805
+Krenko, Mob Boss + Thornbite Staff + Ashnod's Altar | Infinite colorless mana; Infinite creature tokens; +4 more results; +1 other prerequisite | 6733
+Myr Galvanizer + Clock of Omens + Iron Myr | Infinite mana Myr you control can produce; Infinite untap of Myr you control; +1 other prerequisite | 6678
+Fable of the Mirror-Breaker + Combat Celebrant | Infinite combat phases; Infinite creature ETB; +4 more results; +1 other prerequisite | 6668
+Staff of Domination + Howlsquad Heavy | Infinite lifegain triggers; Infinite lifegain; +5 more results; +3 other prerequisites | 6554
+Sozin's Comet + Aggravated Assault + Electro, Assaulting Battery | Infinite combat phases; Infinite red mana; +3 more results; +1 other prerequisite | 6501
+Heartless Hidetsugu + Fiendish Duo | Each opponent with an even life total loses the game; Near-infinite damage; +1 other prerequisite | 6436
+Pyromancer's Goggles + Reiterate | Infinite magecraft triggers; +1 other prerequisite | 6407
+Sozin's Comet + Aggravated Assault + The Last Agni Kai | Infinite combat phases; Infinite red mana; +2 more results; +2 other prerequisites | 6342
+Blightsteel Colossus + Chandra's Ignition | Each opponent loses the game | 6296
+Krenko, Mob Boss + Ashnod's Altar + Staff of Domination | Infinite card draw; Infinite colorless mana; +10 more results; +2 other prerequisites | 6278
+Orthion, Hero of Lavabrink + Fanatic of Mogis | Near-infinite damage; +1 other prerequisite | 6226

@@ -41463,7 +41463,8 @@ function d29after(el, d){
   const tabs = el.querySelector('#d29tabs'), on = tabs.querySelector('[aria-selected="true"]'), ind = tabs.querySelector('.ind');
   if (on) requestAnimationFrame(() => { ind.style.left = on.offsetLeft + 'px'; ind.style.width = on.offsetWidth + 'px'; });
   // looping video: only show it once it actually plays (otherwise the banner art stays)
-  const v = document.querySelector('#d29vid'); if (v){ v.addEventListener('playing', () => v.classList.add('on'), {once:true}); v.play().catch(() => {}); if (!v.paused) v.classList.add('on'); }
+  const v = document.querySelector('#d29vid'); if (v && !v.__d29){ v.__d29 = 1; const on = () => { if (v.readyState >= 2 && !v.error) v.classList.add('on'); };
+    v.addEventListener('playing', on); v.addEventListener('error', () => v.classList.remove('on')); v.play().then(on).catch(() => {}); on(); }
   // count ring pulses when the count changes
   const n = deckCount(d); if (DE29.lastCount !== null && n !== DE29.lastCount){ const r = document.querySelector('#d29ring'); if (r){ r.classList.add('pulse'); } } DE29.lastCount = n;
   if (DE29.flash) setTimeout(() => { DE29.flash = null; }, 1500);

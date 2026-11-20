@@ -399,7 +399,7 @@ table.stops input{width:18px;height:18px;accent-color:var(--brass)}
 .chktag{display:inline-block;font-size:11px;padding:1px 6px;border-radius:4px;margin-right:4px;background:rgba(255,255,255,.08)}
 .chktag.t-static{background:rgba(108,117,196,.3)}.chktag.t-trigger,.chktag.t-effect{background:rgba(227,112,91,.3)}.chktag.t-modal{background:rgba(212,168,79,.25)}
 .chip3{display:inline-flex;align-items:center;gap:4px;font-size:12px;padding:3px 8px;border-radius:999px;background:rgba(212,168,79,.15);border:1px solid rgba(212,168,79,.4);color:var(--ink);white-space:nowrap;cursor:help}
-.badge.att{background:rgba(108,117,196,.85)}
+.badge.att{background:rgba(108,117,196,.85);max-width:calc(100% + 8px);overflow:hidden;text-overflow:ellipsis;left:-4px;font-size:10px}
 
 </style>
 </head>
@@ -749,6 +749,16 @@ async function resolveDeck(entries, onProgress){
   await pass(list, false);
   const retry = list.filter(e => !found.has(e.uk));
   if (retry.length) await pass(retry, true);
+  // double-faced cards written "Front // Back": Scryfall's collection lookup can miss them by the full name, so look
+  // each one up by its front face
+  const retry2 = list.filter(e => !found.has(e.uk) && /\/\//.test(e.name));
+  if (retry2.length){
+    for (const e of retry2){
+      const front = String(e.name).split('//')[0].trim();
+      try { const c = await sf(`/cards/named?exact=${encodeURIComponent(front)}`); if (c && c.object === 'card') found.set(e.uk, c); } catch {}
+    }
+    onProgress?.(found.size, list.length);
+  }
   const cards = []; const missing = [];
   for (const e of entries){
     const c = found.get(e.uk);
@@ -20444,7 +20454,7 @@ L24.gone = new Map();   // id → {noAb, trigs, k, t} snapshot of a permanent as
     if (e.colChanged) parts.push(e.col ? e.col.split('').join('') : 'colorless');
     if (e.noAb) parts.push('no abilities'); if (e.allCT) parts.push('every creature type');
     const kws = [...new Set(e.kw)]; if (kws.length) parts.push(kws.join(', '));
-    if (e.ab.length) parts.push(e.ab.length === 1 ? `has “${short(e.ab[0].t, 40)}”` : `+${e.ab.length} abilities`);
+    if (e.ab.length) parts.push(e.ab.length === 1 ? (/^\{T\}: Add one mana of any colou?r\.?$/i.test(e.ab[0].t) ? 'taps for any colour' : /^\{T\}: Add /.test(e.ab[0].t) ? 'extra mana ability' : `has “${short(e.ab[0].t, 24)}”`) : `+${e.ab.length} abilities`);
     if (!parts.length) return b; return (b ? b + ' · ' : '') + parts.join(' · '); } catch { return b; } };
 }
 
@@ -41274,6 +41284,7 @@ const d29save = () => { try { localStorage.setItem('pt.d29', JSON.stringify({vie
 const D29_CSS = `
 #deckEdit .d29{position:relative;display:grid;gap:14px}
 #d29top{margin:4px 0 14px}
+#d29top:not([hidden]) ~ #deckSum .cmd-show{display:none}
 /* hero */
 .d29hero{position:relative;height:250px;border-radius:16px;overflow:hidden;border:1px solid rgba(212,168,79,.35);background:#0c1712 var(--d29banner) left center/cover no-repeat;box-shadow:0 18px 40px rgba(0,0,0,.45)}
 .d29hero video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:left center;opacity:0;transition:opacity 1.2s}

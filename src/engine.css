@@ -86,4 +86,4 @@ table.stops input{width:18px;height:18px;accent-color:var(--brass)}
 .chktag{display:inline-block;font-size:11px;padding:1px 6px;border-radius:4px;margin-right:4px;background:rgba(255,255,255,.08)}
 .chktag.t-static{background:rgba(108,117,196,.3)}.chktag.t-trigger,.chktag.t-effect{background:rgba(227,112,91,.3)}.chktag.t-modal{background:rgba(212,168,79,.25)}
 .chip3{display:inline-flex;align-items:center;gap:4px;font-size:12px;padding:3px 8px;border-radius:999px;background:rgba(212,168,79,.15);border:1px solid rgba(212,168,79,.4);color:var(--ink);white-space:nowrap;cursor:help}
-.badge.att{background:rgba(108,117,196,.85)}
+.badge.att{background:rgba(108,117,196,.85);max-width:calc(100% + 8px);overflow:hidden;text-overflow:ellipsis;left:-4px;font-size:10px}

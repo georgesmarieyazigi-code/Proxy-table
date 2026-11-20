@@ -474,7 +474,7 @@ L24.gone = new Map();   // id → {noAb, trigs, k, t} snapshot of a permanent as
     if (e.colChanged) parts.push(e.col ? e.col.split('').join('') : 'colorless');
     if (e.noAb) parts.push('no abilities'); if (e.allCT) parts.push('every creature type');
     const kws = [...new Set(e.kw)]; if (kws.length) parts.push(kws.join(', '));
-    if (e.ab.length) parts.push(e.ab.length === 1 ? `has “${short(e.ab[0].t, 40)}”` : `+${e.ab.length} abilities`);
+    if (e.ab.length) parts.push(e.ab.length === 1 ? (/^\{T\}: Add one mana of any colou?r\.?$/i.test(e.ab[0].t) ? 'taps for any colour' : /^\{T\}: Add /.test(e.ab[0].t) ? 'extra mana ability' : `has “${short(e.ab[0].t, 24)}”`) : `+${e.ab.length} abilities`);
     if (!parts.length) return b; return (b ? b + ' · ' : '') + parts.join(' · '); } catch { return b; } };
 }
 

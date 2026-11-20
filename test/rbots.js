@@ -152,16 +152,18 @@ async function oneVsOne(browser, level, seed){
 
 async function pod(browser, seed){
   console.log('\n== 4-player pod, offline: scripted human + Easy + Intermediate + Intermediate (network blocked)');
-  const page = await newPage(browser, {offline:true});
-  H.check(await page.evaluate(() => typeof mqtt === 'undefined'), 'pod: the multiplayer library is blocked (no internet)');
+  const ONLINE = !!process.env.ONLINE;
+  const page = await newPage(browser, {offline:!ONLINE});
+  if (!ONLINE) H.check(await page.evaluate(() => typeof mqtt === 'undefined'), 'pod: the multiplayer library is blocked (no internet)');
   const ids = await step('load and save decks', 180000, async () => ({edgar:await loadSave(page, 'Edgar', realDeck('edgar')), elm:await loadSave(page, 'Elminster', realDeck('elminster')), gaa:await loadSave(page, 'GAA', realDeck('gaa')), bf:await loadSave(page, 'Blue Farm', realDeck('bluefarm'))}));
   if (!ids) return;
-  await page.route('**/*', r => r.request().url().startsWith('file:') ? r.continue() : r.abort());     // from here on nothing leaves the page
+  if (!ONLINE) await page.route('**/*', r => r.request().url().startsWith('file:') ? r.continue() : r.abort());     // from here on nothing leaves the page
   await step('start a 4-player pod', 60000, async () => {
     await page.evaluate(id => ACT.loadSaved({dataset:{id}}), ids.edgar);
     await page.fill('#nameIn', 'Georges'); await page.evaluate(() => lobbyPage('play'));
     await page.click('#botPanel [data-botn="4"]');
-    const seats = [['easy', ids.elm], ['intermediate', ids.gaa], ['intermediate', 'randomPool']];
+    const LV = (process.env.LEVELS || 'easy,intermediate,intermediate').split(',');
+    const seats = [[LV[0], ids.elm], [LV[1], ids.gaa], [LV[2], process.env.ONLINE ? ids.bf : 'randomPool']];
     for (let i = 0; i < 3; i++){ await page.selectOption(`#botPanel [data-seat="${i}"] [data-botf="level"]`, seats[i][0]); await page.selectOption(`#botPanel [data-seat="${i}"] [data-botf="deck"]`, seats[i][1].length > 12 || /^random/.test(seats[i][1]) ? seats[i][1] : 'saved:' + seats[i][1]); }
     await page.evaluate(() => { BOTUI.speed = 0.1; });
     await page.click('#botStart'); await page.waitForSelector('#game:not([hidden])', {timeout:20000});
@@ -169,7 +171,7 @@ async function pod(browser, seed){
   H.check(await waitBots(page, 3, 90000), 'pod: three bots sat down and kept their hands');
   const lv = await page.evaluate(() => BOTHOST.bots.map(b => b.cfg.level + ':' + b.cfg.deckName));
   console.log('  bots:', lv.join(' | '));
-  H.check(await page.evaluate(() => NET.clients.length === 1 && NET.clients[0].__loop === true), 'pod: the table runs on the loopback relay');
+  if (!ONLINE) H.check(await page.evaluate(() => NET.clients.length === 1 && NET.clients[0].__loop === true), 'pod: the table runs on the loopback relay');
   await injectCheckers(page, seed, true);
   await page.click('[data-act="goFirst"]');
   const t0 = Date.now(); const cpu0 = process.cpuUsage();

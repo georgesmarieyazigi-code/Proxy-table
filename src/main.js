@@ -227,6 +227,16 @@ async function resolveDeck(entries, onProgress){
   await pass(list, false);
   const retry = list.filter(e => !found.has(e.uk));
   if (retry.length) await pass(retry, true);
+  // double-faced cards written "Front // Back": Scryfall's collection lookup can miss them by the full name, so look
+  // each one up by its front face
+  const retry2 = list.filter(e => !found.has(e.uk) && /\/\//.test(e.name));
+  if (retry2.length){
+    for (const e of retry2){
+      const front = String(e.name).split('//')[0].trim();
+      try { const c = await sf(`/cards/named?exact=${encodeURIComponent(front)}`); if (c && c.object === 'card') found.set(e.uk, c); } catch {}
+    }
+    onProgress?.(found.size, list.length);
+  }
   const cards = []; const missing = [];
   for (const e of entries){
     const c = found.get(e.uk);

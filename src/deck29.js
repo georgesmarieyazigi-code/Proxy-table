@@ -12,6 +12,7 @@ const d29save = () => { try { localStorage.setItem('pt.d29', JSON.stringify({vie
 const D29_CSS = `
 #deckEdit .d29{position:relative;display:grid;gap:14px}
 #d29top{margin:4px 0 14px}
+#d29top:not([hidden]) ~ #deckSum .cmd-show{display:none}
 /* hero */
 .d29hero{position:relative;height:250px;border-radius:16px;overflow:hidden;border:1px solid rgba(212,168,79,.35);background:#0c1712 var(--d29banner) left center/cover no-repeat;box-shadow:0 18px 40px rgba(0,0,0,.45)}
 .d29hero video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:left center;opacity:0;transition:opacity 1.2s}

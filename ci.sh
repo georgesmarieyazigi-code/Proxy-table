@@ -1,3 +1,3 @@
 #!/bin/bash
 mkdir -p out
-node tools/probe.mjs
+LIMIT=${LIMIT:-6} PER=2 node tools/topdecks.mjs

@@ -1,4 +1,4 @@
 #!/bin/bash
 mkdir -p out
-sleep 60
-node tools/checknames.mjs
+sleep 45
+cd test && node livetop.js

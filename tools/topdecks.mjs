@@ -16,7 +16,7 @@ async function get(u, {latin = false, tries = 3} = {}){
 }
 const strip = s => s.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<style[\s\S]*?<\/style>/g, '');
 const txt = s => s.replace(/<[^>]+>/g, ' ').replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&rarr;/g, '→').replace(/&amp;/g, '&').replace(/&#39;|&rsquo;/g, "'").replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
-const fixName = n => n.replace(/\s+/g, ' ').trim();
+const fixName = n => n.replace(/\s+/g, ' ').trim().replace(/\s*\/\/?\s*/g, ' // ');   // split cards: "Fire/Ice" → "Fire // Ice"
 
 function parseList(t){
   // MTGO export: main deck, a blank line, then the sideboard (MTGTop8 puts the commander(s) there for Commander formats)

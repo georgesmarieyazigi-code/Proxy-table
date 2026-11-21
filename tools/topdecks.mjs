@@ -73,8 +73,9 @@ async function mtgtop8(F){
   }
   // the same commander(s) can show up under two deck names: merge them
   const merged = new Map();
-  for (const c of res.commanders){ const k = c.name.toLowerCase(); const m = merged.get(k); if (!m){ merged.set(k, c); continue; } m.count += c.count; m.decks = [...m.decks, ...c.decks].sort((a, b) => (b.date || '').localeCompare(a.date || '')).slice(0, PER); }
+  for (const c of res.commanders){ const k = c.decks[0].cmd.map(n => n.toLowerCase()).sort().join(' + '); const m = merged.get(k); if (!m){ merged.set(k, c); continue; } m.count += c.count; m.decks = [...m.decks, ...c.decks].sort((a, b) => (b.date || '').localeCompare(a.date || '')).slice(0, PER); }
   res.commanders = [...merged.values()].sort((a, b) => b.count - a.count).slice(0, LIMIT);
+  for (const c of res.commanders){ c.name = [...c.decks[0].cmd].sort().join(' + '); }
   res.events = events.length; res.decks = decks.length;
   return res;
 }

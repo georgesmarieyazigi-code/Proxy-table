@@ -1,0 +1,135 @@
+cEDH meta id for last 6 months: 300
+cEDH archetypes found: 0 
+
+	<!DOCTYPE HTML>
+	<html lang="en">
+	
+<head>
+<title>cEDH events and metagame @ mtgtop8.com</title>
+<link rel="icon" type="image/png" href="https://www.mtgtop8.com/graph/favicon.png">
+<link href="/styles.css" rel="stylesheet" type="text/css">
+
+
+
+
+	
+	
+	
+<!-- Google tag (gtag.js) -->
+	
+	
+
+
+</head>
+	<body >
+	<div align=center class=page>
+	<div style="max-width:1280px;" valign=top>
+<div id=other_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=other_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=PEA>PEASANT</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=BL>BLOCK</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EX>EXTENDED</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HIGH>HIGHLANDER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=CHL>CANADIAN HIGHLANDER</a></div></div>
+	<div onclick="EffOther();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div id=mtga_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=mtga_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EXP>EXPLORER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HI>HISTORIC</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=ALCH>ALCHEMY</a></div></div>
+	<div onclick="EffMTGA();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div style="display:flex;justify-content:space-evenly;align-items:center;flex-wrap:wrap;">
+  <div>
+    <div><a href=/index><img style="width:250px;" src=/graph/title.png></a></div>
+    <div class=G16 style="margin-top:5px;">netdecking with the stars</div>
+    
+  </div> 	
+  <div>
+    <div style="width:728px;height:90px;overflow:hidden;">
+<!-- Yieldlove AdTag - mtgtop8.com_d_728x90_1 -->
+<div id='div-gpt-ad-1407836193899-0'>
+  
+</div></div></td>
+  </div>
+</div>
+
+<div style="position:relative;">
+<div style="margin:5px 0px 5px 0px;display:flex;justify-content:space-evenly;align-items:center;">
+<div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=ST>STANDARD</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PI>PIONEER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=MO>MODERN</a></div><d
+EDH meta id for last 6 months: 209
+EDH archetypes found: 0 
+
+	<!DOCTYPE HTML>
+	<html lang="en">
+	
+<head>
+<title>Duel Commander events and metagame @ mtgtop8.com</title>
+<link rel="icon" type="image/png" href="https://www.mtgtop8.com/graph/favicon.png">
+<link href="/styles.css" rel="stylesheet" type="text/css">
+
+
+
+
+	
+	
+	
+<!-- Google tag (gtag.js) -->
+	
+	
+
+
+</head>
+	<body >
+	<div align=center class=page>
+	<div style="max-width:1280px;" valign=top>
+<div id=other_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=other_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=PEA>PEASANT</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=BL>BLOCK</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EX>EXTENDED</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HIGH>HIGHLANDER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=CHL>CANADIAN HIGHLANDER</a></div></div>
+	<div onclick="EffOther();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div id=mtga_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=mtga_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EXP>EXPLORER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HI>HISTORIC</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=ALCH>ALCHEMY</a></div></div>
+	<div onclick="EffMTGA();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div style="display:flex;justify-content:space-evenly;align-items:center;flex-wrap:wrap;">
+  <div>
+    <div><a href=/index><img style="width:250px;" src=/graph/title.png></a></div>
+    <div class=G16 style="margin-top:5px;">netdecking with the stars</div>
+    
+  </div> 	
+  <div>
+    <div style="width:728px;height:90px;overflow:hidden;">
+<!-- Yieldlove AdTag - mtgtop8.com_d_728x90_1 -->
+<div id='div-gpt-ad-1407836193899-0'>
+  
+</div></div></td>
+  </div>
+</div>
+
+<div style="position:relative;">
+<div style="margin:5px 0px 5px 0px;display:flex;justify-content:space-evenly;align-items:center;">
+<div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=ST>STANDARD</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PI>PIONEER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=MO>MODERN</
+EDHREC top 6
+EDHREC average decks: 6
+done in 0.1 min; cEDH 0 duel 0 edhrec 6 size 12639

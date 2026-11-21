@@ -885,7 +885,7 @@ function createToken(k, n=1, near, o={}){
   n = clamp(Math.round(n)||1, 1, 99);
   const inf = info(k); if (!inf) return;
   // a stack shares one summoning-sickness flag, so new (sick) tokens only join a stack that is itself still sick (CR 302.6)
-  let st = o.tapped ? null : S.bf.find(c => c.tok && c.k === k && !c.fd && !c.cp && !c.cm && !c.co && !c.tap && !c.tn && c.sk && !tokTargeted(c.id));   // a targeted token must stay one token (else the effect hits the whole pile)
+  let st = o.tapped ? null : S.bf.find(c => c.tok && c.k === k && !c.fd && !c.cp && !c.cm && !c.co && !c.tap && !c.tn && c.sk && !tokTargeted(c.id) && !c.exert && !c.r21exert && !c.atk && c.blk == null && !(c.ekw && c.ekw.length) && !(c.pu && c.pu.length) && !(c.nc && Object.keys(c.nc).length));   // …and only with tokens that haven't done anything yet: an exerted / attacking / pumped token is its own token (Helm of the Host copies of Combat Celebrant)   // a targeted token must stay one token (else the effect hits the whole pile)
   if (st){ st.n = (st.n||1) + n; }
   else {
     st = {id:S.nid++, k, tok:true, n, sk:true};
@@ -1939,6 +1939,8 @@ function initEngineState(st){
 
 /* ---------- Card text helpers ---------- */
 const faceOf = c => { const a = c && info(c.k); return a ? (c.fl && a.back ? a.back : a) : null; };
+// is this permanent a land right now? (the land side of a double-faced card played as a land counts; info(k).t is the front face)
+const isLandC = c => { const f = faceOf(c); const t = (f && f.t) || info(c && c.k)?.t || ''; return /\bLand\b/.test(t) && !/\bCreature\b/.test(t); };
 let typeOf = c => faceOf(c)?.t || '';
 const textOf = c => faceOf(c)?.o || '';
 let isCreatureCard = c => !!(c && c.fd && c.fdc) || /\bCreature\b/.test(typeOf(c));
@@ -2246,7 +2248,7 @@ async function activateMana(c, ab, ch){
   if (!(await payAbilityCost(c, ab.cost, {mana:true}))) { commit(); return false; }
   addMana(outs);
   let extra = '';
-  if (!isLand(c.k)) S.bf.forEach(b => {
+  if (!isLandC(c)) S.bf.forEach(b => {
     if (!b.fd && /whenever you tap a nonland permanent for mana, add one additional mana of any type that permanent produced/i.test(textOf(b))){ S.pool[outs[0]]++; extra += ` (+{${outs[0]}} from ${cname(b)})`; }
   });
   log(`tapped ${nm} for ${outs.map(x => '{' + x + '}').join('')}${extra}`);
@@ -2672,6 +2674,7 @@ function onEnter(c, from, o={}){
       const u = m[1].toLowerCase().trim(); let q;
       if ((q = u.match(/^you control (\w+) or (fewer|more) (other )?(.+)$/))){ const cnt = S.bf.filter(b => b !== c && !b.fd && descOk(b.k, q[4], {tok:b.tok})).length; const n = wn(q[1]) ?? 0; if (q[2] === 'fewer' ? cnt > n : cnt < n) c.tap = true; }
       else if ((q = u.match(/^you control an? (.+)$/))){ if (!S.bf.some(b => b !== c && !b.fd && descOk(b.k, q[1], {tok:b.tok}))) c.tap = true; }
+      else if (/^you have two or more opponents$/.test(u)){ if (opponents().length < 2) c.tap = true; }
       else if ((q = u.match(/^you pay (\d+) life$/))){ c.tap = true; const n = +q[1]; askYes(`${f.n}: pay ${n} life so it enters untapped?`, `Pay ${n} life`, 'Enter tapped').then(y => { if (y){ c.tap = false; S.life -= n; log(`paid ${n} life — ${f.n} enters untapped`); commit(); } }); }
       else { c.tap = true; log(`⚠ ${f.n} entered tapped — check “unless ${m[1]}” yourself`); }
     }
@@ -7320,7 +7323,7 @@ STATIC_RULES.push(
   EV_TYPES.push('manatap', 'ctrp', 'level');
   const pt = pushTrigger;
   pushTrigger = function(src, t, ev, evPid){
-    if (t && ev){ if (t.ev === 'level' && ev.type === 'level' && ev.x !== t.lvl) return; if (t.toOpp && (!ev.dp || ev.dp === evPid)) return; if (t.ev === 'manatap' && t.desc && ev.k && !descOk(ev.k, t.desc)) return; }
+    if (t && ev){ if (t.ev === 'level' && ev.type === 'level' && ev.x !== t.lvl) return; if (t.toOpp && (!ev.dp || ev.dp === evPid)) return; if (t.ev === 'manatap' && t.desc && ev.k && !descOk(ev.k, t.desc)) return; if (t.ev === 'manatap' && /^nonland/.test(t.desc || '') && ev.id != null){ const cc = S.bf.find(b => b.id === ev.id); if (cc && isLandC(cc)) return; } }
     return pt(src, t, ev, evPid);
   };
   const sm = subjMatch;
@@ -10092,9 +10095,9 @@ function r21mult(c){
     const types = [...new Set(got)];
     for (const b of S.bf){
       if (b.fd) continue; const o = r21textOf(b); let m;
-      if (isLand(c.k) && b.col && /^whenever a land's ability causes you to add one or more mana of the chosen colou?r, add an additional one mana of that colou?r\.?$/im.test(o) && got.includes(b.col)) add([b.col], cname(b));
+      if (isLandC(c) && b.col && /^whenever a land's ability causes you to add one or more mana of the chosen colou?r, add an additional one mana of that colou?r\.?$/im.test(o) && got.includes(b.col)) add([b.col], cname(b));
       if (isLand(c.k) && b.col && /^whenever a basic land is tapped for mana of the chosen colou?r, its controller adds an additional one mana of that colou?r\.?$/im.test(o) && tapped && /\bBasic\b/.test(info(c.k)?.t || '') && got.includes(b.col)) add([b.col], cname(b));
-      if (!isLand(c.k) && tapped && types.length && /^whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced\.?$/im.test(o)){
+      if (!isLandC(c) && tapped && types.length && /^whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced\.?$/im.test(o)){
         const v = types.length === 1 ? types[0] : await askChoice({title:`${cname(b)}: add one mana of which type?`, options:types.map(x => ({label:MNAME[x], html:manaHTML('{' + x + '}'), value:x}))});
         if (v) add([v], cname(b));
       }
@@ -36878,6 +36881,299 @@ async function f30DmgCount(s, l, ctx){
 }
 { const ds = doSentence;
   doSentence = async function(s0, ctx){ const s = String(s0).replace(/\.$/, '').trim(); const l = s.toLowerCase(); if (l && await f30DmgCount(s, l, ctx || {})) return; return ds(s0, ctx); }; }
+/* ===== fix31a: combat loops (Aggravated Assault + Sword of Feast and Famine, Combat Celebrant / Aurelia / Godo + Helm of the Host …) =====
+   Attacks weren't part of the loop recorder, so combat loops never got the "how many times?" question.
+   Now each turn the table remembers every attack you declare (who attacked whom) and what you did in the main phase
+   between combats. When an extra combat starts and the pattern repeats (or a known infinite-combat combo is on your
+   battlefield), it asks how many more combats to run, then runs them for you:
+     - declares the same attack each combat (creatures that attacked last time and can attack again, plus new creatures
+       with haste — Helm of the Host copies — at the same opponent),
+     - repeats the main-phase steps between combats (tap lands, activate Aggravated Assault),
+     - answers the same way as last time ("exert it?", Sword triggers),
+     - opponents block as usual.
+   It stops when the extra combats stop, the chosen number is reached, every opponent is dead, or something can't be repeated. */
+const CL = {T:'', atk:[], acts:[], asked:{}, run:null};
+function clSync(){ const T = turnStr(); if (CL.T !== T){ CL.T = T; CL.atk = []; CL.acts = []; CL.asked = {}; CL.run = null; } }
+function clCombatN(){ return S.cb && S.cb.t === turnStr() ? S.cb.n : 0; }
+function clOppLife(){ return opponents().reduce((x, p) => x + Math.max(0, p.s?.life ?? 0), 0); }
+function clTok(){ return S.bf.filter(c => c.tok || c.token || info(c.k)?.tok).reduce((x, c) => x + (c.n || 1), 0); }
+// remember actions (with their answers) and in which combat number / phase they were taken
+{ const ra = recAct; recAct = function(a){
+    try { if (a && S && !UI.replay && !CL.run && !UI.dry && !(typeof BOT !== 'undefined' && BOT.on) && phaseNow().mine){ clSync(); CL.acts.push({a:{...a}, ans:[], cn:clCombatN(), ph:phaseNow().ph}); if (CL.acts.length > 60) CL.acts.shift(); } } catch {}
+    return ra.apply(this, arguments); };
+  const rn = recAns; recAns = function(p){
+    const e = (S && !UI.replay && !CL.run) ? CL.acts[CL.acts.length - 1] : null;
+    return rn.call(this, p).then(v => { try { if (e) e.ans.push(v && v.map ? v.map(x => (typeof x === 'object' && x) ? {...x} : x) : v); } catch {} return v; }); }; }
+// remember each declared attack
+{ const da = declareAttackers; declareAttackers = function(){
+    try { const pn = phaseNow(); if (pn.mine && S.cb && S.cb.step === 'atk' && !UI.dry){ clSync();
+        const sel = Object.entries(UI.atkSel || {}).filter(([, v]) => v).map(([id, def]) => { const c = S.bf.find(x => x.id === +id); return c ? {id:+id, k:c.k, def} : null; }).filter(Boolean);
+        CL.atk[clCombatN()] = {sel, ids:S.bf.map(c => c.id), life:clOppLife(), tok:clTok()}; } } catch (e){ console.warn('cl atk', e); }
+    return da.apply(this, arguments); }; }
+// steps between combat i and combat i+1: what you did after combat i ended (in the main phase) before the next attack
+const clBetween = i => CL.acts.filter(e => e.cn === i && e.ph === 5);
+const clSameActs = (x, y) => x.length === y.length && x.every((e, i) => f25same(e.a, y[i].a));
+const clDefs = s => [...new Set((s || []).map(x => { const d = parseDef(x.def); return d ? d.pid : x.def; }))].sort().join(',');
+function clKnownCombo(){
+  try { const names = new Set(S.bf.filter(x => !x.fd).map(x => f25nm(x.k)));
+    for (const n of names) for (const e of (F25C.get(n) || [])) if (e.res.some(r => /^infinite combat phases/i.test(r)) && e.low.every(x => names.has(x))) return e; } catch {}
+  return null; }
+// A new combat reached "declare attackers": is this a loop worth offering?
+function clOnAtkStep(){
+  if (CL.run || UI.replay || UI.dry || (typeof BOT !== 'undefined' && BOT.on) || !phaseNow().mine) return;
+  clSync(); const n = clCombatN(); if (n < 2) return; const prev = CL.atk[n - 1]; if (!prev || !prev.sel.length) return;
+  const key = `${CL.T}:${n}`; if (CL.asked.done || CL.asked[key]) return;
+  const known = clKnownCombo();
+  let ok = false;
+  if (known && n >= 2) ok = true;
+  else if (n >= 3){ const p2 = CL.atk[n - 2]; ok = !!p2 && clDefs(p2.sel) === clDefs(prev.sel) && clSameActs(clBetween(n - 2), clBetween(n - 1)) && (prev.life < p2.life || prev.tok > p2.tok); }
+  if (!ok) return;
+  CL.asked[key] = 1;
+  setTimeout(() => clOffer(n, known).catch(e => console.warn('cl offer', e)), 250);
+}
+{ const ss = setStep; setStep = function(step){ const r = ss.apply(this, arguments); try { if (step === 'atk') clOnAtkStep(); } catch (e){ console.warn('cl step', e); } return r; }; }
+async function clOffer(n, known){
+  if (UI.modal) await new Promise(r => { const t0 = Date.now(); const iv = setInterval(() => { if (!UI.modal || Date.now() - t0 > 20000){ clearInterval(iv); r(); } }, 150); });
+  const prev = CL.atk[n - 1]; const acts = clBetween(n - 1);
+  const who = [...new Set(prev.sel.map(x => { const d = parseDef(x.def); return d ? nameOf(attackTargetProtector(d)) : ''; }).filter(Boolean))].join(', ');
+  const steps = acts.map(e => f25label(e.a));
+  const v = await askChoice({title:`Combat loop${known ? ' — ' + known.cards.join(' + ') : ''}`,
+    text:`This is combat ${n} this turn. Each combat: attack ${who || 'the same opponent'} with the same creatures${steps.length ? `, then ${steps.join(' → ')}` : ''}. How many more combats should the table run for you? Opponents still block each combat.`,
+    options:[{label:'Until every opponent is dead (or it can\'t go on)', value:'all'}, {label:'A number of combats…', value:'n'}, {label:'No — I\'ll attack by hand', value:'no'}]});
+  if (!v || v === 'no'){ CL.asked.done = 1; return; }
+  let k = 999; if (v === 'n'){ k = await askNumber('How many more combats?', 'Counting this one', 5) || 0; if (!k) { CL.asked.done = 1; return; } }
+  CL.asked.done = 1;
+  clRun(k, prev, acts, v === 'all');
+}
+// pick this combat's attackers from the last attack: the same creatures (if they can attack), plus new ones with haste
+function clPlan(prev){
+  const sel = {}; const defs = prev.sel.map(x => x.def); const main = defs[0];
+  const ok = d => defOpts().some(o => o.key === d);
+  for (const x of prev.sel){ const c = S.bf.find(b => b.id === x.id) || null; if (c && !canAttack(c)) sel[c.id] = ok(x.def) ? x.def : (defOpts()[0] || {}).key; }
+  const before = new Set(prev.ids || []);
+  for (const c of S.bf) if (!before.has(c.id) && !sel[c.id] && isCreatureCard(c) && !canAttack(c)) sel[c.id] = ok(main) ? main : (defOpts()[0] || {}).key;
+  // tokens whose stack grew (c.n > before): still one entry, it attacks with the whole stack
+  for (const id of Object.keys(sel)) if (!sel[id]) delete sel[id];
+  return sel;
+}
+async function clRun(budget, prev, acts, lethal){
+  const T = turnStr(); CL.run = {left:budget, prev, acts, done:0, why:'', at:Date.now(), replayed:-1};
+  S.lp = 1; commit(); log(`combat loop: running ${lethal ? 'until every opponent is dead' : budget + ' more combat' + (budget === 1 ? '' : 's')}`);
+  const R = CL.run; let idle = 0; const t0 = Date.now();
+  try {
+    while (true){
+      await sleep(120);
+      if (turnStr() !== T){ R.why = 'the turn ended'; break; }
+      if (opponents().length && opponents().every(p => (p.s?.life ?? 1) <= 0)){ R.why = 'every opponent is dead'; break; }
+      if (Date.now() - t0 > 20 * 60000){ R.why = 'it ran for 20 minutes'; break; }
+      if (UI.modal || UI.resolving || UI.casting || UI.cbBusy) { idle = 0; continue; }
+      const pn = phaseNow(); if (!pn.mine){ R.why = 'it is no longer your turn'; break; }
+      if (stackAll().length){ if (myBox()) doPass(); continue; }
+      if (pn.ph === 4 && S.cb && S.cb.step === 'atk'){
+        if (R.left <= 0){ R.why = `ran ${R.done} combat${R.done === 1 ? '' : 's'}`; break; }
+        const sel = clPlan(R.prev); if (!Object.keys(sel).length){ R.why = 'no creature can attack'; break; }
+        UI.atkSel = sel; const ids = S.bf.map(c => c.id); const life = clOppLife(), tok = clTok();
+        declareAttackers(); R.prev = {sel:Object.entries(sel).map(([id, def]) => ({id:+id, k:S.bf.find(c => c.id === +id)?.k, def})), ids, life, tok};
+        R.left--; R.done++; R.cn = clCombatN(); continue; }
+      if (pn.ph === 5 && R.cn && R.replayed !== R.cn && R.acts.length){
+        R.replayed = R.cn;
+        UI.replay = {ans:R.acts.flatMap(e => e.ans).map(x => x && x.map ? x.map(y => (typeof y === 'object' && y) ? {...y} : y) : x)};
+        try { for (const e of R.acts){ const w = await f27cStep(e.a); if (w){ R.why = w; break; } if (UI.replay.fail){ R.why = UI.replay.fail; break; } if (!(await waitStack())){ R.why = 'the stack did not finish'; break; } } }
+        finally { UI.replay = null; }
+        if (R.why) break; continue; }
+      if (pn.ph === 5 && !(S.xc > 0)){ if (R.left > 0 && R.cn) R.why = 'no more extra combats'; else R.why = R.why || `ran ${R.done} combat${R.done === 1 ? '' : 's'}`; break; }
+      if (pn.ph >= 6){ R.why = 'combat is over'; break; }
+      const key = prioKey(); if (pn.ph === 4 && key && S.pass !== key){ doPass(); continue; }
+      if (pn.ph === 4 && !key){ if (++idle > 3000){ R.why = 'combat got stuck'; break; } continue; }   // waiting for blocks / damage
+      if ((pn.ph === 3 || pn.ph === 5) && Date.now() - (R.nx || 0) > 1200){ R.nx = Date.now(); nextAction(); continue; }
+      if (++idle > 400){ R.why = 'it got stuck'; break; }
+    }
+  } catch (e){ console.warn('cl run', e); R.why = 'an error stopped it'; }
+  finally { S.lp = 0; const done = R.done; CL.run = null; log(`combat loop: ran ${done} combat${done === 1 ? '' : 's'}${R.why ? ' — stopped: ' + R.why : ''}`); commit(); }
+}
+// while the combat loop runs, questions it asks again get last time's answer (fix27z's loop autopilot)
+{ const la = f25lActive; f25lActive = function(){ return !!CL.run || la.apply(this, arguments); }; }
+/* ===== fix31b: commander recast loops (Krenko, Mob Boss + Skirk Prospector + Goblin Warchief / Goblin Chieftain …) =====
+   Each time round costs more (commander tax), so the steps can't simply be replayed. When you cast a commander that makes
+   tokens with {T} from the command zone for the second time in a turn, and you have a creature you can sacrifice for mana,
+   the table asks how many more times to go round, then for each round:
+     tap the commander for tokens → sacrifice tokens for mana until the next cast is paid for → sacrifice the commander
+     (it goes to the command zone) → cast it again (opponents can respond to each cast).
+   It stops when it can't pay, the commander can't tap (no haste), or the chosen number of rounds is done. */
+const CK = {T:'', casts:{}, asked:{}, run:null};
+function ckSync(){ const T = turnStr(); if (CK.T !== T){ CK.T = T; CK.casts = {}; CK.asked = {}; CK.run = null; } }
+// the commander's "{T}: Create … tokens" ability
+function ckTapAbility(c){ try { const L = abilityList(c) || []; const i = L.findIndex(ab => /\{t\}/i.test(ab.cost || '') && /\bcreate\b[^.]*\btokens?\b/i.test(ab.eff || ab.txt || ab.text || '')); return i >= 0 ? {i, ab:L[i]} : null; } catch { return null; } }
+// a battlefield permanent with "Sacrifice a <creature/Goblin…>: Add …" (Skirk Prospector, Ashnod's Altar, Phyrexian Altar)
+function ckOutlet(cmdK){
+  for (const c of S.bf){ if (c.fd) continue; let abs = []; try { abs = manaAbs(c) || []; } catch {}
+    for (let i = 0; i < abs.length; i++){ const ab = abs[i]; const cost = String(ab.cost || '').toLowerCase(); const m = cost.match(/^sacrifice an? ([a-z ]+)$/); if (!m) continue;
+      if (descOk(cmdK, m[1], {})) return {c, i, ab, desc:m[1]}; } }
+  return null; }
+const ckTokFor = (o, cmdK) => S.bf.filter(b => b.tok && !b.fd && descOk(b.k, o.desc, {tok:true}) && b.k !== cmdK).sort((a, b) => (b.n || 1) - (a.n || 1));
+const ckCanCast = c => { try { const sc = spellCost(c, 'cz'); return !payPlan(sc.cost, S.pool).err; } catch { return false; } };
+{ const bc = beginCast; beginCast = async function(c, zone){
+    const r = await bc.apply(this, arguments);
+    try { if (c && zone === 'cz' && !UI.replay && !UI.dry && !(typeof BOT !== 'undefined' && BOT.on) && !CK.run){ ckSync(); CK.casts[c.k] = (CK.casts[c.k] || 0) + 1;
+        if (CK.casts[c.k] >= 2 && !CK.asked[c.k]){ const k = c.k; setTimeout(() => ckMaybeOffer(k).catch(e => console.warn('ck offer', e)), 300); } } } catch (e){ console.warn('ck cast', e); }
+    return r; }; }
+async function ckMaybeOffer(k){
+  if (!(await waitStack(30000))) return; await sleep(200);
+  const c = S.bf.find(b => b.k === k); if (!c || !ckTapAbility(c)) return; const o = ckOutlet(k); if (!o) return;
+  if (CK.asked[k]) return; CK.asked[k] = 1;
+  while (UI.modal) await sleep(150);
+  const nm = cname(c), on = cname(o.c);
+  const v = await askChoice({title:`${nm} loop`, text:`You've cast ${nm} from the command zone ${CK.casts[k]} times this turn. Each round: tap ${nm} for tokens, sacrifice tokens to ${on} for mana, sacrifice ${nm} (it goes back to the command zone), cast it again. Each cast costs {2} more (commander tax). How many more rounds?`,
+    options:[{label:'As many as I can pay for', value:'max'}, {label:'A number of rounds…', value:'n'}, {label:"No — I'll do it by hand", value:'no'}]});
+  if (!v || v === 'no') return;
+  let n = 99; if (v === 'n'){ n = await askNumber('How many more rounds?', '', 5) || 0; if (!n) return; }
+  await ckRun(k, n);
+}
+async function ckRun(k, n){
+  const T = turnStr(); CK.run = {done:0}; S.lp = 1; commit(); let why = ''; const sv = UI.cmdz;
+  log(`${info(k)?.n} loop: going round ${n >= 99 ? 'as many times as you can pay for' : n + ' more time' + (n === 1 ? '' : 's')}`);
+  try {
+    for (let r = 0; r < n; r++){
+      if (turnStr() !== T){ why = 'the turn ended'; break; }
+      if (!(await waitStack(60000))){ why = 'the stack did not finish'; break; }
+      let c = S.bf.find(b => b.k === k); if (!c){ why = `${info(k)?.n} isn't on the battlefield`; break; }
+      const t = ckTapAbility(c); if (!t){ why = 'no tap ability'; break; }
+      const rd = abilityReady(c, t.ab, false); if (rd){ why = `${cname(c)}: ${rd}`; break; }
+      await activateAbility(c, t.ab); if (!(await waitStack(60000))){ why = 'the stack did not finish'; break; }
+      const o = ckOutlet(k); if (!o){ why = 'no sacrifice outlet'; break; }
+      // first check that the tokens (and the commander itself) can pay for the next cast at all — don't waste them if not
+      { const sc = spellCost(c, 'cz'); const yieldN = /\{c\}\{c\}/i.test(o.ab.eff || o.ab.line || '') ? 2 : 1;
+        const col = (String(o.ab.eff || o.ab.line || '').match(/\{([WUBRGC])\}/) || [])[1] || 'C';
+        const avail = ckTokFor(o, k).reduce((x, b) => x + (b.n || 1), 0) + 1; const pool = {...S.pool}; pool[col] = (pool[col] || 0) + avail * yieldN;
+        if (payPlan(sc.cost, pool).err){ why = `the tokens can't pay for the next cast (${costStr(sc.cost)}) — you keep them`; break; } }
+      // sacrifice tokens until the next cast is paid for
+      let guard = 0;
+      while (!ckCanCast(c) && guard++ < 400){
+        const tok = ckTokFor(o, k)[0]; if (!tok) break;
+        UI.replay = {ans:[[tok.id]]}; try { await activateMana(o.c, o.ab, 0); } finally { UI.replay = null; }
+        await sleep(20);
+      }
+      if (!ckCanCast(c)){ // the commander's own sacrifice adds mana too: try it
+        const sc = spellCost(c, 'cz'); const p0 = {...S.pool}; const yieldN = /\{c\}\{c\}/i.test(o.ab.eff || o.ab.line || '') ? 2 : 1;
+        const tryPool = {...p0}; const col = (String(o.ab.eff || o.ab.line || '').match(/\{([WUBRGC])\}/) || [])[1] || 'C'; tryPool[col] = (tryPool[col] || 0) + yieldN;
+        if (payPlan(sc.cost, tryPool).err){ why = `not enough tokens to pay for the next cast (${costStr(sc.cost)})`; break; } }
+      UI.cmdz = true; UI.replay = {ans:[[c.id]]};
+      try { await activateMana(o.c, o.ab, 0); } finally { UI.replay = null; }
+      await sleep(150); UI.cmdz = sv;
+      const inCz = S.cz.find(x => x.k === k); if (!inCz){ why = `${info(k)?.n} didn't go to the command zone`; break; }
+      if (!ckCanCast(inCz)){ why = `can't pay for ${info(k)?.n} (${costStr(spellCost(inCz, 'cz').cost)})`; break; }
+      await beginCast(inCz, 'cz');
+      CK.run.done++;
+      if (!(await waitStack(60000))){ why = 'the stack did not finish'; break; }
+    }
+  } catch (e){ console.warn('ck run', e); why = 'an error stopped it'; }
+  finally { UI.cmdz = sv; UI.replay = null; S.lp = 0; const d = CK.run.done; CK.run = null;
+    const toks = S.bf.filter(b => b.tok).reduce((x, b) => x + (b.n || 1), 0);
+    log(`${info(k)?.n} loop: went round ${d} time${d === 1 ? '' : 's'} — you have ${toks} tokens${why ? ' (stopped: ' + why + ')' : ''}`); commit(); }
+}
+// The general "this looks like a loop" check replays steps as they were: a recast from the command zone costs more each
+// time, so it can't. Leave those to the commander loop above.
+{ const ff = f25find; f25find = function(){ const h = ff.apply(this, arguments); try { if (h && (h.last || []).some(e => e.a && e.a.t === 'cast' && e.a.zone === 'cz')) return null; } catch {} return h; }; }
+/* ===== fix31c: Underworld Breach-style loops (escape / flashback casts from the graveyard) ===== */
+// 1) A spell cast from the graveyard remembers HOW it was cast (escape, flashback, …). Repeating it used to call the plain
+//    "cast from graveyard", which can't cast a card without such a permission — the repeat did nothing, silently.
+const F31C = {how:{}};
+{ const cg = castFromGy; castFromGy = async function(c, g){ try { if (c && g && !UI.replay) F31C.how[c.k] = g.label || ''; } catch {} return cg.apply(this, arguments); }; }
+{ const bc = beginCast; beginCast = async function(c, zone, o = {}){
+    try { if (UI.replay && c && zone === 'gy' && !(o && o.gy)){ const want = F31C.how[c.k]; const opts = typeof gyOptions === 'function' ? gyOptions(c) : [];
+        const g = opts.find(x => (x.label || '') === want) || opts.find(x => /escape/i.test(x.label || '')) || opts[0];
+        if (g) return castFromGy(c, g);
+        UI.replay.fail = `${cname(c)} can't be cast from the graveyard any more`; return; } } catch (e){ console.warn('f31c cast', e); }
+    return bc.apply(this, arguments); }; }
+// 2) "Exile three other cards from your graveyard" (escape) picks different cards every time round. When repeating, pick
+//    cards that the loop doesn't need (never the loop's own pieces), instead of the first card offered.
+{ const pc = pickCards; pickCards = function(m){
+    try { if (UI.replay && m && /^exile .*from your graveyard/i.test(m.title || '')){
+        const need = new Set(((UI.recDone && UI.recDone.acts) || []).map(a => a.k));
+        const spare = (m.cards || []).filter(c => !need.has(c.k)); const n = m.min || m.max || 3;
+        if (spare.length >= n){ replayAns(); return Promise.resolve(spare.slice(0, n).map(c => c.id)); }
+        UI.replay.fail = 'not enough other cards in your graveyard to exile'; replayAns(); return Promise.resolve(null); } } catch (e){ console.warn('f31c pick', e); }
+    return pc.apply(this, arguments); }; }
+// 3) A repeat round that did nothing (no card moved, no mana, nothing milled) is a stop, not a success.
+{ const rl = runLoop; runLoop = async function(n){
+    const rec = UI.recDone; if (!rec || !rec.acts.some(a => a.t === 'cast' && a.zone === 'gy')) return rl.apply(this, arguments);
+    // run one round at a time and check something happened
+    let done = 0; const sig = () => [S.gy.length, S.ex.length, S.bf.length, S.hand.length, JSON.stringify(S.pool), [...OPP.values()].reduce((x, o) => x + (o.lc || 0) + (o.life || 0), 0)].join('|');
+    const logN = S.log.length;
+    const need = new Set(rec.acts.map(a => a.k)); const exN = rec.acts.filter(a => a.t === 'cast' && a.zone === 'gy' && /escape/i.test(F31C.how[a.k] || '')).length * 3;
+    for (; done < n; done++){
+      if (exN && S.gy.filter(c => !need.has(c.k)).length < exN){ log(`repeated the loop ${done} time${done === 1 ? '' : 's'} — stopped: not enough other cards in your graveyard to exile for another round (needs ${exN})`); commit(); return; }
+      const s0 = sig(); await rl.call(this, 1);
+      const last = S.log.slice(-1)[0]?.s || '';
+      for (let i = S.log.length - 1; i >= Math.max(0, S.log.length - 400); i--) if (/^repeated the loop [01] times?(?: —|$)/.test(S.log[i].s || '')) S.log.splice(i, 1);
+      if (/stopped:/.test(last)){ log(`repeated the loop ${done} time${done === 1 ? '' : 's'} — ${last.replace(/^.*stopped: /, 'stopped: ')}`); commit(); return; }
+      if (sig() === s0){ log(`repeated the loop ${done} time${done === 1 ? '' : 's'} — stopped: the last round didn't do anything`); commit(); return; }
+      if (opponents().length && opponents().every(p => (p.s?.life ?? 1) <= 0 || p.s?.lost)){ done++; break; }
+      if (opponents().length && opponents().every(p => (p.s?.lc ?? 1) <= 0) && /\bmills?\b/i.test(JSON.stringify(rec.acts.map(a => info(a.k)?.o || '')))){ done++; break; }
+    }
+    log(`repeated the loop ${done} time${done === 1 ? '' : 's'}`); commit(); }; }
+
+// Jeska's Will (and the like): "Add {R} for each card in target opponent's hand" added nothing.
+{ const ds = doSentence; doSentence = async function(s0, ctx){
+    try { const l = String(s0).replace(/\.$/, '').trim().toLowerCase().replace(/^•\s*/, '');
+      const m = l.match(/^add \{([wubrgc])\} for each card in (target opponent's|target player's|that player's|their|an opponent's|each opponent's) hand$/);
+      if (m && ctx){ if (UI.dry) return;
+        let pid = null; try { const t = ctx.tgts ? (nextTargets(ctx) || []).find(x => x && x.t === 'player') : null; if (t) pid = t.pid; } catch {}
+        if (!pid){ const o = opponents(); if (o.length === 1) pid = o[0].pid; else if (o.length) pid = o.slice().sort((a, b) => (OPP.get(b.pid)?.hc || 0) - (OPP.get(a.pid)?.hc || 0))[0].pid; }
+        const n = pid === MYPID ? S.hand.length : (OPP.get(pid)?.hc || 0);
+        const col = m[1].toUpperCase(); if (n) addMana(Array(n).fill(col));
+        log(`${ctx.name || 'It'}: added ${n} {${col}} (${n} card${n === 1 ? '' : 's'} in ${pid === MYPID ? 'your' : nameOf(pid) + "'s"} hand)`); commit(); return; } } catch (e){ console.warn('f31c jeska', e); }
+    return ds.apply(this, arguments); }; }
+
+// Loops on top of a spell held on the stack (Reiterate / Narset's Reversal + Jeska's Will, Mana Geyser …): the loop check
+// waited for an empty stack, which never comes while you hold the spell. Check when the stack is back down to the depth
+// the loop started at and you have priority.
+setInterval(() => { try {
+  if (typeof F25 === 'undefined' || !S || f25quiet() || UI.modal || UI.resolving || UI.casting || UI.f31held) return;
+  const L = F25.sh; if (!L.length) return; const last = L[L.length - 1]; const n = stackAll().length;
+  if (!(last.a && last.a.sd > 0) || n !== last.a.sd || !phaseNow) return;
+  const sig = n + ':' + (S.stk[S.stk.length - 1] || {}).sid + ':' + L.length; if (F31C.heldSig !== sig){ F31C.heldSig = sig; F31C.heldAt = Date.now(); return; }
+  if (Date.now() - F31C.heldAt < 1200) return;
+  let hit = f25find();
+  if (!hit && L.length >= 2){   // one spell recast on top of the held spell (Reiterate with buyback): two times round is enough for a known combo that gains each time
+    const a = L[L.length - 2], b = L[L.length - 1]; const pool = Object.values(S.pool || {}).reduce((x, y) => x + (+y || 0), 0);
+    const held = stackAll().map(i => i.k); const c = f25comboFor([b.a.k, ...held]);
+    if (f25same(a.a, b.a) && a.a.sd === b.a.sd && b.T === turnStr() && b.sig === f25sig() && pool > b.pool && b.pool > a.pool && c && c.low.includes(f25nm(b.a.k)) && held.some(k => c.low.includes(f25nm(k)))) hit = {k:1, last:[b], prev:[a]};
+  }
+  if (!hit || hit.last[0].sig !== f25sig()) return;
+  const key = turnStr() + ':held:' + hit.last.map(e => e.a.t + e.a.k + (e.a.ai ?? '')).join(',');
+  if (F25.asked[key]) return; F25.asked[key] = 1; UI.f31held = 1;
+  f25offer(hit.last).finally(() => { UI.f31held = 0; });
+} catch (e){ console.warn('f31c held', e); } }, 400);
+
+// Holding your own spell: once everyone else had passed, your own spell resolved at once, so you couldn't copy it again
+// (Reiterate / Narset's Reversal on your own Jeska's Will). After you copy your own spell, the original is held for
+// 12 seconds (each new cast extends it), so you can copy it again; Next / Pass lets it resolve.
+F31C.hold = null;
+const f31cCopies = it => /copy target instant or sorcery spell|copy target (?:spell|instant spell|sorcery spell)/i.test(String(it && (it.txt || '') || '') + ' ' + String((it && it.k && info(it.k)?.o) || ''));
+{ const rt = resolveTop; resolveTop = async function(it){
+    const isCopy = it && S.stk.includes(it) && f31cCopies(it);
+    const r = await rt.apply(this, arguments);
+    try { if (isCopy){ const mine = stackAll().filter(x => x.pid === MYPID && x.it && x.it.kind === 'spell' && !/\(copy\)/.test(x.it.nm || ''));
+        const orig = mine[mine.length - 1]; if (orig){ F31C.hold = {sid:orig.it.sid, until:Date.now() + 12000}; if (!UI.replay) toast(`Holding ${orig.it.nm} on the stack so you can copy it again — press Next to let it resolve`); } } } catch (e){ console.warn('f31c hold', e); }
+    return r; }; }
+{ const pc = priorityCheck; priorityCheck = function(){
+    try { const h = F31C.hold; if (h){ const top = stackTop();
+        if (!top || Date.now() > h.until || !S.stk.some(x => x.sid === h.sid)) F31C.hold = null;
+        else if (top.pid === MYPID && top.it && top.it.sid === h.sid) return; } } catch {}
+    return pc.apply(this, arguments); }; }
+{ const bc = beginCast; beginCast = async function(){ if (F31C.hold) F31C.hold.until = Date.now() + 12000; return bc.apply(this, arguments); }; }
+{ const na = nextAction; nextAction = function(){ try { const top = stackTop(); if (F31C.hold && top && top.it && top.it.sid === F31C.hold.sid){ F31C.hold = null; log(`lets ${top.it.nm} resolve`); commit(); return true; } } catch {} return na.apply(this, arguments); }; }
+// while a loop repeat runs, the hold stays on until it ends
+setInterval(() => { try { if (F31C.hold && (UI.replay || (typeof S !== 'undefined' && S && S.lp))) F31C.hold.until = Date.now() + 12000; } catch {} }, 500);
+// …and a repeat of such a loop waits until the stack is back down to the held spell (not until it's empty, which never
+// happens while you hold it).
+{ const ws = waitStack; waitStack = async function(ms = 8000){
+    const rec = UI.recDone;
+    if (!UI.replay || !rec || !rec.acts.length || !rec.acts.every(a => a.sd > 0)) return ws.apply(this, arguments);
+    const d = Math.min(...rec.acts.map(a => a.sd)); const t0 = Date.now(); let ok = 0;
+    while (Date.now() - t0 < Math.max(ms, 15000)){ if (stackAll().length <= d && !UI.resolving && !UI.casting){ if (++ok >= 5) return true; } else ok = 0; await sleep(80); }
+    return false; }; }
 /* ===================== bots.js: bot players (stage 1: framework + Easy + Intermediate) =====================
    Architecture
    - Every bot is a full, separate player client: the same game file runs in a hidden iframe (URL ?ptbot=<id>) with its own

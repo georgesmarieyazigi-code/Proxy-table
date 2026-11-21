@@ -56,7 +56,7 @@ async function mtgtop8(F){
   console.log(F, 'decks:', decks.length, decks.slice(0, 3));
   // 3) rank deck names by how many top-8 decks they have; fetch the newest lists for the top ones
   const by = new Map(); for (const d of decks){ const k = d.name.toLowerCase(); if (!by.has(k)) by.set(k, []); by.get(k).push(d); }
-  const ranked = [...by.values()].sort((a, b) => b.length - a.length).slice(0, LIMIT);
+  const ranked = [...by.values()].sort((a, b) => b.length - a.length).slice(0, Math.ceil(LIMIT * 1.5));   // extra: some names merge below
   for (const list of ranked){
     list.sort((a, b) => (b.date || '').localeCompare(a.date || '') || (parseInt(a.place) || 9) - (parseInt(b.place) || 9));
     const out = [];
@@ -74,7 +74,7 @@ async function mtgtop8(F){
   // the same commander(s) can show up under two deck names: merge them
   const merged = new Map();
   for (const c of res.commanders){ const k = c.name.toLowerCase(); const m = merged.get(k); if (!m){ merged.set(k, c); continue; } m.count += c.count; m.decks = [...m.decks, ...c.decks].sort((a, b) => (b.date || '').localeCompare(a.date || '')).slice(0, PER); }
-  res.commanders = [...merged.values()].sort((a, b) => b.count - a.count);
+  res.commanders = [...merged.values()].sort((a, b) => b.count - a.count).slice(0, LIMIT);
   res.events = events.length; res.decks = decks.length;
   return res;
 }

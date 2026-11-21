@@ -35,7 +35,7 @@ function tdArt(n){ const a = TD.data && TD.data.art || {}; const x = a[n] || a[S
 function tdGroup(){ const d = TD.data; if (!d) return []; const g = d[TD.tab] || {}; return g.commanders || []; }
 function tdName(c){ return c.name || (c.cmd || []).join(' + '); }
 function tdFmtDate(s){ if (!s) return ''; const [y, m, d] = s.split('-'); return `${+d} ${['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][+m - 1] || ''} ${y}`; }
-function tdPlace(p){ const n = parseInt(p); if (!n) return 'Top 8'; return n === 1 ? '1st' : n === 2 ? '2nd' : n === 3 ? '3rd' : n + 'th'; }
+function tdPlace(p){ const r = String(p || '').match(/^(\d+)-(\d+)$/); if (r) return 'Top ' + r[2]; const n = parseInt(p); if (!n) return 'Top 8'; return n === 1 ? '1st' : n === 2 ? '2nd' : n === 3 ? '3rd' : n + 'th'; }
 function tdHTML(){
   const tabs = TD_TABS.map(([t, l]) => `<button type="button" data-td-tab="${t}" aria-selected="${TD.tab === t}">${l}</button>`).join('');
   let body = '';

@@ -1,0 +1,12 @@
+4233271
+  ✓ pod: three bots sat down and kept their hands
+  bots: hard:Elminster | veryhard:GAA | master:Blue Farm
+  ✓ pod: ran 40 turns (done) in 274 s
+  ✓ pod: Davriel (hard) took part (520 actions)
+  ✓ pod: Jaya (veryhard) took part (557 actions)
+  ✓ pod: Ral (master) took part (564 actions)
+  ✓ pod: 0 page errors (0 + 0 in frames)
+  ✓ pod: 0 card-conservation violations
+  ✓ pod: no stalls (done)
+  ✓ pod: bots made no internal errors
+  ✓ pod: no bot looked outside its own seat (runtime trap)

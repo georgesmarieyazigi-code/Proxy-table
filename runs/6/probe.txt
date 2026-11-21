@@ -1,0 +1,158 @@
+cEDH event 200 30016
+
+er('');" style="cursor:pointer;width:160px;"><a class=menu_item>OTHER</a></div><div style="position:relative;width:160px;"><a class=menu_item href=submit>SUBMIT</a></div> </div> <div style="position:absolute;top:8px;right:180px;display:block;"><img src=/graph/star.png></div><div style="position:absolute;top:37px;right:180px;display:block;"><img src=/graph/star.png></div> </div> <div id=MTGA_tooltip style="visibility:hidden;z-index:10;position: absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius: 5px;border: 1px grey solid;"> <div id=MTGA_tooltip_content style="padding:3px;" align=center> <div class=G10>Choose the language you use in MTG Arena.</div> <div style="padding:2px;"> <table> <tr> <td width=33% align=center><a href=# onclick="CopyMTGA('EN')">English</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('FR')">French</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('DE')">German</a></td> </tr> <tr> <td width=33% align=center><a href=# onclick="CopyMTGA('IT')">Italian</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('ES')">Spanish</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('PT')">Portuguese</a></td> </tr> </table> </div> <textarea id=MTGAdecklistEN style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistFR style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistDE style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistIT style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistES style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistPT style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklist style="width:200px;height:150px;"></textarea> <div id=MTGAOK class=V10 style="visibility:hidden;margin:2px;">Now you can click "Import" in MTG Arena.</div> <div id=MTGA_deck style="padding:3px;" align=center></div> <div onclick="EffArena();" style="cursor:pointer;" class=S12>close</div> </div> </div> <div id=ChatGPT_tooltip style="visibility:hidden;z-index:10;position: absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius: 5px;border: 1px grey solid;"> <div id=ChatGPT_tooltip_content style="padding:3px;" align=center> <div style="padding:2px;"> <table border=0 celpadding=2 callspacing=0> <tr> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94126&d=914571&f=cEDH&exp_lang=EN');";><img src=/graph/flags/EN.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94126&d=914571&f=cEDH&exp_lang=FR');";><img src=/graph/flags/FR.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94126&d=914571&f=cEDH&exp_lang=DE');";><img src=/graph/flags/DE.png style="height:15px;"></div></td> </tr> <tr> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94126&d=914571&f=cEDH&exp_lang=IT');";><img src=/graph/flags/IT.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94126&d=914571&f=cEDH&exp_lang=ES');";><img src=/graph/flags/ES.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94126&d=914571&f=cEDH&exp_lang=PT');";><img src=/graph/flags/PT.png style="height:15px;"></div></td> </tr> </table> </div> <div onclick="EffChatGPT();" style="cursor:pointer;" class=S12>close</div> </div> </div> <div id=companion_tooltip style="visibility:hidden;z-index:10;position: absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius: 5px;border: 1px grey solid;"> <div id=companion_tooltip_content style="width:300px;padding:3px;" align=center> <div class=S12>Companion card</div> <div class=G12 align=justify>You may put it into your hand from outside the game for <img src=/graph/manas_c/3.png style="vertical-align:-20%;"> any time you could cast a sorcery.</div> <div onclick="EffCompanion();" style="cursor:pointer;margin-top:6px;" class=S12>close</div> </div> </div> <div class=w_title align=center> <div style="display:flex;justify-content:space-evenly;align-items:center;"> <div class=event_title>cEDH Locals @ Tabletop Tavern (Lexington, KY)</div> <div class=event_title>#1 Kinnan, Bonder Prodigy - <a class=player_big href=search?player=Aaron+Smith>Aaron Smith</a></div> <div class=event_title><a class=arrow href=?e=94126&d=914572&f=cEDH>&rarr;</a></div> </div> <div class=c_tl></div><div class=c_tr></div><div class=c_br></div> </div> <div style="display:flex;"> <div style="width:25%;"><div style="background:#00528b;padding-bottom:4px;position:relative;"><div style="margin:0px 4px 0px 4px;"> <div class=S14 align=center style="background:white;margin-bottom:4px;"> <div class=meta_arch style="padding:2px;">cEDH <img src=/graph/star.png> <img src=/graph/online/paper.png height=17 title="Paper" style="vertical-align:-10%;"></div> <div style="margin-bottom:5px;">11 players - 20/11/26</div> <div class=S10 style="width:250px;overflow:hidden;padding-bottom:5px;"><div class=S10 style="width:250px;overflow:hidden;padding-bottom:5px;">Source: <a target=_blank href=https://topdeck.gg/event/tabletop-tavern-cedh-locals-11192026>topdeck.gg</a></div></div> <div class=S10 align=justify style="padding:10px;">Proxy Friendly</div> </div> <div class=chosen_tr style="padding:3px 0px 3px 0px;" align=left> <div style="display:flex;align-items:center;"> <div style="width:42px;" align=center class=S14>1</div> <div style="width:80px;height:40px;background:black;"><a href=?e=94126&d=914571&f=cEDH><img src=/metas_thumbs/1246.jpg></a></div> <div style="flex:1;"> <div class=S14 style="width:100%;padding-left:4px;margin-bottom:4px;"><a href=?e=94126&d=914571&f=cEDH>Kinnan, Bonder Prodigy</a> </div> <div style="margin-right:10px;" align=right class=G11><a class=p
+
+export 200 1 Birds of Paradise
+1 Clever Impersonator
+1 Consecrated Sphinx
+1 Delighted Halfling
+1 Drift of Phantasms
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Endurance
+1 Enduring Vitality
+1 Faerie Mastermind
+1 Flesh Duplicate
+1 Fyndhorn Elves
+1 Gene Pollinator
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Llanowar Elves
+1 Mockingbird
+1 Pia, Aether Ascetic
+1 Samut, Tyrant of Naktamun
+1 Subtlety
+1 The Cabbage Merchant
+1 Thrasios, Triton Hero
+1 Trophy Mage
+1 Valley Floodcaller
+1 Volatile Stormdrake
+1 Wan Shi Tong, Librarian
+1 Arcane Signet
+1 Basalt Monolith
+1 Chrome Mox
+1 Fellwar Stone
+1 Grim Monolith
+1 Imposter Mech
+1 Lotus Petal
+1 Mana Vault
+1 Mirage Mirror
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Sol Ring
+1 Springleaf Drum
+1 Talisman of Curiosity
+1 The One Ring
+1 B
+
+dec 200 // Deck file created with mtgtop8.com
+1 [A] Birds of Paradise
+1 [KTK] Clever Impersonator
+1 [MBS] Consecrated Sphinx
+1 [] Delighted Halfling
+1 [RAV] Drift of Phantasms
+1 [M14] Elvish Mystic
+1 [AL] Elvish Spirit Guide
+1 [] Endurance
+1 [] Enduring Vitality
+1 [] Faerie Mastermind
+1 [] Flesh Duplicate
+1 [IA] Fyndhorn Elves
+1 [] Gene Pollinator
+1 [] High Fae Trickster
+1 [] Hullbreaker Horror
+1 [A] Llanowar Elves
+1 [] Mockingbird
+1 [] Pia, Aether Ascetic
+1 [] Samut, Tyrant of Naktamun
+1 [] Subtlety
+1 [] The Cabbage Merchant
+1 [C16] Thrasios, Triton Hero
+1 [AER] Trophy Mage
+1 [] Valley Floodcaller
+1 [] Volatile Stormdrake
+1 [] Wan Shi Tong, Librarian
+1 [] Arcane Signet
+1 [A] Basalt Monolith
+1 [MR] Chrome Mox
+1 [DK] Fellwar Stone
+1 [UL] Grim Monolith
+1 [] Imposter M
+
+EDH event 200 27726
+
+er('');" style="cursor:pointer;width:160px;"><a class=menu_item>OTHER</a></div><div style="position:relative;width:160px;"><a class=menu_item href=submit>SUBMIT</a></div> </div> <div style="position:absolute;top:8px;right:180px;display:block;"><img src=/graph/star.png></div><div style="position:absolute;top:37px;right:180px;display:block;"><img src=/graph/star.png></div> </div> <div id=MTGA_tooltip style="visibility:hidden;z-index:10;position: absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius: 5px;border: 1px grey solid;"> <div id=MTGA_tooltip_content style="padding:3px;" align=center> <div class=G10>Choose the language you use in MTG Arena.</div> <div style="padding:2px;"> <table> <tr> <td width=33% align=center><a href=# onclick="CopyMTGA('EN')">English</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('FR')">French</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('DE')">German</a></td> </tr> <tr> <td width=33% align=center><a href=# onclick="CopyMTGA('IT')">Italian</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('ES')">Spanish</a></td> <td width=33% align=center><a href=# onclick="CopyMTGA('PT')">Portuguese</a></td> </tr> </table> </div> <textarea id=MTGAdecklistEN style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistFR style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistDE style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistIT style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistES style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklistPT style="display:none;width:200px;height:150px;"></textarea> <textarea id=MTGAdecklist style="width:200px;height:150px;"></textarea> <div id=MTGAOK class=V10 style="visibility:hidden;margin:2px;">Now you can click "Import" in MTG Arena.</div> <div id=MTGA_deck style="padding:3px;" align=center></div> <div onclick="EffArena();" style="cursor:pointer;" class=S12>close</div> </div> </div> <div id=ChatGPT_tooltip style="visibility:hidden;z-index:10;position: absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius: 5px;border: 1px grey solid;"> <div id=ChatGPT_tooltip_content style="padding:3px;" align=center> <div style="padding:2px;"> <table border=0 celpadding=2 callspacing=0> <tr> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94108&d=914482&f=EDH&exp_lang=EN');";><img src=/graph/flags/EN.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94108&d=914482&f=EDH&exp_lang=FR');";><img src=/graph/flags/FR.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94108&d=914482&f=EDH&exp_lang=DE');";><img src=/graph/flags/DE.png style="height:15px;"></div></td> </tr> <tr> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94108&d=914482&f=EDH&exp_lang=IT');";><img src=/graph/flags/IT.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94108&d=914482&f=EDH&exp_lang=ES');";><img src=/graph/flags/ES.png style="height:15px;"></div></td> <td width=33% align=center><div style="cursor:pointer;" onclick="LoadExpl('e=94108&d=914482&f=EDH&exp_lang=PT');";><img src=/graph/flags/PT.png style="height:15px;"></div></td> </tr> </table> </div> <div onclick="EffChatGPT();" style="cursor:pointer;" class=S12>close</div> </div> </div> <div id=companion_tooltip style="visibility:hidden;z-index:10;position: absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius: 5px;border: 1px grey solid;"> <div id=companion_tooltip_content style="width:300px;padding:3px;" align=center> <div class=S12>Companion card</div> <div class=G12 align=justify>You may put it into your hand from outside the game for <img src=/graph/manas_c/3.png style="vertical-align:-20%;"> any time you could cast a sorcery.</div> <div onclick="EffCompanion();" style="cursor:pointer;margin-top:6px;" class=S12>close</div> </div> </div> <div class=w_title align=center> <div style="display:flex;justify-content:space-evenly;align-items:center;"> <div class=event_title>Wool Cup 211 @ Kadou (Beijing, China)</div> <div class=event_title>#1 Yoshi+ludevic - <a class=player_big href=search?player=Zheng+Chang>Zheng Chang</a></div> </div> <div class=c_tl></div><div class=c_tr></div><div class=c_br></div> </div> <div style="display:flex;"> <div style="width:25%;"><div style="background:#00528b;padding-bottom:4px;position:relative;"><div style="margin:0px 4px 0px 4px;"> <div class=S14 align=center style="background:white;margin-bottom:4px;"> <div class=meta_arch style="padding:2px;">Duel Commander <img src=/graph/star.png> <img src=/graph/online/paper.png height=17 title="Paper" style="vertical-align:-10%;"></div> <div style="margin-bottom:5px;">8 players - 20/11/26</div> <div class=S10 style="width:250px;overflow:hidden;padding-bottom:5px;"></div> </div> <div class=chosen_tr style="padding:3px 0px 3px 0px;" align=left> <div style="display:flex;align-items:center;"> <div style="width:42px;" align=center class=S14>1</div> <div style="width:80px;height:40px;background:black;"><a href=?e=94108&d=914482&f=EDH><img src=/metas_thumbs/1983.jpg></a></div> <div style="flex:1;"> <div class=S14 style="width:100%;padding-left:4px;margin-bottom:4px;"><a href=?e=94108&d=914482&f=EDH>Yoshi+ludevic</a> </div> <div style="margin-right:10px;" align=right class=G11><a class=player href=search?player=Zheng+Chang>Zheng Chang</a></div> </div> </div> </div></div><div class=c_bl></div><div class=c_br></div></div></div> <div style="width:75%;padding:5px;"> <div style="display:flex;justify-content:space-evenly;"> <div class=Nav_buy onclick="window.open('shop?d=914482&s=ck')"> <div class=Shop_title>Card Kingdom</div> <div class="S14 Nav_buy_
+
+export 200 1 Ajani, Nacatl Pariah
+1 Anim Pakal, Thousandth Moon
+1 Ara�a, Heart of the Spider
+1 Arbaaz Mir
+1 Arena of Glory
+1 Arid Mesa
+1 Battlefield Forge
+1 Bloodstained Mire
+1 Broadside Bombardiers
+1 Chain Lightning
+1 Cloud, Midgar Mercenary
+1 Command Tower
+1 Deanna Troi, Psychic Counsel
+1 Eiganjo Castle
+1 Eiganjo, Seat of the Empire
+1 Elegant Parlor
+1 Embercleave
+1 Feldon, Ronom Excavator
+1 Flagstones of Trokair
+1 Flame Slash
+1 Flooded Strand
+1 Flowering of the White Tree
+1 Forth Eorlingas!
+1 Fury
+1 Galvanic Discharge
+1 Gemstone Caverns
+1 Ghostfire Slice
+1 Giver of Runes
+1 Guide of Souls
+1 Hammerheim
+1 Hawkeye, Master Marksman
+1 Headliner Scarlett
+1 Hexing Squelcher
+1 Inspiring Vantage
+1 Inti, Seneschal of the Sun
+1 Kari Zev, Skyship Raider
+1 Laelia, the Blade Re
+
+dec 200 // Deck file created with mtgtop8.com
+1 [] Ajani, Nacatl Pariah
+1 [] Anim Pakal, Thousandth Moon
+1 [] Ara�a, Heart of the Spider
+1 [] Arbaaz Mir
+1 [] Arena of Glory
+1 [ZEN] Arid Mesa
+1 [AP] Battlefield Forge
+1 [ON] Bloodstained Mire
+1 [] Broadside Bombardiers
+1 [LG] Chain Lightning
+1 [] Cloud, Midgar Mercenary
+1 [] Command Tower
+1 [] Deanna Troi, Psychic Counsel
+1 [CHK] Eiganjo Castle
+1 [] Eiganjo, Seat of the Empire
+1 [] Elegant Parlor
+1 [] Embercleave
+1 [] Feldon, Ronom Excavator
+1 [TSP] Flagstones of Trokair
+1 [ROE] Flame Slash
+1 [ON] Flooded Strand
+1 [] Flowering of the White Tree
+1 [] Forth Eorlingas!
+1 [] Fury
+1 [] Galvanic Discharge
+1 [TSP] Gemstone Caverns
+1 [] Ghostfire Slice
+1 [] Giver of Runes
+1 [] Guide of Souls
+1 [LG] Hammerheim
+1 [] Hawkeye, Mas
+
+format meta menu_item_14 href=/format?f=EDH>DUEL COMMANDER</a></div><div style="position:relative;width:160px;"><a class=menu_item href=/format?f=PREM>PREMODERN</a></div><div style="position:relative;width:160px;"><a class=menu_item href=format_limited>LIMITED</a><img style="display:inline-block;height:18px;vertical-align:-12%;" src=/graph/symbols/fdn-c.png></div><div id=other_div onclick="AffOther('');" style="cursor:pointer;width:160px;"><a class=menu_item>OTHER</a></div><div style="position:relative;width:160px;"><a class=menu_item href=submit>SUBMIT</a></div> </div> <div style="position:absolute;top:8px;right:180px;display:block;"><img src=/graph/star.png></div><div style="position:absolute;top:37px;right:180px;display:block;"><img src=/graph/star.png></div> </div> <table border=0 width=100%> <tr> <td valign=top width=40%> <div class=w_title align=center>cEDH METAGAME BREAKDOWN<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div> <div align=center> <div style="position:relative;width:90%;margin:5px;"> <div style="background:#00528b;width:100%;padding:2px;"><div style="background:white;width:100%;" align=left onclick="ToggleMetaList();"><div style="padding:3px;" class=S14>Last 2 Weeks</div></div></div> <div id=metas_list style="width:100%;max-height:0px;overflow:scroll;position:absolute;left:2px;transition:max-height 0.2s;"> <div style="width:98%;border-width:0px 1px 1px 1px;border-color:#00528b;border-style:solid;" align=left><a href="?f=cEDH&meta=327&a="><div style="padding:3px;background:#ffdd33;" class="S14">Last 2 Weeks</div></a><a href="?f=cEDH&meta=300&a="><div style="padding:3px;" class="S14 hover_tr">Last 6 Months</div></a><a href="?f=cEDH&meta=263&a="><div style="padding:3px;" class="S14 hover_tr">Last 2 Months</div></a><a href="?f=cEDH&meta=262&a="><div style="padding:3px;" class="S14 hover_tr">Last 12 Months</div></a><a href="?f=cEDH&meta=344&a="><div style="padding:3px;" class="S14 hover_tr">All 2026 Decks</div></a><a href="?f=cEDH&meta=240&a="><div style="padding:3px;" class="S14 hover_tr">All decks</div></a></div> </div> <div style="position:absolute;z-index:11;top:5px;right:10px;" onclick="ToggleMetaList();"><img id=expand_img src=/graph/expand.png style="height:15px;"></div> </div></div> <div style="margin:3px;display:flex;"> <div style="padding:1px 4px 1px 4px;text-align:center;" class=S14>Search by</div> <div id=switchmenu[color] class="Nav_cur S14" onclick="SwitchSearch('color');">Color Id</div> <div id=switchmenu[commander] class="Nav_norm S14" onclick="SwitchSearch('commander');">Commander(s)</div> </div> <div id=commander_search style="display:none;height:70px;"> <div style="display:flex;justify-content:space-evenly;align-items:center;padding-top:40px;"> <div> <div id=comdel_1 style="display:inline-block;visibility:hidden;vertical-align:-20%;" onclick="DelCom('1');"><img style="cursor:pointer;" src=/graph/delete.png></div> <input id=card_search_input_1 type=text style="width:200px;font-size:14px;" onkeyup="MKeyUp('1')" placeholder="Commander, Background ..."> </div> <div> <div id=comdel_2 style="display:inline-block;visibility:hidden;vertical-align:-20%;" onclick="DelCom('2');"><img style="cursor:pointer;" src=/graph/delete.png></div> <input id=card_search_input_2 type=text style="width:200px;font-size:14px;" onkeyup="MKeyUp('2')" placeholder="Commander, Background ..."> </div> </div> </div> <div id=color_id_search style="display:block;height:70px;"> <div style="display:flex;justify-content:center;"> <div id=cid_W style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('W');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/W.png></div> <div id=cid_U style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('U');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/U.png></div> <div id=cid_B style="

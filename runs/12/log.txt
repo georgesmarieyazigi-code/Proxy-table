@@ -1,0 +1,20 @@
+unique names 5888
+not found on Scryfall by exact name: 18
+   "Dead/Gone" — in Magda, Brazen Outlaw
+   "Invert/Invent" — in Vivi Ornitier
+   "Bound/Determined" — in Scion of the Ur-Dragon
+   "Life/Death" — in Terra, Magical Adept
+   "Double Jump/Flying Kick" — in Leonardo, the Balance + Michelangelo, the Heart
+   "Leave/Chance" — in Sami, Wildcat Captain
+   "Insult/Injury" — in Ashling, Flame Dancer
+   "Fire/Ice" — in Spider-Man 2099
+   "Claim/Fame" — in Ellie, Brick Master + Ellie, Vengeful Hunter
+   "Spiked Corridor/Torture Pit" — in Ellie, Brick Master + Ellie, Vengeful Hunter
+   "Walk-In Closet/Forgotten Cellar" — in Azusa, Lost but Seeking
+   "Revival/Revenge" — in Sorin of House Markov
+   "Find // Finality" — in The Wise Mothman
+   "Walk-In Closet // Forgotten Cellar" — in Hearthhull, the Worldseed
+   "Dazzling Theater // Prop Room" — in Baylen, the Haymaker
+   "Spiked Corridor // Torture Pit" — in Valgavoth, Harrower of Souls
+   "Dusk // Dawn" — in Frodo, Adventurous Hobbit // Sam, Loyal Attendant
+   "Wear // Tear" — in Caesar, Legion's Emperor

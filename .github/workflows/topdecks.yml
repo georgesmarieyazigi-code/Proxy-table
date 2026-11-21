@@ -1,0 +1,34 @@
+# Every Monday: rebuild topdecks.json (top commanders + real decklists) and publish it next to the game on the site.
+name: topdecks
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: topdecks
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - name: Build the list
+        run: MAXPAGES=40 LIMIT=100 PER=3 node tools/topdecks.mjs
+      - name: Check it
+        run: |
+          node -e "const d=require('./out/topdecks.json'); const n=[d.cedh,d.duel,d.edhrec].map(g=>g.commanders.length); console.log(n); if (n[0]<20||n[1]<20||n[2]<50) { console.log('too few commanders, not publishing'); process.exit(1); }"
+      - name: Publish to the site
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p /tmp/p && cd /tmp/p && git init -q
+          git config user.name "topdecks bot" && git config user.email "actions@users.noreply.github.com"
+          git remote add origin "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git fetch -q --depth 1 origin gh-pages && git checkout -q -b gh-pages FETCH_HEAD
+          cp "$GITHUB_WORKSPACE/out/topdecks.json" topdecks.json
+          git add topdecks.json && (git diff --cached --quiet || (git commit -q -m "Weekly top decks update" && git push -q origin gh-pages))

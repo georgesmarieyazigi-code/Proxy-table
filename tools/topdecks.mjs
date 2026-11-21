@@ -28,43 +28,50 @@ function parseList(t){
 async function mtgtop8(F){
   const res = {format:F, commanders:[]};
   const page = await get(`https://www.mtgtop8.com/format?f=${F}`); if (!page){ console.log('no format page', F); return res; }
-  const p = strip(page);
-  // find the "Last 6 Months" metagame link
-  let meta = null; for (const m of p.matchAll(/href=["']?\??[^"' >]*meta=(\d+)[^"' >]*["']?[^>]*>\s*(?:<[^>]+>\s*)*([^<]+)/g)){ if (/last 6 months/i.test(m[2])){ meta = m[1]; break; } }
+  let meta = null; for (const m of strip(page).matchAll(/href=["']?\??[^"' >]*meta=(\d+)[^"' >]*["']?[^>]*>\s*(?:<[^>]+>\s*)*([^<]+)/g)){ if (/last 6 months/i.test(m[2])){ meta = m[1]; break; } }
   console.log(F, 'meta id for last 6 months:', meta);
-  const mp = meta ? strip(await get(`https://www.mtgtop8.com/format?f=${F}&meta=${meta}`) || '') : p;
-  fs.mkdirSync('out', {recursive:true}); fs.writeFileSync(`out/meta-${F}.html`, mp);
-  // archetype rows: link to archetype?a=… with the commander name, followed by a percentage
-  const arch = []; const seen = new Set();
-  for (const m of mp.matchAll(/href=["']?(archetype\?a=(\d+)[^"' >]*)["']?[^>]*>([\s\S]{0,300}?)<\/a>/g)){
-    const name = txt(m[3]); if (!name || seen.has(m[2]) || /^other/i.test(name)) continue; seen.add(m[2]);
-    const after = txt(mp.slice(m.index + m[0].length, m.index + m[0].length + 300)); const pct = (after.match(/(\d+(?:\.\d+)?)\s*%/) || [])[1];
-    arch.push({id:m[2], href:m[1].replace(/&amp;/g, '&'), name, pct:pct ? +pct : null});
+  // 1) every event of the last 6 months (the event list is paged: cp=1, 2, …)
+  const events = [];
+  for (let cp = 1; cp <= +(process.env.MAXPAGES || 40); cp++){
+    const t = await get(`https://www.mtgtop8.com/format?f=${F}${meta ? '&meta=' + meta : ''}&cp=${cp}`); if (!t) break;
+    const ids = [...new Set([...strip(t).matchAll(/event\?e=(\d+)&(?:amp;)?f=/g)].map(m => m[1]))].filter(id => !events.includes(id));
+    if (!ids.length) break; events.push(...ids);
   }
-  console.log(F, 'archetypes found:', arch.length, arch.slice(0, 8).map(a => `${a.name} ${a.pct}%`).join(' | '));
-
-  for (const a of arch.slice(0, LIMIT)){
-    const ap = await get('https://www.mtgtop8.com/' + a.href); if (!ap) continue; const s = strip(ap);
-    const decks = []; const ds = new Set();
-    for (const m of s.matchAll(/href=["']?([^"' >]*[?&]e=(\d+)&(?:amp;)?d=(\d+)[^"' >]*)["']?[^>]*>([^<]*)</g)){
-      if (ds.has(m[3])) continue; ds.add(m[3]);
-      // the table row around the link holds deck name, player, event, rank and date
-      const rs = s.lastIndexOf('<tr', m.index), re = s.indexOf('</tr>', m.index); const row = rs >= 0 && re > 0 ? s.slice(rs, re) : '';
-      const cells = [...row.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map(c => txt(c[1])).filter(Boolean);
-      decks.push({e:m[2], d:m[3], cells});
-      if (decks.length >= PER) break;
+  console.log(F, 'events:', events.length);
+  // 2) every deck in those events: deck name (= the commander or a short name for the pair), place, player, date
+  const decks = [];
+  for (const e of events){
+    const t = await get(`https://www.mtgtop8.com/event?e=${e}&f=${F}`); if (!t) continue; const s = strip(t);
+    const title = txt((s.match(/<div[^>]*class=["']?event_title["']?[^>]*>([\s\S]*?)<\/div>/) || [])[1] || '');
+    const meta2 = txt(s.slice(s.indexOf('players'), s.indexOf('players') + 1) ? (s.match(/(\d+) players - (\d\d\/\d\d\/\d\d)/) || [''])[0] : '');
+    const pm = s.match(/(\d+) players - (\d\d)\/(\d\d)\/(\d\d)/); const date = pm ? `20${pm[4]}-${pm[3]}-${pm[2]}` : ''; const players = pm ? +pm[1] : null;
+    const seen = new Set();
+    for (const m of s.matchAll(/href=["']?\?e=\d+&(?:amp;)?d=(\d+)&(?:amp;)?f=[^"' >]*["']?[^>]*>([^<]+)<\/a>/g)){
+      const name = txt(m[2]); if (!name || name === '→' || seen.has(m[1])) continue; seen.add(m[1]);
+      const before = txt(s.slice(Math.max(0, m.index - 400), m.index)); const place = (before.match(/(\d+(?:-\d+)?)\s*$/) || [])[1] || '';
+      const after = s.slice(m.index, m.index + 600); const player = txt((after.match(/player=[^>]*>([^<]+)</) || [])[1] || '');
+      decks.push({name, d:m[1], e, place, player, date, players, event:title});
     }
-    if (!decks.length){ console.log('  no decks on', a.name); continue; }
+  }
+  console.log(F, 'decks:', decks.length, decks.slice(0, 3));
+  // 3) rank deck names by how many top-8 decks they have; fetch the newest lists for the top ones
+  const by = new Map(); for (const d of decks){ const k = d.name.toLowerCase(); if (!by.has(k)) by.set(k, []); by.get(k).push(d); }
+  const ranked = [...by.values()].sort((a, b) => b.length - a.length).slice(0, LIMIT);
+  for (const list of ranked){
+    list.sort((a, b) => (b.date || '').localeCompare(a.date || '') || (parseInt(a.place) || 9) - (parseInt(b.place) || 9));
     const out = [];
-    for (const d of decks){
+    for (const d of list){
+      if (out.length >= PER) break;
       const t = await get(`https://www.mtgtop8.com/mtgo?d=${d.d}`, {latin:true}); if (!t) continue;
       const L = parseList(t); const n = L.main.reduce((x, y) => x + y[0], 0) + L.side.reduce((x, y) => x + y[0], 0);
-      if (n < 90){ console.log('  short list', a.name, d.d, n); continue; }
-      out.push({id:d.d, url:`https://www.mtgtop8.com/event?e=${d.e}&d=${d.d}&f=${F}`, info:d.cells.slice(0, 6), cmd:L.side.map(x => x[1]), main:L.main});
+      if (n < 90 || !L.side.length){ console.log('  skipped', d.name, d.d, n, 'cards', L.side.length, 'in sideboard'); continue; }
+      out.push({id:d.d, url:`https://www.mtgtop8.com/event?e=${d.e}&d=${d.d}&f=${F}`, place:d.place, player:d.player, date:d.date, players:d.players, event:d.event, cmd:L.side.map(x => x[1]), main:L.main});
     }
-    if (out.length) res.commanders.push({name:a.name, pct:a.pct, decks:out});
-    console.log(`  ${F} ${a.name}: ${out.length} decks; commander(s) ${out[0] ? out[0].cmd.join(' + ') : '-'}; info ${out[0] ? JSON.stringify(out[0].info) : ''}`);
+    if (!out.length) continue;
+    res.commanders.push({name:out[0].cmd.join(' + '), alias:list[0].name, count:list.length, decks:out});
+    console.log(`  ${F} #${res.commanders.length} ${out[0].cmd.join(' + ')} (${list[0].name}): ${list.length} top-8 decks, kept ${out.length}`);
   }
+  res.events = events.length; res.decks = decks.length;
   return res;
 }
 async function edhrec(){

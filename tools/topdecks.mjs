@@ -33,6 +33,7 @@ async function mtgtop8(F){
   let meta = null; for (const m of p.matchAll(/href=["']?\??[^"' >]*meta=(\d+)[^"' >]*["']?[^>]*>\s*(?:<[^>]+>\s*)*([^<]+)/g)){ if (/last 6 months/i.test(m[2])){ meta = m[1]; break; } }
   console.log(F, 'meta id for last 6 months:', meta);
   const mp = meta ? strip(await get(`https://www.mtgtop8.com/format?f=${F}&meta=${meta}`) || '') : p;
+  fs.mkdirSync('out', {recursive:true}); fs.writeFileSync(`out/meta-${F}.html`, mp);
   // archetype rows: link to archetype?a=… with the commander name, followed by a percentage
   const arch = []; const seen = new Set();
   for (const m of mp.matchAll(/href=["']?(archetype\?a=(\d+)[^"' >]*)["']?[^>]*>([\s\S]{0,300}?)<\/a>/g)){
@@ -41,7 +42,7 @@ async function mtgtop8(F){
     arch.push({id:m[2], href:m[1].replace(/&amp;/g, '&'), name, pct:pct ? +pct : null});
   }
   console.log(F, 'archetypes found:', arch.length, arch.slice(0, 8).map(a => `${a.name} ${a.pct}%`).join(' | '));
-  if (!arch.length) console.log(mp.slice(0, 3000));
+
   for (const a of arch.slice(0, LIMIT)){
     const ap = await get('https://www.mtgtop8.com/' + a.href); if (!ap) continue; const s = strip(ap);
     const decks = []; const ds = new Set();

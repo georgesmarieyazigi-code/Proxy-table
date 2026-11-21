@@ -1,0 +1,81 @@
+cEDH meta id for last 6 months: 300
+cEDH events: 45
+cEDH decks: 455 [
+  {
+    name: '&rarr;',
+    d: '911266',
+    e: '93644',
+    place: '',
+    player: '',
+    date: '2026-11-08',
+    players: 86,
+    event: 'Riftgate Redemption - Salt City Gaming Events @ Riftgate (Provo, UT)'
+  },
+  {
+    name: 'Kraum + Tymna',
+    d: '911265',
+    e: '93644',
+    place: '',
+    player: 'Janos Nado // Criticaledh',
+    date: '2026-11-08',
+    players: 86,
+    event: 'Riftgate Redemption - Salt City Gaming Events @ Riftgate (Provo, UT)'
+  },
+  {
+    name: 'Urza, Lord High Artificer',
+    d: '911268',
+    e: '93644',
+    place: '',
+    player: 'Milo Lawson',
+    date: '2026-11-08',
+    players: 86,
+    event: 'Riftgate Redemption - Salt City Gaming Events @ Riftgate (Provo, UT)'
+  }
+]
+  cEDH #1 Kraum, Ludevic's Opus + Tymna the Weaver (Kraum + Tymna): 46 top-8 decks, kept 2
+  cEDH #2 Tivit, Seller of Secrets (&rarr;): 43 top-8 decks, kept 2
+  cEDH #3 Kinnan, Bonder Prodigy (Kinnan, Bonder Prodigy): 39 top-8 decks, kept 2
+  cEDH #4 Thrasios, Triton Hero + Tymna the Weaver (Thrasios + Tymna): 17 top-8 decks, kept 2
+  cEDH #5 Rograkh, Son of Rohgahh + Silas Renn, Seeker Adept (Rograkh + Silas Renn): 17 top-8 decks, kept 2
+EDH meta id for last 6 months: 209
+EDH events: 56
+EDH decks: 399 [
+  {
+    name: '&rarr;',
+    d: '910618',
+    e: '93554',
+    place: '',
+    player: '',
+    date: '2026-11-07',
+    players: 60,
+    event: '32nd &#268;ern� Ryt�&#345; @ &#268;ern� ryt�&#345; (Prague, Czech Republic)'
+  },
+  {
+    name: 'Ertai Resurrected',
+    d: '910617',
+    e: '93554',
+    place: '',
+    player: 'Matou� Pavlovsk�-fiala',
+    date: '2026-11-07',
+    players: 60,
+    event: '32nd &#268;ern� Ryt�&#345; @ &#268;ern� ryt�&#345; (Prague, Czech Republic)'
+  },
+  {
+    name: 'Muxus, Goblin Grandee',
+    d: '910620',
+    e: '93554',
+    place: '',
+    player: 'Vojta Kotek',
+    date: '2026-11-07',
+    players: 60,
+    event: '32nd &#268;ern� Ryt�&#345; @ &#268;ern� ryt�&#345; (Prague, Czech Republic)'
+  }
+]
+  EDH #1 Deadpool, Trading Card (&rarr;): 41 top-8 decks, kept 2
+  EDH #2 Phelia, Exuberant Shepherd (Phelia, Exuberant Shepherd): 16 top-8 decks, kept 2
+  EDH #3 Aragorn, King of Gondor (Aragorn, King Of Gondor): 15 top-8 decks, kept 2
+  EDH #4 Deadpool, Trading Card (Deadpool, Trading Card): 14 top-8 decks, kept 2
+  EDH #5 Slimefoot and Squee (Slimefoot and Squee): 13 top-8 decks, kept 2
+EDHREC top 5
+EDHREC average decks: 5
+done in 0.9 min; cEDH 5 duel 5 edhrec 5 size 59079

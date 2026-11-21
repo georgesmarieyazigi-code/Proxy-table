@@ -19,7 +19,7 @@
   EV_TYPES.push('manatap', 'ctrp', 'level');
   const pt = pushTrigger;
   pushTrigger = function(src, t, ev, evPid){
-    if (t && ev){ if (t.ev === 'level' && ev.type === 'level' && ev.x !== t.lvl) return; if (t.toOpp && (!ev.dp || ev.dp === evPid)) return; if (t.ev === 'manatap' && t.desc && ev.k && !descOk(ev.k, t.desc)) return; }
+    if (t && ev){ if (t.ev === 'level' && ev.type === 'level' && ev.x !== t.lvl) return; if (t.toOpp && (!ev.dp || ev.dp === evPid)) return; if (t.ev === 'manatap' && t.desc && ev.k && !descOk(ev.k, t.desc)) return; if (t.ev === 'manatap' && /^nonland/.test(t.desc || '') && ev.id != null){ const cc = S.bf.find(b => b.id === ev.id); if (cc && isLandC(cc)) return; } }
     return pt(src, t, ev, evPid);
   };
   const sm = subjMatch;

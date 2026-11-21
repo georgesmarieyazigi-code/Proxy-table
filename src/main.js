@@ -363,7 +363,7 @@ function createToken(k, n=1, near, o={}){
   n = clamp(Math.round(n)||1, 1, 99);
   const inf = info(k); if (!inf) return;
   // a stack shares one summoning-sickness flag, so new (sick) tokens only join a stack that is itself still sick (CR 302.6)
-  let st = o.tapped ? null : S.bf.find(c => c.tok && c.k === k && !c.fd && !c.cp && !c.cm && !c.co && !c.tap && !c.tn && c.sk && !tokTargeted(c.id));   // a targeted token must stay one token (else the effect hits the whole pile)
+  let st = o.tapped ? null : S.bf.find(c => c.tok && c.k === k && !c.fd && !c.cp && !c.cm && !c.co && !c.tap && !c.tn && c.sk && !tokTargeted(c.id) && !c.exert && !c.r21exert && !c.atk && c.blk == null && !(c.ekw && c.ekw.length) && !(c.pu && c.pu.length) && !(c.nc && Object.keys(c.nc).length));   // …and only with tokens that haven't done anything yet: an exerted / attacking / pumped token is its own token (Helm of the Host copies of Combat Celebrant)   // a targeted token must stay one token (else the effect hits the whole pile)
   if (st){ st.n = (st.n||1) + n; }
   else {
     st = {id:S.nid++, k, tok:true, n, sk:true};

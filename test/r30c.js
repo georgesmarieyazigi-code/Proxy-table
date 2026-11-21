@@ -45,5 +45,5 @@ const putBf = (p, nm, extra) => p.evaluate(([nm, extra]) => { const k = [...DICT
       for (let i = 0; i < 60; i++){ if (await G.evaluate(() => phaseNow().mine && phaseNow().ph === 3 )) break; await G.evaluate(() => { if (!stackAll().length && !UI.modal) nextAction(); }); await passAll([G, K]); await K.evaluate(() => { if (!stackAll().length && !UI.modal && phaseNow().mine) nextAction(); }); }
     }
   } catch (e){ console.log('ERROR', e); }
-  console.log(H.summary ? H.summary() : ''); await browser.close(); server.close(); process.exit(0);
+  console.log(`${H.results.filter(r => /^PASS/.test(r)).length} passed, ${H.fails()} failed`); await browser.close(); server.close(); process.exit(0);
 })();

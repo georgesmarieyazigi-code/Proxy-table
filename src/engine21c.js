@@ -212,9 +212,9 @@ function r21mult(c){
     const types = [...new Set(got)];
     for (const b of S.bf){
       if (b.fd) continue; const o = r21textOf(b); let m;
-      if (isLand(c.k) && b.col && /^whenever a land's ability causes you to add one or more mana of the chosen colou?r, add an additional one mana of that colou?r\.?$/im.test(o) && got.includes(b.col)) add([b.col], cname(b));
+      if (isLandC(c) && b.col && /^whenever a land's ability causes you to add one or more mana of the chosen colou?r, add an additional one mana of that colou?r\.?$/im.test(o) && got.includes(b.col)) add([b.col], cname(b));
       if (isLand(c.k) && b.col && /^whenever a basic land is tapped for mana of the chosen colou?r, its controller adds an additional one mana of that colou?r\.?$/im.test(o) && tapped && /\bBasic\b/.test(info(c.k)?.t || '') && got.includes(b.col)) add([b.col], cname(b));
-      if (!isLand(c.k) && tapped && types.length && /^whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced\.?$/im.test(o)){
+      if (!isLandC(c) && tapped && types.length && /^whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced\.?$/im.test(o)){
         const v = types.length === 1 ? types[0] : await askChoice({title:`${cname(b)}: add one mana of which type?`, options:types.map(x => ({label:MNAME[x], html:manaHTML('{' + x + '}'), value:x}))});
         if (v) add([v], cname(b));
       }

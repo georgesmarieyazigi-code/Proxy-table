@@ -40,6 +40,8 @@ function initEngineState(st){
 
 /* ---------- Card text helpers ---------- */
 const faceOf = c => { const a = c && info(c.k); return a ? (c.fl && a.back ? a.back : a) : null; };
+// is this permanent a land right now? (the land side of a double-faced card played as a land counts; info(k).t is the front face)
+const isLandC = c => { const f = faceOf(c); const t = (f && f.t) || info(c && c.k)?.t || ''; return /\bLand\b/.test(t) && !/\bCreature\b/.test(t); };
 let typeOf = c => faceOf(c)?.t || '';
 const textOf = c => faceOf(c)?.o || '';
 let isCreatureCard = c => !!(c && c.fd && c.fdc) || /\bCreature\b/.test(typeOf(c));
@@ -347,7 +349,7 @@ async function activateMana(c, ab, ch){
   if (!(await payAbilityCost(c, ab.cost, {mana:true}))) { commit(); return false; }
   addMana(outs);
   let extra = '';
-  if (!isLand(c.k)) S.bf.forEach(b => {
+  if (!isLandC(c)) S.bf.forEach(b => {
     if (!b.fd && /whenever you tap a nonland permanent for mana, add one additional mana of any type that permanent produced/i.test(textOf(b))){ S.pool[outs[0]]++; extra += ` (+{${outs[0]}} from ${cname(b)})`; }
   });
   log(`tapped ${nm} for ${outs.map(x => '{' + x + '}').join('')}${extra}`);
@@ -773,6 +775,7 @@ function onEnter(c, from, o={}){
       const u = m[1].toLowerCase().trim(); let q;
       if ((q = u.match(/^you control (\w+) or (fewer|more) (other )?(.+)$/))){ const cnt = S.bf.filter(b => b !== c && !b.fd && descOk(b.k, q[4], {tok:b.tok})).length; const n = wn(q[1]) ?? 0; if (q[2] === 'fewer' ? cnt > n : cnt < n) c.tap = true; }
       else if ((q = u.match(/^you control an? (.+)$/))){ if (!S.bf.some(b => b !== c && !b.fd && descOk(b.k, q[1], {tok:b.tok}))) c.tap = true; }
+      else if (/^you have two or more opponents$/.test(u)){ if (opponents().length < 2) c.tap = true; }
       else if ((q = u.match(/^you pay (\d+) life$/))){ c.tap = true; const n = +q[1]; askYes(`${f.n}: pay ${n} life so it enters untapped?`, `Pay ${n} life`, 'Enter tapped').then(y => { if (y){ c.tap = false; S.life -= n; log(`paid ${n} life — ${f.n} enters untapped`); commit(); } }); }
       else { c.tap = true; log(`⚠ ${f.n} entered tapped — check “unless ${m[1]}” yourself`); }
     }

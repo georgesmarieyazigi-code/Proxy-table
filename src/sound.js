@@ -4,23 +4,24 @@
    Sounds follow the table log, so you hear your own actions and the other players' (attacks, damage, spells).
    Game ▾ → Sound / Music / Volume. Bots (they run in hidden frames) never make sound. */
 const SND_BASE = 'https://georgesmarieyazigi-code.github.io/Proxy-table/sounds/';
-const SND_FILES = {draw:'draw.mp3', play:'play.mp3', cast:'cast.mp3', resolve:'resolve.mp3', tap:'tap.mp3', attack:'attack.mp3', hit:'hit.mp3', gain:'gain.mp3', turn:'turn.mp3', shuffle:'shuffle.mp3', win:'win.mp3', lose:'lose.mp3'};
-const SND_MUSIC = 'music.mp3';
+// real table sounds: cards, coins, dice, knuckles on wood (no spell whooshes)
+const SND_FILES = {draw:'draw.mp3', play:'play.mp3', cast:'cast.mp3', tap:'tap.mp3', shuffle:'shuffle.mp3', counter:'counter.mp3', dice:'dice.mp3', gain:'gain.mp3', attack:'attack.mp3', turn:'turn.mp3', hit:'hit.mp3', token:'token.mp3', win:'win.mp3', lose:'lose.mp3'};
+const SND_MUSIC = ['music1.mp3', 'music2.mp3'];   // two calm tavern pieces, played one after the other
 const SND = {on:true, music:false, vol:0.6, pools:{}, bad:{}, last:{}, lastT:Date.now(), unlocked:false, ctx:null, mus:null, frame:false};
 try { SND.frame = window.self !== window.top; } catch { SND.frame = true; }
 try { const s = JSON.parse(localStorage.getItem('pt.snd') || '{}'); if (typeof s.on === 'boolean') SND.on = s.on; if (typeof s.music === 'boolean') SND.music = s.music; if (s.vol != null) SND.vol = +s.vol; } catch {}
 const sndSave = () => { try { localStorage.setItem('pt.snd', JSON.stringify({on:SND.on, music:SND.music, vol:SND.vol})); } catch {} };
 // per-sound loudness (the files differ) and the minimum gap between two plays of the same sound
-const SND_MIX = {draw:[0.55, 90], play:[0.7, 90], cast:[0.6, 200], resolve:[0.35, 250], tap:[0.35, 70], attack:[0.7, 600], hit:[0.75, 180], gain:[0.6, 300], turn:[0.6, 1500], shuffle:[0.6, 800], win:[0.9, 3000], lose:[0.9, 3000]};
+const SND_MIX = {draw:[0.6, 90], play:[0.65, 90], cast:[0.7, 150], tap:[0.4, 70], shuffle:[0.6, 800], counter:[0.55, 120], dice:[0.7, 600], gain:[0.55, 300], attack:[0.65, 500], turn:[0.7, 1500], hit:[0.6, 200], token:[0.55, 120], win:[0.8, 3000], lose:[0.7, 3000]};
 function sndPool(name){
   if (SND.pools[name]) return SND.pools[name];
   const p = []; for (let i = 0; i < 3; i++){ const a = new Audio(); a.preload = 'auto'; a.src = SND_BASE + SND_FILES[name]; a.addEventListener('error', () => { SND.bad[name] = 1; }); p.push(a); }
   return SND.pools[name] = p;
 }
 // fallback: a short synthesized blip per sound
-const SND_SYN = {draw:[[900, .05, 'triangle'], [1300, .04, 'triangle']], play:[[180, .09, 'sine']], cast:[[520, .08, 'sawtooth'], [780, .12, 'triangle']], resolve:[[1320, .12, 'sine']], tap:[[1800, .04, 'sine']],
-  attack:[[220, .12, 'sawtooth'], [330, .18, 'sawtooth']], hit:[[90, .16, 'square']], gain:[[660, .1, 'sine'], [990, .16, 'sine']], turn:[[880, .35, 'sine']], shuffle:[[400, .03, 'triangle'], [500, .03, 'triangle'], [450, .03, 'triangle']],
-  win:[[523, .15, 'triangle'], [659, .15, 'triangle'], [784, .3, 'triangle']], lose:[[392, .2, 'sine'], [311, .2, 'sine'], [233, .4, 'sine']]};
+const SND_SYN = {draw:[[900, .04, 'triangle']], play:[[180, .07, 'sine']], cast:[[160, .06, 'square']], tap:[[1400, .03, 'triangle']], shuffle:[[400, .03, 'triangle'], [500, .03, 'triangle'], [450, .03, 'triangle']],
+  counter:[[2600, .05, 'sine']], dice:[[300, .04, 'square'], [350, .04, 'square'], [280, .05, 'square']], gain:[[2200, .05, 'sine'], [2600, .06, 'sine']], attack:[[600, .06, 'triangle'], [500, .06, 'triangle']],
+  turn:[[140, .06, 'sine'], [140, .06, 'sine']], hit:[[1800, .05, 'sine'], [1500, .05, 'sine']], token:[[420, .05, 'sine']], win:[[523, .15, 'triangle'], [659, .15, 'triangle'], [784, .3, 'triangle']], lose:[[392, .2, 'sine'], [311, .3, 'sine']]};
 function sndSynth(name, vol){
   try { const C = SND.ctx || (SND.ctx = new (window.AudioContext || window.webkitAudioContext)()); let t = C.currentTime;
     for (const [f, d, type] of SND_SYN[name] || []){ const o = C.createOscillator(), g = C.createGain(); o.type = type; o.frequency.value = f; g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(0.25 * vol, t + 0.01); g.gain.exponentialRampToValueAtTime(0.0001, t + d); o.connect(g).connect(C.destination); o.start(t); o.stop(t + d + 0.02); t += d * 0.8; } } catch {}
@@ -38,7 +39,8 @@ function sndPlay(name){
 function sndMusic(){
   if (SND.frame) return;
   if (!SND.music){ if (SND.mus){ SND.mus.pause(); } return; }
-  if (!SND.mus){ SND.mus = new Audio(SND_BASE + SND_MUSIC); SND.mus.loop = true; SND.mus.preload = 'auto'; }
+  if (!SND.mus){ SND.mi = Math.floor(Math.random() * SND_MUSIC.length); SND.mus = new Audio(SND_BASE + SND_MUSIC[SND.mi]); SND.mus.preload = 'auto';
+    SND.mus.addEventListener('ended', () => { SND.mi = (SND.mi + 1) % SND_MUSIC.length; SND.mus.src = SND_BASE + SND_MUSIC[SND.mi]; if (SND.music) SND.mus.play().catch(() => {}); }); }
   SND.mus.volume = Math.max(0, Math.min(1, SND.vol * 0.35));
   if (SND.unlocked){ const pr = SND.mus.play(); if (pr && pr.catch) pr.catch(() => {}); }
 }
@@ -49,8 +51,11 @@ function sndFor(e){
   const s = String(e.s || ''); const me = e.pid === MYPID;
   if (e.c) return null;
   if (/^drew (?:a card|\d+ cards?)/.test(s)) return me ? 'draw' : null;
-  if (/^played .+/.test(s) || /^created \d+ .*tokens?/.test(s)) return 'play';
+  if (/^created \d+ .*tokens?/.test(s)) return 'token';
+  if (/^played .+/.test(s)) return 'play';
   if (/^(?:cast|flashed back|unearthed) /.test(s)) return 'cast';
+  if (/🎲|🪙|\b(?:rolled|rolls) |\bflipped a coin|\bflips a coin|\b(?:won|lost) the flip/i.test(s)) return 'dice';
+  if (/\bcounters? (?:on|to)\b|^put (?:a|an|\w+) .*counters?\b|\bgets? (?:a|an|\w+) [+\-−]?\d*\/?[+\-−]?\d* ?counters?/i.test(s)) return 'counter';
   if (/^(?:tapped .+ for \{|auto-tapped )/.test(s)) return me ? 'tap' : null;
   if (/^attacks /.test(s)) return 'attack';
   let m = s.match(/^life (-?\d+) → (-?\d+)/); if (m) return +m[2] < +m[1] ? (me ? 'hit' : null) : 'gain';
@@ -58,7 +63,6 @@ function sndFor(e){
   if (/\b(?:gains?|gained) \d+ life\b/.test(s)) return 'gain';
   if (/^untapped — turn/.test(s)) return me ? 'turn' : null;
   if (/\bshuffle/i.test(s)) return 'shuffle';
-  if (/(?: resolved| resolves)$/.test(s)) return 'resolve';
   return null;
 }
 setInterval(() => { try {
@@ -74,9 +78,9 @@ if (typeof u28over === 'function'){ const uo = u28over; u28over = function(win){
 // Game ▾ menu
 { const gx = gameMenuExtra; gameMenuExtra = function(){ return gx.apply(this, arguments) + mb('sndOn', `Sound effects: <b>${SND.on ? 'on' : 'off'}</b>`) + mb('sndMusic', `Music: <b>${SND.music ? 'on' : 'off'}</b>`) + mb('sndVol', `Volume: <b>${SND.vol >= 0.85 ? 'loud' : SND.vol >= 0.5 ? 'medium' : 'quiet'}</b>`); }; }
 Object.assign(ACT, {
-  sndOn(){ SND.on = !SND.on; sndSave(); closeMenu(); toast(`Sound effects ${SND.on ? 'on' : 'off'}`); if (SND.on){ SND.unlocked = true; sndPlay('resolve'); } },
+  sndOn(){ SND.on = !SND.on; sndSave(); closeMenu(); toast(`Sound effects ${SND.on ? 'on' : 'off'}`); if (SND.on){ SND.unlocked = true; SND.last.play = 0; sndPlay('play'); } },
   sndMusic(){ SND.music = !SND.music; sndSave(); closeMenu(); SND.unlocked = true; sndMusic(); toast(`Music ${SND.music ? 'on' : 'off'}`); },
-  sndVol(){ SND.vol = SND.vol >= 0.85 ? 0.3 : SND.vol >= 0.5 ? 0.9 : 0.6; sndSave(); closeMenu(); sndMusic(); SND.last.resolve = 0; sndPlay('resolve'); toast(`Volume: ${SND.vol >= 0.85 ? 'loud' : SND.vol >= 0.5 ? 'medium' : 'quiet'}`); },
+  sndVol(){ SND.vol = SND.vol >= 0.85 ? 0.3 : SND.vol >= 0.5 ? 0.9 : 0.6; sndSave(); closeMenu(); sndMusic(); SND.last.play = 0; sndPlay('play'); toast(`Volume: ${SND.vol >= 0.85 ? 'loud' : SND.vol >= 0.5 ? 'medium' : 'quiet'}`); },
 });
 // a speaker button in the top bar: one click mutes / unmutes everything
-{ const rt = renderTop; renderTop = function(){ const r = rt.apply(this, arguments); try { const bar = document.querySelector('#topbar'); if (bar && !bar.querySelector('#sndBtn')){ const b = document.createElement('button'); b.id = 'sndBtn'; b.type = 'button'; b.className = 'btn small ghost'; b.title = 'Sound on / off (Game ▾ for music and volume)'; b.onclick = () => { SND.on = !SND.on; if (!SND.on && SND.mus) SND.mus.pause(); else sndMusic(); sndSave(); b.textContent = SND.on ? '🔊' : '🔇'; if (SND.on){ SND.unlocked = true; SND.last.resolve = 0; sndPlay('resolve'); } }; b.textContent = SND.on ? '🔊' : '🔇'; const ask = bar.querySelector('[data-act="u28ask"], .u28askBtn'); (ask && ask.parentNode === bar) ? bar.insertBefore(b, ask) : bar.appendChild(b); } } catch {} return r; }; }
+{ const rt = renderTop; renderTop = function(){ const r = rt.apply(this, arguments); try { const bar = document.querySelector('#topbar'); if (bar && !bar.querySelector('#sndBtn')){ const b = document.createElement('button'); b.id = 'sndBtn'; b.type = 'button'; b.className = 'btn small ghost'; b.title = 'Sound on / off (Game ▾ for music and volume)'; b.onclick = () => { SND.on = !SND.on; if (!SND.on && SND.mus) SND.mus.pause(); else sndMusic(); sndSave(); b.textContent = SND.on ? '🔊' : '🔇'; if (SND.on){ SND.unlocked = true; SND.last.play = 0; sndPlay('play'); } }; b.textContent = SND.on ? '🔊' : '🔇'; const ask = bar.querySelector('[data-act="u28ask"], .u28askBtn'); (ask && ask.parentNode === bar) ? bar.insertBefore(b, ask) : bar.appendChild(b); } } catch {} return r; }; }

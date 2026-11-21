@@ -1,0 +1,62 @@
+cEDH links ["href=event?e=93644&f=cEDH","href=event?e=94126&f=cEDH","href=event?e=94121&f=cEDH","href=event?e=94120&f=cEDH","href=event?e=94119&f=cEDH","href=event?e=94094&f=cEDH","href=event?e=94093&f=cEDH","href=event?e=94016&f=cEDH","href=event?e=93957&f=cEDH","href=event?e=93956&f=cEDH","href=event?e=94099&f=cEDH","href=event?e=93952&f=cEDH","href=event?e=93951&f=cEDH","href=event?e=93944&f=cEDH","href=event?e=93943&f=cEDH","href=event?e=93942&f=cEDH","href=event?e=93941&f=cEDH","href=event?e=93940&f=cEDH","href=event?e=93939&f=cEDH","href=event?e=93938&f=cEDH","href=event?e=93937&f=cEDH"]
+
+cEDH snippet 
+	<!DOCTYPE HTML>
+	<html lang="en">
+	
+<head>
+<title>cEDH events and metagame @ mtgtop8.com</title>
+<link rel="icon" type="image/png" href="https://www.mtgtop8.com/graph/favicon.png">
+<link href="/styles.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="https://cache.consentframework.com/js/pa/39346/c/PMQm4/stub"></script>
+<script type="text/javascript" src="https://choices.consentframework.com/js/pa/39346/c/PMQm4/cmp" async></script>
+
+	<script async="async" src="//cdn-a.yieldlove.com/v2/yieldlove.js?mtgtop8.com"></script>
+	<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+	<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	googletag.cmd.push(function() {
+	googletag.pubads().disableInitialLoad();
+	googletag.enableServices();
+	});
+	</script>
+<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0Q2DH80JYF"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-0Q2DH80JYF');
+	</script>
+
+<script>
+
+var x
+var y
+
+function MAJCoords(evt){
+	x=evt.clientX
+	y=evt.clientY
+	return false;	
+}
+
+
+function AffOther(pref){
+	odel=document.getElementById("other_div");
+	var r = odel.getBoundingClientRect();
+
+	if (document.documentElement && document.documentElement.scrollTop) {theTop = document.documentElement.scrollTop;}
+	else if (document.body) {theTop
+
+EDH links ["href=event?e=94108&f=EDH","href=event?e=94113&f=EDH","href=event?e=94084&f=EDH","href=event?e=94101&f=EDH","href=event?e=94083&f=EDH","href=event?e=94041&f=EDH","href=event?e=94029&f=EDH","href=event?e=94015&f=EDH","href=event?e=94012&f=EDH","href=event?e=93998&f=EDH","href=event?e=94014&f=EDH","href=event?e=93907&f=EDH","href=event?e=93966&f=EDH","href=event?e=93912&f=EDH","href=event?e=93906&f=EDH","href=event?e=93854&f=EDH","href=event?e=93855&f=EDH","href=event?e=93821&f=EDH","href=event?e=93822&f=EDH","href=event?e=93820&f=EDH"]
+
+first archetype 
+
+edhtop16 page 200 157921 []
+
+edhrec avg keys ["creature","instant","sorcery","artifact","enchantment","battle","planeswalker","land","basic","nonbasic","similar","bracket_counts","budget_counts","tag_counts","savedate_counts","archidekt","deck","header","panels","description","container"] {"commander":["Edgar Markov"],"commander_v2":[["Edgar Markov",1]],"cards":{"Artifact":[["Arcane Signet",1],["Blade of the Bloodchief",1],["Herald's Horn",1],["Orzhov Signet",1],["Rakdos Signet",1],["Skullclamp",1],["Sol Ring",1],["Talisman of Hierarchy",1],["Vanquisher's Banner",1]],"Land":[["Blood Crypt",1],["Bloodstained Mire",1],["Bojuka Bog",1],["Cavern of Souls",1],["Caves of Koilos",1],["Command Tower",1],["Dragonskull Summit",1],["Exotic Orchard",1],["Godless Shrine",1],["Isolated Chapel"
+
+edhrec year keys ["related_info","bracket_counts","header","description","container"] [{"id":"c7f2c2d5-e052-49e8-b5de-712858c2ea78","name":"Y'shtola, Night's Blessed","sanitized":"yshtola-nights-blessed","slug":"yshtola-nights-blessed","url":"/commanders/yshtola-nights-blessed","image_version":"1783906373","num_decks":60130,"potential_decks":0,"rank":1,"trend_zscore":-0.6620364473134319},{"id":"a577ba08-0aa8-45be-aa83-d5078770127c","name":"Edgar Markov","sanitized":"edgar-markov","slug":"edgar-markov","url":"/commanders/edgar-markov","image_version":"1783908078","num_decks":52819,"potential_decks":0,"rank":2,"trend_zscore":-0.49302501563111567},{"id":"10d42b35-844f-4a64-9981-c6

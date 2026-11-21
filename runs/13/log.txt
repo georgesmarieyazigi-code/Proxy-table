@@ -1,0 +1,9 @@
+✓ cedh Kinnan, Bonder Prodigy: 100 cards, commander Kinnan, Bonder Prodigy, format cmd, "Kinnan, Bonder Prodigy — 1st, Aaron Smith (20 Nov 2026)" — Deck ready: 100 cards.
+✓ cedh Kraum, Ludevic's Opus + Tymna the Weaver: 100 cards, commander Kraum, Ludevic's Opus + Tymna the Weaver, format cmd, "Kraum, Ludevic's Opus + Tymna the Weaver — Top 4, Rob (20 Nov 2026)" — Deck ready: 100 cards.
+✓ duel Spider-Man 2099: 100 cards, commander Spider-Man 2099, format duel, "Spider-Man 2099 — 1st, Felipe Branco (26 Jul 2026)" — Deck ready: 100 cards.
+✓ duel Cloud, Midgar Mercenary: 100 cards, commander Cloud, Midgar Mercenary, format duel, "Cloud, Midgar Mercenary — Top 4, Daniel Pellitteri (15 Nov 2026)" — Deck ready: 100 cards.
+✓ edhrec Caesar, Legion's Emperor: 100 cards, commander Caesar, Legion's Emperor, format cmd, "Caesar, Legion's Emperor — EDHREC average deck" — Deck ready: 100 cards.
+✓ edhrec The Wise Mothman: 100 cards, commander The Wise Mothman, format cmd, "The Wise Mothman — EDHREC average deck" — Deck ready: 100 cards.
+✓ edhrec Y'shtola, Night's Blessed: 100 cards, commander Y'shtola, Night's Blessed, format cmd, "Y'shtola, Night's Blessed — EDHREC average deck" — Deck ready: 100 cards.
+✓ no page errors
+all decks loaded whole

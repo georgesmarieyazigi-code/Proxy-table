@@ -1,0 +1,7 @@
+cEDH meta id for last 6 months: 300
+cEDH archetypes found: 0 
+EDH meta id for last 6 months: 209
+EDH archetypes found: 0 
+EDHREC top 6
+EDHREC average decks: 6
+done in 0.1 min; cEDH 0 duel 0 edhrec 6 size 12639

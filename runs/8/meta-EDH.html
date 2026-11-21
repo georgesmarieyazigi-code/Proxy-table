@@ -1,0 +1,362 @@
+
+	<!DOCTYPE HTML>
+	<html lang="en">
+	
+<head>
+<title>Duel Commander events and metagame @ mtgtop8.com</title>
+<link rel="icon" type="image/png" href="https://www.mtgtop8.com/graph/favicon.png">
+<link href="/styles.css" rel="stylesheet" type="text/css">
+
+
+
+
+	
+	
+	
+<!-- Google tag (gtag.js) -->
+	
+	
+
+
+</head>
+	<body >
+	<div align=center class=page>
+	<div style="max-width:1280px;" valign=top>
+<div id=other_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=other_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=PEA>PEASANT</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=BL>BLOCK</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EX>EXTENDED</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HIGH>HIGHLANDER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=CHL>CANADIAN HIGHLANDER</a></div></div>
+	<div onclick="EffOther();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div id=mtga_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=mtga_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EXP>EXPLORER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HI>HISTORIC</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=ALCH>ALCHEMY</a></div></div>
+	<div onclick="EffMTGA();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div style="display:flex;justify-content:space-evenly;align-items:center;flex-wrap:wrap;">
+  <div>
+    <div><a href=/index><img style="width:250px;" src=/graph/title.png></a></div>
+    <div class=G16 style="margin-top:5px;">netdecking with the stars</div>
+    
+  </div> 	
+  <div>
+    <div style="width:728px;height:90px;overflow:hidden;">
+<!-- Yieldlove AdTag - mtgtop8.com_d_728x90_1 -->
+<div id='div-gpt-ad-1407836193899-0'>
+  
+</div></div></td>
+  </div>
+</div>
+
+<div style="position:relative;">
+<div style="margin:5px 0px 5px 0px;display:flex;justify-content:space-evenly;align-items:center;">
+<div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=ST>STANDARD</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PI>PIONEER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=MO>MODERN</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=LE>LEGACY</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=VI>VINTAGE</a></div><div id=mtga_div onclick="AffMTGA('');" style="cursor:pointer;width:160px;"><a class=menu_item>MTG <img src=/graph/online/mtga.png>rena</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=search>SEARCH</a></div>
+</div>
+<div style="margin:0px 0px 5px 0px;display:flex;justify-content:space-evenly;align-items:center;">
+<div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PAU>PAUPER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=cEDH>cEDH</a></div><div style="position:relative;width:160px;"><a class=menu_item_chosen_14 href=/format?f=EDH>DUEL COMMANDER<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PREM>PREMODERN</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=format_limited>LIMITED</a><img style="display:inline-block;height:18px;vertical-align:-12%;" src=/graph/symbols/fdn-c.png></div><div id=other_div onclick="AffOther('');" style="cursor:pointer;width:160px;"><a class=menu_item>OTHER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=submit>SUBMIT</a></div>
+</div>
+<div style="position:absolute;top:8px;right:180px;display:block;"><img src=/graph/star.png></div><div style="position:absolute;top:37px;right:180px;display:block;"><img src=/graph/star.png></div>
+</div>
+<table border=0 width=100%>
+  <tr>
+    <td valign=top width=40%>
+	<div class=w_title align=center>Duel Commander METAGAME BREAKDOWN<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+	<div align=center>
+		<div style="position:relative;width:90%;margin:5px;">
+			<div style="background:#00528b;width:100%;padding:2px;"><div style="background:white;width:100%;" align=left onclick="ToggleMetaList();"><div style="padding:3px;" class=S14>Last 6 Months</div></div></div>
+			<div id=metas_list style="width:100%;max-height:0px;overflow:scroll;position:absolute;left:2px;transition:max-height 0.2s;">
+			  <div style="width:98%;border-width:0px 1px 1px 1px;border-color:#00528b;border-style:solid;" align=left><a href="?f=EDH&meta=115&a="><div style="padding:3px;" class="S14 hover_tr">Last 2 Weeks</div></a><a href="?f=EDH&meta=121&a="><div style="padding:3px;" class="S14 hover_tr">Last 2 Months</div></a><a href="?f=EDH&meta=306&a="><div style="padding:3px;" class="S14 hover_tr">MTGO Last 2 Months</div></a><a href="?f=EDH&meta=308&a="><div style="padding:3px;" class="S14 hover_tr">Paper Last 2 Months</div></a><a href="?f=EDH&meta=328&a="><div style="padding:3px;" class="S14 hover_tr">Last 7 Days</div></a><a href="?f=EDH&meta=130&a="><div style="padding:3px;" class="S14 hover_tr">Last Major Events (3 Months)</div></a><a href="?f=EDH&meta=209&a="><div style="padding:3px;background:#ffdd33;" class="S14">Last 6 Months</div></a><a href="?f=EDH&meta=343&a="><div style="padding:3px;" class="S14 hover_tr">All 2026 Decks</div></a><a href="?f=EDH&meta=310&a="><div style="padding:3px;" class="S14 hover_tr">All 2025 Decks</div></a><a href="?f=EDH&meta=283&a="><div style="padding:3px;" class="S14 hover_tr">All 2024 Decks</div></a><a href="?f=EDH&meta=252&a="><div style="padding:3px;" class="S14 hover_tr">All 2023 Decks</div></a><a href="?f=EDH&meta=233&a="><div style="padding:3px;" class="S14 hover_tr">All 2022 Decks</div></a><a href="?f=EDH&meta=216&a="><div style="padding:3px;" class="S14 hover_tr">All 2021 Decks</div></a><a href="?f=EDH&meta=198&a="><div style="padding:3px;" class="S14 hover_tr">All 2020 Decks</div></a><a href="?f=EDH&meta=181&a="><div style="padding:3px;" class="S14 hover_tr">All 2019 Decks</div></a><a href="?f=EDH&meta=166&a="><div style="padding:3px;" class="S14 hover_tr">All 2018 Decks</div></a><a href="?f=EDH&meta=146&a="><div style="padding:3px;" class="S14 hover_tr">All 2017 Decks</div></a><a href="?f=EDH&meta=122&a="><div style="padding:3px;" class="S14 hover_tr">All 2016 Decks</div></a><a href="?f=EDH&meta=99&a="><div style="padding:3px;" class="S14 hover_tr">All 2015 Decks</div></a><a href="?f=EDH&meta=129&a="><div style="padding:3px;" class="S14 hover_tr">All 2014 Decks</div></a><a href="?f=EDH&meta=298&a="><div style="padding:3px;" class="S14 hover_tr">Post MH3</div></a><a href="?f=EDH&meta=196&a="><div style="padding:3px;" class="S14 hover_tr">Major Events</div></a><a href="?f=EDH&meta=56&a="><div style="padding:3px;" class="S14 hover_tr">All Commander decks</div></a></div>
+			</div>
+			<div style="position:absolute;z-index:11;top:5px;right:10px;" onclick="ToggleMetaList();"><img id=expand_img src=/graph/expand.png style="height:15px;"></div>
+		</div></div>
+	
+	<div style="margin:3px;display:flex;">
+	  <div style="padding:1px 4px 1px 4px;text-align:center;" class=S14>Search by</div>
+	  <div id=switchmenu[color] class="Nav_cur S14" onclick="SwitchSearch('color');">Color Id</div>
+	  <div id=switchmenu[commander] class="Nav_norm S14" onclick="SwitchSearch('commander');">Commander(s)</div>
+	</div>
+	
+	<div id=commander_search style="display:none;height:70px;">
+	<div style="display:flex;justify-content:space-evenly;align-items:center;padding-top:40px;">
+	  <div>
+	    <div id=comdel_1 style="display:inline-block;visibility:hidden;vertical-align:-20%;" onclick="DelCom('1');"><img style="cursor:pointer;" src=/graph/delete.png></div>
+	    <input id=card_search_input_1 type=text style="width:200px;font-size:14px;" onkeyup="MKeyUp('1')" placeholder="Commander, Background ...">
+	  </div>
+	  <div>
+	    <div id=comdel_2 style="display:inline-block;visibility:hidden;vertical-align:-20%;" onclick="DelCom('2');"><img style="cursor:pointer;" src=/graph/delete.png></div>
+	    <input id=card_search_input_2 type=text style="width:200px;font-size:14px;" onkeyup="MKeyUp('2')" placeholder="Commander, Background ...">
+	  </div>
+	</div>
+	</div>
+	
+	<div id=color_id_search style="display:block;height:70px;">
+	<div style="display:flex;justify-content:center;">
+	<div id=cid_W style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('W');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/W.png></div>
+	<div id=cid_U style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('U');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/U.png></div>
+	<div id=cid_B style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('B');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/B.png></div>
+	<div id=cid_R style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('R');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/R.png></div>
+	<div id=cid_G style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('G');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/G.png></div>
+	<div id=cid_I style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('I');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/I.png></div>
+	</div>
+	</div>
+	
+	<div id=show_menu style="margin:3px;display:flex;justify-content:space-evenly;">
+	<div id=show_pop class="Nav_cur S14" onclick="ChangeShow('pop');">Sort by popularity</div>
+	<div id=show_alpha class="Nav_norm S14" onclick="ChangeShow('alpha');">Sort alphabetically</div>
+	<div id=show_decks class="Nav_norm S14" onclick="ChangeShow('decks');">Last decks</div>
+
+	</div>
+	<div id=cEDH_decks style="min-height:100px;"></div>
+	<div id=card_search_results style="visibility:hidden;z-index:10;width:240px;position:absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius:5px;border:1px grey solid;"></div></td>
+    <td valign=top width=60%>
+     
+		<div class=w_title align=center>LAST MAJOR EVENTS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+		<table border=0 class=Stable width=98% align=center>
+		  
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93554&f=EDH>32nd &#268;ern� Ryt�&#345;</a> @ <a class=und href=event?e=93554&f=EDH>&#268;ern� ryt�&#345; (Prague, Czech Republic)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>07/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93123&f=EDH>Relic Fest - Rebound</a> @ <a class=und href=event?e=93123&f=EDH>Diagora Convention Center (Lab�ge, France)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>01/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93122&f=EDH>Relic Fest - Main Event</a> @ <a class=und href=event?e=93122&f=EDH>Diagora Convention Center (Lab�ge, France)</a></td>
+		  <td width=13% align=center><img src=/graph/bigstar.png height=20></td>
+		  <td align=right width=12% class=S12>31/10/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=92772&f=EDH>LTC#13 Duel Commander Saturday</a> @ <a class=und href=event?e=92772&f=EDH>Salle Polyvalente (Ohlungen, France)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/10/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=91395&f=EDH>Czech DC Masters 2026</a> @ <a class=und href=event?e=91395&f=EDH>Prague (Czech Republic)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>27/09/26</td>
+		</tr>
+		</table>
+      
+		<div class=w_title align=center>LAST 20 EVENTS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+		<table border=0 class=Stable width=98% align=center>
+		  
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94108&f=EDH>Wool Cup 211</a> @ <a class=und href=event?e=94108&f=EDH>Kadou (Beijing, China)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>20/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/mtgo.png height=14 title="MTG Online"></td>
+		  <td width=70% class=S14><a href=event?e=94113&f=EDH>MTGO League</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>20/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94084&f=EDH>Duel Commander League Day 4</a> @ <a class=und href=event?e=94084&f=EDH>Board And Hobbies (Hermosillo, Mexico)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>19/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94101&f=EDH>Duel Lang</a> @ <a class=und href=event?e=94101&f=EDH>Monarch Games and Hobbies (Marikina City, Philippines)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>18/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94083&f=EDH>MM DC Weekly</a> @ <a class=und href=event?e=94083&f=EDH>Miniature Metropolis (Stockholm, Sweden)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>18/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94041&f=EDH>Marte Duel</a> @ <a class=und href=event?e=94041&f=EDH>Magic Lair (Torino, Italy)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94029&f=EDH>DC Piacenza - Autumn Topdeck</a> @ <a class=und href=event?e=94029&f=EDH>Magicplanet MTG (Piacenza, Italy)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94015&f=EDH>Weekly League</a> @ <a class=und href=event?e=94015&f=EDH>Le Vizz (Rouen, France)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/other.png height=14 title="Online Other"></td>
+		  <td width=70% class=S14><a href=event?e=94012&f=EDH>Narbogoyf Weekly #8</a> @ <a class=und href=event?e=94012&f=EDH>endstep</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93998&f=EDH>Watermelon Champion Cup Nights</a> @ <a class=und href=event?e=93998&f=EDH>Slow Drake (Beijing, China)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94014&f=EDH>Mythique Hebdomadaire</a> @ <a class=und href=event?e=94014&f=EDH>La Boutique Mythique (Qu�bec, Qu�bec)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>16/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93907&f=EDH>Duel Lang ODE</a> @ <a class=und href=event?e=93907&f=EDH>Monarch Games and Hobbies (Marikina City, Philippines)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>16/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93966&f=EDH>Win A Dual</a> @ <a class=und href=event?e=93966&f=EDH>Mr. Magic (Savona, Italy)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93912&f=EDH>Win a biland</a> @ <a class=und href=event?e=93912&f=EDH>Wizards of the Vosges (Saint-Di�-des-Vosges, France)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93906&f=EDH>DC Italian Qualifier </a> @ <a class=und href=event?e=93906&f=EDH>GameLover (Crema, Italy)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93854&f=EDH>Sunday DC Showdown</a> @ <a class=und href=event?e=93854&f=EDH>Assembly Place (Antipolo, Philippines)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/other.png height=14 title="Online Other"></td>
+		  <td width=70% class=S14><a href=event?e=93855&f=EDH>DuelCommander Piacenza Open #1</a> @ <a class=und href=event?e=93855&f=EDH>endstep.cc</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93821&f=EDH>Asgaardian TCG FEST</a> @ <a class=und href=event?e=93821&f=EDH>Esplanade Ratchada (Bangkok, Thailand)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93822&f=EDH>03DC - Manafull DC Monthly - N</a> @ <a class=und href=event?e=93822&f=EDH>Maison de Quartier Chemin Vert (Caen, France)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93820&f=EDH>Watermelon Cup Win a TRK box!</a> @ <a class=und href=event?e=93820&f=EDH>Slow Drake (Beijing, China)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		</table>
+      <div style="display:flex;justify-content:center;margin:5px;"><div class=Nav_PN_no>Prev</div><div class=Nav_cur>1</div><div class=Nav_norm><a href=?f=EDH&meta=209&cp=2>2</a></div><div class=Nav_norm><a href=?f=EDH&meta=209&cp=3>3</a></div><div class=Nav_norm><a href=?f=EDH&meta=209&cp=4>4</a></div><div class=Nav_norm><a href=?f=EDH&meta=209&cp=2>Next</a></div></div>
+      
+		<div class=w_title align=center>MOST PLAYED CARDS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+		 <div class=G11 align=center>lands not included</div>
+		 <div align=center style="margin: 5px 0px 5px 0px;">
+		   <a target=_blank href=https://www.mtgpics.com/card?ref=eld333><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">72 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/eld/333.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=ons330><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">69 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/ons/330.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=zen223><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">69 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/zen/223.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=ons313><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">67 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/ons/313.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=mh1244><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">65 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/mh1/244.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=zen220><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">63 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/zen/220.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=zen211><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">63 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/zen/211.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=ons328><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">60 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/ons/328.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=zen219><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">60 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/zen/219.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=ons321><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">58 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/ons/321.jpg></td></tr>
+				</table>
+				</div></a>
+		   <div>
+			 <a href=topcards?f=EDH&meta=209>Would you like to know more ?</a> (now with awesome filtering options.)
+		  </div>
+		</div>
+      
+	<div class=w_title align=center>RELATED LINKS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+	<div style="margin-top:5px;display:flex;justify-content:space-around;"><div align=center><div><select name=archive_d2b onchange="window.open(this.value,'_top')"><option value="">Decks to beat archives</option><option value="event?e=19746&f=EDH">The Decks to Beat - July '18</option><option value="event?e=17902&f=EDH">The Decks to Beat - December '17</option><option value="event?e=14252&f=EDH">The Decks to Beat - December '16</option><option value="event?e=11069&f=EDH">The Decks to Beat - December '15</option><option value="event?e=9531&f=EDH">The Decks to Beat - April '15</option><option value="event?e=8937&f=EDH">The Decks to Beat - January '15</option><option value="event?e=6015&f=EDH">The Decks to Beat - November '13</option></select></div></div><div align=center><div><select name=archive_rogue onchange="window.open(this.value,'_top')"><option value="">Rogue corner archives</option><option value="event?e=14253&f=EDH">The Rogue Corner - December '16</option><option value="event?e=11068&f=EDH">The Rogue Corner - December '15</option><option value="event?e=9530&f=EDH">The Rogue Corner - April '15</option><option value="event?e=8936&f=EDH">The Rogue Corner - January '15</option></select></div></div></div>
+    </td>
+  </tr>
+</table>
+
+<div class=w_title style="margin-top:20px;">
+<div align=center>
+<a class=white href=/privacy>Privacy Policy</a>
+
+<div style="padding:5px;" valign=top class=W10 align=center>
+The information presented on this site about Magic: The Gathering, both literal and graphical, is copyrighted by Wizards of the Coast.
+This website is not produced, endorsed, supported, or affiliated with Wizards of the Coast..
+<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div>
+</div>
+</div>
+</div></div>
+	</div></body>
+	</html>

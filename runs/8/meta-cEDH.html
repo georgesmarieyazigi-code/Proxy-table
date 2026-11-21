@@ -1,0 +1,362 @@
+
+	<!DOCTYPE HTML>
+	<html lang="en">
+	
+<head>
+<title>cEDH events and metagame @ mtgtop8.com</title>
+<link rel="icon" type="image/png" href="https://www.mtgtop8.com/graph/favicon.png">
+<link href="/styles.css" rel="stylesheet" type="text/css">
+
+
+
+
+	
+	
+	
+<!-- Google tag (gtag.js) -->
+	
+	
+
+
+</head>
+	<body >
+	<div align=center class=page>
+	<div style="max-width:1280px;" valign=top>
+<div id=other_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=other_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=PEA>PEASANT</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=BL>BLOCK</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EX>EXTENDED</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HIGH>HIGHLANDER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=CHL>CANADIAN HIGHLANDER</a></div></div>
+	<div onclick="EffOther();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div id=mtga_tooltip style="visibility:hidden;width:200px;z-index:10;position: absolute;box-shadow: 0px 10px 10px #666666;padding:2px;background:white;border: 1px white solid;">
+
+	<div id=mtga_tooltip_content style="padding:3px;" align=center>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=EXP>EXPLORER</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=HI>HISTORIC</a></div></div>
+	<div style="padding-bottom:15px;"><div  style="position:relative;"><a class=menu_item href=/format?f=ALCH>ALCHEMY</a></div></div>
+	<div onclick="EffMTGA();" style="cursor:pointer;" class=S12>close</div>
+	</div>
+
+</div>
+<div style="display:flex;justify-content:space-evenly;align-items:center;flex-wrap:wrap;">
+  <div>
+    <div><a href=/index><img style="width:250px;" src=/graph/title.png></a></div>
+    <div class=G16 style="margin-top:5px;">netdecking with the stars</div>
+    
+  </div> 	
+  <div>
+    <div style="width:728px;height:90px;overflow:hidden;">
+<!-- Yieldlove AdTag - mtgtop8.com_d_728x90_1 -->
+<div id='div-gpt-ad-1407836193899-0'>
+  
+</div></div></td>
+  </div>
+</div>
+
+<div style="position:relative;">
+<div style="margin:5px 0px 5px 0px;display:flex;justify-content:space-evenly;align-items:center;">
+<div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=ST>STANDARD</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PI>PIONEER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=MO>MODERN</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=LE>LEGACY</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=VI>VINTAGE</a></div><div id=mtga_div onclick="AffMTGA('');" style="cursor:pointer;width:160px;"><a class=menu_item>MTG <img src=/graph/online/mtga.png>rena</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=search>SEARCH</a></div>
+</div>
+<div style="margin:0px 0px 5px 0px;display:flex;justify-content:space-evenly;align-items:center;">
+<div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PAU>PAUPER</a></div><div style="position:relative;width:160px;"><a class=menu_item_chosen href=/format?f=cEDH>cEDH<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></a></div><div  style="position:relative;width:160px;"><a class=menu_item_14 href=/format?f=EDH>DUEL COMMANDER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=/format?f=PREM>PREMODERN</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=format_limited>LIMITED</a><img style="display:inline-block;height:18px;vertical-align:-12%;" src=/graph/symbols/fdn-c.png></div><div id=other_div onclick="AffOther('');" style="cursor:pointer;width:160px;"><a class=menu_item>OTHER</a></div><div  style="position:relative;width:160px;"><a class=menu_item href=submit>SUBMIT</a></div>
+</div>
+<div style="position:absolute;top:8px;right:180px;display:block;"><img src=/graph/star.png></div><div style="position:absolute;top:37px;right:180px;display:block;"><img src=/graph/star.png></div>
+</div>
+<table border=0 width=100%>
+  <tr>
+    <td valign=top width=40%>
+	<div class=w_title align=center>cEDH METAGAME BREAKDOWN<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+	<div align=center>
+		<div style="position:relative;width:90%;margin:5px;">
+			<div style="background:#00528b;width:100%;padding:2px;"><div style="background:white;width:100%;" align=left onclick="ToggleMetaList();"><div style="padding:3px;" class=S14>Last 6 Months</div></div></div>
+			<div id=metas_list style="width:100%;max-height:0px;overflow:scroll;position:absolute;left:2px;transition:max-height 0.2s;">
+			  <div style="width:98%;border-width:0px 1px 1px 1px;border-color:#00528b;border-style:solid;" align=left><a href="?f=cEDH&meta=327&a="><div style="padding:3px;" class="S14 hover_tr">Last 2 Weeks</div></a><a href="?f=cEDH&meta=300&a="><div style="padding:3px;background:#ffdd33;" class="S14">Last 6 Months</div></a><a href="?f=cEDH&meta=263&a="><div style="padding:3px;" class="S14 hover_tr">Last 2 Months</div></a><a href="?f=cEDH&meta=262&a="><div style="padding:3px;" class="S14 hover_tr">Last 12 Months</div></a><a href="?f=cEDH&meta=344&a="><div style="padding:3px;" class="S14 hover_tr">All 2026 Decks</div></a><a href="?f=cEDH&meta=240&a="><div style="padding:3px;" class="S14 hover_tr">All decks</div></a></div>
+			</div>
+			<div style="position:absolute;z-index:11;top:5px;right:10px;" onclick="ToggleMetaList();"><img id=expand_img src=/graph/expand.png style="height:15px;"></div>
+		</div></div>
+	
+	<div style="margin:3px;display:flex;">
+	  <div style="padding:1px 4px 1px 4px;text-align:center;" class=S14>Search by</div>
+	  <div id=switchmenu[color] class="Nav_cur S14" onclick="SwitchSearch('color');">Color Id</div>
+	  <div id=switchmenu[commander] class="Nav_norm S14" onclick="SwitchSearch('commander');">Commander(s)</div>
+	</div>
+	
+	<div id=commander_search style="display:none;height:70px;">
+	<div style="display:flex;justify-content:space-evenly;align-items:center;padding-top:40px;">
+	  <div>
+	    <div id=comdel_1 style="display:inline-block;visibility:hidden;vertical-align:-20%;" onclick="DelCom('1');"><img style="cursor:pointer;" src=/graph/delete.png></div>
+	    <input id=card_search_input_1 type=text style="width:200px;font-size:14px;" onkeyup="MKeyUp('1')" placeholder="Commander, Background ...">
+	  </div>
+	  <div>
+	    <div id=comdel_2 style="display:inline-block;visibility:hidden;vertical-align:-20%;" onclick="DelCom('2');"><img style="cursor:pointer;" src=/graph/delete.png></div>
+	    <input id=card_search_input_2 type=text style="width:200px;font-size:14px;" onkeyup="MKeyUp('2')" placeholder="Commander, Background ...">
+	  </div>
+	</div>
+	</div>
+	
+	<div id=color_id_search style="display:block;height:70px;">
+	<div style="display:flex;justify-content:center;">
+	<div id=cid_W style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('W');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/W.png></div>
+	<div id=cid_U style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('U');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/U.png></div>
+	<div id=cid_B style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('B');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/B.png></div>
+	<div id=cid_R style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('R');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/R.png></div>
+	<div id=cid_G style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('G');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/G.png></div>
+	<div id=cid_I style="margin:3px 6px 3px 6px;padding:4px;border-radius:50px;border:1px transparent solid;background:transparent;" onclick="ChangeMana('I');"><img style="display:block;width:50px;" src=/graph/manas/cEDH/I.png></div>
+	</div>
+	</div>
+	
+	<div id=show_menu style="margin:3px;display:flex;justify-content:space-evenly;">
+	<div id=show_pop class="Nav_cur S14" onclick="ChangeShow('pop');">Sort by popularity</div>
+	<div id=show_alpha class="Nav_norm S14" onclick="ChangeShow('alpha');">Sort alphabetically</div>
+	<div id=show_decks class="Nav_norm S14" onclick="ChangeShow('decks');">Last decks</div>
+
+	</div>
+	<div id=cEDH_decks style="min-height:100px;"></div>
+	<div id=card_search_results style="visibility:hidden;z-index:10;width:240px;position:absolute;background:white;box-shadow: 0px 0px 10px #666666;padding:2px;border-radius:5px;border:1px grey solid;"></div></td>
+    <td valign=top width=60%>
+     
+		<div class=w_title align=center>LAST MAJOR EVENTS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+		<table border=0 class=Stable width=98% align=center>
+		  
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93644&f=cEDH>Riftgate Redemption - Salt City Gaming Events</a> @ <a class=und href=event?e=93644&f=cEDH>Riftgate (Provo, UT)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>08/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93295&f=cEDH>The 16th God of Commander Tournament</a> @ <a class=und href=event?e=93295&f=cEDH>TC (Tokyo, Japan)</a></td>
+		  <td width=13% align=center><img src=/graph/bigstar.png height=20></td>
+		  <td align=right width=12% class=S12>28/10/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=92803&f=cEDH>MBG Commanderpalooza #3 - TimeTwister Event</a> @ <a class=und href=event?e=92803&f=cEDH>Moms Basement Games (Wyandotte, MI)</a></td>
+		  <td width=13% align=center><img src=/graph/bigstar.png height=20></td>
+		  <td align=right width=12% class=S12>24/10/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=92612&f=cEDH>Steel City Green Chile Slopper Tournament Series I</a> @ <a class=und href=event?e=92612&f=cEDH>Eagle Ridge Convention Center (Pueblo, CO)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>18/10/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=92529&f=cEDH>Commander Carnival Season 5</a> @ <a class=und href=event?e=92529&f=cEDH>Bangkok (Thailand)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/10/26</td>
+		</tr>
+		</table>
+      
+		<div class=w_title align=center>LAST 20 EVENTS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+		<table border=0 class=Stable width=98% align=center>
+		  
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94126&f=cEDH>cEDH Locals</a> @ <a class=und href=event?e=94126&f=cEDH>Tabletop Tavern (Lexington, KY)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>20/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94121&f=cEDH>Commander Casual</a> @ <a class=und href=event?e=94121&f=cEDH>Magic Barcelona (Barcelona)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>20/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94120&f=cEDH>La Compet�ncia | Brain Freeze | cEDH |</a> @ <a class=und href=event?e=94120&f=cEDH>La Compet�ncia (Barber� del Vall�s, Spain)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>20/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94119&f=cEDH>Weekly cEDH Thursdays - Creature - Human Wizard</a> @ <a class=und href=event?e=94119&f=cEDH>Heist Brewery (Charlotte, NC) </a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>20/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94094&f=cEDH>Wednesday cEDH</a> @ <a class=und href=event?e=94094&f=cEDH>Most Excellent Gaming (Enfield, CT) </a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>19/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/other.png height=14 title="Online Other"></td>
+		  <td width=70% class=S14><a href=event?e=94093&f=cEDH>Terza Tappa - Italian Online League cEDH Italy</a> @ <a class=und href=event?e=94093&f=cEDH>Webcam </a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>18/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/other.png height=14 title="Online Other"></td>
+		  <td width=70% class=S14><a href=event?e=94016&f=cEDH>Sverigeligan vinter 2026 - Gruppspelsdag 1</a> @ <a class=und href=event?e=94016&f=cEDH>webcam </a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93957&f=cEDH>League S5.7 - S.O.C.C</a> @ <a class=und href=event?e=93957&f=cEDH>Legendary Collectables (Mississauga, Canada)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>17/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93956&f=cEDH>Commander Budget</a> @ <a class=und href=event?e=93956&f=cEDH>Magic Barcelona (Barcelona)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>16/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=94099&f=cEDH>Singles competition Commander</a> @ <a class=und href=event?e=94099&f=cEDH>Okayama (Japan)</a> <span class=new>NEW</span></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93952&f=cEDH>Mensual Noviembre</a> @ <a class=und href=event?e=93952&f=cEDH>Asociaci�n Dakkon (Xirivella, Spain)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93951&f=cEDH>Leonessa cEDH</a> @ <a class=und href=event?e=93951&f=cEDH>Planet Fun (Rovato, Italy) </a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93944&f=cEDH>B2 300 Gratis</a> @ <a class=und href=event?e=93944&f=cEDH>Templo (Matar�, Spain)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93943&f=cEDH>Land Go: Battle for the Cradle - Land, Go Events</a> @ <a class=und href=event?e=93943&f=cEDH>The Hollow Archive (Cherokee, IA )</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93942&f=cEDH>1K+ - TGE Silver cEDH</a> @ <a class=und href=event?e=93942&f=cEDH>Total Gaming Experience (Chillicothe, OH)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93941&f=cEDH>King of Games Series 20</a> @ <a class=und href=event?e=93941&f=cEDH>Fantasy Forged Cards and Collectibles (Orangeville, Canada) </a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93940&f=cEDH>Porto Torneio</a> @ <a class=und href=event?e=93940&f=cEDH>Porto (Portugal)</a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93939&f=cEDH>Win-an-Volcanic Island</a> @ <a class=und href=event?e=93939&f=cEDH>Mindgames and Magic (Lee's Summit, MO) </a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93938&f=cEDH>Level 7's Second of the Season 1k</a> @ <a class=und href=event?e=93938&f=cEDH>Level 7 Games (Englewood, CO) </a></td>
+		  <td width=13% align=center><img src=/graph/star.png><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		<tr class=hover_tr>
+		  <td width=5% align=center><img src=/graph/online/paper.png height=17 title="Paper"></td>
+		  <td width=70% class=S14><a href=event?e=93937&f=cEDH>Commander Invitational Qualifier</a> @ <a class=und href=event?e=93937&f=cEDH>Palouse Games (Pullman, WA) </a></td>
+		  <td width=13% align=center><img src=/graph/star.png></td>
+		  <td align=right width=12% class=S12>15/11/26</td>
+		</tr>
+		</table>
+      <div style="display:flex;justify-content:center;margin:5px;"><div class=Nav_PN_no>Prev</div><div class=Nav_cur>1</div><div class=Nav_norm><a href=?f=cEDH&meta=300&cp=2>2</a></div><div class=Nav_norm><a href=?f=cEDH&meta=300&cp=3>3</a></div><div class=Nav_norm><a href=?f=cEDH&meta=300&cp=4>4</a></div><div class=Nav_norm><a href=?f=cEDH&meta=300&cp=2>Next</a></div></div>
+      
+		<div class=w_title align=center>MOST PLAYED CARDS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+		 
+		 <div align=center style="margin: 5px 0px 5px 0px;">
+		   <a target=_blank href=https://www.mtgpics.com/card?ref=alp240><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">98 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/alp/240.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=tsp274><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">92 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/tsp/274.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=tem165><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">91 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/tem/165.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=mrd152><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">90 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/mrd/152.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=tem007><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">89 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/tem/007.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=eld333><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">87 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/eld/333.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=alp163><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">87 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/alp/163.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=str075><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">85 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/str/075.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=zen220><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">74 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/zen/220.jpg></td></tr>
+				</table>
+				</div></a><a target=_blank href=https://www.mtgpics.com/card?ref=ara016><div style="display:inline-block;vertical-align:bottom;padding:2px;position:relative;">
+				  <div class=most_perc align=center style="position:absolute;bottom:30px;left:60px;">73 %</div>
+				  <table width=147 height=205 border=0 cellspacing=0 cellpadding=0 style="border-radius:6px;background:black;border:1px black solid;">
+				  <tr><td align=center valign=middle><img style="display:block;width:134px;height:191px;" src=/pics/ara/016.jpg></td></tr>
+				</table>
+				</div></a>
+		   <div>
+			 <a href=topcards?f=cEDH&meta=300>Would you like to know more ?</a> (now with awesome filtering options.)
+		  </div>
+		</div>
+      
+	<div class=w_title align=center>RELATED LINKS<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div></div>
+	<div style="margin-top:5px;display:flex;justify-content:space-around;"><div class=S14><a target=_blank href=https://mtgcommander.net/index.php/rules/>cEDH Construction Rules</a></div></div>
+    </td>
+  </tr>
+</table>
+
+<div class=w_title style="margin-top:20px;">
+<div align=center>
+<a class=white href=/privacy>Privacy Policy</a>
+
+<div style="padding:5px;" valign=top class=W10 align=center>
+The information presented on this site about Magic: The Gathering, both literal and graphical, is copyrighted by Wizards of the Coast.
+This website is not produced, endorsed, supported, or affiliated with Wizards of the Coast..
+<div class=c_tl></div><div class=c_tr></div><div class=c_bl></div><div class=c_br></div>
+</div>
+</div>
+</div></div>
+	</div></body>
+	</html>

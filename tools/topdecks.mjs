@@ -15,7 +15,7 @@ async function get(u, {latin = false, tries = 3} = {}){
   return null;
 }
 const strip = s => s.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<style[\s\S]*?<\/style>/g, '');
-const txt = s => s.replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&#39;|&rsquo;/g, "'").replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
+const txt = s => s.replace(/<[^>]+>/g, ' ').replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&rarr;/g, '→').replace(/&amp;/g, '&').replace(/&#39;|&rsquo;/g, "'").replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
 const fixName = n => n.replace(/\s+/g, ' ').trim();
 
 function parseList(t){
@@ -33,7 +33,7 @@ async function mtgtop8(F){
   // 1) every event of the last 6 months (the event list is paged: cp=1, 2, …)
   const events = [];
   for (let cp = 1; cp <= +(process.env.MAXPAGES || 40); cp++){
-    const t = await get(`https://www.mtgtop8.com/format?f=${F}${meta ? '&meta=' + meta : ''}&cp=${cp}`); if (!t) break;
+    const t = await get(`https://www.mtgtop8.com/format?f=${F}${meta ? '&meta=' + meta : ''}&cp=${cp}`, {latin:true}); if (!t) break;
     const ids = [...new Set([...strip(t).matchAll(/event\?e=(\d+)&(?:amp;)?f=/g)].map(m => m[1]))].filter(id => !events.includes(id));
     if (!ids.length) break; events.push(...ids);
   }
@@ -41,13 +41,13 @@ async function mtgtop8(F){
   // 2) every deck in those events: deck name (= the commander or a short name for the pair), place, player, date
   const decks = [];
   for (const e of events){
-    const t = await get(`https://www.mtgtop8.com/event?e=${e}&f=${F}`); if (!t) continue; const s = strip(t);
+    const t = await get(`https://www.mtgtop8.com/event?e=${e}&f=${F}`, {latin:true}); if (!t) continue; const s = strip(t);
     const title = txt((s.match(/<div[^>]*class=["']?event_title["']?[^>]*>([\s\S]*?)<\/div>/) || [])[1] || '');
     const meta2 = txt(s.slice(s.indexOf('players'), s.indexOf('players') + 1) ? (s.match(/(\d+) players - (\d\d\/\d\d\/\d\d)/) || [''])[0] : '');
     const pm = s.match(/(\d+) players - (\d\d)\/(\d\d)\/(\d\d)/); const date = pm ? `20${pm[4]}-${pm[3]}-${pm[2]}` : ''; const players = pm ? +pm[1] : null;
     const seen = new Set();
     for (const m of s.matchAll(/href=["']?\?e=\d+&(?:amp;)?d=(\d+)&(?:amp;)?f=[^"' >]*["']?[^>]*>([^<]+)<\/a>/g)){
-      const name = txt(m[2]); if (!name || name === '→' || seen.has(m[1])) continue; seen.add(m[1]);
+      const name = txt(m[2]); if (!name || /→/.test(name) || seen.has(m[1])) continue; seen.add(m[1]);
       const before = txt(s.slice(Math.max(0, m.index - 400), m.index)); const place = (before.match(/(\d+(?:-\d+)?)\s*$/) || [])[1] || '';
       const after = s.slice(m.index, m.index + 600); const player = txt((after.match(/player=[^>]*>([^<]+)</) || [])[1] || '');
       decks.push({name, d:m[1], e, place, player, date, players, event:title});

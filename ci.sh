@@ -1,3 +1,3 @@
 #!/bin/bash
 mkdir -p out
-MAXPAGES=2 LIMIT=5 PER=2 node tools/topdecks.mjs
+MAXPAGES=40 LIMIT=100 PER=3 node tools/topdecks.mjs

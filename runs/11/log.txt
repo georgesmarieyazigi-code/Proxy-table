@@ -1,0 +1,272 @@
+cEDH meta id for last 6 months: 300
+cEDH events: 800
+cEDH decks: 6357 [
+  {
+    name: 'Kraum + Tymna',
+    d: '911265',
+    e: '93644',
+    place: '1',
+    player: 'Janos Nado // Criticaledh',
+    date: '2026-11-08',
+    players: 86,
+    event: 'Riftgate Redemption - Salt City Gaming Events @ Riftgate (Provo, UT)'
+  },
+  {
+    name: 'Urza, Lord High Artificer',
+    d: '911266',
+    e: '93644',
+    place: '2',
+    player: 'Smalls [monolith]',
+    date: '2026-11-08',
+    players: 86,
+    event: 'Riftgate Redemption - Salt City Gaming Events @ Riftgate (Provo, UT)'
+  },
+  {
+    name: 'Urza, Lord High Artificer',
+    d: '911268',
+    e: '93644',
+    place: '3-4',
+    player: 'Milo Lawson',
+    date: '2026-11-08',
+    players: 86,
+    event: 'Riftgate Redemption - Salt City Gaming Events @ Riftgate (Provo, UT)'
+  }
+]
+  cEDH #1 Kinnan, Bonder Prodigy (Kinnan, Bonder Prodigy): 483 top-8 decks, kept 3
+  cEDH #2 Kraum, Ludevic's Opus + Tymna the Weaver (Kraum + Tymna): 406 top-8 decks, kept 3
+  cEDH #3 Sisay, Weatherlight Captain (Sisay, Weatherlight Captain): 314 top-8 decks, kept 3
+  cEDH #4 Rograkh, Son of Rohgahh + Thrasios, Triton Hero (Rograkh + Thrasios): 241 top-8 decks, kept 3
+  cEDH #5 Rograkh, Son of Rohgahh + Silas Renn, Seeker Adept (Rograkh + Silas Renn): 199 top-8 decks, kept 3
+  cEDH #6 Magda, Brazen Outlaw (Magda, Brazen Outlaw): 155 top-8 decks, kept 3
+  cEDH #7 Thrasios, Triton Hero + Tymna the Weaver (Thrasios + Tymna): 152 top-8 decks, kept 3
+  cEDH #8 Nick Fury, Agent of S.H.I.E.L.D. (Nick Fury, Agent of S.H.I.E.L.D.): 152 top-8 decks, kept 3
+  cEDH #9 Tymna the Weaver + Kraum, Ludevic's Opus (Kraum, Ludevic's Opus + Tymna the Weaver): 147 top-8 decks, kept 3
+  cEDH #10 Ral, Monsoon Mage (Ral, Monsoon Mage): 131 top-8 decks, kept 3
+  cEDH #11 Crystal, Inhuman Princess (Crystal, Inhuman Princess): 129 top-8 decks, kept 3
+  cEDH #12 Vivi Ornitier (Vivi Ornitier): 125 top-8 decks, kept 3
+  cEDH #13 Rograkh, Son of Rohgahh + Thrasios, Triton Hero (Rograkh, Son of Rohgahh + Thrasios, Triton Hero): 110 top-8 decks, kept 3
+  cEDH #14 Tayam, Luminous Enigma (Tayam, Luminous Enigma): 102 top-8 decks, kept 3
+  cEDH #15 Dargo, the Shipwrecker + Tymna the Weaver (Dargo + Tymna): 87 top-8 decks, kept 3
+  cEDH #16 Rograkh, Son of Rohgahh + Silas Renn, Seeker Adept (Rograkh, Son of Rohgahh + Silas Renn, Seeker Adept): 83 top-8 decks, kept 3
+  cEDH #17 Etali, Primal Conqueror (Etali, Primal Conqueror): 79 top-8 decks, kept 3
+  cEDH #18 Tivit, Seller of Secrets (Tivit, Seller of Secrets): 76 top-8 decks, kept 3
+  cEDH #19 Thrasios, Triton Hero + Tymna the Weaver (Thrasios, Triton Hero + Tymna the Weaver): 71 top-8 decks, kept 3
+  cEDH #20 Thrasios, Triton Hero + Yoshimaru, Ever Faithful (Thrasios + Yoshimaru): 70 top-8 decks, kept 3
+  cEDH #21 Ob Nixilis, Captive Kingpin (Ob Nixilis, Captive Kingpin): 66 top-8 decks, kept 3
+  cEDH #22 Kefka, Court Mage (Kefka, Court Mage): 63 top-8 decks, kept 3
+  cEDH #23 Dack Fayden, Helping Hand (Dack Fayden, Helping Hand): 61 top-8 decks, kept 3
+  cEDH #24 Ishai, Ojutai Dragonspeaker + Rograkh, Son of Rohgahh (Ishai + Rograkh): 60 top-8 decks, kept 3
+  cEDH #25 Rocco, Cabaretti Caterer (Rocco, Cabaretti Caterer): 60 top-8 decks, kept 3
+  cEDH #26 Arcum Dagsson (Arcum Dagsson): 57 top-8 decks, kept 3
+  cEDH #27 K'rrik, Son of Yawgmoth (K'rrik, Son of Yawgmoth): 56 top-8 decks, kept 3
+  cEDH #28 Winota, Joiner of Forces (Winota, Joiner of Forces): 54 top-8 decks, kept 3
+  cEDH #29 Scion of the Ur-Dragon (Scion of the Ur-Dragon): 49 top-8 decks, kept 3
+  cEDH #30 Zirda, the Dawnwaker (Zirda, the Dawnwaker): 44 top-8 decks, kept 3
+  cEDH #31 Hashaton, Scarab's Fist (Hashaton, Scarab's Fist): 41 top-8 decks, kept 3
+  cEDH #32 Kenrith, the Returned King (Kenrith, the Returned King): 41 top-8 decks, kept 3
+  cEDH #33 Rowan, Scion of War (Rowan, Scion of War): 41 top-8 decks, kept 3
+  cEDH #34 Marneus Calgar (Marneus Calgar): 39 top-8 decks, kept 3
+  cEDH #35 Terra, Magical Adept (Terra, Magical Adept): 37 top-8 decks, kept 3
+  cEDH #36 Lumra, Bellow of the Woods (Lumra, Bellow of the Woods): 37 top-8 decks, kept 3
+  cEDH #37 Glarb, Calamity's Augur (Glarb, Calamity's Augur): 35 top-8 decks, kept 3
+  cEDH #38 Brigid, Clachan's Heart (Brigid, Clachan's Heart): 35 top-8 decks, kept 3
+  cEDH #39 Inalla, Archmage Ritualist (Inalla, Archmage Ritualist): 34 top-8 decks, kept 3
+  cEDH #40 Ishai, Ojutai Dragonspeaker + Rograkh, Son of Rohgahh (Ishai, Ojutai Dragonspeaker + Rograkh, Son of Rohgahh): 34 top-8 decks, kept 3
+  cEDH #41 Dihada, Binder of Wills (Dihada, Binder of Wills): 33 top-8 decks, kept 3
+  cEDH #42 The Cabbage Merchant (The Cabbage Merchant): 30 top-8 decks, kept 3
+  cEDH #43 Shang-Chi, Master of Kung Fu (Shang-Chi, Master of Kung Fu): 29 top-8 decks, kept 3
+  cEDH #44 Raph & Mikey, Troublemakers (Raph & Mikey, Troublemakers): 28 top-8 decks, kept 3
+  cEDH #45 Malcolm, Keen-Eyed Navigator + Vial Smasher the Fierce (Malcolm + Vial Smasher): 27 top-8 decks, kept 3
+  cEDH #46 Derevi, Empyrial Tactician (Derevi, Empyrial Tactician): 26 top-8 decks, kept 3
+  cEDH #47 Chatterfang, Squirrel General (Chatterfang, Squirrel General): 26 top-8 decks, kept 3
+  cEDH #48 Yisan, the Wanderer Bard (Yisan, the Wanderer Bard): 26 top-8 decks, kept 3
+  cEDH #49 The Wandering Minstrel (The Wandering Minstrel): 25 top-8 decks, kept 3
+  cEDH #50 Yuriko, the Tiger's Shadow (Yuriko, the Tiger's Shadow): 25 top-8 decks, kept 3
+  cEDH #51 Atraxa, Grand Unifier (Atraxa, Grand Unifier): 25 top-8 decks, kept 3
+  cEDH #52 Jhoira, Ageless Innovator (Jhoira, Ageless Innovator): 25 top-8 decks, kept 3
+  cEDH #53 Leonardo, the Balance + Michelangelo, the Heart (Leonardo, the Balance + Michelangelo, the Heart): 25 top-8 decks, kept 3
+  cEDH #54 Dargo, the Shipwrecker + Tymna the Weaver (Dargo, the Shipwrecker + Tymna the Weaver): 25 top-8 decks, kept 3
+  cEDH #55 The Gitrog Monster (The Gitrog Monster): 24 top-8 decks, kept 3
+  cEDH #56 Aang, at the Crossroads (Aang, at the Crossroads): 24 top-8 decks, kept 3
+  cEDH #57 Gwenom, Remorseless (Gwenom, Remorseless): 22 top-8 decks, kept 3
+  cEDH #58 Kediss, Emberclaw Familiar + Malcolm, Keen-Eyed Navigator (Kediss + Malcolm): 22 top-8 decks, kept 3
+  cEDH #59 Thrasios, Triton Hero + Yoshimaru, Ever Faithful (Thrasios, Triton Hero + Yoshimaru, Ever Faithful): 22 top-8 decks, kept 3
+  cEDH #60 Urza, Lord High Artificer (Urza, Lord High Artificer): 21 top-8 decks, kept 3
+  cEDH #61 Malcolm, Keen-Eyed Navigator + Tana, the Bloodsower (Malcolm + Tana): 20 top-8 decks, kept 3
+  cEDH #62 Super-Skrull (Super-Skrull): 19 top-8 decks, kept 3
+  cEDH #63 Rakdos, the Muscle (Rakdos, the Muscle): 17 top-8 decks, kept 3
+  cEDH #64 Najeela, the Blade-Blossom (Najeela, the Blade-Blossom): 16 top-8 decks, kept 3
+  cEDH #65 Baylen, the Haymaker (Baylen, the Haymaker): 16 top-8 decks, kept 3
+  cEDH #66 Malcolm, Keen-Eyed Navigator + Tymna the Weaver (Malcolm + Tymna): 16 top-8 decks, kept 3
+  cEDH #67 Thrasios, Triton Hero + Vial Smasher the Fierce (Thrasios, Triton Hero + Vial Smasher the Fierce): 16 top-8 decks, kept 3
+  cEDH #68 Hei Bai, Forest Guardian (Hei Bai, Forest Guardian): 15 top-8 decks, kept 3
+  cEDH #69 Godo, Bandit Warlord (Godo, Bandit Warlord): 15 top-8 decks, kept 3
+  cEDH #70 Stella Lee, Wild Card (Stella Lee, Wild Card): 15 top-8 decks, kept 3
+  cEDH #71 Helga, Skittish Seer (Helga, Skittish Seer): 14 top-8 decks, kept 3
+  cEDH #72 Dargo, the Shipwrecker + Reyhan, Last of the Abzan (Dargo + Reyhan, Last of the Abzan): 14 top-8 decks, kept 3
+  cEDH #73 Francisco, Fowl Marauder + Rograkh, Son of Rohgahh (Francisco, Fowl Marauder + Rograkh): 14 top-8 decks, kept 3
+  cEDH #74 Elsha of the Infinite (Elsha of the Infinite): 14 top-8 decks, kept 3
+  cEDH #75 Y'shtola, Night's Blessed (Y'shtola, Night's Blessed): 13 top-8 decks, kept 3
+  cEDH #76 Thrasios, Triton Hero + Vial Smasher the Fierce (Thrasios + Vial Smasher): 13 top-8 decks, kept 3
+  cEDH #77 Sythis, Harvest's Hand (Sythis, Harvest's Hand): 13 top-8 decks, kept 3
+  cEDH #78 Bjorna, Nightfall Alchemist + Wernog, Rider's Chaplain (Bjorna, Nightfall Alchemist + Wernog, Rider's Chaplain): 13 top-8 decks, kept 3
+  cEDH #79 Prismari, the Inspiration (Prismari, the Inspiration): 13 top-8 decks, kept 3
+  cEDH #80 King T'Challa (King T'Challa): 13 top-8 decks, kept 3
+  cEDH #81 Sami, Wildcat Captain (Sami, Wildcat Captain): 13 top-8 decks, kept 3
+  cEDH #82 Ashling, Flame Dancer (Ashling, Flame Dancer): 12 top-8 decks, kept 3
+  cEDH #83 Korvold, Fae-Cursed King (Korvold, Fae-Cursed King): 12 top-8 decks, kept 3
+  cEDH #84 Krark, the Thumbless + Sakashima of a Thousand Faces (Krark + Sakashima): 12 top-8 decks, kept 3
+  cEDH #85 Zhulodok, Void Gorger (Zhulodok, Void Gorger): 12 top-8 decks, kept 3
+  cEDH #86 Norman Osborn (Norman Osborn): 12 top-8 decks, kept 3
+  cEDH #87 Kaalia of the Vast (Kaalia of the Vast): 11 top-8 decks, kept 3
+  cEDH #88 Jace, Multiverse Architect (Jace, Multiverse Architect): 11 top-8 decks, kept 3
+  cEDH #89 Akiri, Line-Slinger + Thrasios, Triton Hero (Akiri + Thrasios): 11 top-8 decks, kept 3
+  cEDH #90 Tasigur, the Golden Fang (Tasigur, the Golden Fang): 11 top-8 decks, kept 3
+  cEDH #91 Maralen, Fae Ascendant (Maralen, Fae Ascendant): 11 top-8 decks, kept 3
+  cEDH #92 Tevesh Szat, Doom of Fools + Thrasios, Triton Hero (Tevesh Szat, Doom of Fools + Thrasios, Triton Hero): 11 top-8 decks, kept 3
+  cEDH #93 Esika, God of the Tree (Esika, God of the Tree): 10 top-8 decks, kept 3
+  cEDH #94 Marath, Will of the Wild (Marath, Will of the Wild): 10 top-8 decks, kept 3
+  cEDH #95 Tevesh Szat, Doom of Fools + Thrasios, Triton Hero (Tevesh Szat + Thrasios): 10 top-8 decks, kept 3
+  cEDH #96 Tiamat (Tiamat): 10 top-8 decks, kept 3
+  cEDH #97 Lotho, Corrupt Shirriff (Lotho, Corrupt Shirriff): 10 top-8 decks, kept 3
+  cEDH #98 Animar, Soul of Elements (Animar, Soul of Elements): 10 top-8 decks, kept 3
+  cEDH #99 Oswald Fiddlebender (Oswald Fiddlebender): 10 top-8 decks, kept 3
+  cEDH #100 Malcolm, Keen-Eyed Navigator + Vial Smasher the Fierce (Malcolm, Keen-Eyed Navigator + Vial Smasher the Fierce): 10 top-8 decks, kept 3
+EDH meta id for last 6 months: 209
+EDH events: 811
+EDH decks: 4210 [
+  {
+    name: 'Ertai Resurrected',
+    d: '910617',
+    e: '93554',
+    place: '1',
+    player: 'Matouš Pavlovský-fiala',
+    date: '2026-11-07',
+    players: 60,
+    event: '32nd Černý Rytíř @ Černý rytíř (Prague, Czech Republic)'
+  },
+  {
+    name: 'Raph & Mikey, Troublemakers',
+    d: '910618',
+    e: '93554',
+    place: '2',
+    player: 'Martin Vlnas',
+    date: '2026-11-07',
+    players: 60,
+    event: '32nd Černý Rytíř @ Černý rytíř (Prague, Czech Republic)'
+  },
+  {
+    name: 'Muxus, Goblin Grandee',
+    d: '910620',
+    e: '93554',
+    place: '3-4',
+    player: 'Vojta Kotek',
+    date: '2026-11-07',
+    players: 60,
+    event: '32nd Černý Rytíř @ Černý rytíř (Prague, Czech Republic)'
+  }
+]
+  EDH #1 Cloud, Midgar Mercenary (Cloud, Midgar Mercenary): 154 top-8 decks, kept 3
+  EDH #2 Phelia, Exuberant Shepherd (Phelia, Exuberant Shepherd): 141 top-8 decks, kept 3
+  EDH #3 Aragorn, King of Gondor (Aragorn, King Of Gondor): 139 top-8 decks, kept 3
+  EDH #4 Slimefoot and Squee (Slimefoot and Squee): 122 top-8 decks, kept 3
+  EDH #5 Atraxa, Grand Unifier (Atraxa, Grand Unifier): 109 top-8 decks, kept 3
+  EDH #6 Spider-Man 2099 (Spider-man 2099): 108 top-8 decks, kept 3
+  EDH #7 Tifa Lockhart (Tifa Lockhart): 103 top-8 decks, kept 3
+  EDH #8 Brigid, Clachan's Heart (Brigid, Clachan's Heart): 103 top-8 decks, kept 3
+  EDH #9 Tasigur, the Golden Fang (Tasigur, The Golden Fang): 92 top-8 decks, kept 3
+  EDH #10 Terra, Magical Adept (Terra, Magical Adept): 89 top-8 decks, kept 3
+  EDH #11 Deadpool, Trading Card (Deadpool, Trading Card): 80 top-8 decks, kept 3
+  EDH #12 Quintorius, History Chaser (Quintorius, History Chaser): 78 top-8 decks, kept 3
+  EDH #13 Light-Paws, Emperor's Voice (Light-paws, Emperor's Voice): 76 top-8 decks, kept 3
+  EDH #14 Emry, Lurker of the Loch (Emry, Lurker Of The Loch): 67 top-8 decks, kept 3
+  EDH #15 Glarb, Calamity's Augur (Glarb, Calamity's Augur): 59 top-8 decks, kept 3
+  EDH #16 Aang, Swift Savior (Aang, Swift Savior): 57 top-8 decks, kept 3
+  EDH #17 Aminatou, the Fateshifter (Aminatou, The Fateshifter): 49 top-8 decks, kept 3
+  EDH #18 Toph, Greatest Earthbender (Toph, Greatest Earthbender): 46 top-8 decks, kept 3
+  EDH #19 Satya, Aetherflux Genius (Satya, Aetherflux Genius): 44 top-8 decks, kept 3
+  EDH #20 Grist, the Hunger Tide (Grist, The Hunger Tide): 39 top-8 decks, kept 3
+  EDH #21 Raph & Mikey, Troublemakers (Raph & Mikey, Troublemakers): 38 top-8 decks, kept 3
+  EDH #22 Zurgo Bellstriker (Zurgo Bellstriker): 37 top-8 decks, kept 3
+  EDH #23 Nick Fury, Agent of S.H.I.E.L.D. (Nick Fury, Agent Of S.h.i.e.l.d.): 35 top-8 decks, kept 3
+  EDH #24 Hidetsugu and Kairi (Hidetsugu and Kairi): 31 top-8 decks, kept 3
+  EDH #25 Phlage, Titan of Fire's Fury (Phlage, Titan of Fire's Fury): 30 top-8 decks, kept 3
+  EDH #26 Aerid Konstrari (Aerid Konstrari): 29 top-8 decks, kept 3
+  EDH #27 Azusa, Lost but Seeking (Azusa, Lost but Seeking): 29 top-8 decks, kept 3
+  EDH #28 Malcolm, Alluring Scoundrel (Malcolm, Alluring Scoundrel): 29 top-8 decks, kept 3
+  EDH #29 Asmoranomardicadaistinaculdacar (Asmoranomardicadaistinaculdacar): 28 top-8 decks, kept 3
+  EDH #30 Tivit, Seller of Secrets (Tivit, Seller of Secrets): 28 top-8 decks, kept 3
+  EDH #31 The Fantasticar (The Fantasticar): 28 top-8 decks, kept 3
+  EDH #32 Magda, Brazen Outlaw (Magda, Brazen Outlaw): 27 top-8 decks, kept 3
+  EDH #33 Lumra, Bellow of the Woods (Lumra, Bellow Of The Woods): 27 top-8 decks, kept 3
+  EDH #34 Taii Wakeen, Perfect Shot (Taii Wakeen, Perfect Shot): 26 top-8 decks, kept 3
+  EDH #35 Prossh, Skyraider of Kher (Prossh, Skyraider Of Kher): 25 top-8 decks, kept 3
+  EDH #36 Ertai Resurrected (Ertai Resurrected): 23 top-8 decks, kept 3
+  EDH #37 King T'Challa (King T'challa): 23 top-8 decks, kept 3
+  EDH #38 Emet-Selch, Unsundered (Emet-selch, Unsundered): 22 top-8 decks, kept 3
+  EDH #39 Aragorn, King of Gondor (Aragorn): 22 top-8 decks, kept 3
+  EDH #40 Cloud, Midgar Mercenary (Cloud): 22 top-8 decks, kept 3
+  EDH #41 Nissa, Resurgent Animist (Nissa, Resurgent Animist): 21 top-8 decks, kept 3
+  EDH #42 Brigid, Clachan's Heart (Brigid, Clachan's Heart // Brigid, Doun's Mind): 21 top-8 decks, kept 3
+  EDH #43 Acererak the Archlich (Acererak The Archlich): 21 top-8 decks, kept 3
+  EDH #44 Winota, Joiner of Forces (Winota, Joiner Of Forces): 21 top-8 decks, kept 3
+  EDH #45 Jace, Multiverse Architect (Jace, Multiverse Architect): 20 top-8 decks, kept 3
+  EDH #46 Amalia Benavides Aguirre + Lurrus of the Dream-Den (Amalia Benavides Aguirre): 17 top-8 decks, kept 3
+  EDH #47 Elminster (Elminster): 17 top-8 decks, kept 3
+  EDH #48 Vivi Ornitier (Vivi Ornitier): 17 top-8 decks, kept 3
+  EDH #49 The Gitrog Monster (The Gitrog Monster): 15 top-8 decks, kept 3
+  EDH #50 Deadpool, Trading Card (Deadpool): 15 top-8 decks, kept 3
+  EDH #51 Terra, Magical Adept (Terra): 15 top-8 decks, kept 3
+  EDH #52 Quintorius, History Chaser (Quintorius): 15 top-8 decks, kept 3
+  EDH #53 Phelia, Exuberant Shepherd (Phelia): 15 top-8 decks, kept 3
+  EDH #54 Tifa Lockhart (Tifa): 14 top-8 decks, kept 3
+  EDH #55 Lier, Disciple of the Drowned (Lier, Disciple Of The Drowned): 14 top-8 decks, kept 3
+  EDH #56 Tasigur, the Golden Fang (Tasigur): 13 top-8 decks, kept 3
+  EDH #57 Ketramose, the New Dawn (Ketramose, The New Dawn): 13 top-8 decks, kept 3
+  EDH #58 Atraxa, Grand Unifier (Atraxa): 12 top-8 decks, kept 3
+  EDH #59 Nick Fury, Agent of S.H.I.E.L.D. (Nick Fury): 12 top-8 decks, kept 3
+  EDH #60 Emry, Lurker of the Loch (Emry): 12 top-8 decks, kept 3
+  EDH #61 Tana, the Bloodsower + Yoshimaru, Ever Faithful (Yoshimaru, Ever Faithful): 11 top-8 decks, kept 3
+  EDH #62 Kefka, Court Mage (Kefka, Court Mage): 11 top-8 decks, kept 3
+  EDH #63 Ellie, Brick Master + Ellie, Vengeful Hunter (Ellie, Brick Master & Ellie, Vengeful Hunter): 10 top-8 decks, kept 3
+  EDH #64 Bruce Banner (Bruce Banner): 10 top-8 decks, kept 3
+  EDH #65 Lier, Disciple of the Drowned (Lier): 9 top-8 decks, kept 3
+  EDH #66 Roxanne, Starfall Savant (Roxanne, Starfall Savant): 9 top-8 decks, kept 3
+  EDH #67 Tivit, Seller of Secrets (Tivit): 9 top-8 decks, kept 3
+  EDH #68 Kraum, Ludevic's Opus + Yoshimaru, Ever Faithful (Yoshi / Kraum): 9 top-8 decks, kept 3
+  EDH #69 Cloud, Midgar Mercenary (Cloud Strife): 9 top-8 decks, kept 3
+  EDH #70 Sheoldred, the Apocalypse (Sheoldred, The Apocalypse): 8 top-8 decks, kept 3
+  EDH #71 Zurgo Bellstriker (Zurgo): 8 top-8 decks, kept 3
+  EDH #72 Ellie, Brick Master + Ellie, Vengeful Hunter (Ellie X2): 8 top-8 decks, kept 3
+  EDH #73 Light-Paws, Emperor's Voice (Light-paws): 8 top-8 decks, kept 3
+  EDH #74 Terra, Magical Adept (Terra 2.0): 8 top-8 decks, kept 3
+  EDH #75 Ellie, Brick Master + Ellie, Vengeful Hunter (Ellie Partner): 8 top-8 decks, kept 3
+  EDH #76 Tokka & Rahzar, Terrible Twos (Tokka & Rahzar, Terrible Twos): 8 top-8 decks, kept 3
+  EDH #77 Spider-Man 2099 (Ur): 8 top-8 decks, kept 3
+  EDH #78 Terra, Magical Adept (Terra, Magical Adept // Esper Terra): 7 top-8 decks, kept 3
+  EDH #79 The Beamtown Bullies (The Beamtown Bullies): 7 top-8 decks, kept 3
+  EDH #80 Prossh, Skyraider of Kher (Prossh): 7 top-8 decks, kept 3
+  EDH #81 Kraum, Ludevic's Opus + Yoshimaru, Ever Faithful (Yoshi Kraum): 7 top-8 decks, kept 3
+  EDH #82 Winter, Cynical Opportunist (Winter, Cynical Opportunist): 7 top-8 decks, kept 3
+  EDH #83 Plagon, Lord of the Beach (Plagon, Lord Of The Beach): 7 top-8 decks, kept 3
+  EDH #84 Ellie, Brick Master + Ellie, Vengeful Hunter (Ellie, Brick Master + Ellie, Vengeful Hunter): 7 top-8 decks, kept 3
+  EDH #85 Kellan, Planar Trailblazer (Kellan, Planar Trailblazer): 7 top-8 decks, kept 3
+  EDH #86 Juri, Master of the Revue (Juri, Master of the Revue): 7 top-8 decks, kept 3
+  EDH #87 Brigid, Clachan's Heart (Brigid / Jennifer V2): 7 top-8 decks, kept 3
+  EDH #88 Ellie, Brick Master + Ellie, Vengeful Hunter (Ellie Ellie): 7 top-8 decks, kept 3
+  EDH #89 Ludevic, Necro-Alchemist + Yoshimaru, Ever Faithful (Yoshimaru Partner): 7 top-8 decks, kept 3
+  EDH #90 Ellie, Vengeful Hunter + Ellie, Brick Master (Ellie, Brick Master // Ellie, Vengeful Hunter): 6 top-8 decks, kept 3
+  EDH #91 Marath, Will of the Wild (Marath, Will Of The Wild): 6 top-8 decks, kept 3
+  EDH #92 Aang, Swift Savior (Aang, Swift Savior // Aang And La, Ocean's Fury): 6 top-8 decks, kept 3
+  EDH #93 The Ur-Dragon (The Ur-dragon): 6 top-8 decks, kept 3
+  EDH #94 Niv-Mizzet Reborn (Niv-mizzet Reborn): 6 top-8 decks, kept 3
+  EDH #95 Sorin of House Markov (Sorin Of House Markov): 6 top-8 decks, kept 3
+  EDH #96 Asmoranomardicadaistinaculdacar (Asmora): 6 top-8 decks, kept 3
+  EDH #97 Najeela, the Blade-Blossom (Najeela, The Blade-blossom): 6 top-8 decks, kept 3
+  EDH #98 Aminatou, the Fateshifter (Aminatou): 6 top-8 decks, kept 3
+  EDH #99 Basim Ibn Ishaq (Basim Ibn Ishaq): 6 top-8 decks, kept 3
+  EDH #100 Aang, Swift Savior (Aang): 6 top-8 decks, kept 3
+EDHREC top 100
+EDHREC average decks: 100
+art for 235 of 219 commanders
+done in 18.9 min; cEDH 91 duel 69 edhrec 100 size 1401425

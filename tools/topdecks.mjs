@@ -48,7 +48,7 @@ async function mtgtop8(F){
     const seen = new Set();
     for (const m of s.matchAll(/href=["']?\?e=\d+&(?:amp;)?d=(\d+)&(?:amp;)?f=[^"' >]*["']?[^>]*>([^<]+)<\/a>/g)){
       const name = txt(m[2]); if (!name || /→/.test(name) || seen.has(m[1])) continue; seen.add(m[1]);
-      const before = txt(s.slice(Math.max(0, m.index - 400), m.index)); const place = (before.match(/(\d+(?:-\d+)?)\s*$/) || [])[1] || '';
+      const before = txt(s.slice(Math.max(0, m.index - 400), m.index).replace(/<[^>]*$/, '')); const place = (before.match(/(\d+(?:-\d+)?)\s*$/) || [])[1] || '';
       const after = s.slice(m.index, m.index + 600); const player = txt((after.match(/player=[^>]*>([^<]+)</) || [])[1] || '');
       decks.push({name, d:m[1], e, place, player, date, players, event:title});
     }
@@ -71,6 +71,10 @@ async function mtgtop8(F){
     res.commanders.push({name:out[0].cmd.join(' + '), alias:list[0].name, count:list.length, decks:out});
     console.log(`  ${F} #${res.commanders.length} ${out[0].cmd.join(' + ')} (${list[0].name}): ${list.length} top-8 decks, kept ${out.length}`);
   }
+  // the same commander(s) can show up under two deck names: merge them
+  const merged = new Map();
+  for (const c of res.commanders){ const k = c.name.toLowerCase(); const m = merged.get(k); if (!m){ merged.set(k, c); continue; } m.count += c.count; m.decks = [...m.decks, ...c.decks].sort((a, b) => (b.date || '').localeCompare(a.date || '')).slice(0, PER); }
+  res.commanders = [...merged.values()].sort((a, b) => b.count - a.count);
   res.events = events.length; res.decks = decks.length;
   return res;
 }
@@ -88,7 +92,21 @@ async function edhrec(){
   console.log('EDHREC average decks:', res.commanders.length);
   return res;
 }
+// card art for every commander (Scryfall, 75 names per request)
+async function addArt(data){
+  const names = [...new Set([data.cedh, data.duel, data.edhrec].flatMap(g => g.commanders.flatMap(c => c.cmd || (c.decks || [])[0]?.cmd || [])))];
+  const art = {};
+  for (let i = 0; i < names.length; i += 75){
+    try { const r = await fetch('https://api.scryfall.com/cards/collection', {method:'POST', headers:{...UA, 'content-type':'application/json', accept:'application/json'}, body:JSON.stringify({identifiers:names.slice(i, i + 75).map(name => ({name:name.split(' // ')[0]}))})});
+      const j = await r.json(); for (const c of j.data || []){ const f = c.image_uris || (c.card_faces || [])[0]?.image_uris || {}; art[c.name] = {crop:f.art_crop || '', card:f.normal || '', ci:(c.color_identity || []).join('')}; if (c.name.includes(' // ')) art[c.name.split(' // ')[0]] = art[c.name]; }
+      for (const n of j.not_found || []) console.log('  no art for', n.name);
+    } catch (e){ console.log('  art lookup failed', e.message); }
+    await sleep(200);
+  }
+  data.art = art; console.log('art for', Object.keys(art).length, 'of', names.length, 'commanders');
+}
 const t0 = Date.now();
 const data = {built:new Date().toISOString(), cedh:await mtgtop8('cEDH'), duel:await mtgtop8('EDH'), edhrec:await edhrec()};
+await addArt(data);
 fs.mkdirSync('out', {recursive:true}); fs.writeFileSync('out/topdecks.json', JSON.stringify(data));
 console.log('done in', ((Date.now() - t0) / 60000).toFixed(1), 'min;', 'cEDH', data.cedh.commanders.length, 'duel', data.duel.commanders.length, 'edhrec', data.edhrec.commanders.length, 'size', JSON.stringify(data).length);

@@ -59,7 +59,7 @@ const toHandP = (p, nm) => p.evaluate(nm => { const k = [...DICT.values()].find(
     // paying for a spell automatically with City of Brass (autopay), and a bot doing the same
     await G.evaluate(() => { S.bf = S.bf.filter(c => /Kinnan/.test(cname(c))); S.pool = emptyPool(); commit(); });
     const cob = await putBf(G, 'City of Brass'); await toHandP(G, 'Llanowar Elves'); await sleep(300);
-    const r2 = await G.evaluate(async () => { const c = S.hand.find(x => cname(x) === 'Llanowar Elves'); await beginCast(c, 'hand'); await sleep(800); return {pool:Object.values(S.pool).reduce((x, y) => x + y, 0), log:S.log.slice(-5).map(e => e.s), stk:stackAll().map(i => i.nm)}; });
+    const r2 = await G.evaluate(async () => { const n0 = S.log.length; const c = S.hand.find(x => cname(x) === 'Llanowar Elves'); await beginCast(c, 'hand'); await sleep(800); return {pool:Object.values(S.pool).reduce((x, y) => x + y, 0), log:S.log.slice(n0 - S.log.length || -5).map(e => e.s), stk:stackAll().map(i => i.nm)}; });
     console.log('   autopay City of Brass', JSON.stringify(r2));
     check(r2.pool === 0 && !r2.log.some(s => /Kinnan.*\+/.test(s)), `paying with City of Brass: no Kinnan mana, nothing left floating (${r2.pool})`);
   } catch (e){ console.log('ERROR', e); }

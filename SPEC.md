@@ -562,3 +562,13 @@ All earlier decisions; strict play; passive text applies automatically; work thr
 - Buy list of cards actually drawn and played.
 - Phone play: host the file on a free link (e.g. Netlify).
 - Click-to-target on the table; drag Equipment and Auras onto creatures.
+
+## v31.1 — Sound
+- Table foley (draw, play, cast, tap, shuffle, counter coins, dice, life, attack, turn, hit, token, win, lose) plus two calm tavern music pieces, served from the site's /sounds/.
+- 🔊 button and Game menu → "Sound & music volume…": separate on/off and volume for effects and music, saved in the browser.
+
+## v32 — Phone and quick actions
+- Phone layout (≤760px): one-row top bar, compact phase bar, slim opponent rows, creatures first then other permanents then lands, hand docked at the bottom, log behind a "Log" button, menus as bottom sheets.
+- Mana abilities with several colours show colour buttons directly in the card menu (one tap for Lotus Petal and similar).
+- Quick tap / double-click on a permanent with one non-mana {T} ability (fetch lands) activates it instead of just tapping.
+- Ghost-tap guard on touch only: the tap that opens a menu cannot also press a button in it.

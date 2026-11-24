@@ -488,7 +488,7 @@ function publicState(){
    later gets it straight away, and nobody has to keep a host page open.
    We connect to several relays at once and drop duplicate messages, so the
    table keeps working if one relay is down. */
-const PT_BUILD = 33;   // shown to other players so mismatched files are flagged
+const PT_BUILD = 34;   // shown to other players so mismatched files are flagged
 const BROKERS = (Array.isArray(window.PT_BROKERS) && window.PT_BROKERS.length) ? window.PT_BROKERS :
   ['wss://broker.emqx.io:8084/mqtt', 'wss://broker.hivemq.com:8884/mqtt', 'wss://test.mosquitto.org:8081/mqtt'];
 const STALE_MS = 4 * 60 * 1000;   // ignore boards nobody has refreshed for 4 minutes
@@ -950,6 +950,7 @@ function renderModal(){
     body = `<div class="row"><span class="label">How many</span><span class="qty row" style="gap:4px"><button class="btn small" type="button" data-act="tokQty" data-d="-1">−</button><input type="text" inputmode="numeric" id="tokQtyIn" value="${UI.tokQty}" style="width:56px;text-align:center"><button class="btn small" type="button" data-act="tokQty" data-d="1">+</button></span></div>` +
       (deckToks.length ? `<div><div class="label" style="margin-bottom:6px">Tokens your deck makes</div><div class="tgrid">${deckToks.map(id => { const a = info(id); return btn(`data-act="mkTok" data-k="${esc(id)}"`, a.img, a.n, [a.p, a.t.replace(/^Token\s*/,'')].filter(Boolean).join(' · ')); }).join('')}</div></div>` : '') +
       `<div><div class="label" style="margin-bottom:6px">Common tokens</div><div class="tgrid">${TOKEN_PRESETS.map(([n, q], i) => btn(`data-act="presetTok" data-i="${i}"`, '', n, '')).join('')}</div></div>` +
+      `<form data-form="f34card" class="row" style="gap:6px;align-items:flex-end;flex-wrap:wrap"><div style="flex:1;min-width:180px"><label class="label" for="f34name">Token copy of any card (lands too)</label><input type="text" id="f34name" placeholder="Volcanic Island" autocomplete="off"></div><button class="btn" type="submit">Make it</button></form>` +
       `<form data-form="tokSearch" class="form3"><div><label class="label" for="tsName">Find any token on Scryfall</label><input type="text" id="tsName" placeholder="Construct" value="${esc(m.q||'')}"></div><div><label class="label" for="tsPT">Power/Toughness</label><input type="text" id="tsPT" placeholder="0/0" value="${esc(m.pt||'')}"></div><div><label class="label" for="tsCol">Colors</label><input type="text" id="tsCol" placeholder="e.g. WU" maxlength="5" value="${esc(m.col||'')}"></div><button class="btn primary" type="submit">Create</button></form>` +
       `<p class="hint">${esc(m.msg || 'If Scryfall has no match, a plain token with that name and P/T is made instead.')}</p>`;
   } else {

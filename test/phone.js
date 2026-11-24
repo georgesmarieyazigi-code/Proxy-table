@@ -15,7 +15,7 @@ let shot = 0; const snap = async (p, name) => { await p.screenshot({path:`${OUT}
   await p.goto(H.FILE); await sleep(1500);
   await snap(p, 'lobby');
   await p.evaluate(() => lobbyPage('decks')); await snap(p, 'decks');
-  await p.fill('#deckIn', realDeck('edgar') + '\n1 Bloodstained Mire\n1 Lotus Petal\n1 Volcanic Island\n'); await p.tap('#loadBtn');
+  await p.fill('#deckIn', realDeck('edgar') + '\n1 Bloodstained Mire\n1 Lotus Petal\n1 Volcanic Island\n1 Farewell\n'); await p.tap('#loadBtn');
   await p.waitForFunction(() => /Deck ready/.test(document.querySelector('#deckStatus').textContent), null, {timeout:90000}).catch(() => {});
   await sleep(800); await snap(p, 'deck-loaded');
   await p.evaluate(() => lobbyPage('check')); await sleep(800); await snap(p, 'deck-page');
@@ -65,6 +65,12 @@ let shot = 0; const snap = async (p, name) => { await p.screenshot({path:`${OUT}
     console.log('  search modal:', JSON.stringify(await p.evaluate(() => UI.modal ? {type:UI.modal.type, title:UI.modal.title, n:(UI.modal.cards || []).length, names:(UI.modal.cards || []).map(cname).slice(0, 8), vi:S.lib.some(c => cname(c) === 'Volcanic Island')} : {none:true, vi:S.lib.findIndex(c => cname(c) === 'Volcanic Island'), libN:S.lib.length})));
     console.log('  after the Mire ability:', JSON.stringify(await p.evaluate(() => ({bf:S.bf.map(cname), life:S.life, log:S.log.slice(-4).map(e => e.s)})))); }
   await snap(p, 'after-mire');
+  // modes on a phone: Farewell, pick two then "That's all"
+  { await p.evaluate(() => { S.stk = []; const c = S.lib.find(x => cname(x) === 'Farewell') || S.gy.find(x => cname(x) === 'Farewell'); if (c){ S.lib.splice(S.lib.indexOf(c), 1); S.hand.push(c); } S.pool = {...emptyPool(), W:2, C:4}; commit(); beginCast(S.hand.find(x => cname(x) === 'Farewell'), 'hand'); });
+    await sleep(900); await snap(p, 'modes-1');
+    const tapBtn = async re => { for (const b of await p.$$('#modal button')){ const t = (await b.textContent()).trim(); if (re.test(t)){ await b.scrollIntoViewIfNeeded(); const bb = await b.boundingBox(); await p.touchscreen.tap(bb.x + bb.width / 2, bb.y + bb.height / 2); await sleep(700); return t; } } return null; };
+    const a = await tapBtn(/artifacts/); const b = await tapBtn(/graveyards/); await snap(p, 'modes-2'); const c = await tapBtn(/^Done/);
+    console.log('  modes on phone:', JSON.stringify({a, b, c, stack:await p.evaluate(() => stackAll().map(i => i.nm + ' ' + JSON.stringify(i.modes || null))), modal:await p.evaluate(() => UI.modal && UI.modal.title)})); }
   fs.writeFileSync(`${OUT}/errors.txt`, errs.join('\n'));
   console.log('page errors:', errs.length);
   await browser.close(); server.close(); process.exit(0);

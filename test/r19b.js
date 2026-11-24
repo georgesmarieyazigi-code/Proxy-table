@@ -168,7 +168,7 @@ const logs = (p, n = 30) => p.evaluate(n => S.log.slice(-n).map(e => e.s), n);
 
     await step('#3 Escalate: the creature is tapped while casting', async () => {
       await putBf(A, 'Memnite'); await putBf(A, 'Ornithopter'); await putBf(B, 'Rhystic Study'); await putBf(B, 'Llanowar Elves'); await sleep(700);
-      await A.evaluate(() => { window.__want = 'enchantment|Put a|That’s all'; window.__pick = 'Memnite'; });
+      await A.evaluate(() => { window.__want = 'enchantment|Put a|^Done — use these'; window.__pick = 'Memnite'; });
       await toHand(A, 'Collective Effort'); await cast(A, 'Collective Effort', {W:3});
       check(await kimSees('^Collective Effort'), 'Collective Effort is on the stack');
       const r = await A.evaluate(() => ({tap:S.bf.filter(c => c.tap && !isLand(c.k)).map(cname), stk:S.stk.length}));

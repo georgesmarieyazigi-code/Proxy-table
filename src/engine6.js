@@ -106,11 +106,26 @@ async function askModes(md, name){
     return v == null ? null : [v];
   }
   const got = [];
-  while (got.length < md.max){
-    const opts = md.opts.map((o, i) => ({label:o, value:i})).filter(o => !got.includes(o.value));
-    if (got.length >= md.min) opts.push({label:got.length ? 'That’s all' : 'Choose nothing', value:'done'});
-    const v = await askChoice({title:`${name}: choose ${md.min === md.max ? md.max : (md.min ? md.min + ' to ' : 'up to ') + md.max} (${got.length} chosen)`, options:opts});
-    if (v == null) return null; if (v === 'done') break; got.push(v);
+  // bots and dry runs: one mode at a time, as before
+  if (UI.dry || (typeof BOT !== 'undefined' && BOT.on)){
+    while (got.length < md.max){
+      const opts = md.opts.map((o, i) => ({label:o, value:i})).filter(o => !got.includes(o.value));
+      if (got.length >= md.min) opts.push({label:got.length ? 'That’s all' : 'Choose nothing', value:'done'});
+      const v = await askChoice({title:`${name}: choose ${md.min === md.max ? md.max : (md.min ? md.min + ' to ' : 'up to ') + md.max} (${got.length} chosen)`, options:opts});
+      if (v == null) return null; if (v === 'done') break; got.push(v);
+    }
+    return got.sort((a, b) => a - b);
+  }
+  // people: every mode stays on the list; chosen ones are ticked (listed last) and tapping one again unticks it
+  for (;;){
+    const opts = md.opts.map((o, i) => ({label:(got.includes(i) ? '✓ ' : '') + o + (got.includes(i) ? '  (tap to remove)' : ''), value:i, disabled:!got.includes(i) && got.length >= md.max}));
+    opts.sort((a, b) => (got.includes(a.value) ? 1 : 0) - (got.includes(b.value) ? 1 : 0));
+    const ok = got.length >= md.min && got.length > 0;
+    (ok ? opts.unshift.bind(opts) : opts.push.bind(opts))({label:got.length ? `Done — use ${got.length === 1 ? 'this mode' : 'these ' + got.length + ' modes'}` : (md.min === 0 ? 'Choose nothing' : `Pick ${md.min === md.max ? md.max : 'at least ' + Math.max(1, md.min)}`), value:'done', disabled:!(ok || md.min === 0)});
+    const v = await askChoice({title:`${name}: choose ${md.min === md.max ? md.max : (md.min ? md.min + ' to ' : 'up to ') + md.max} — tap to tick (${got.length} chosen)`, options:opts});
+    if (v == null) return null; if (v === 'done') break;
+    const i = got.indexOf(v); if (i >= 0) got.splice(i, 1); else got.push(v);
+    if (md.min === md.max && got.length === md.max) break;   // "choose two": done as soon as two are ticked
   }
   return got.sort((a, b) => a - b);
 }
@@ -162,7 +177,7 @@ function attachBadge(c, pid){
   if (c.att){ const h = boardOf(c.att.pid).find(x => x.id === c.att.id); return h ? `→ ${(c.att.pid === pid ? '' : nameOf(c.att.pid) + "'s ")}${info(h.k)?.n || ''}` : ''; }
   const fx = attachFx(c, pid); return fx.names.length ? '⚙ ' + fx.names.join(', ') : '';
 }
-const enchantDesc = txt => { const m = String(txt || '').match(/(?:^|\n)enchant ([a-z ]+?)(?:\n|$)/i); return m ? m[1].trim().toLowerCase() : null; };
+const enchantDesc = txt => { const m = String(txt || '').match(/(?:^|\n)enchant ([a-z ,']+?)(?:\n|$)/i); return m ? m[1].trim().toLowerCase().replace(/,\s*(?:or\s+)?/g, ' or ') : null; };
 const doesntUntap = c => /~ doesn't untap during (?:your|its controller's) untap step/i.test(tname(textOf(c), cname(c))) || attachFx(c, MYPID).noUntap;
 
 /* ---------- Play from exile ---------- */

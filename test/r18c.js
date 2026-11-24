@@ -129,7 +129,7 @@ let PA = null, PB = null; const step = async (name, fn) => { if (process.env.ONL
     await step('#6 escalate: each extra mode adds the escalate cost', async () => {
       await reset(A); await reset(B); await put(B, 'Sol Ring'); await put(B, 'Wild Growth'); await put(A, 'Grizzly Bears'); await sleep(800);
       await toHand(A, 'Collective Resistance');
-      await A.evaluate(() => { window.__tgt = 'opp'; }); await cast(A, 'Collective Resistance', {G:2, C:1}); await after();
+      await A.evaluate(() => { window.__tgt = 'opp'; window.__want = '^(?!Done —)(?!✓)'; }); await cast(A, 'Collective Resistance', {G:2, C:1}); await after();
       check(await A.evaluate(() => S.hand.some(c => cname(c) === 'Collective Resistance')), 'three modes with {1}{G}{G}: not enough mana (it costs {1}{G}{G}{G}), still in hand');
       await A.evaluate(() => { window.__tgt = null; }); await A.evaluate(() => { window.__tgt = 'opp'; });
       await cast(A, 'Collective Resistance', {G:3, C:1}); await after();

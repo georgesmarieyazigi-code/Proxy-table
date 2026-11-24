@@ -576,3 +576,10 @@ All earlier decisions; strict play; passive text applies automatically; work thr
 ## v33 — Cascade and extra turns
 - Every cascade instance triggers on its own (Maelstrom Wanderer twice, Apex Devastator four times).
 - An extra turn gained during another player's turn (Nexus of Fate on an opponent's turn, Alrund's Epiphany, Temporal Mastery miracle) is taken right after that turn; play then continues from the player after them (CR 500.7). Works across clients at 3+ seats.
+
+## v34 — Phyrexian mana, Auras, transforms, tokens, modes
+- K'rrik's "pay 2 life rather than {B}" works (spells and abilities); Phyrexian symbols are paid with life when the mana isn't there.
+- "Enchant creature, land, or planeswalker" (Imprisoned in the Moon) and other comma lists of enchantable things are targetable.
+- A double-faced permanent with a paid "…: Transform" ability has no free Transform button and the F key refuses; it transforms through the ability.
+- Make a token → "Token copy of any card (lands too)" looks up any card on Scryfall.
+- "Choose two / one or more / 1 to N": every mode stays listed, chosen ones are ticked (tap again to remove), then "Done — use these N modes". Bots keep the one-at-a-time flow.

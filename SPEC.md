@@ -572,3 +572,7 @@ All earlier decisions; strict play; passive text applies automatically; work thr
 - Mana abilities with several colours show colour buttons directly in the card menu (one tap for Lotus Petal and similar).
 - Quick tap / double-click on a permanent with one non-mana {T} ability (fetch lands) activates it instead of just tapping.
 - Ghost-tap guard on touch only: the tap that opens a menu cannot also press a button in it.
+
+## v33 — Cascade and extra turns
+- Every cascade instance triggers on its own (Maelstrom Wanderer twice, Apex Devastator four times).
+- An extra turn gained during another player's turn (Nexus of Fate on an opponent's turn, Alrund's Epiphany, Temporal Mastery miracle) is taken right after that turn; play then continues from the player after them (CR 500.7). Works across clients at 3+ seats.

@@ -130,7 +130,9 @@ function foretell(c){
 function castTriggers(c, a, it){
   const own = tname(a.o, a.n);
   for (const line of own.split('\n')){ const m = line.trim().match(/^when(?:ever)? you cast (?:this spell|~), ([\s\S]+)$/i); if (m) pushTrig(a.n, m[1], {k:c.k, tgt:it.sid, castSid:it.sid}); }
-  if (hasKwText(a, 'cascade')) pushTrig(a.n, 'Exile cards from the top until a nonland card with lower mana value; you may cast it free (cascade).', {k:c.k, cmv:it.mv || a.mv || 0});
+  if (hasKwText(a, 'cascade')){   // each instance triggers separately (Maelstrom Wanderer: 2, Apex Devastator: 4)
+    const nC = Math.max(1, tname(a.o, a.n).split('\n').reduce((s, l) => s + (/^cascade(?:, cascade)*$/i.test(l.trim()) ? l.split(',').length : 0), 0));
+    for (let i = 0; i < nC; i++) pushTrig(a.n, 'Exile cards from the top until a nonland card with lower mana value; you may cast it free (cascade).', {k:c.k, cmv:it.mv || a.mv || 0}); }
   if (hasKwText(a, 'storm')){
     const t = turnStr(); let n = Math.max(0, (S.casts || []).filter(x => x.t === t).length - 1);
     for (const s of OPP.values()) if (s.ct === t) n += s.cn || 0;

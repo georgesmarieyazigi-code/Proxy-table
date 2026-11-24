@@ -488,7 +488,7 @@ function publicState(){
    later gets it straight away, and nobody has to keep a host page open.
    We connect to several relays at once and drop duplicate messages, so the
    table keeps working if one relay is down. */
-const PT_BUILD = 32;   // shown to other players so mismatched files are flagged
+const PT_BUILD = 33;   // shown to other players so mismatched files are flagged
 const BROKERS = (Array.isArray(window.PT_BROKERS) && window.PT_BROKERS.length) ? window.PT_BROKERS :
   ['wss://broker.emqx.io:8084/mqtt', 'wss://broker.hivemq.com:8884/mqtt', 'wss://test.mosquitto.org:8081/mqtt'];
 const STALE_MS = 4 * 60 * 1000;   // ignore boards nobody has refreshed for 4 minutes

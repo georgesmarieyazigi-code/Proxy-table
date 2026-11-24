@@ -1010,7 +1010,7 @@ function publicState(){
    later gets it straight away, and nobody has to keep a host page open.
    We connect to several relays at once and drop duplicate messages, so the
    table keeps working if one relay is down. */
-const PT_BUILD = 33;   // shown to other players so mismatched files are flagged
+const PT_BUILD = 34;   // shown to other players so mismatched files are flagged
 const BROKERS = (Array.isArray(window.PT_BROKERS) && window.PT_BROKERS.length) ? window.PT_BROKERS :
   ['wss://broker.emqx.io:8084/mqtt', 'wss://broker.hivemq.com:8884/mqtt', 'wss://test.mosquitto.org:8081/mqtt'];
 const STALE_MS = 4 * 60 * 1000;   // ignore boards nobody has refreshed for 4 minutes
@@ -1472,6 +1472,7 @@ function renderModal(){
     body = `<div class="row"><span class="label">How many</span><span class="qty row" style="gap:4px"><button class="btn small" type="button" data-act="tokQty" data-d="-1">−</button><input type="text" inputmode="numeric" id="tokQtyIn" value="${UI.tokQty}" style="width:56px;text-align:center"><button class="btn small" type="button" data-act="tokQty" data-d="1">+</button></span></div>` +
       (deckToks.length ? `<div><div class="label" style="margin-bottom:6px">Tokens your deck makes</div><div class="tgrid">${deckToks.map(id => { const a = info(id); return btn(`data-act="mkTok" data-k="${esc(id)}"`, a.img, a.n, [a.p, a.t.replace(/^Token\s*/,'')].filter(Boolean).join(' · ')); }).join('')}</div></div>` : '') +
       `<div><div class="label" style="margin-bottom:6px">Common tokens</div><div class="tgrid">${TOKEN_PRESETS.map(([n, q], i) => btn(`data-act="presetTok" data-i="${i}"`, '', n, '')).join('')}</div></div>` +
+      `<form data-form="f34card" class="row" style="gap:6px;align-items:flex-end;flex-wrap:wrap"><div style="flex:1;min-width:180px"><label class="label" for="f34name">Token copy of any card (lands too)</label><input type="text" id="f34name" placeholder="Volcanic Island" autocomplete="off"></div><button class="btn" type="submit">Make it</button></form>` +
       `<form data-form="tokSearch" class="form3"><div><label class="label" for="tsName">Find any token on Scryfall</label><input type="text" id="tsName" placeholder="Construct" value="${esc(m.q||'')}"></div><div><label class="label" for="tsPT">Power/Toughness</label><input type="text" id="tsPT" placeholder="0/0" value="${esc(m.pt||'')}"></div><div><label class="label" for="tsCol">Colors</label><input type="text" id="tsCol" placeholder="e.g. WU" maxlength="5" value="${esc(m.col||'')}"></div><button class="btn primary" type="submit">Create</button></form>` +
       `<p class="hint">${esc(m.msg || 'If Scryfall has no match, a plain token with that name and P/T is made instead.')}</p>`;
   } else {
@@ -4881,11 +4882,26 @@ async function askModes(md, name){
     return v == null ? null : [v];
   }
   const got = [];
-  while (got.length < md.max){
-    const opts = md.opts.map((o, i) => ({label:o, value:i})).filter(o => !got.includes(o.value));
-    if (got.length >= md.min) opts.push({label:got.length ? 'That’s all' : 'Choose nothing', value:'done'});
-    const v = await askChoice({title:`${name}: choose ${md.min === md.max ? md.max : (md.min ? md.min + ' to ' : 'up to ') + md.max} (${got.length} chosen)`, options:opts});
-    if (v == null) return null; if (v === 'done') break; got.push(v);
+  // bots and dry runs: one mode at a time, as before
+  if (UI.dry || (typeof BOT !== 'undefined' && BOT.on)){
+    while (got.length < md.max){
+      const opts = md.opts.map((o, i) => ({label:o, value:i})).filter(o => !got.includes(o.value));
+      if (got.length >= md.min) opts.push({label:got.length ? 'That’s all' : 'Choose nothing', value:'done'});
+      const v = await askChoice({title:`${name}: choose ${md.min === md.max ? md.max : (md.min ? md.min + ' to ' : 'up to ') + md.max} (${got.length} chosen)`, options:opts});
+      if (v == null) return null; if (v === 'done') break; got.push(v);
+    }
+    return got.sort((a, b) => a - b);
+  }
+  // people: every mode stays on the list; chosen ones are ticked (listed last) and tapping one again unticks it
+  for (;;){
+    const opts = md.opts.map((o, i) => ({label:(got.includes(i) ? '✓ ' : '') + o + (got.includes(i) ? '  (tap to remove)' : ''), value:i, disabled:!got.includes(i) && got.length >= md.max}));
+    opts.sort((a, b) => (got.includes(a.value) ? 1 : 0) - (got.includes(b.value) ? 1 : 0));
+    const ok = got.length >= md.min && got.length > 0;
+    (ok ? opts.unshift.bind(opts) : opts.push.bind(opts))({label:got.length ? `Done — use ${got.length === 1 ? 'this mode' : 'these ' + got.length + ' modes'}` : (md.min === 0 ? 'Choose nothing' : `Pick ${md.min === md.max ? md.max : 'at least ' + Math.max(1, md.min)}`), value:'done', disabled:!(ok || md.min === 0)});
+    const v = await askChoice({title:`${name}: choose ${md.min === md.max ? md.max : (md.min ? md.min + ' to ' : 'up to ') + md.max} — tap to tick (${got.length} chosen)`, options:opts});
+    if (v == null) return null; if (v === 'done') break;
+    const i = got.indexOf(v); if (i >= 0) got.splice(i, 1); else got.push(v);
+    if (md.min === md.max && got.length === md.max) break;   // "choose two": done as soon as two are ticked
   }
   return got.sort((a, b) => a - b);
 }
@@ -4937,7 +4953,7 @@ function attachBadge(c, pid){
   if (c.att){ const h = boardOf(c.att.pid).find(x => x.id === c.att.id); return h ? `→ ${(c.att.pid === pid ? '' : nameOf(c.att.pid) + "'s ")}${info(h.k)?.n || ''}` : ''; }
   const fx = attachFx(c, pid); return fx.names.length ? '⚙ ' + fx.names.join(', ') : '';
 }
-const enchantDesc = txt => { const m = String(txt || '').match(/(?:^|\n)enchant ([a-z ]+?)(?:\n|$)/i); return m ? m[1].trim().toLowerCase() : null; };
+const enchantDesc = txt => { const m = String(txt || '').match(/(?:^|\n)enchant ([a-z ,']+?)(?:\n|$)/i); return m ? m[1].trim().toLowerCase().replace(/,\s*(?:or\s+)?/g, ' or ') : null; };
 const doesntUntap = c => /~ doesn't untap during (?:your|its controller's) untap step/i.test(tname(textOf(c), cname(c))) || attachFx(c, MYPID).noUntap;
 
 /* ---------- Play from exile ---------- */
@@ -6550,7 +6566,7 @@ async function doRound9Pre(s, l, ctx){
   const pp = payPlan;
   payPlan = function(cost, pool){
     let r = pp(cost, pool);
-    if (r.err && S && rulesOn('phyB').length && cost && cost.B){ for (let b = 1; b <= cost.B; b++){ const c2 = {...cost, B:cost.B - b}; const r2 = pp(c2, pool); if (!r2.err && S.life > 2 * b){ r2.life = 2 * b; return r2; } } }
+    if (r.err && S && rulesOn('phyB').length && cost && cost.col && cost.col.B){ const nB = cost.col.B; for (let b = 1; b <= nB; b++){ const c2 = {...cost, col:{...cost.col, B:nB - b}}; const r2 = pp(c2, pool); if (!r2.err && S.life >= 2 * b + (r2.life || 0)){ r2.life = (r2.life || 0) + 2 * b; return r2; } } }
     return r;
   };
 }
@@ -37225,6 +37241,40 @@ setInterval(() => { try { if (F31C.hold && (UI.replay || (typeof S !== 'undefine
     return pt();
   };
 }
+/* ===================== v34: paid transforms, tokens of any card ===================== */
+
+/* ---------- a double-faced permanent whose face says "{cost}: Transform …" is transformed by paying that cost,
+   not by the free "Transform" button (that button stays for cards that transform by a trigger or a condition) ---------- */
+const f34PaidFlip = c => { try { if (!c || c.fd) return null; const a = info(c.k); if (!a || !a.back) return null; const f = c.fl ? a.back : a;
+  return tname(f.o || '', f.n || '').split('\n').map(l => l.trim()).find(l => /^[^:"]*\{[^}]+\}[^:"]*:\s*transform\b/i.test(l)) || null; } catch { return null; } };
+{
+  const fl = ACT.flip;
+  ACT.flip = function(el){ const [,, c] = find(+el.dataset.id); const line = f34PaidFlip(c);
+    if (line && !(UI.f34force)){ toast(`${cname(c)} transforms by paying its cost — use “${short(line, 60)}” in its menu`); return; }
+    return fl.call(this, el); };
+  const cm = cardMenu;
+  cardMenu = function(id, x, y){ const r = cm.apply(this, arguments);
+    try { const [z,, c] = find(id); if (z === 'bf' && f34PaidFlip(c)) document.querySelectorAll('#menu [data-act="flip"]').forEach(b => b.remove()); } catch {}
+    return r; };
+}
+
+/* ---------- Make a token: any card on Scryfall (lands, artifacts, anything) as a token copy ---------- */
+async function f34CardToken(name){
+  let c = null;
+  try { const r = await sf('/cards/named?fuzzy=' + encodeURIComponent(name)); if (r && r.object === 'card') c = r; } catch {}
+  if (!c) return null;
+  const a = infoFrom(c); const k = a.k + '|tok';
+  if (!DICT.has(k)) DICT.set(k, {...a, k, tok:true, cc:false, toks:a.toks || []});
+  return k;
+}
+document.addEventListener('submit', e => {
+  const f = e.target; if (!f || !f.dataset || f.dataset.form !== 'f34card') return;
+  e.preventDefault(); const name = ($('#f34name')?.value || '').trim(); if (!name) return; const n = readQty();
+  UI.modal.msg = 'Looking up ' + name + '…'; renderModal();
+  (async () => { const k = await f34CardToken(name);
+    if (!k){ UI.modal.msg = `No card called “${name}” on Scryfall`; renderModal(); return; }
+    closeModal(); createToken(k, n); })();
+}, true);
 /* ===================== bots.js: bot players (stage 1: framework + Easy + Intermediate) =====================
    Architecture
    - Every bot is a full, separate player client: the same game file runs in a hidden iframe (URL ?ptbot=<id>) with its own

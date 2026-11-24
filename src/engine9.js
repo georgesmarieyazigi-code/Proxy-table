@@ -833,7 +833,7 @@ async function doRound9Pre(s, l, ctx){
   const pp = payPlan;
   payPlan = function(cost, pool){
     let r = pp(cost, pool);
-    if (r.err && S && rulesOn('phyB').length && cost && cost.col && cost.col.B){ const nB = cost.col.B; for (let b = 1; b <= nB; b++){ const c2 = {...cost, col:{...cost.col, B:nB - b}}; const r2 = pp(c2, pool); if (!r2.err && S.life >= 2 * b + (r2.life || 0)){ r2.life = (r2.life || 0) + 2 * b; return r2; } } }
+    if (r.err && S && UI.phyLife == null && rulesOn('phyB').length && cost && cost.col && cost.col.B){ const nB = cost.col.B; for (let b = 1; b <= nB; b++){ const c2 = {...cost, col:{...cost.col, B:nB - b}}; const r2 = pp(c2, pool); if (!r2.err && S.life >= 2 * b + (r2.life || 0)){ r2.life = (r2.life || 0) + 2 * b; return r2; } } }
     return r;
   };
 }

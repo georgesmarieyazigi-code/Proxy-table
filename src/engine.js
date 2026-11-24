@@ -582,7 +582,7 @@ async function beginCast(c, zone, o={}){
     if (!o.free){
       sc = spellCost(c, zone, {alt, x});
       xp = !alt ? await extraPayments(c, sc) : null; if (xp === false) return;
-      plan = payPlan(sc.cost, S.pool);
+      { const pk = typeof f34bAsk === 'function' ? await f34bAsk(sc.cost, a.n) : null; if (pk === false) return; UI.phyLife = pk; try { plan = payPlan(sc.cost, S.pool); } finally { UI.phyLife = null; } }
       if (plan.err){ toast(`Not enough mana for ${a.n}: ${plan.err}. It costs ${costStr(sc.cost)}${sc.notes.length ? ' (' + sc.notes.join(', ') + ')' : ''}.`); return; }
     }
     if (alt && alt.extra.length){ if (!(await payExtras(alt.extra, c))) return; }
@@ -699,7 +699,7 @@ async function payAbilityCost(c, cost, o={}){
     if (h === 'maybe' && !(await askYes(`${nm} entered this turn. Does something give it haste?`, 'Yes, use it', 'No'))) return false;
   }
   if (untap && !c.tap){ toast(`${nm} isn't tapped`); return false; }
-  let plan = null; if (mana){ plan = payPlan(mana, S.pool); if (plan.err){ toast(`Not enough mana: ${plan.err}`); return false; } }
+  let plan = null; if (mana){ const pk = typeof f34bAsk === 'function' ? await f34bAsk(mana, nm) : null; if (pk === false) return false; UI.phyLife = pk; try { plan = payPlan(mana, S.pool); } finally { UI.phyLife = null; } if (plan.err){ toast(`Not enough mana: ${plan.err}`); return false; } }
   if (life && S.life < life){ toast(`You need ${life} life`); return false; }
   for (const p of later){ if (!(await payPart(p, c))) return false; }
   if (plan){ S.pool = plan.pool; S.life -= plan.life; }

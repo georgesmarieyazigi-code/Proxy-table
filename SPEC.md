@@ -583,3 +583,6 @@ All earlier decisions; strict play; passive text applies automatically; work thr
 - A double-faced permanent with a paid "…: Transform" ability has no free Transform button and the F key refuses; it transforms through the ability.
 - Make a token → "Token copy of any card (lands too)" looks up any card on Scryfall.
 - "Choose two / one or more / 1 to N": every mode stays listed, chosen ones are ticked (tap again to remove), then "Done — use these N modes". Bots keep the one-at-a-time flow.
+
+## v35 — choose how to pay Phyrexian mana
+- When a cost has Phyrexian symbols (or {B} with K'rrik out) and more than one way to pay works, a question asks: all with mana / some with life / all with life. Mana chosen for a symbol taps lands of that colour. With only one way possible, no question. Works for spells and activated abilities; bots keep the automatic way.
